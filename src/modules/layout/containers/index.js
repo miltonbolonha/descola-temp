@@ -5,22 +5,14 @@ import FooterContainer from './FooterContainer'
 import RowContainer from './RowContainer'
 import BlockImageContainer from './BlockImageContainer'
 import FormContainer from './FormContainer'
-// import PlayerContainer from './PlayerContainer'
-// import FullScreenContainer from './FullScreenContainer'
-// import BlockShareContainer from './BlockShareContainer'
-// import ScienceContainer from './ScienceContainer'
-// import MainContainer from './MainContainer'
-// import MemoryGameContainer from './MemoryGameContainer'
 
 const LayoutResolver = ({
 	children,
 	opt,
 	type,
-	// querySelector,
 	sectionTitle,
 	setLocation,
 	logo,
-	url,
 }) => {
 	function renderComponent(renderThis) {
 		switch (renderThis) {
@@ -41,7 +33,6 @@ const LayoutResolver = ({
 					<RowContainer
 						opt={opt}
 						children={children}
-						// querySelector={querySelector}
 						sectionTitle={sectionTitle}
 						setLocation={setLocation}
 					/>
