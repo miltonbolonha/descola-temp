@@ -69,4 +69,4 @@ As Power Skills são esse conjunto de habilidades que vão te diferenciar no mer
 
 Assim como Jamie Dimon, acreditamos que essas habilidades são fundamentais para o mercado de trabalho. A única diferença é que essas não são competências para o futuro, mas para o presente.
 
-É por isso que na Descola criamos cursos online sobre **[POWER SKILLS](http://www.descola.org/cursos)** para que você se desenvolva profissionalmente, para que você esteja pronto para o mundo de hoje, independente de que mundo ele seja.
+É por isso que na Descola criamos cursos online sobre **[POWER SKILLS](https://www.descola.org/cursos)** para que você se desenvolva profissionalmente, para que você esteja pronto para o mundo de hoje, independente de que mundo ele seja.

@@ -51,8 +51,8 @@ No próximo ano, a repercussão contra as decisões dos algoritmos tomará grand
 
 Os profissionais da tecnologia serão forçados a enfrentar as críticas e abordar algumas das preocupações mais óbvias a respeito de transparência e decisões preconceituosas dos algoritmos. Assim como aconteceu com as tecnologias das décadas anteriores, a promessa de que os algoritmos de tomada de decisão tornarão o mundo melhor pode entrar em risco se a resposta exigida a respeito de tais preocupações não for rápida e plausível.
 
-![trust-project](https://descola.org/drops/wp-content/uploads/2017/01/VZpw09Kl.png)O surto de notícias falsas já levou o Facebook e o Google a concentrarem seus esforços a fim de encontrar soluções para esta nova polêmica tecnológica. Da mesma forma, organizações como o [Trust Project](http://thetrustproject.org/) estão buscando produzir tecnologia que classifique de forma independente a confiabilidade dos meios de comunicação que consumimos.
+![trust-project](https://descola.org/drops/wp-content/uploads/2017/01/VZpw09Kl.png)O surto de notícias falsas já levou o Facebook e o Google a concentrarem seus esforços a fim de encontrar soluções para esta nova polêmica tecnológica. Da mesma forma, organizações como o [Trust Project](https://thetrustproject.org/) estão buscando produzir tecnologia que classifique de forma independente a confiabilidade dos meios de comunicação que consumimos.
 
 Assim como os clientes estão dispostos a pagar mais por alimentos sem culturas geneticamente modificadas ou pesticidas, se não confiarem nas decisões das máquinas, as pessoas vão ter preferência por decisões tomadas por seres humanos.
 
-_Texto baseado no artigo “[Computer says no: the backlash](http://www.nesta.org.uk/2017-predictions/computer-says-no-backlash)“._
+_Texto baseado no artigo “[Computer says no: the backlash](https://www.nesta.org.uk/2017-predictions/computer-says-no-backlash)“._

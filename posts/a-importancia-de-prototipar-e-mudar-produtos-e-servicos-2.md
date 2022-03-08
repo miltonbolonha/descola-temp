@@ -35,9 +35,9 @@ Acredito que na arquitetura os protótipos ajudam muito as pessoas a entenderem 
 
 ## **Por que prototipar?**
 
-Além de poder ter uma ideia clara da viabilidade e eficiência de um projeto antes que ele seja plenamente desenvolvido, as facilidades e vantagens trazidas pelos protótipos incentivam colaboradores e gestores a [explorarem mais ideias](http://descola.org/drops/6-dicas-para-ser-mais-criativo/), já que, através do protótipo, elas não trazem tantos riscos e podem gerar grandes benefícios ao empreendimento.
+Além de poder ter uma ideia clara da viabilidade e eficiência de um projeto antes que ele seja plenamente desenvolvido, as facilidades e vantagens trazidas pelos protótipos incentivam colaboradores e gestores a [explorarem mais ideias](https://descola.org/drops/6-dicas-para-ser-mais-criativo/), já que, através do protótipo, elas não trazem tantos riscos e podem gerar grandes benefícios ao empreendimento.
 
-Dessa forma, a empresa não tem quase nada a perder e pode [apostar em inovação](http://descola.org/drops/como-o-design-ajuda-a-trazer-inovacoes-para-as-empresas/) com segurança para [manter-se à frente no mercado](http://descola.org/drops/a-importancia-da-criatividade-no-empreendedorismo/).
+Dessa forma, a empresa não tem quase nada a perder e pode [apostar em inovação](https://descola.org/drops/como-o-design-ajuda-a-trazer-inovacoes-para-as-empresas/) com segurança para [manter-se à frente no mercado](https://descola.org/drops/a-importancia-da-criatividade-no-empreendedorismo/).
 
 ## **O que prototipar?**
 
@@ -53,10 +53,10 @@ Cada fase da produção — iniciação, planejamento, execução, controle e en
 
 Se quiser entender ainda mais sobre a prototipagem e os tipos de protótipo como paper prototype ou até mesmo storyboard veja esse curso que criamos com todo carinho falando mais a fundo sobre o que é prototipagem.
 
-[![prototipagem](http://s3-sa-east-1.amazonaws.com/drops-cdn/drops-new/wp-content/uploads/2016/01/04101611/prototipagem-300x146.jpg)](http://www.descola.org/curso/24/prototipagem-tangibilize-ideias-aprenda-com-erros-e-receba-feedbacks)
+[![prototipagem](https://s3-sa-east-1.amazonaws.com/drops-cdn/drops-new/wp-content/uploads/2016/01/04101611/prototipagem-300x146.jpg)](https://www.descola.org/curso/24/prototipagem-tangibilize-ideias-aprenda-com-erros-e-receba-feedbacks)
 
 Prototipagem: tangibilize ideias, aprenda com erros e receba feedbacks
 
-Aqui as ideas nao valem nada se nao sao materializadas. Ele é rápido, sujo, barato. Aprenda a pensar sistematicamente e com desapego. Resolva as divergências e gerencie a construção da solução. Explore! [Acesse agora!](http://www.descola.org/curso/24/prototipagem-tangibilize-ideias-aprenda-com-erros-e-receba-feedbacks)
+Aqui as ideas nao valem nada se nao sao materializadas. Ele é rápido, sujo, barato. Aprenda a pensar sistematicamente e com desapego. Resolva as divergências e gerencie a construção da solução. Explore! [Acesse agora!](https://www.descola.org/curso/24/prototipagem-tangibilize-ideias-aprenda-com-erros-e-receba-feedbacks)
 
 Agora que você já sabe tudo isso sobre a prototipagem e sua importância nas empresas e no mercado, consegue se lembrar de algum momento em que você construiu um protótipo de alguma coisa sem perceber? Então compartilhe o caso com a gente nos comentários e diga também se ficou com alguma dúvida a respeito!

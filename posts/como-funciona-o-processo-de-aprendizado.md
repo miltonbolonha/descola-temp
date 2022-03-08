@@ -57,11 +57,11 @@ Esse modelo segue uma transição bem natural, de certa forma, mas ainda assim �
 
 É claro que o aprendizado é algo muito individual, e ainda que seja possível resumi-lo segundo os modelos de que falamos hoje, cada pessoa é única e vai passar por essas etapas de formas um pouco diferentes, não é verdade? Procure entender como você lida com cada etapa do seu processo de aprendizado e teste formas de otimizá-lo: só você pode fazer isso!
 
-Comente compartilhando conosco de que formas você acredita que consegue aprender melhor e aproveite para conhecer nosso [curso de Visual Thinking](http://descola.org/drops/curso-poe-no-papel-visual-thinking-estruture-suas-ideias-de-forma-visual/), talvez essa técnica possa de ajudar a acelerar seu aprendizado!
+Comente compartilhando conosco de que formas você acredita que consegue aprender melhor e aproveite para conhecer nosso [curso de Visual Thinking](https://descola.org/drops/curso-poe-no-papel-visual-thinking-estruture-suas-ideias-de-forma-visual/), talvez essa técnica possa de ajudar a acelerar seu aprendizado!
 
 #### LIVRO RECOMENDADO
 
-![TAXIONOMIA-DE-OBJETIVOS-EDUCACIONAIS-COGNITIVO-1-200x287](http://s3-sa-east-1.amazonaws.com/drops-cdn/drops-new/wp-content/uploads/2015/12/07083820/TAXIONOMIA-DE-OBJETIVOS-EDUCACIONAIS-COGNITIVO-1-200x287.jpg)TAXIONOMIA DE OBJETIVOS EDUCACIONAIS – 1 DOMÍNIO COGNITIVO
+![TAXIONOMIA-DE-OBJETIVOS-EDUCACIONAIS-COGNITIVO-1-200x287](https://s3-sa-east-1.amazonaws.com/drops-cdn/drops-new/wp-content/uploads/2015/12/07083820/TAXIONOMIA-DE-OBJETIVOS-EDUCACIONAIS-COGNITIVO-1-200x287.jpg)TAXIONOMIA DE OBJETIVOS EDUCACIONAIS – 1 DOMÍNIO COGNITIVO
 
 A taxonomia dos objetivos educacionais, também popularizada como taxonomia de Bloom, é uma estrutura de organização hierárquica de objetivos educacionais. Foi resultado do trabalho de uma comissão multidisciplinar de especialistas de várias universidades dos Estados Unidos, liderada por Benjamin Bloom, na década de 1950. A classificação proposta por Bloom dividiu as possibilidades de aprendizagem em três grandes domínios:
 

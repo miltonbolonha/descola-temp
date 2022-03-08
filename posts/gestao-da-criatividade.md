@@ -19,19 +19,19 @@ Os pesquisadores e professores sul-coreanos JaeHwan Kwon, Moonkyu Lee e Hae-Ryon
 
 2- Autoconfiança: um time criativo precisa estar seguro sobre sua capacidade de gerar novas ideias. Parece óbvio, mas não se esqueça de que as primeiras reações a novas ideias geralmente são negativas. Além disso, na criação de algo novo, que ainda não foi testado, há sempre o risco de não dar certo.
 
-Para saber mais: <http://bit.ly/1RzUQSM>
+Para saber mais: <https://bit.ly/1RzUQSM>
 
 **Feedbacks, sempre**
 
 Feedbacks constantes e pontuais estimulam a criação e o aperfeiçoamento de ideias. É a dica de Tomas Chamorro-Premuzic, professor de Psicologia Empresarial da University College London. “Feedback é essencial para que as pessoas preencham a distância entre sua confiança e sua competência. Funcionários que procuram mais feedbacks têm apresentado um desempenho criativo melhor que seus colegas que não procuram”, afirma Tomas, que também é CEO da consultoria Hogan Assessment Systems.
 
-Leia um artigo de Tomas em: <http://bit.ly/1Fjb6CV>
+Leia um artigo de Tomas em: <https://bit.ly/1Fjb6CV>
 
 **Diferentes modelos de trabalho**
 
 Há diferentes modelos que podem ser adotados e adaptados em processos de trabalho criativos, segundo a natureza de problemas que precisam ser resolvidos. Os professores de gestão e marketing Mohanbir Sawhney e Satish Nambisan, no livro Cérebro Global, identificam quatro modelos gerais, a partir de cases da indústria do entretenimento.
 
-Cérebro Global no Google Books \[<http://bit.ly/1V2fGBm>\]
+Cérebro Global no Google Books \[<https://bit.ly/1V2fGBm>\]
 
 **Métricas e metas**
 
@@ -47,6 +47,6 @@ Uma boa maneira de otimizar o trabalho de seu time é fazer um inventário das h
 
 “Se você tem uma avaliação objetiva de todos, você pode trabalhar para otimizar os pontos fortes, reunindo as competências e talentos adequados para os projetos”, afirma Evan Fry, diretor executivo de desenvolvimento criativo na agência de publicidade Crispin Porter + Bogusky.
 
-Leia mais em: <http://bit.ly/1vDzWxG> e <http://bit.ly/NFE2ks>
+Leia mais em: <https://bit.ly/1vDzWxG> e <https://bit.ly/NFE2ks>
 
 Como você pensa e utiliza a gestão de criatividade? Quais são suas dicas? Compartilhe com a gente nos comentários 🙂

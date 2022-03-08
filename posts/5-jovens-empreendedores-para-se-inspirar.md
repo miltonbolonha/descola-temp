@@ -39,4 +39,4 @@ Kevin Systrom é o fundador do Instagram, site que faz a cabeça de anônimos e 
 
 Esses são alguns dos grandes exemplos que podem servir de inspiração para qualquer pessoa. Cada um teve sua história, mas, em comum, havia uma boa ideia na cabeça e os estudos e aprendizados necessários para viabilizá-la! E então, o que achou do artigo? Animado para se inspirar em um desses jovens empreendedores? Não deixe de nos contar a sua opinião nos comentários!
 
-Se quiser se inspirar ainda mais sobre o assunto, conheça nossa track de Empreendedorismo [aqui.](http://descola.org/track/2/empreendedorismo)
+Se quiser se inspirar ainda mais sobre o assunto, conheça nossa track de Empreendedorismo [aqui.](https://descola.org/track/2/empreendedorismo)

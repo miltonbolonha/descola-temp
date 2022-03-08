@@ -19,9 +19,9 @@ Projetos das Nações Unidas já discutem o futuro do trabalho e da tecnologia, 
 
 Características como competência cultural, criatividade, inteligência social e geração de significado são próprias do ser humano, e são esses valores que serão diferenciais no futuro. De que adianta fazer contas de cabeça muito rápido se já existem computadores que fazem isso em milésimos de segundo? Não estamos muito acostumados com esse tipo de visão de mundo e de negócio, mas são as nossas competências humanas que nos darão destaque futuramente.
 
-Daniel Egger é um estrategista e expert em visão de negócios, além de autor do livro “Geração de Valor Futuro – Conectando a estratégia, inovação e o futuro”. Junto com o pessoal da Descola, o Daniel elaborou o curso [Habilidades do Futuro](http://descola.org/curso/habilidades-do-futuro), que pode te ajudar – e muito – a se preparar para o amanhã e agregar valor às suas principais competências.
+Daniel Egger é um estrategista e expert em visão de negócios, além de autor do livro “Geração de Valor Futuro – Conectando a estratégia, inovação e o futuro”. Junto com o pessoal da Descola, o Daniel elaborou o curso [Habilidades do Futuro](https://descola.org/curso/habilidades-do-futuro), que pode te ajudar – e muito – a se preparar para o amanhã e agregar valor às suas principais competências.
 
-[![screen-shot-2016-10-31-at-18-31-05](https://descola.org/drops/wp-content/uploads/2016/10/Screen-Shot-2016-10-31-at-18.31.05-300x148.jpg)](http://descola.org/curso/habilidades-do-futuro)
+[![screen-shot-2016-10-31-at-18-31-05](https://descola.org/drops/wp-content/uploads/2016/10/Screen-Shot-2016-10-31-at-18.31.05-300x148.jpg)](https://descola.org/curso/habilidades-do-futuro)
 
 Uma das características mais importantes que o Daniel fala no curso é sobre a capacidade de **pensamento crítico**. O pensamento crítico é a análise objetiva, é expandir a nossa visão e enxergar as mudanças de maneira neutra, sem pré-conceitos. Egger nos leva a pensar sobre diferentes situações cotidianas, dando exemplos bastante comuns e sempre nos questionando sobre nosso comportamento. Além do pensamento analítico, são apresentadas muitas outras competências de igual importância durante as aulas e os exercícios.
 

@@ -21,7 +21,7 @@ Confira!
 
 Atualmente, todo o discurso deve ser emocional, muito mais do que racional, pois é a emoção que gera aproximação entre o palestrante e os seus ouvintes. Focar na emoção é o segredo do bom discurso. Vá além da borda, gerando identificação e empatia com os ouvintes.
 
-Uma [pesquisa ](http://journals.sagepub.com/doi/full/10.1177/0956797617744797)da Kellogg School of Management, da Northwestern University, nos Estados Unidos, examinou a associação que as pessoas fazem entre o uso de uma linguagem mais emocional e a sua capacidade de persuasão.
+Uma [pesquisa ](https://journals.sagepub.com/doi/full/10.1177/0956797617744797)da Kellogg School of Management, da Northwestern University, nos Estados Unidos, examinou a associação que as pessoas fazem entre o uso de uma linguagem mais emocional e a sua capacidade de persuasão.
 
 De acordo com o pesquisador Matthew D. Rocklag, responsável pelo estudo, as pessoas escolhem apelos mais emocionais mesmo quando elas tentam ser racionais ou neutras.
 

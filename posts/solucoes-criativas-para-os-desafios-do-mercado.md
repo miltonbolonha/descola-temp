@@ -37,6 +37,6 @@ Para entender melhor, assista a esse vídeo rápido e completo que exemplifica t
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" height="400" loading="lazy" src="https://www.youtube.com/embed/G8w0rJhztJ4" width="600"></iframe>
 
-A revista Pequenas Empresas &amp; Grandes Negócios, juntamente com professor do Insper Marcelo Nakagawa, disponibilizou um arquivo com explicações, exemplos e uma folha de rascunho para você exercitar o SCAMPER. [Faça o download](http://cms-empreenda.s3.amazonaws.com/empreenda/files_static/arquivos/2012/05/18/ME_Layout_das_Ferramentas_SCAMPER.pdf).
+A revista Pequenas Empresas &amp; Grandes Negócios, juntamente com professor do Insper Marcelo Nakagawa, disponibilizou um arquivo com explicações, exemplos e uma folha de rascunho para você exercitar o SCAMPER. [Faça o download](https://cms-empreenda.s3.amazonaws.com/empreenda/files_static/arquivos/2012/05/18/ME_Layout_das_Ferramentas_SCAMPER.pdf).
 
 Tente utilizar o SCAMPER para solucionar os desafios de mercado que batem na porta do seu negócio e conta pra gente o que você achou. 🙂

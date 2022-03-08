@@ -12,7 +12,7 @@ tags:
 featuredImage: ../static/images/business-model-canvas2.jpg
 ---
 
-É com muito orgulho que trazemos para vocês nosso [**novo curso**](http://http://descola.org/curso/14/business-model-canvas): Business Model Canvas: como dominar essa ferramenta. Uma imersão rápida e prática nessa ferramenta tão útil para modelagem de negócios.
+É com muito orgulho que trazemos para vocês nosso [**novo curso**](https://https://descola.org/curso/14/business-model-canvas): Business Model Canvas: como dominar essa ferramenta. Uma imersão rápida e prática nessa ferramenta tão útil para modelagem de negócios.
 
 **Modelagem de negócios?**
 
@@ -36,4 +36,4 @@ Além de ser mais um curso com qualidade Descola, nosso professor é o Manuel T�
 
 Ele foi o responsável por sintetizar o Canvas e suas possibilidades para que você tenha uma aula agradável e direta. No curso, você ainda conta com nosso report, para ir mais fundo no tema e pode participar de um grupo fechado de discussões com outros alunos e com a equipe Descola.
 
-Já falamos muito. É hora de praticar: [**entre**](http://http://descola.org/curso/14/business-model-canvas), conheça o curso (aproveite que o preço é super especial) e aprenda mais agora!
+Já falamos muito. É hora de praticar: [**entre**](https://https://descola.org/curso/14/business-model-canvas), conheça o curso (aproveite que o preço é super especial) e aprenda mais agora!

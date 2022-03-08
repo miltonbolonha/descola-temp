@@ -55,6 +55,6 @@ Contratar um bom profissional de design, mais do que um gasto é, na maioria das
 
 Nós da Descola acreditamos no potencial do design para gerar valor aos negócios.
 
-Criamos o curso [**Design para Novos Contextos**](http://descola.org/curso/6/design-para-novos-contextos) justamente para levar à todos um panorama mais abrangente e didático da importância do design no mundo e nas empresas. Se você é designer e busca mais referências sobre a área ou se você é de fora, mas quer conhecer mais sobre design, o curso te dá as bases e conceitos gerais desse assunto tão estratégico e importante.
+Criamos o curso [**Design para Novos Contextos**](https://descola.org/curso/6/design-para-novos-contextos) justamente para levar à todos um panorama mais abrangente e didático da importância do design no mundo e nas empresas. Se você é designer e busca mais referências sobre a área ou se você é de fora, mas quer conhecer mais sobre design, o curso te dá as bases e conceitos gerais desse assunto tão estratégico e importante.
 
 **Este post foi útil para você? Comente abaixo.**

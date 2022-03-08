@@ -19,6 +19,6 @@ O livro faz parte da bibliografia do nosso curso Carreira Dinâmica e serve tant
 
 **Como encontrar o trabalho da sua vida** faz parte da coleção School Of Life, que traz uma série de outros títulos no estilo “how to” (Como mudar o mundo, Como se preocupar menos com dinheiro, Como manter a mente sã etc.)
 
-Você encontra o livro no site da [Livraria Cultura](http://www.livrariacultura.com.br/p/livros/autoajuda/desenvolvimento-profissional/como-encontrar-o-trabalho-da-sua-vida-30215290).
+Você encontra o livro no site da [Livraria Cultura](https://www.livrariacultura.com.br/p/livros/autoajuda/desenvolvimento-profissional/como-encontrar-o-trabalho-da-sua-vida-30215290).
 
 Está gostando das nossas dicas? Quer enviar a sua? Escreve pra gente aqui nos comentários. 🙂

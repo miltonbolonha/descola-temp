@@ -59,6 +59,6 @@ Os exemplos acima são algumas das possibilidades que o online oferece às marca
 
 ### A hora é agora
 
-Redes sociais são e continuarão sendo um tema importante para comunicação e relacionamento com clientes. Nós da Descola sempre adoramos o assunto e suas possibilidades e junto com os amigos da Riot, criamos um curso específico sobre o tema, o **_[“Mídias Socias para Pequenos e Interessantes Negócios”](http://descola.org/curso/2/midias-sociais-para-pequenos-negocios 'Curso Mídias Sociais')._** Se você se interessa pelo tema, confira o curso e seu conteúdo.
+Redes sociais são e continuarão sendo um tema importante para comunicação e relacionamento com clientes. Nós da Descola sempre adoramos o assunto e suas possibilidades e junto com os amigos da Riot, criamos um curso específico sobre o tema, o **_[“Mídias Socias para Pequenos e Interessantes Negócios”](https://descola.org/curso/2/midias-sociais-para-pequenos-negocios 'Curso Mídias Sociais')._** Se você se interessa pelo tema, confira o curso e seu conteúdo.
 
 Claro, não deixe de compartilhar conosco sua impressões (sobre o curso e o post) nos comentários.

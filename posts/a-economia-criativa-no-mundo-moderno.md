@@ -73,6 +73,6 @@ Já a publicidade estimula serviços de publicação, reprodução e impressão,
 
 Entre os negócios ligados ao design, arquitetura, entre outros, estão, por exemplo, as agências e startups, os escritórios técnicos de arquitetura e engenharia e os ateliês de design. É importante lembrar que, como já falamos, há facilmente uma integração entre a economia criativa e as outras áreas de serviços, sendo que profissionais criativos são integrados à outros setores de forma bastante comum. Um criativo pode e consegue encontrar oportunidades em diferentes segmentos.
 
-Se gostou desse conteúdo baixe gratuitamente nosso ebook sobre [Economia criativa](http://www.descola.org/ebook-economia-criativa) e fique por dentro dessa economia que já mudou a vida de muita gente!
+Se gostou desse conteúdo baixe gratuitamente nosso ebook sobre [Economia criativa](https://www.descola.org/ebook-economia-criativa) e fique por dentro dessa economia que já mudou a vida de muita gente!
 
-[![ebook economia criativa](http://s3-sa-east-1.amazonaws.com/drops-cdn/drops-new/wp-content/uploads/2016/07/07212755/economiacriativa_banner2.png)](http://www.descola.org/ebook-economia-criativa)
+[![ebook economia criativa](https://s3-sa-east-1.amazonaws.com/drops-cdn/drops-new/wp-content/uploads/2016/07/07212755/economiacriativa_banner2.png)](https://www.descola.org/ebook-economia-criativa)

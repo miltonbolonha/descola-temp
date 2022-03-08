@@ -40,6 +40,6 @@ Buscar sempre implementar novas inovações no seu negócio também é uma açã
 
 Enfim, a inovação é crucial para manter a viabilidade, o sucesso e a lucratividade da sua empresa, por isso, nunca deixe de buscar novas formas de inovar.
 
-Falamos sobre de alocar recursos, criar parcerias e cooperações. Mas, para um negócio ir além, é preciso ver isso sob uma visão mais macro sobre seu modelo de negócios. Para ajudar todos os empreendedores a ter uma visão mais contemporânea e inovadora da área, criamos o cursos [**Business Model Canvas**](http://descola.org/curso/14/business-model-canvas), prático e direto, que te dará as coordenadas não só para visualizar onde encaixar a inovação tecnológica comentada aqui, mas diversas áreas-chave da tua empresa.
+Falamos sobre de alocar recursos, criar parcerias e cooperações. Mas, para um negócio ir além, é preciso ver isso sob uma visão mais macro sobre seu modelo de negócios. Para ajudar todos os empreendedores a ter uma visão mais contemporânea e inovadora da área, criamos o cursos [**Business Model Canvas**](https://descola.org/curso/14/business-model-canvas), prático e direto, que te dará as coordenadas não só para visualizar onde encaixar a inovação tecnológica comentada aqui, mas diversas áreas-chave da tua empresa.
 
 Compartilhe conosco seus pensamentos e participe dessa conversa no espaço reservado aos comentários!

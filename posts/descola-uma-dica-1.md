@@ -31,6 +31,6 @@ Abaixo, você pode assistir à palestra que Simon explica mais sobre o livro e o
 
 “Start with Why” é essencial para quem deseja entregar valor real para seus clientes, trazendo como exemplo grandes empresas como Disney e Harley-Davidson, além da própria Apple.
 
-Você pode comprar o livro na página da [Amazon](https://www.amazon.com.br/dp/8502180290/ref=asc_df_85021802904933041/?tag=buscape-14-local-20&creative=380333&creativeASIN=8502180290&linkCode=asn) ou na [Livraria da Folha](http://livraria.folha.com.br/livros/negocios/simon-sinek-1183106.html?tracking_number=63&utm_source=buscape&utm_medium=buscape&utm_campaign=buscape).
+Você pode comprar o livro na página da [Amazon](https://www.amazon.com.br/dp/8502180290/ref=asc_df_85021802904933041/?tag=buscape-14-local-20&creative=380333&creativeASIN=8502180290&linkCode=asn) ou na [Livraria da Folha](https://livraria.folha.com.br/livros/negocios/simon-sinek-1183106.html?tracking_number=63&utm_source=buscape&utm_medium=buscape&utm_campaign=buscape).
 
 Esperamos que vocês curtam nossas dicas, e até semana que vem! 😉

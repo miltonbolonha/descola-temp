@@ -14,7 +14,7 @@ featuredImage: ../static/images/descola_divulgue_criatividade.jpg
 
 Publicar _selfies_ tiradas em pontos turísticos, compartilhar o link de um vídeo engraçado ou fazer _check-in_ em um super restaurante são práticas muito comuns nas redes sociais. Você, sem dúvida, já deve ter feito isso hoje ou viu uma postagem de algum amigo na sua _timeline_, não?
 
-Não há mal algum nisso. Gostamos de compartilhar coisas que achamos importantes, momentos das nossas vidas, seja nas redes sociais digitais ou com amigos em um momento de lazer. Inclusive, uma [pesquisa divulgada recentemente pelo LinkedIn](http://blog.linkedin.com/2015/04/29/how-to-succeed-with-the-new-norms-work/) revelou que muitos amigos se sentem motivados quando compartilhamos nosso sucesso profissional.
+Não há mal algum nisso. Gostamos de compartilhar coisas que achamos importantes, momentos das nossas vidas, seja nas redes sociais digitais ou com amigos em um momento de lazer. Inclusive, uma [pesquisa divulgada recentemente pelo LinkedIn](https://blog.linkedin.com/2015/04/29/how-to-succeed-with-the-new-norms-work/) revelou que muitos amigos se sentem motivados quando compartilhamos nosso sucesso profissional.
 
 Mesmo assim, por medo de aparentar ser uma pessoa que adora se autopromover ou simplesmente por vergonha, alguns preferem limitar informações compartilhadas, deixando de fora momentos criativos que podem significar muito.
 
@@ -56,7 +56,7 @@ Acompanhe em jornais e revistas especializadas os eventos que estão para aconte
 
 ## **Feito tudo isso:** _Keep Calm_
 
-O resultado pode não ser tão rápido quanto você imagina, mas não desanime. Continue compartilhando seu trabalho e, quando menos esperar, será descoberto com boas oportunidades de negócio! Quer mais? Confira **[nossos cursos!](http://descola.org/cursos/)** Quanto mais você souber sobre criatividade e negócios, mais chances terá de ter seu trabalho descoberto. O conteúdo e inspiração, a gente garante!
+O resultado pode não ser tão rápido quanto você imagina, mas não desanime. Continue compartilhando seu trabalho e, quando menos esperar, será descoberto com boas oportunidades de negócio! Quer mais? Confira **[nossos cursos!](https://descola.org/cursos/)** Quanto mais você souber sobre criatividade e negócios, mais chances terá de ter seu trabalho descoberto. O conteúdo e inspiração, a gente garante!
 
 Por fim, lembre-se de que compartilhar esse tipo de informação com o público, seja amigos ou desconhecidos, colocará você em uma posição suscetível a muitas críticas. As pessoas darão opiniões e você tem que saber lidar com isso: mantenha a calma e sempre respeite pontos de vista divergentes do seu, esse é o melhor caminho.
 

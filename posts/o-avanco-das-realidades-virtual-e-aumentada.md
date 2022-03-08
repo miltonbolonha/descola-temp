@@ -47,7 +47,7 @@ Essa questão do desconforto é algo que precisa ser pensado pelos desenvolvedor
 
 ### Produtos disponíveis
 
-A Samsung lançou no final de 2015 a primeira versão do [Gear VR](http://www.samsung.com/global/galaxy/gear-vr/): um aparelho de realidade virtual compatível com dispositvos da linha Galaxy posteriores ao S6. A experiência imersiva oferecida pelo acessório proporciona um campo de visão de 101º pesando menos de 350g (dados da última versão disponível no Brasil). Com o Gear VR, é possível assistir a filmes do Netflix (de um jeito parecido com o cinema), assistir a vídeos 360º, jogar seus jogos favoritos em uma experiência única, além de aproveitar os aplicativos desenvolvidos especialmente para o dispositivo, a fim de melhorar ainda mais sua performance.
+A Samsung lançou no final de 2015 a primeira versão do [Gear VR](https://www.samsung.com/global/galaxy/gear-vr/): um aparelho de realidade virtual compatível com dispositvos da linha Galaxy posteriores ao S6. A experiência imersiva oferecida pelo acessório proporciona um campo de visão de 101º pesando menos de 350g (dados da última versão disponível no Brasil). Com o Gear VR, é possível assistir a filmes do Netflix (de um jeito parecido com o cinema), assistir a vídeos 360º, jogar seus jogos favoritos em uma experiência única, além de aproveitar os aplicativos desenvolvidos especialmente para o dispositivo, a fim de melhorar ainda mais sua performance.
 
 ![](https://descola.org/drops/wp-content/uploads/2017/03/samsung-gear-vr.jpg)
 

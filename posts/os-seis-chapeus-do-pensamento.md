@@ -45,7 +45,7 @@ Geralmente, inicia-se com o chapéu branco, para que todos pensem nas informaç�
 
 Se, após esses passos, o grupo chegou a um consenso e soluções de qualidade, o processo pode terminar. Caso contrário, o facilitador escolhe os chapéus que achar necessário para completar as questões trazidas pelo tema. Por exemplo, o chapéu verde pode voltar a ser usado após o chapéu preto, para sanar as dificuldades dos pontos frágeis do problema. Usar o chapéu vermelho para finalizar é uma ótima maneira de fazer com que as pessoas expressem suas emoções sobre a resolução final.
 
-Caso você tenha gostado desse método, o Edward de Bono escreveu um livro para falar detalhadamente do processo. Você pode comprá-lo [aqui](http://www.saraiva.com.br/os-seis-chapeus-do-pensamento-2231072.html).
+Caso você tenha gostado desse método, o Edward de Bono escreveu um livro para falar detalhadamente do processo. Você pode comprá-lo [aqui](https://www.saraiva.com.br/os-seis-chapeus-do-pensamento-2231072.html).
 
 O nosso curso de **Ideação** também pode ajudar nessas reuniões. As aulas ministradas pelo neurocientista Thiago Gringon facilitam no processo criativo em grupo e ensinam a você como conduzir boas ideias de pessoas diferentes, guiando-as na direção certa para que se sintam confortáveis umas com as outras e catalisem um ambiente criativo. [Saiba mais](https://descola.org/curso/ideacao-metodologias-e-ferramentas-para-sessoes-criativas).
 

@@ -28,7 +28,7 @@ Esse tipo de curso também costuma oferecer trabalhos de aprendizado, estágios 
 
 A educação técnica ou superior com certeza te colocará em outro patamar no mercado de trabalho, mas para se diferenciar dos outros candidatos com as mesmas qualificações, é imprescindível estar antenado ao que acontece ao seu redor.
 
-Para se manter atualizado sobre a sua área de atuação e ainda ter um diferencial em relação a outros profissionais, os cursos de especialização e reciclagem devem ter lugar de destaque na sua agenda. Hoje, é possível encontrar [excelentes escolas](http://descola.org/cursos) que oferecem cursos com curta duração e, inclusive, à distância. Uma forma rápido, fácil e geralmente com preços mais acessíveis para turbinar o seu currículo.
+Para se manter atualizado sobre a sua área de atuação e ainda ter um diferencial em relação a outros profissionais, os cursos de especialização e reciclagem devem ter lugar de destaque na sua agenda. Hoje, é possível encontrar [excelentes escolas](https://descola.org/cursos) que oferecem cursos com curta duração e, inclusive, à distância. Uma forma rápido, fácil e geralmente com preços mais acessíveis para turbinar o seu currículo.
 
 **CUPOM**: Aprenda12desc14
 

@@ -27,6 +27,6 @@ O segredo para aproveitar a fluidez dos nossos tempos é não deixar de lado a i
 - Pesquise sobre as coisas que você não sabe e tente conectar com o contexto da sua vida no momento, no que aquilo pode te ajudar a se destacar num mundo tão amplo e complexo.
 - É importante ter metas e não se perder do foco, e nessa parte, a criação de uma espécie de agenda ou lista diária pode te ajudar a não acabar no YouTube vendo vídeos de gatinhos fofos.
 
-Em um dos nossos cursos, o Augusto Uchoa fala mais sobre o mundo líquido de Bauman na perspectiva dos discursos e te ajuda a estruturar uma boa fala, que prenda a atenção do público e o motive. Saiba mais: <http://descola.org/curso/discurse>
+Em um dos nossos cursos, o Augusto Uchoa fala mais sobre o mundo líquido de Bauman na perspectiva dos discursos e te ajuda a estruturar uma boa fala, que prenda a atenção do público e o motive. Saiba mais: <https://descola.org/curso/discurse>
 
-[![discurse_zb](http://descola.org/drops/wp-content/uploads/2016/10/discurse_zb-300x169.png)](http://descola.org/curso/discurse)
+[![discurse_zb](https://descola.org/drops/wp-content/uploads/2016/10/discurse_zb-300x169.png)](https://descola.org/curso/discurse)

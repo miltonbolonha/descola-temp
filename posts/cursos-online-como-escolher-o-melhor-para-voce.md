@@ -33,7 +33,7 @@ Pesquisar sobre a instituição é extremamente importante. Saber se ela possui 
 
 Está aqui uma das principais vantagens em fazer cursos e treinamentos online. O tempo está cada vez mais escasso, muitas vezes deixamos de fazer um curso por conta da distância a ser percorrida para chegar até ele ou até mesmo por não se encaixar nos nossos horários durante a semana ou fim de semana. Cursos online geralmente têm uma flexibilidade maior de horários, o que deixam eles mais atrativos para quem quer se especializar ou se aperfeiçoar.
 
-Aqui na **Descola** levamos esse ponto muito à sério. [**Você pode escolher seu curso e realizá-lo quando quiser, ele estará sempre online.**](http://descola.org/cursos)
+Aqui na **Descola** levamos esse ponto muito à sério. [**Você pode escolher seu curso e realizá-lo quando quiser, ele estará sempre online.**](https://descola.org/cursos)
 
 ### 5. Postura
 

@@ -69,6 +69,6 @@ Pra instalar no seu computador, existe o [Focus Booster](https://www.focusbooste
 
 O navegador Chrome conta com uma extensão pra adicionar um timer ao programa, assim você consegue monitorar o tempo de cada tarefa na internet. Instale o [Simple Pomodoro®](https://chrome.google.com/webstore/detail/simple-pomodoro%C2%AE/blidjjfbdbkcmegfnidmgndgdamhhelp).
 
-Se você gostou da técnica e quer saber mais, tem um livro super completo [aqui](http://ramonkayo.com/wp-content/uploads/2014/03/PomodoroTechnique.pdf), escrito pelo próprio idealizador do método com explicações bastante detalhadas sobre os objetivos, duração, percepção, motivação e muito mais.
+Se você gostou da técnica e quer saber mais, tem um livro super completo [aqui](https://ramonkayo.com/wp-content/uploads/2014/03/PomodoroTechnique.pdf), escrito pelo próprio idealizador do método com explicações bastante detalhadas sobre os objetivos, duração, percepção, motivação e muito mais.
 
 Esperamos que você aproveite as dicas e possa aplicá-las no dia a dia. Até a próxima!

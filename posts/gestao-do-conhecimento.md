@@ -51,4 +51,4 @@ Gerir conhecimento é compartilhar experiências, falar, ouvir e ser ouvido, den
 
 Nós da Descola acreditamos que a gestão do conhecimento é uma das áreas essenciais para organizações triunfarem no futuro. Porque em um mundo de informação, quem faz o melhor uso do conhecimento é quem tem mais chances de triunfar.
 
-Pensamos nossos **[cursos](http://descola.org)** justamente para ajudar mais e mais pessoas a prosperarem nesse admirável mundo novo. Confira e claro, não deixe de comentar abaixo!
+Pensamos nossos **[cursos](https://descola.org)** justamente para ajudar mais e mais pessoas a prosperarem nesse admirável mundo novo. Confira e claro, não deixe de comentar abaixo!

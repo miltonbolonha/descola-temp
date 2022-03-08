@@ -21,7 +21,7 @@ Criada em 2015, a empresa desenvolveu um sistema de gestão de energia elétrica
 
 Conheça mais:
 
-<http://bit.ly/1UIQ4JM>
+<https://bit.ly/1UIQ4JM>
 
 **2- Dedique tempo às anotações e pesquisas**
 
@@ -39,7 +39,7 @@ Entre as invenções de Lisa estão:
 
 Conheça mais:
 
-<http://bit.ly/1RusYDX>
+<https://bit.ly/1RusYDX>
 
 **3- Estimule sua imaginação sem entrar numa viagem**
 
@@ -51,7 +51,7 @@ Essa dica vem do matemático e filósofo francês Henri Poincaré (1854-1912), q
 
 Conheça mais:
 
-[http://bit.ly/21XjxhD](http://bit.ly/21XjxhD)
+[https://bit.ly/21XjxhD](https://bit.ly/21XjxhD)
 
 **4- Desenvolva primeiro as partes mais fáceis do seu projeto**
 
@@ -65,4 +65,4 @@ Para garantir o sucesso de um projeto disruptivo dentro de uma estrutura organiz
 
 Conheça mais:
 
-<http://onforb.es/1oqkGRC>
+<https://onforb.es/1oqkGRC>
