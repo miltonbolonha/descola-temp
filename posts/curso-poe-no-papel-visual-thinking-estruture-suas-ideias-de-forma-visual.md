@@ -21,7 +21,7 @@ Neste curso abordaremos técnicas e ferramentas para te ajudar a desenvolver, es
 
 A experiência do curso possui 4h de duração e é oferecida por R$149,00. Ele pode ser feito em qualquer device, sempre e quando o aluno desejar, disponível desde o momento da compra e sem data de expiração.
 
-Página do curso: <http://www.descola.org/curso/10/visual-thinking>
+Página do curso: <https://www.descola.org/curso/10/visual-thinking>
 
 Veja uma introdução do curso e saiba mais sobre o que falamos no video abaixo
 

@@ -11,7 +11,7 @@ tags:
 featuredImage: ../static/images/businessplan_post.jpg
 ---
 
-Para [dar início a um negócio](http://descola.org/drops/empreender-e-resolver-problemas/), não basta ter boas ideias e capital. É preciso planejar cada etapa por meio do plano de negócios. Mas você conhece a real importância de um _business plan_? Após conhecer bem seu mercado, definir quem será seu público-alvo, listar todas as ideias, definir o modelo de gestão e separar as ferramentas necessárias para o crescimento da empresa, é preciso realizar o planejamento estratégico que norteará seus próximos passos.
+Para [dar início a um negócio](https://descola.org/drops/empreender-e-resolver-problemas/), não basta ter boas ideias e capital. É preciso planejar cada etapa por meio do plano de negócios. Mas você conhece a real importância de um _business plan_? Após conhecer bem seu mercado, definir quem será seu público-alvo, listar todas as ideias, definir o modelo de gestão e separar as ferramentas necessárias para o crescimento da empresa, é preciso realizar o planejamento estratégico que norteará seus próximos passos.
 
 ## **Primeiros passos**
 
@@ -31,4 +31,4 @@ O Canvas é um dos queridinhos das startups pois, como as empresas desse tipo mu
 
 O Canvas é um modelo que incentiva a criatividade, pois funciona como um mapa visual pré-formatado contendo nove blocos. O diferencial da tela do Canvas é mostrar de forma integrada todos os aspectos de uma empresa. Ele também serve como ponto de referência para se trabalhar nas hipóteses. Basicamente, o Canvas trabalha com perguntas do tipo “Para quem criamos valor?”, “Que valor proporcionamos aos nossos clientes?”, “Quais são os canais para alcançarmos os clientes?”, “Que tipo de relação os clientes esperam”, “Qual valor nossos clientes estão dispostos a pagar em nossos produtos?”, “Que atividades chaves requerem nossa proposta de valor?”, “Quem são nossos parceiros”, “Quais são os custos mais importantes?”.
 
-Todos esses aspectos são importantes para ajudar a criar uma estrutura sustentável. Ou seja, um negócio inovador e rentável. Quer conhecer mais sobre o processo de inovação? Confira nosso [post](http://descola.org/drops/3-obstaculos-do-processo-de-inovacao/) sobre o assunto! Ficou interessado em entender mais do Canvas? Não deixe de participar do nosso [curso](http://descola.org/curso/14/business-model-canvas)!
+Todos esses aspectos são importantes para ajudar a criar uma estrutura sustentável. Ou seja, um negócio inovador e rentável. Quer conhecer mais sobre o processo de inovação? Confira nosso [post](https://descola.org/drops/3-obstaculos-do-processo-de-inovacao/) sobre o assunto! Ficou interessado em entender mais do Canvas? Não deixe de participar do nosso [curso](https://descola.org/curso/14/business-model-canvas)!

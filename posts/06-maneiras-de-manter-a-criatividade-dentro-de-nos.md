@@ -40,9 +40,9 @@ Em um desses estudos é possível entender que o café traz felicidade. Um estud
 ### **\#3 USE PAPEL E CANETA**
 
 Faz quanto tempo que você não pega um papel e uma caneta e escreve alguma coisa? Com os computadores e os smartphones, fica cada vez menor o número de pessoas que realmente escreve em um pedaço de papel. Escrever em uma folha de papel em branco te faz pensar de forma não sistêmica, você pensa melhor na forma das letras, todos os seus contextos e te faz exercitar um lado do cérebro que estimula a criatividade.
-Podemos verificar uma grande procura por temas como [Visual Thinking](http://descola.org/curso/visual-thinking) nos dias de hoje, onde as pessoas querem recuperar essa habilidade de conseguir expressar seus pensamentos de forma visual.
+Podemos verificar uma grande procura por temas como [Visual Thinking](https://descola.org/curso/visual-thinking) nos dias de hoje, onde as pessoas querem recuperar essa habilidade de conseguir expressar seus pensamentos de forma visual.
 Temos um curso na Descola que trata exatamente sobre esse tema, o curso Põe no Papel tem como função ajudar os alunos a desenvolver a habilidade de tirar as ideias da cabeça e por no papel. Entre os temas do curso estão o que é visual thinking, brainstorm, mindmap e anotações visuais. Se quiser saber mais fica aqui a dica 🙂
-[![curso visual thinking e criatividade](https://descola.org/drops/wp-content/uploads/2016/10/quadros_VT-1024x569.png)](http://descola.org/curso/visual-thinking)
+[![curso visual thinking e criatividade](https://descola.org/drops/wp-content/uploads/2016/10/quadros_VT-1024x569.png)](https://descola.org/curso/visual-thinking)
 
 ### **\#4 APRENDA A ERRAR**
 

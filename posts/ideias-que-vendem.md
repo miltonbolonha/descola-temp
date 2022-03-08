@@ -36,13 +36,13 @@ Por exemplo, você deve saber o que colocar na fala do apresentador (ou seja, a 
 
 Além disso, pode ser que você precise montar um slide complexo e aí é preciso muita atenção para organizar suas ideias e não deixá-lo confuso.
 
-Quer saber mais sobre arquitetura de apresentação agora mesmo? Simples: veja o nosso **[Curso de Arquitetura de Conteúdo](http://www.descola.org/curso/8/cozinhando-seu-conteudo).**
+Quer saber mais sobre arquitetura de apresentação agora mesmo? Simples: veja o nosso **[Curso de Arquitetura de Conteúdo](https://www.descola.org/curso/8/cozinhando-seu-conteudo).**
 
 Nosso material foi pensado justamente para que você melhore sua experiência de apresentação e assim, venda melhor suas ideias.
 
 Em apenas 45 minutos de aula você aprende a construir slides eficientes a partir do zero, como melhorar uma apresentação através de imagens, a escolher essas imagens e a destacar os aspectos mais importantes, fica a par de cases de sucesso e ainda troca ideias no Facebook com referências da área sobre as tendências do design de apresentações.
 
-![Captura-de-Tela-2015-05-04-as-20.41.14](http://s3-sa-east-1.amazonaws.com/drops-cdn/drops-new/wp-content/uploads/2015/05/04103428/Captura-de-Tela-2015-05-04-as-20.41.14.png)
+![Captura-de-Tela-2015-05-04-as-20.41.14](https://s3-sa-east-1.amazonaws.com/drops-cdn/drops-new/wp-content/uploads/2015/05/04103428/Captura-de-Tela-2015-05-04-as-20.41.14.png)
 
 ### **Separar apenas o que é necessário e relevante: um caminho certo para o sucesso.**
 

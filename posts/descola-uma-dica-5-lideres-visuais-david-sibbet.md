@@ -17,7 +17,7 @@ Traz uma porção de estudos de caso para exemplificar o poder do Visual Thinkin
 
 ![](https://descola.org/drops/wp-content/uploads/2017/05/lideres-visuais.jpg)
 
-Você pode comprar o livro nas [Lojas Americanas.](http://www.americanas.com.br/produto/119802060/livro-lideres-visuais?epar=buscape&loja=02&opn=YYNKZB&s_term=YYNKZB&hl=lower)
+Você pode comprar o livro nas [Lojas Americanas.](https://www.americanas.com.br/produto/119802060/livro-lideres-visuais?epar=buscape&loja=02&opn=YYNKZB&s_term=YYNKZB&hl=lower)
 
 A dica é das professoras do nosso curso [Põe no Papel](https://descola.org/curso/visual-thinking), Thais Reali, Lu Bergue e Emileine Ehlers. Aproveite para dar uma espiada no curso e conhecer mais sobre as ferramentas poderosas do VT.
 

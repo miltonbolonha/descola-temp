@@ -48,4 +48,4 @@ Ter um ambiente favorável à crítica é um dos valores necessários para coloc
 
 Inovar significa pensar fora da caixa, e para isso é preciso ver as coisas sob pontos de vista diferentes. No intuito de estimular essa atitude, pode ser interessante, por exemplo, criar um dia em que cada equipe trabalhe no lugar da outra, experimentando cumprir funções diferentes das suas e, assim, enxergando o trabalho com outros olhos.
 
-Como você coloca a inovação em prática na sua vida e no seu trabalho? Comente e leia também nosso post com [4 dicas para ser mais criativo nos negócios](http://descola.org/drops/4-dicas-para-ser-criativo-nos-negocios/)!
+Como você coloca a inovação em prática na sua vida e no seu trabalho? Comente e leia também nosso post com [4 dicas para ser mais criativo nos negócios](https://descola.org/drops/4-dicas-para-ser-criativo-nos-negocios/)!

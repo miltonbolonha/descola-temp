@@ -55,6 +55,6 @@ Aqui, a empresa já é uma autoridade em sua área de negócio e pode questionar
 ### Quer saber mais sobre o tema?
 
 A Descola criou um curso muito bacana sobre o tema sustentabilidade. Um curso leve que mostra como a sustentabilidade é muito mais profunda do que economizar água e reciclar o lixo. Que tal fazer esse curso agora de forma gratuita?
-[http://www.descola.org/curso/5/desconstruindo-a-sustentabilidade](http://www.descola.org/curso/5/desconstruindo-a-sustentabilidade 'http://www.descola.org/curso/5/desconstruindo-a-sustentabilidade')
+[https://www.descola.org/curso/5/desconstruindo-a-sustentabilidade](https://www.descola.org/curso/5/desconstruindo-a-sustentabilidade 'https://www.descola.org/curso/5/desconstruindo-a-sustentabilidade')
 
 **Seguindo esses passos, tanto a sua empresa quanto a sociedade vão lucrar muito com a sustentabilidade. Mas afinal, você tem ideias de negócios inovadores e sustentáveis? Então comente!**

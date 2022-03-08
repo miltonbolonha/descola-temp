@@ -31,7 +31,7 @@ Um dos laboratórios da Universidade de Nova York aponta o Open Data como respon
 
 **4.** Novas formas de avaliar problemas, gerando intervenções colaborativas.
 
-Para exemplificar essa facilidade de acesso a dados públicos, uma iniciativa do governo de Minas Gerais fundou o [DataViva](http://dataviva.info/pt/), uma plataforma de pesquisa que permite ao usuários acessar dados socioeconômicos dos mais de 5 mil municípios do Brasil. Para explorar o banco de dados do DataViva, é só acessar o [site](http://dataviva.info/pt/) deles.
+Para exemplificar essa facilidade de acesso a dados públicos, uma iniciativa do governo de Minas Gerais fundou o [DataViva](https://dataviva.info/pt/), uma plataforma de pesquisa que permite ao usuários acessar dados socioeconômicos dos mais de 5 mil municípios do Brasil. Para explorar o banco de dados do DataViva, é só acessar o [site](https://dataviva.info/pt/) deles.
 
 ![](https://descola.org/drops/wp-content/uploads/2017/06/dataviva1.png)
 

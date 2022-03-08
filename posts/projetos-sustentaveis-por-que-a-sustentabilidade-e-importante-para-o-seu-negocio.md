@@ -14,7 +14,7 @@ featuredImage: ../static/images/Change-and-Sustainability.jpg
 
 Considerando a quantidade de habitantes na terra e a atividade industrial que não para de crescer, uma das maiores preocupações da sociedade é como o mundo estará no futuro, em termos de condições de vida. Ecossistemas do planeta estão se deteriorando e o clima está mudando. Apesar de quase um terço da população mundial viver em extrema pobreza, estamos consumindo tanto e tão rapidamente, que já estamos vivendo muito além da capacidade do globo terrestre. Neste contexto é cada vez mais crucial que empresas de todos os portes adequem processos e produtos dentro dos princípios de desenvolvimento sustentável.
 
-Enquanto a [sustentabilidade](http://descola.org/curso/5/desconstruindo-a-sustentabilidade) é sobre o futuro da nossa sociedade, para as indústrias e as empresas de hoje, é também sobre o sucesso comercial. A prática de transformar as empresas em organizações que respeitam os limites ambientais ao mesmo tempo cumprindo desejos e necessidades sociais tornou-se uma plataforma inigualável para a inovação na estratégia, design, fabricação e marca, oferecendo grandes oportunidades de competir e de se adaptar a um mundo em rápida evolução.
+Enquanto a [sustentabilidade](https://descola.org/curso/5/desconstruindo-a-sustentabilidade) é sobre o futuro da nossa sociedade, para as indústrias e as empresas de hoje, é também sobre o sucesso comercial. A prática de transformar as empresas em organizações que respeitam os limites ambientais ao mesmo tempo cumprindo desejos e necessidades sociais tornou-se uma plataforma inigualável para a inovação na estratégia, design, fabricação e marca, oferecendo grandes oportunidades de competir e de se adaptar a um mundo em rápida evolução.
 
 # Desafio de buscar a sustentabilidade para sua empresa
 
@@ -43,10 +43,10 @@ Faça um levantamento dos recursos renováveis e não renováveis utilizados, ta
 
 Muitas vezes, ao repensar processos, equipamentos e posturas, o empresário consegue encontrar opções que geram retorno financeiro em curto, médio e longo prazos. O lixo reciclável pode ser vendido para alguma cooperativa, os equipamentos antigos usados para abater a compra de novos e as mudanças estruturais podem trazer economia, que permitirá novos investimentos para a instituição.
 
-Dentro dessa visão recomendamos a você assistir um curso muito bacana (e gratuito) sobre Sustentabilidade aqui na [Descola](http://www.descola.org). Uma maneira rápida e divertida se se atentar a um tema tão importante nos dias de hoje!
+Dentro dessa visão recomendamos a você assistir um curso muito bacana (e gratuito) sobre Sustentabilidade aqui na [Descola](https://www.descola.org). Uma maneira rápida e divertida se se atentar a um tema tão importante nos dias de hoje!
 
-[![sustentabilidade](http://s3-sa-east-1.amazonaws.com/drops-cdn/drops-new/wp-content/uploads/2015/03/11140516/sustentabilidade.png)](http://descola.org/curso/5/desconstruindo-a-sustentabilidade)
+[![sustentabilidade](https://s3-sa-east-1.amazonaws.com/drops-cdn/drops-new/wp-content/uploads/2015/03/11140516/sustentabilidade.png)](https://descola.org/curso/5/desconstruindo-a-sustentabilidade)
 
-<http://descola.org/curso/5/desconstruindo-a-sustentabilidade>
+<https://descola.org/curso/5/desconstruindo-a-sustentabilidade>
 
 **Você está pensando em empreender? Qual a importância da sustentabilidade no seu projeto?Deixe um comentário e participe!**

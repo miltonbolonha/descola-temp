@@ -30,9 +30,9 @@ Por fim, vale ressaltar que, geralmente, esse é um processo de baixo custo e qu
 
 ## **Por que prototipar?**
 
-Além de poder ter uma ideia clara da viabilidade e eficiência de um projeto antes que ele seja plenamente desenvolvido, as facilidades e vantagens trazidas pelos protótipos incentivam colaboradores e gestores a [explorarem mais ideias](http://descola.org/drops/6-dicas-para-ser-mais-criativo/), já que, através do protótipo, elas não trazem tantos riscos e podem gerar grandes benefícios ao empreendimento.
+Além de poder ter uma ideia clara da viabilidade e eficiência de um projeto antes que ele seja plenamente desenvolvido, as facilidades e vantagens trazidas pelos protótipos incentivam colaboradores e gestores a [explorarem mais ideias](https://descola.org/drops/6-dicas-para-ser-mais-criativo/), já que, através do protótipo, elas não trazem tantos riscos e podem gerar grandes benefícios ao empreendimento.
 
-Dessa forma, a empresa tem pouca a perder e pode [apostar em inovação](http://descola.org/drops/como-o-design-ajuda-a-trazer-inovacoes-para-as-empresas/) com segurança para [manter-se à frente no mercado](http://descola.org/drops/a-importancia-da-criatividade-no-empreendedorismo/).
+Dessa forma, a empresa tem pouca a perder e pode [apostar em inovação](https://descola.org/drops/como-o-design-ajuda-a-trazer-inovacoes-para-as-empresas/) com segurança para [manter-se à frente no mercado](https://descola.org/drops/a-importancia-da-criatividade-no-empreendedorismo/).
 
 ## **O que prototipar?**
 

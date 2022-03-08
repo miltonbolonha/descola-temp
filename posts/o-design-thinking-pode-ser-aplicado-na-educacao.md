@@ -13,7 +13,7 @@ featuredImage: ../static/images/dteducacao-e1453905315141.jpg
 
 Para responder a essa pergunta, primeiro precisamos entender o que é Design Thinking. O conceito é vago e a tradução da expressão inglesa difícil, por isso mesmo passou-se a adotá-la no original. O Design Thinking, ou DT, foi popularizado pela IDEO, uma empresa internacional de consultoria e design sediada em Palo Alto, Califórnia, na região do Vale do Silício, famoso por reunir as maiores empresas de tecnologia do mundo. Então, ninguém melhor do que [Tim Brown, o presidente e CEO da empresa](https://www.ideo.com/about/), para dizer o que é DT.
 
-Segundo ele, Design Thinking é uma abordagem para inovação centrada no ser humano, desenhada pela caixa de ferramentas dos designers para integrar as necessidades das pessoas, as possibilidades tecnológicas e os requisitos para o sucesso nos negócios. Pensar como um designer pode mudar as maneiras que as [empresas](http://www.descola.org/para-empresas) usam para desenvolver produtos, serviços, processos e estratégias.
+Segundo ele, Design Thinking é uma abordagem para inovação centrada no ser humano, desenhada pela caixa de ferramentas dos designers para integrar as necessidades das pessoas, as possibilidades tecnológicas e os requisitos para o sucesso nos negócios. Pensar como um designer pode mudar as maneiras que as [empresas](https://www.descola.org/para-empresas) usam para desenvolver produtos, serviços, processos e estratégias.
 
 Logo, apesar de algumas pessoas acreditarem que DT é uma metodologia, trata-se de uma forma de abordar/solucionar um problema como os designers fazem. É a adoção de um modelo mental mais adequado para a condução de projetos dentro da complexidade do mundo atual. A partir da observação e do fluxo livre de pensamento, juntam-se ideias de várias fontes que vão direcionar os passos para a solução do problema, sempre mantendo o foco no elemento humano.
 
@@ -49,12 +49,12 @@ Nessa etapa acontece o acompanhamento do projeto ao longo do tempo, a avaliaçã
 
 A crescente complexidade do mundo globalizado tem desafiado o tradicional sistema educacional concebido para atender as necessidades da era industrial, no qual o estudante é um receptor passivo de informações. Agora, a educação precisa ir além, e ensinar o estudante como aprender, participar e criar.
 
-Ao se aplicar o DT na educação, o estudante é colocado como ator do processo, e não mais como simples receptor de informações. Ele vai analisar o problema, expressar seu ponto de vista, expor suas dificuldades e propor soluções. Tudo isso é feito coletivamente, para que o estudante compartilhe das múltiplas abordagens para um mesmo problema: nenhuma resposta é perfeita, e as melhores soluções surgem quando se reúnem perspectivas aparentemente divergentes. Assim, o [Design Thinking](http://www.descola.org/track/1/design-thinking) promove a colaboração e a empatia.
+Ao se aplicar o DT na educação, o estudante é colocado como ator do processo, e não mais como simples receptor de informações. Ele vai analisar o problema, expressar seu ponto de vista, expor suas dificuldades e propor soluções. Tudo isso é feito coletivamente, para que o estudante compartilhe das múltiplas abordagens para um mesmo problema: nenhuma resposta é perfeita, e as melhores soluções surgem quando se reúnem perspectivas aparentemente divergentes. Assim, o [Design Thinking](https://www.descola.org/track/1/design-thinking) promove a colaboração e a empatia.
 
 E você, o que acha da aplicação do Design Thinking na educação? Assine a nossa newsletter e aprenda muito mais sobre esse e outros assuntos!
 
 ## Descola indica:
 
-[![track-dt1](http://descola.org/drops/wp-content/uploads/2016/01/track-dt1-1024x500.jpg)](http://descola.org/track/1/design-thinking)
+[![track-dt1](https://descola.org/drops/wp-content/uploads/2016/01/track-dt1-1024x500.jpg)](https://descola.org/track/1/design-thinking)
 
-Conheça mais a fundo todo o processo do Design Thinking, da teoria a sua prática, no nosso curso especial com 10 horas de conteúdo. Clique [aqui](http://descola.org/track/1/design-thinking), se inscreva e mergulhe mais fundo!
+Conheça mais a fundo todo o processo do Design Thinking, da teoria a sua prática, no nosso curso especial com 10 horas de conteúdo. Clique [aqui](https://descola.org/track/1/design-thinking), se inscreva e mergulhe mais fundo!

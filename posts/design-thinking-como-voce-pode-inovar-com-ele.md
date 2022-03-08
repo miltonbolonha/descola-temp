@@ -32,7 +32,7 @@ O _Design Thinking_ se baseia em certos princípios, como:
 - Empatia;
 - experimentação;
 - funcionalidade;
-- e [prototipagem](http://descola.org/drops/a-importancia-de-prototipar-e-mudar-produtos-e-servicos/).
+- e [prototipagem](https://descola.org/drops/a-importancia-de-prototipar-e-mudar-produtos-e-servicos/).
 
 Para entender tudo o que o cliente quer ou demanda, é preciso se colocar em seu lugar para, depois, testar ideias e gerar modelos colaborativos daquilo que mais deu certo e tenha melhorado a experiência dos clientes com a empresa.
 

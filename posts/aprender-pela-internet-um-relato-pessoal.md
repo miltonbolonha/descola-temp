@@ -24,7 +24,7 @@ Foi aí que comecei a me aprofundar mais nesse assunto, na busca esperançosa de
 **Quem procura acha.**
 A gente vive sob o paradigma de que aprender algo novo leva tempo por alguns motivos. O meu preferido diz respeito a uma errada percepção sobre a expectativa de quem quer aprender coisas novas, de quem quer ganhar uma nova habilidade.
 
-Existe um estudo que determinou muito a maneira de ver o aprendizado, após ter ficado famoso ao ser citado no best seller [**Outliers**](http://www.livrariacultura.com.br/p/fora-de-serie-outliers-2653185), de Malcolm Gladwell. O estudo, chamado de [**10.000 hours rule**](http://gladwell.com/outliers/the-10000-hour-rule/), afirma que para se tornar expert em determinado assunto é preciso praticar e ter uma experiência de 10.000 horas.
+Existe um estudo que determinou muito a maneira de ver o aprendizado, após ter ficado famoso ao ser citado no best seller [**Outliers**](https://www.livrariacultura.com.br/p/fora-de-serie-outliers-2653185), de Malcolm Gladwell. O estudo, chamado de [**10.000 hours rule**](https://gladwell.com/outliers/the-10000-hour-rule/), afirma que para se tornar expert em determinado assunto é preciso praticar e ter uma experiência de 10.000 horas.
 
 O problema dessa teoria que tanto ficou famosa não são as 10.000 horas mas sim o fato de só colocar em perspectiva o tempo que leva para se tornar um expert em determinado assunto. Se tornar um especialista de alta performance, de nível internacional.
 
@@ -34,11 +34,11 @@ Ou seja, ser um _conhecedor_ e não um _especialista_.
 
 Depois que percebi isso fiquei mais calmo, pois escapei das 10.000 horas (ufa!). Mas, quais as outras alternativas e métodos para “manjar mais dos assuntos” ?
 
-Foi aí que me deparei com uma teoria que fez mais sentido para minha rotina. A ideia de que é preciso apenas 20 horas de prática para entender mais sobre um tema, que está no livro [**The First 20 Hours**.](http://first20hours.com/)
+Foi aí que me deparei com uma teoria que fez mais sentido para minha rotina. A ideia de que é preciso apenas 20 horas de prática para entender mais sobre um tema, que está no livro [**The First 20 Hours**.](https://first20hours.com/)
 
 No começo achei a ideia meio surreal. Só 20 horas? Mas no final das contas, com as 20 horas, o objetivo é ter um bom balanço nos dois eixos do conhecido modelo da curva de aprendizagem.
 
-![IMG_20150113_0953502](http://s3-sa-east-1.amazonaws.com/drops-cdn/drops-new/wp-content/uploads/2015/01/15120320/IMG_20150113_0953502-1024x768.jpg)
+![IMG_20150113_0953502](https://s3-sa-east-1.amazonaws.com/drops-cdn/drops-new/wp-content/uploads/2015/01/15120320/IMG_20150113_0953502-1024x768.jpg)
 _O maior avanço na curva de aprendizagem se dá nos primeiros momentos de experiencia com o tema._
 Pensar assim fez mais sentido pra mim. Comecei a praticar e percebi que com alguma técnica, disciplina e organização do conteúdo é possível aprender rápido e com qualidade.
 

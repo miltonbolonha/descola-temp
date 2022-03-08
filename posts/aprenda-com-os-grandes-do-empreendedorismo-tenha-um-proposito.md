@@ -38,6 +38,6 @@ Se você tem uma grande ideia e pensa em empreender, não deixe de conciliar seu
 
 Quer aprender mais sobre como começar com um negócio com propósito? Ou mesmo conhecer visões de diferentes empreendedores sobre o que os inspirou e os levou a começar seus negócios?
 
-Então, veja agora mesmo nosso curso **[“Do Bar ao Mercado”](http://http://descola.org/curso/1/do-bar-ao-mercado)** e se inspire com as visões de mundo e percepções distintas de 3 empreendedores brasileiros.
+Então, veja agora mesmo nosso curso **[“Do Bar ao Mercado”](https://https://descola.org/curso/1/do-bar-ao-mercado)** e se inspire com as visões de mundo e percepções distintas de 3 empreendedores brasileiros.
 
 **Compartilhe suas dicas e percepções nos comentários.**

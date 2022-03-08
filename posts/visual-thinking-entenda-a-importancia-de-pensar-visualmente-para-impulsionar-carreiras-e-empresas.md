@@ -16,7 +16,7 @@ Em tempos de excesso, pensar visualmente se tornou algo imperativo. Sintetizar o
 
 O pensamento visual é um de uma série de outras formas reconhecidas de pensamento ‘não-verbal’, como pensamento cinestésico, musical e matemático, por exemplo. Estes vários estilos integram a metodologia de aprendizado de coaching e outras atividades criativas, como forma de driblar o pensamento cartesiano.
 
-Nós aqui na Descola aprendemos muito com esse curso que explica melhor sobre o pensamento visual e como ele nos ajuda em tarefas do dia a dia. Abaixo veja o vídeo teaser do [curso](http://www.descola.org/curso/10/visual-thinking):
+Nós aqui na Descola aprendemos muito com esse curso que explica melhor sobre o pensamento visual e como ele nos ajuda em tarefas do dia a dia. Abaixo veja o vídeo teaser do [curso](https://www.descola.org/curso/10/visual-thinking):
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" loading="lazy" src="https://www.youtube.com/embed/tPx13JlFasQ" width="560"></iframe>
 
@@ -55,4 +55,4 @@ Treinar seu pensamento visual pode levar algum tempo. No entanto, o esforço lhe
 
 EXTRA: A Descola lançou um curso muito bacana sobre visual thinking e deixo aqui o link para o curso pra quem se interessar!
 
-[![poe-no-papel](http://s3-sa-east-1.amazonaws.com/drops-cdn/drops-new/wp-content/uploads/2015/03/04142945/poe-no-papel.png)](http://www.descola.org/curso/10/visual-thinking)
+[![poe-no-papel](https://s3-sa-east-1.amazonaws.com/drops-cdn/drops-new/wp-content/uploads/2015/03/04142945/poe-no-papel.png)](https://www.descola.org/curso/10/visual-thinking)

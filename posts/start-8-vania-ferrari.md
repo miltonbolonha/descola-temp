@@ -27,6 +27,6 @@ Entre os temas abordados algumas palavras podem se destacar:
 
 Palestrante há 10 anos traz uma Abordagem Diferenciada e Divertida sobre gestão, liderança, auto-motivação, administração do tempo, melhoria contínua, inovação, neuromarketing e demais temas que visam contribuir para o desenvolvimento profissional e pessoal, com foco em transformar o trabalho numa fonte de aprendizado.
 
-Gostou da Vania? Nós gostamos tanto que logo mais teremos um curso muito bacana sobre liderança! se quiser saber mais já temos mais [informações aqui ](http://www.descola.org/curso/16/lead-como-liderar-em-tempos-de-mudanca)
+Gostou da Vania? Nós gostamos tanto que logo mais teremos um curso muito bacana sobre liderança! se quiser saber mais já temos mais [informações aqui ](https://www.descola.org/curso/16/lead-como-liderar-em-tempos-de-mudanca)
 
 aproveite!

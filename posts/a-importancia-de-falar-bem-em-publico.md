@@ -53,7 +53,7 @@ Claro, essas foram apenas algumas dicas que vão te ajudar a falar melhor em pú
 
 **E é justamente pra isso que nós da Descola chamamos o grande Augusto Uchoa para criar um curso imperdível:**
 
-[![Discurse: Você pode falar bem em público](http://s3-sa-east-1.amazonaws.com/drops-cdn/drops-new/wp-content/uploads/2016/09/21153350/quadros_discurse.jpg)](http://descola.org/curso/discurse?utm_source=drops&utm_medium=blog&utm_content=a-importancia-de-falar-bem-em-publico&utm_campaign=post)
+[![Discurse: Você pode falar bem em público](https://s3-sa-east-1.amazonaws.com/drops-cdn/drops-new/wp-content/uploads/2016/09/21153350/quadros_discurse.jpg)](https://descola.org/curso/discurse?utm_source=drops&utm_medium=blog&utm_content=a-importancia-de-falar-bem-em-publico&utm_campaign=post)
 
 O Augusto é um cara incrível. Além dele ser um ex-tímido (como eu), ele trabalhou na Globo com criação de roteiros para programas, deu aulas, consultorias, faz treinamentos, coaching e palestras. Tudo que ele fez na carreira fazem com que ele seja a pessoa certa para fazer esse curso.
 

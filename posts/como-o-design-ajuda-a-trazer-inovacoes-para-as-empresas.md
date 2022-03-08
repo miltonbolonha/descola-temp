@@ -38,4 +38,4 @@ De nada adianta ter disponível um produto útil e de qualidade, mas pouco atrae
 
 As pessoas buscam um produto não apenas pela sua qualidade, mas também pelo seu “fetiche”: o aspecto intangível em que ele se diferencia, aquilo que o torna único, especial e o identifica a um grupo, um nicho de pessoas.
 
-Conseguiu perceber como o design é capaz de trazer inovações e alavancar os processos de uma empresa? Essa não é uma questão acessória, mas essencial para seu crescimento. Aposte nessa ideia e [invista em um curso online sobre design](http://www.descola.org/curso/6/design-para-novos-contextos) para ficar por dentro!
+Conseguiu perceber como o design é capaz de trazer inovações e alavancar os processos de uma empresa? Essa não é uma questão acessória, mas essencial para seu crescimento. Aposte nessa ideia e [invista em um curso online sobre design](https://www.descola.org/curso/6/design-para-novos-contextos) para ficar por dentro!

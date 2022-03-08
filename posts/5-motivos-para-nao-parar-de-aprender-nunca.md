@@ -37,6 +37,6 @@ Os estudos sobre o conhecido Mal do Alzheimer (aquela doença neurodegenerativa,
 
 ## **5. Flexibilidade do ensino**
 
-Hoje em dia, com tantas opções de cursos, programas autodidáticos, vídeo-aulas e cursos à distância, não há desculpa para quem não está agarrando alguma dessas oportunidades. Os cursos online têm a vantagem de atender mesmo a quem tem um horário menos flexível e com menor disponibilidade de tempo. Se ainda não acredita, dê uma olhada no nosso texto sobre [5 formas de aprender uma nova habilidade na internet](http://descola.org/drops/5-formas-de-aprender-uma-nova-habilidade-na-internet/)!
+Hoje em dia, com tantas opções de cursos, programas autodidáticos, vídeo-aulas e cursos à distância, não há desculpa para quem não está agarrando alguma dessas oportunidades. Os cursos online têm a vantagem de atender mesmo a quem tem um horário menos flexível e com menor disponibilidade de tempo. Se ainda não acredita, dê uma olhada no nosso texto sobre [5 formas de aprender uma nova habilidade na internet](https://descola.org/drops/5-formas-de-aprender-uma-nova-habilidade-na-internet/)!
 
-E você, o que anda aprendendo? Como faz para manter as engrenagens da sua cabeça a todo vapor? Conte para a gente nos comentários e dê uma olhada no [nosso site](http://www.descola.org/) para conhecer mais jeitos de manter o cérebro em forma!
+E você, o que anda aprendendo? Como faz para manter as engrenagens da sua cabeça a todo vapor? Conte para a gente nos comentários e dê uma olhada no [nosso site](https://www.descola.org/) para conhecer mais jeitos de manter o cérebro em forma!

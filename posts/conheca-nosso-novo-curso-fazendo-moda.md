@@ -18,11 +18,11 @@ tags:
 featuredImage: ../static/images/jussara_romao_curso_moda_descola_.jpg
 ---
 
-É com muito orgulho que trazemos duas ótimas notícias nesta quarta-feira: tiramos do forno (**[e colocamos no ar](http://descola.org)**) nosso novo site, repaginado e mais intuitivo, além de estrearmos (como você pode ver no teaser acima) nosso mais novo curso: [**Fazendo Moda – Panorama da Moda e sua Importância na Sociedade**](http://http://descola.org/curso/9/moda-panorama-social).
+É com muito orgulho que trazemos duas ótimas notícias nesta quarta-feira: tiramos do forno (**[e colocamos no ar](https://descola.org)**) nosso novo site, repaginado e mais intuitivo, além de estrearmos (como você pode ver no teaser acima) nosso mais novo curso: [**Fazendo Moda – Panorama da Moda e sua Importância na Sociedade**](https://https://descola.org/curso/9/moda-panorama-social).
 
 **Um curso de moda?**
 
-Sim, moda! Se você costuma ler os posts desse blog ou se já fez um dos nossos **[cursos](http://descola.org/cursos)** (o quê?! ainda não? vai lá agora :D) deve ter percebido que falamos muito sobre empreendedorismo, inovação e negócios. Mas, quem disse que moda não ter a ver com tudo isso?
+Sim, moda! Se você costuma ler os posts desse blog ou se já fez um dos nossos **[cursos](https://descola.org/cursos)** (o quê?! ainda não? vai lá agora :D) deve ter percebido que falamos muito sobre empreendedorismo, inovação e negócios. Mas, quem disse que moda não ter a ver com tudo isso?
 
 Nosso curso foi criado justamente para mudar essa percepção, inserindo a moda em um contexto social, histórico e pragmático.
 
@@ -38,7 +38,7 @@ Desde então, esse tipo de calça é uma peça comum, presente no armário de mu
 
 **Moda é um dos mercados que mais cresce no Brasil. Para explorá-lo, saber sua história e contexto é requisito básico.**
 
-O mercado de moda brasileiro é [gigantesco](http://exame.abril.com.br/revista-exame/edicoes/1057/noticias/a-moda-que-vale-bilhoes). Reúne profissionais criativos, como estilistas e designers, gente de negócios e claro, bloggers e vloggers que ajudam a disseminar tendências.
+O mercado de moda brasileiro é [gigantesco](https://exame.abril.com.br/revista-exame/edicoes/1057/noticias/a-moda-que-vale-bilhoes). Reúne profissionais criativos, como estilistas e designers, gente de negócios e claro, bloggers e vloggers que ajudam a disseminar tendências.
 
 Mais que um mercado, é um ecossistema vivo e e amplo: você pode trabalhar com o assunto desde em uma redação de revista até administrando um e-commerce de roupas. As possibilidades não são nada óbvias. Ao contrário, são muitas.
 
@@ -54,6 +54,6 @@ Profissional com 20 anos de experiência, Jussara foi Diretora de Moda da Elle B
 
 Nós da Descola e Jussara nos esforçamos para oferecer a melhor e mais didática experiência sobre o tema. Esperamos que o curso **inspire** você tanto quanto nos inspirou. Acreditamos que ele pode não só agregar conhecimento, mas complementar de maneira prática (spoiler: temos case real de empresa do setor no conteúdo) a formação de todos aqueles que se interessam pelo setor.
 
-Já falamos bastante! Agora é com você. [**Conheça agora**](http://descola.org/curso/9/moda-panorama-social) o programa completo do curso, lembre-se que ele é online e você poderá fazê-lo quando quiser.
+Já falamos bastante! Agora é com você. [**Conheça agora**](https://descola.org/curso/9/moda-panorama-social) o programa completo do curso, lembre-se que ele é online e você poderá fazê-lo quando quiser.
 
 Claro, não hesite em deixar suas dúvidas nos comentários.

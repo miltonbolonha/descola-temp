@@ -13,9 +13,9 @@ Todos os dias podemos observar novos negócios e empresas sendo criadas, revoluc
 
 Mas se pararmos para olhar o caso dessas startups, todas elas passam por um processo onde identificam um problema ou uma necessidade de mercado e nenhuma delas nasceram da noite para o dia. Foi necessário muito trabalho e muito suor para chegar a ter um produto / serviço interessante e “vendedor”.
 
-Pensando nisso nós da Descola resolvemos ir a fundo nesse tema e saber o que é necessário para chegar e construir uma startup de sucesso. Para isso convidamos a [TroposLab](http://www.troposlab.com/) para bater um papo com a gente e nos contar um pouco da experiência que tiveram em acelerar mais de 100 startups no último ano.
+Pensando nisso nós da Descola resolvemos ir a fundo nesse tema e saber o que é necessário para chegar e construir uma startup de sucesso. Para isso convidamos a [TroposLab](https://www.troposlab.com/) para bater um papo com a gente e nos contar um pouco da experiência que tiveram em acelerar mais de 100 startups no último ano.
 
-Tendo em mente a importância em falhar rápido e não perder tempo para conseguir testar e validar riscos, fizemos uma série de perguntas sobre esse tema e compartilhamos aqui essa visão com vocês. Mais do que essa entrevista, criamos um curso muito bacana sobre [FailFast](http://www.descola.org/curso/15/fail-fast-succeed-faster) e contamos tudo pra vocês no final desse post.
+Tendo em mente a importância em falhar rápido e não perder tempo para conseguir testar e validar riscos, fizemos uma série de perguntas sobre esse tema e compartilhamos aqui essa visão com vocês. Mais do que essa entrevista, criamos um curso muito bacana sobre [FailFast](https://www.descola.org/curso/15/fail-fast-succeed-faster) e contamos tudo pra vocês no final desse post.
 
 ## **Depois de acelerar mais de 100 startups nos últimos anos, qual seria uma falha comum que elas geralmente tinham?**
 
@@ -29,9 +29,9 @@ O processo de validação não se resume aos resultados do teste. O processo é 
 
 Um dos melhores cases de pivot que nós trabalhamos no Tropos é o caso da Construct. Dois americanos que vieram para o Brasil a fim de trabalhar de alguma forma no setor de construção civil. A ideia inicial do negócio era criar uma plataforma para cadastrar profissionais de serviços da construção civil como pintores, pedreiros e eletricistas para facilitar a vida de empreiteiras. Com uma semana eles invalidaram esse modelo e descobriram que o mercado brasileiro ainda é muito confuso para se implementar esse tipo de solução. No entanto, quando foram a campo eles descobriram a desorganização que ainda é hoje um canteiro de obras no Brasil. Desenvolveram uma plataforma web e um aplicativo para ajudar o gerenciamento da obra em tempo real pelo engenheiro, economizando algumas centenas de milhares de reais para as empreiteiras. Hoje já possuem vários clientes e recentemente conseguiram levantar um investimento para expandir sua operação para outras cidades.
 
-Mas existem casos mais famosos como o [Easy Taxi](http://www.easytaxi.com/br/) que começou como um aplicativo de ônibus, a Coca-cola que começou como um xarope ou a Natura que começou distribuindo rosas.
+Mas existem casos mais famosos como o [Easy Taxi](https://www.easytaxi.com/br/) que começou como um aplicativo de ônibus, a Coca-cola que começou como um xarope ou a Natura que começou distribuindo rosas.
 
-## **No curso sobre [Failfast](http://www.descola.org/curso/15/fail-fast-succeed-faster) falamos de pequenas empresas e startups que estão começando seu negócio. é possível usar a metodologia dentro de grandes empresas? como?**
+## **No curso sobre [Failfast](https://www.descola.org/curso/15/fail-fast-succeed-faster) falamos de pequenas empresas e startups que estão começando seu negócio. é possível usar a metodologia dentro de grandes empresas? como?**
 
 Sim, inclusive muitas grandes empresas estão começando a perceber isso. Hoje grandes empresas implementam essas metodologias de duas formas dentro de seus negócios: tratando departamentos, áreas ou equipes como células de negócio individuais que funcionam como startups ou trazendo startups para dentro de seus negócios no formato de aceleração corporativa.
 
@@ -59,8 +59,8 @@ Além disso o empreendedor brasileiro tende a pensar de forma nacional mas não 
 
 Por último ainda vemos que universidade e startups ainda estão muito separadas. As startups desenvolvem muitas soluções pouco tecnológicas e fáceis de serem copiadas enquanto as universidades desenvolvem muita tecnologia sem saber aplicar. Assim em geral acabamos tendo muitos negócios medianos. Quando universidade e o mundo de startups caminharem juntos teremos um avanço significativo nos novos negócios gerados.
 
-Esperamos que a entrevista acima tenha despertado uma série de questionamentos além de responder tantos outros. E pensando nisso que acabamos de lançar um curso sobre[ FailFast](http://www.descola.org/curso/15/fail-fast-succeed-faster), a importância de falhar rápido para conseguir atingir grandes objetivos mais rapidamente. O curso, realizado em parceria com a TroposLab, comenta entre diversos assuntos Porque falhar rápido? Como identificar oportunidades reais de negócios, como testar suas ideias e negócios, métricas de validação e muitos outros temas.
+Esperamos que a entrevista acima tenha despertado uma série de questionamentos além de responder tantos outros. E pensando nisso que acabamos de lançar um curso sobre[ FailFast](https://www.descola.org/curso/15/fail-fast-succeed-faster), a importância de falhar rápido para conseguir atingir grandes objetivos mais rapidamente. O curso, realizado em parceria com a TroposLab, comenta entre diversos assuntos Porque falhar rápido? Como identificar oportunidades reais de negócios, como testar suas ideias e negócios, métricas de validação e muitos outros temas.
 
-[![fail-fast-cover-1](http://s3-sa-east-1.amazonaws.com/drops-cdn/drops-new/wp-content/uploads/2015/10/16111742/fail-fast-cover-1-1024x500.png)](http://www.descola.org/curso/15/fail-fast-succeed-faster)
+[![fail-fast-cover-1](https://s3-sa-east-1.amazonaws.com/drops-cdn/drops-new/wp-content/uploads/2015/10/16111742/fail-fast-cover-1-1024x500.png)](https://www.descola.org/curso/15/fail-fast-succeed-faster)
 
 Gostou das novidades? deixe um recado pra gente e compartilhe com os amigos.

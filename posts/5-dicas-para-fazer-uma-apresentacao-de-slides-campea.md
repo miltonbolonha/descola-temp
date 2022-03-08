@@ -47,6 +47,6 @@ Uma boa fotografia ou ilustração pode ser essencial para chamar atenção da p
 
 Lembre-se: as imagens não são meros enfeites, elas devem adicionar informações tal como qualquer texto ou citação.
 
-Pronto para montar uma apresentação campeã? As nossas dicas trazem o básico, o bê-a-bá para chegar lá. No entanto, montamos o curso para você colocar em prática essas e muitas outras dicas. Conheça o [**Arquitetura de Conteúdo**](http://descola.org/curso/8/cozinhando-seu-conteudo) e depois conte para nós o que achou 😉
+Pronto para montar uma apresentação campeã? As nossas dicas trazem o básico, o bê-a-bá para chegar lá. No entanto, montamos o curso para você colocar em prática essas e muitas outras dicas. Conheça o [**Arquitetura de Conteúdo**](https://descola.org/curso/8/cozinhando-seu-conteudo) e depois conte para nós o que achou 😉
 
 <div></div>Mas se você estiver preparado para realmente ser um mestre das apresentações, e além de criar boas apresentações em powerpoint quiser saber como ter um discurso perfeito, contar uma história envolvente que além de um slide bonito engaje seu público nossa recomendação vai para a track Mestre das apresentações: **<https://descola.org/track/mestre-das-apresentacoes>**. Uma track completa para você melhorar muito sua fala, sua história e claro, sua apresentação!

@@ -42,6 +42,6 @@ Você é fera no inglês mas não sai do _bonjour_ no francês? Ofereça aulas d
 
 Uma ótima opção para quem tem uma agenda complicada e precisa de flexibilidade, os cursos online podem oferecer a certificação necessária para complementar o seu currículo: aquela vaga que você está de olho exige habilidades no Photoshop? Está pensando em aprimorar o que já sabe de PowerPoint, pois usa essa ferramenta com frequência no trabalho? Quer saber como vender melhor aquele seu projeto pessoal?
 
-Aproveite as [plataformas de ensino online](http://descola.org/) para tirar da frente dificuldades que impedem o seu desenvolvimento. Além de serem opções menos dispendiosas, os cursos virtuais podem ser acessados de qualquer lugar e facilitam a consulta ao material de trabalho.
+Aproveite as [plataformas de ensino online](https://descola.org/) para tirar da frente dificuldades que impedem o seu desenvolvimento. Além de serem opções menos dispendiosas, os cursos virtuais podem ser acessados de qualquer lugar e facilitam a consulta ao material de trabalho.
 
 Já aprendeu alguma coisa na internet? O quê? Como? Conte para a gente nos comentários, estamos curiosos para saber o que as pessoas vêm aprendendo pela web!

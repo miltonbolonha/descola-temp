@@ -19,23 +19,23 @@ No entanto, vamos focar no lado mais positivo dessa história: que tal conhecer 
 
 ## **1. SnuggWugg**
 
-Com uma visão única, essa empresa olhou para um problema simples e comum no dia a dia dos pais – trocar fraldas – e propôs uma solução inusitada: [travesseiros interativos](http://www.snuggwugg.com/). Afinal, nada pior para trocar as fraldas enquanto o bebê está agitado. A ideia é que o travesseiro distraia a criança durante a troca, fazendo com que ela fique concentrada no travesseiro, e não em dar aquele drible nos pais, que terão mais tranquilidade na tarefa.
+Com uma visão única, essa empresa olhou para um problema simples e comum no dia a dia dos pais – trocar fraldas – e propôs uma solução inusitada: [travesseiros interativos](https://www.snuggwugg.com/). Afinal, nada pior para trocar as fraldas enquanto o bebê está agitado. A ideia é que o travesseiro distraia a criança durante a troca, fazendo com que ela fique concentrada no travesseiro, e não em dar aquele drible nos pais, que terão mais tranquilidade na tarefa.
 
 ## **2. Aqua Storage**
 
 Situações de desastres naturais não são tão comuns por aqui, mas, em alguns países do exterior, furacões, terremotos, e outros podem ocorrer com certa frequência.
 
-Pensando nisso, a Aqua Storage criou o [Aqua Pod Kit](http://www.aquapodkit.com/), usado para guardar água em reservatórios para esse tipo de emergência. A parte inovadora? O sistema utiliza a banheira da sua casa para realizar esse processo. Simples e bom, não?
+Pensando nisso, a Aqua Storage criou o [Aqua Pod Kit](https://www.aquapodkit.com/), usado para guardar água em reservatórios para esse tipo de emergência. A parte inovadora? O sistema utiliza a banheira da sua casa para realizar esse processo. Simples e bom, não?
 
 ## **3. VisionQuest 20/20**
 
 Quem disse que busca inovação só quem visa lucros? A próxima empresa da nossa lista é uma organização sem fins lucrativos.
 
-Todos nós sabemos que crianças muitas vezes têm resistência aos médicos, e com o oftalmologista não seria diferente. A [VisionQuest](http://www.visionquest2020.org/) inovou na criação de um programa de computador que avalia a visão de crianças enquanto elas jogam um game. Já viu forma mais fácil de levar seu filho a um exame do que sentá-lo para fazer o que ele mais gosta?
+Todos nós sabemos que crianças muitas vezes têm resistência aos médicos, e com o oftalmologista não seria diferente. A [VisionQuest](https://www.visionquest2020.org/) inovou na criação de um programa de computador que avalia a visão de crianças enquanto elas jogam um game. Já viu forma mais fácil de levar seu filho a um exame do que sentá-lo para fazer o que ele mais gosta?
 
 ## **4. Able Planet**
 
-Se você, assim como a maioria das pessoas, precisa de silencio para, por exemplo, estudar, então ficará empolgado com a novidade dessa organização! Do tamanho de uma moeda de dez centavos, a [Able Planet](http://ableplanet.com/) — empresa especializada em aparelhos de escuta para deficientes auditivos — lançou um dispositivo capaz de cancelar os ruídos do ambiente.
+Se você, assim como a maioria das pessoas, precisa de silencio para, por exemplo, estudar, então ficará empolgado com a novidade dessa organização! Do tamanho de uma moeda de dez centavos, a [Able Planet](https://ableplanet.com/) — empresa especializada em aparelhos de escuta para deficientes auditivos — lançou um dispositivo capaz de cancelar os ruídos do ambiente.
 
 ## **5. Kickstarter**
 

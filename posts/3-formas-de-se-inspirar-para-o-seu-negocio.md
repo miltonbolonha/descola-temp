@@ -18,7 +18,7 @@ Iniciar um negócio não é uma tarefa fácil. Requer planejamento, investimento
 
 Os livros possuem a grande capacidade de inspirar pessoas nos mais diversos segmentos da vida. E nos negócios isso não é diferente. Aos novos empreendedores, fica a dica: leiam muito! Conheça algumas obras:
 
-![imagens-filmes](http://s3-sa-east-1.amazonaws.com/drops-cdn/drops-new/wp-content/uploads/2014/12/17123338/imagens-filmes.png)
+![imagens-filmes](https://s3-sa-east-1.amazonaws.com/drops-cdn/drops-new/wp-content/uploads/2014/12/17123338/imagens-filmes.png)
 
 - A Arte da Guerra – Sun Tzu
 - A Lei do Triunfo – Napoleon Hill
@@ -30,7 +30,7 @@ Os livros possuem a grande capacidade de inspirar pessoas nos mais diversos segm
 
 Além dos dos livros, alguns filmes também podem inspirar. São alguns exemplos:
 
-![imagens-livros](http://s3-sa-east-1.amazonaws.com/drops-cdn/drops-new/wp-content/uploads/2014/12/17123338/imagens-livros.png)
+![imagens-livros](https://s3-sa-east-1.amazonaws.com/drops-cdn/drops-new/wp-content/uploads/2014/12/17123338/imagens-livros.png)
 
 - À Procura da Felicidade (2006)
 - A Rede Social (2010)
