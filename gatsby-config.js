@@ -36,17 +36,6 @@ module.exports = {
 		`gatsby-plugin-offline`,
 		`gatsby-plugin-react-helmet`,
 		{
-			resolve: `gatsby-business-in-build`,
-			options: {
-				name: businessInfos.clientOrg,
-				version: businessInfos.version,
-				developer: 'Milton Bolonha',
-				project: 'Gatsby Business in Build',
-				url: businessInfos.clientSite,
-				message: 'Você está aqui.',
-			},
-		},
-		{
 			resolve: 'gatsby-plugin-page-creator',
 			options: {
 				path: path.join(__dirname, 'src/pages'),
