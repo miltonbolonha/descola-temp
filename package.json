@@ -10,10 +10,10 @@
 	},
 	"organization": {
 		"name": "Descola",
-		"url": "https://descola.org/",
+		"url": "https://descola-blog.netlify.app/",
 		"email": "descola@descola.com.br"
 	},
-	"repository": "https://github.com/miltonbolonha/descola-tema",
+	"repository": "https://github.com/grpaiva/descola-blog",
 	"urlPrefix": "/",
 	"keywords": [
 		"descola",
@@ -30,7 +30,7 @@
 	"siteUrl": "https://blog.descola.org",
 	"clientOrg": "Descola",
 	"clientShortName": "Descola",
-	"clientSite": "https://descola.org/",
+	"clientSite": "https://descola-blog.netlify.app/",
 	"clientSocial": {
 		"instagram": "https://www.instagram.com/descolagram/",
 		"facebook": "https://www.facebook.com/descolasp/",
