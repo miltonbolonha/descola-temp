@@ -1,6 +1,6 @@
 ![example workflow](https://github.com/nuktpls/boilerplate/actions/workflows/develop.yaml/badge.svg)
 
-# boilerplate
+# boilerplates
 
 Edu4Dev boilerplate
 
