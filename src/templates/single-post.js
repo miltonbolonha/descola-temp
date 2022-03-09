@@ -25,15 +25,6 @@ const SinglePost = ({ data }) => {
 				articleBody: post.html,
 			}}
 		>
-			<HeaderBlock logotipoSvg={<DescolaLogo />} />
-			<SinglePostBlock
-				imgHolder={data.imgHolder}
-				date={post.frontmatter.date}
-				author={post.frontmatter.author}
-				html={post.html}
-				title={post.frontmatter.title}
-				tags={post.frontmatter.tags}
-			/>
 			<FooterBlock
 				footerLogo={<DescolaLogoDark />}
 				featurePosts={data.allMarkdownRemark.edges}

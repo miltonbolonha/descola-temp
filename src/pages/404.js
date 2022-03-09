@@ -20,7 +20,6 @@ const ErrorPage = ({ data }) => {
 				schemaType: 'blog',
 			}}
 		>
-			<HeaderBlock logotipoSvg={<DescolaLogo />} />
 			<Layout
 				type="ROW"
 				opt={{ isBoxed: true, classes: 'main-container-wrapper' }}
@@ -29,16 +28,6 @@ const ErrorPage = ({ data }) => {
 					<h1>Erro 404</h1>
 					<p>Você não deveria estar aqui.</p>
 					<br />
-					<PostsBlock
-						postsPerPage={data.site.siteMetadata.postsPerPage}
-						postList={posts}
-						typeLoad={'push'} // or false
-						readMoreText="Ler Mais"
-						pagination={{
-							loadMoreBtn: true,
-							loadMore: 'Ler Mais',
-						}}
-					/>
 				</main>
 			</Layout>
 			<FooterBlock

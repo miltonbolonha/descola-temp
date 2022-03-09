@@ -21,24 +21,12 @@ const IndexPage = ({ data }) => {
 				blogListing: posts.slice(0, 9),
 			}}
 		>
-			<HeaderBlock logotipoSvg={<DescolaLogo />} />
 			<Layout
 				type="ROW"
 				opt={{ isBoxed: true, classes: 'main-container-wrapper' }}
 			>
 				<main className="main-container">
 					<h1>Posts</h1>
-
-					<PostsBlock
-						postsPerPage={data.site.siteMetadata.postsPerPage}
-						postList={posts}
-						typeLoad={'push'} // or false
-						readMoreText="Ler Mais"
-						pagination={{
-							loadMoreBtn: true,
-							loadMore: 'Ler Mais',
-						}}
-					/>
 				</main>
 			</Layout>
 			<FooterBlock

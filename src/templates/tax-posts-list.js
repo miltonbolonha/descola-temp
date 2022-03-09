@@ -22,22 +22,12 @@ const TagsList = (props) => {
 				blogListing: tagList.slice(0, 9),
 			}}
 		>
-			<HeaderBlock logotipoSvg={<DescolaLogo />} />
 			<Layout
 				type="ROW"
 				opt={{ isBoxed: true, classes: 'main-container-wrapper' }}
 			>
 				<main className="main-container">
 					<h1>Posts da Tag: {props.pageContext.tag}</h1>
-					<PostsBlock
-						postList={tagList}
-						postsPerPage={props.data.site.siteMetadata.postsPerPage}
-						readMoreText="Ler Mais"
-						pagination={{
-							loadMoreBtn: true,
-							loadMore: 'Ler Mais',
-						}}
-					/>
 				</main>
 			</Layout>
 			<FooterBlock
