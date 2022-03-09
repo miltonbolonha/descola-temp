@@ -36,17 +36,6 @@ module.exports = {
 		`gatsby-plugin-offline`,
 		`gatsby-plugin-react-helmet`,
 		{
-			resolve: `gatsby-business-in-build`,
-			options: {
-				name: businessInfos.clientOrg,
-				version: businessInfos.version,
-				developer: 'Milton Bolonha',
-				project: 'Gatsby Business in Build',
-				url: businessInfos.clientSite,
-				message: 'Você está aqui.',
-			},
-		},
-		{
 			resolve: 'gatsby-plugin-page-creator',
 			options: {
 				path: path.join(__dirname, 'src/pages'),
@@ -144,16 +133,7 @@ module.exports = {
 				display: 'swap',
 			},
 		},
-		{
-			resolve: `gatsby-plugin-netlify`,
-			options: {
-				mergeSecurityHeaders: true, // boolean to turn off the default security headers
-				mergeLinkHeaders: true, // boolean to turn off the default gatsby js headers
-				mergeCachingHeaders: true, // boolean to turn off the default caching headers
-				transformHeaders: (headers, path) => headers, // optional transform for manipulating headers under each path (e.g.sorting), etc.
-				generateMatchPathRewrites: true, // boolean to turn off automatic creation of redirect rules for client only paths
-			},
-		},
+		`gatsby-plugin-netlify`,
 		`gatsby-plugin-netlify-cms`,
 		{
 			resolve: 'gatsby-plugin-google-tagmanager',
