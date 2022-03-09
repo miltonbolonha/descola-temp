@@ -1,5 +1,5 @@
-import { React, useRef } from '../dependencies'
-import useListenOutsideEvents from '../../../tools/useListenOutsideEvents'
+import React, { useRef } from 'react'
+// import useListenOutsideEvents from '../../../tools/useListenOutsideEvents'
 
 import Menu from '../components/Menu'
 
@@ -21,13 +21,13 @@ const MenuContainer = (props) => {
 			clickElement: '.menu-wrapper',
 		},
 	}
-	useListenOutsideEvents(toggleConfig)
-	const isVisibleClass = toggleConfig.refState ? 'visible' : 'not-visible'
+	// useListenOutsideEvents(toggleConfig)
+	// const isVisibleClass = toggleConfig.refState ? 'visible' : 'not-visible'
 	// const ariaVisible = toggleConfig.refState ? 'true' : 'false'
 	return (
 		<Menu
 			wrapperRef={toggleConfig.wrapperRef}
-			isVisibleClass={isVisibleClass}
+			// isVisibleClass={isVisibleClass}
 		/>
 	)
 }
