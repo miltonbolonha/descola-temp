@@ -1,14 +1,13 @@
 backend:
   name: github
-  repo: grpaiva/descola-blog
+  repo: miltonbolonha/descola-temp
 
-site_url: https://descola-blog.netlify.app
+site_url: https://temp-descola.netlify.app/
 
 # local_backend: true
-media_folder: public/static/images
-public_folder: /static/images
-
 publish_mode: editorial_workflow
+media_folder: static/images
+public_folder: images
 
 slug:
   encoding: 'ascii'
