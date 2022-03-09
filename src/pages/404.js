@@ -7,10 +7,8 @@ import DescolaLogoDark from '../../static/images/descola-logo-dark.svg'
 import Layout from '@Layout'
 import HeaderBlock from '@BlockBuilder/HeaderBlock'
 import FooterBlock from '@BlockBuilder/FooterBlock'
-import PostsBlock from '@BlockBuilder/PostsBlock'
 
 const ErrorPage = ({ data }) => {
-	const posts = data.allMarkdownRemark.edges
 	return (
 		<Layout
 			type="BODY"
@@ -34,7 +32,6 @@ const ErrorPage = ({ data }) => {
 			<FooterBlock
 				footerLogo={<DescolaLogoDark />}
 				featurePosts={data.footerThreeMarkdowRemark.edges}
-				postsForTags={posts}
 			/>
 		</Layout>
 	)

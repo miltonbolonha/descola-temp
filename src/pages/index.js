@@ -43,7 +43,6 @@ const IndexPage = ({ data }) => {
 			<FooterBlock
 				footerLogo={<DescolaLogoDark />}
 				featurePosts={data.footerThreeMarkdowRemark.edges}
-				postsForTags={posts}
 			/>
 		</Layout>
 	)
