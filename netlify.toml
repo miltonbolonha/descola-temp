@@ -1,5 +1,6 @@
 [build]
-    command = "gatsby build"
+    command = "CI= npm run build"
     publish = "public"
+	  base = "client"
 [build.environment]
   NODE_VERSION = "16.14.0"

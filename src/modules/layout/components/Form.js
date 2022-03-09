@@ -28,7 +28,6 @@ export default function Form({
 					method="post"
 					id="mc-embedded-subscribe-form"
 					name="mc-embedded-subscribe-form"
-					target="_blank"
 					onSubmit={(e) => handleSubmit(e, email, honey)}
 					noValidate
 				>
