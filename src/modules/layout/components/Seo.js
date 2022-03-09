@@ -1,4 +1,5 @@
-import { React, Helmet } from '../dependencies'
+import React from 'react'
+import Helmet from 'react-helmet'
 import SchemaOrg from './SchemaOrg'
 
 const Seo = ({

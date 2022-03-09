@@ -1,4 +1,4 @@
-import { React, useState } from '../dependencies'
+import React, { useState } from 'react'
 // import { useStaticQuery, graphql } from 'gatsby'
 
 import Footer from '../components/Footer'

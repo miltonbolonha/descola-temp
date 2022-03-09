@@ -4,11 +4,11 @@ import { graphql } from 'gatsby'
 import DescolaLogo from '../../static/images/descola-logo.svg'
 import DescolaLogoDark from '../../static/images/descola-logo-dark.svg'
 
-import Layout from '../modules/layout'
-import FooterBlock from '../modules/block-builder/FooterBlock'
-import HeaderBlock from '../modules/block-builder/HeaderBlock'
+import Layout from '@Layout'
+import HeaderBlock from '@BlockBuilder/HeaderBlock'
+import FooterBlock from '@BlockBuilder/FooterBlock'
 
-import SinglePostBlock from '../modules/block-builder/SinglePostBlock'
+import SinglePostBlock from '@BlockBuilder/SinglePostBlock'
 
 const SinglePost = ({ data }) => {
 	const post = data.markdownRemark

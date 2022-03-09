@@ -4,13 +4,11 @@ import { graphql } from 'gatsby'
 import DescolaLogo from '../../static/images/descola-logo.svg'
 import DescolaLogoDark from '../../static/images/descola-logo-dark.svg'
 
-import Layout from '../modules/layout'
-import HeaderBlock from '../modules/block-builder/HeaderBlock'
-import FooterBlock from '../modules/block-builder/FooterBlock'
-import PostsBlock from '../modules/block-builder/PostsBlock'
+import Layout from '@Layout'
+import HeaderBlock from '@BlockBuilder/HeaderBlock'
+import FooterBlock from '@BlockBuilder/FooterBlock'
 
 const ErrorPage = ({ data }) => {
-	const posts = data.allMarkdownRemark.edges
 	return (
 		<Layout
 			type="BODY"
@@ -29,22 +27,11 @@ const ErrorPage = ({ data }) => {
 					<h1>Erro 404</h1>
 					<p>Você não deveria estar aqui.</p>
 					<br />
-					<PostsBlock
-						postsPerPage={data.site.siteMetadata.postsPerPage}
-						postList={posts}
-						typeLoad={'push'} // or false
-						readMoreText="Ler Mais"
-						pagination={{
-							loadMoreBtn: true,
-							loadMore: 'Ler Mais',
-						}}
-					/>
 				</main>
 			</Layout>
 			<FooterBlock
 				footerLogo={<DescolaLogoDark />}
 				featurePosts={data.footerThreeMarkdowRemark.edges}
-				postsForTags={posts}
 			/>
 		</Layout>
 	)
@@ -56,32 +43,6 @@ export const queryAtividade = graphql`
 		site {
 			siteMetadata {
 				postsPerPage
-			}
-		}
-
-		allMarkdownRemark(sort: { fields: frontmatter___date, order: DESC }) {
-			edges {
-				node {
-					fields {
-						slug
-					}
-					frontmatter {
-						date(formatString: "DD [de] MMMM [de] YYYY", locale: "pt-br")
-						title
-						tags
-						featuredImage {
-							childrenImageSharp {
-								gatsbyImageData(
-									width: 350
-									height: 224
-									placeholder: DOMINANT_COLOR
-									quality: 90
-								)
-							}
-						}
-					}
-					excerpt(pruneLength: 200)
-				}
 			}
 		}
 

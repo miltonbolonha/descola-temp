@@ -4,10 +4,10 @@ import { graphql } from 'gatsby'
 import DescolaLogo from '../../static/images/descola-logo.svg'
 import DescolaLogoDark from '../../static/images/descola-logo-dark.svg'
 
-import Layout from '../modules/layout'
-import HeaderBlock from '../modules/block-builder/HeaderBlock'
-import FooterBlock from '../modules/block-builder/FooterBlock'
-import PostsBlock from '../modules/block-builder/PostsBlock'
+import Layout from '@Layout'
+import HeaderBlock from '@BlockBuilder/HeaderBlock'
+import FooterBlock from '@BlockBuilder/FooterBlock'
+import PostsBlock from '@BlockBuilder/PostsBlock'
 
 const IndexPage = ({ data }) => {
 	const posts = data.allMarkdownRemark.edges
@@ -28,7 +28,6 @@ const IndexPage = ({ data }) => {
 			>
 				<main className="main-container">
 					<h1>Posts</h1>
-
 					<PostsBlock
 						postsPerPage={data.site.siteMetadata.postsPerPage}
 						postList={posts}
@@ -44,7 +43,6 @@ const IndexPage = ({ data }) => {
 			<FooterBlock
 				footerLogo={<DescolaLogoDark />}
 				featurePosts={data.footerThreeMarkdowRemark.edges}
-				postsForTags={posts}
 			/>
 		</Layout>
 	)

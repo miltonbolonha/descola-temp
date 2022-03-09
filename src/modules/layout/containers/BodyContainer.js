@@ -1,5 +1,5 @@
 // eslint-disable-next-line
-import { React, PropTypes } from '../dependencies.js'
+import React from 'react'
 
 import SeoContainer from '../containers/SeoContainer'
 import GlobalContext from '../services/context'
