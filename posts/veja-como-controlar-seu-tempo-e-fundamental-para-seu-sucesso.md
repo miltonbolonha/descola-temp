@@ -39,7 +39,7 @@ Se você se acostumou a dizer sim a todos os pedidos de chefes ou amigos, chegou
 
 ## **Otimize trabalhos e cursos com novas ferramentas**
 
-Se você mora em um grande centro urbano, provavelmente deve passar muito tempo em deslocamentos. Ir ao trabalho, à universidade e voltar para casa. Muitas vezes, perdemos facilmente 2 horas nesses trajetos. Mas, isso também pode ser otimizado! Tente mudar hábitos e marcar reuniões não-presenciais, via Skype ou Google Hangouts. Você verá como seu tempo renderá mais. Além disso, conte com nossa ajuda se o tema é educação ;). Dê uma olhada nos **[cursos](http://descola.org/cursos)** sobre criatividade, negócios e tecnologias que oferecemos. Além de práticos, você pode fazê-los de casa ou de onde estiver.
+Se você mora em um grande centro urbano, provavelmente deve passar muito tempo em deslocamentos. Ir ao trabalho, à universidade e voltar para casa. Muitas vezes, perdemos facilmente 2 horas nesses trajetos. Mas, isso também pode ser otimizado! Tente mudar hábitos e marcar reuniões não-presenciais, via Skype ou Google Hangouts. Você verá como seu tempo renderá mais. Além disso, conte com nossa ajuda se o tema é educação ;). Dê uma olhada nos **[cursos](https://descola.org/cursos)** sobre criatividade, negócios e tecnologias que oferecemos. Além de práticos, você pode fazê-los de casa ou de onde estiver.
 
 Essas são sugestões simples que você pode incorporar no seu cotidiano e, assim, controlar melhor o seu tempo, tanto na vida profissional quanto pessoal. Os benefícios de uma boa gestão do tempo garantem mais produtividade, planejamento e controle das tarefas e objetivos. Além, é claro, de permitir um tempo livre na agenda, o que vai refletir diretamente em sua qualidade de vida.
 

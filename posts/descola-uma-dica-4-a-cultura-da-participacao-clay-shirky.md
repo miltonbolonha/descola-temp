@@ -17,6 +17,6 @@ O autor disserta sobre o poder transformador que nos foi dado através da Intern
 
 > Com a experiência de quem trabalha na mídia colaborativa desde o início da web, Shirky explica como participar ativamente da criação de novas ferramentas digitais.
 
-Você pode encontrar o livro na [Saraiva](http://www.saraiva.com.br/a-cultura-da-participacao-criatividade-e-generosidade-no-mundo-conectado-3424245.html).
+Você pode encontrar o livro na [Saraiva](https://www.saraiva.com.br/a-cultura-da-participacao-criatividade-e-generosidade-no-mundo-conectado-3424245.html).
 
 Além da dica, a gente deixa aqui também o mais novo curso gratuito da Descola: [Economia Colaborativa](https://descola.org/curso/economia-colaborativa). Aprenda conceitos importantes, como a economia tradicional X economia colaborativa, desenvolvimento sustentável, homem econômico e muito mais. É só acessar o link e se cadastrar gratuitamente. 🙂

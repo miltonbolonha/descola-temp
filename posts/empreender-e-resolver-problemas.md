@@ -30,9 +30,9 @@ Ele representa uma problemática que também pode ser associada ao empreendedori
 
 Mas, a verdade é que todas as pessoas são capazes de empreender e alterar suas próprias realidades. O ideal é mostrar casos de sucesso que servem como motivação e dão aquele empurrãozinho que todos precisam.
 
-Temos o caso do “[Imagina na Copa](http://imaginanacopa.com.br/)”, um projeto de mobilização social que nasceu antes da Copa de 2014 para suprir algumas necessidades do país. Partindo daquele pessimismo que todos tinham em relação à Copa, a iniciativa reuniu diversos projetos, mais de 70 ao final, e os divulgou de forma ampla em todo território nacional.
+Temos o caso do “[Imagina na Copa](https://imaginanacopa.com.br/)”, um projeto de mobilização social que nasceu antes da Copa de 2014 para suprir algumas necessidades do país. Partindo daquele pessimismo que todos tinham em relação à Copa, a iniciativa reuniu diversos projetos, mais de 70 ao final, e os divulgou de forma ampla em todo território nacional.
 
-Outro caso é o [Batuque do Coração](http://imaginanacopa.com.br/historias/historia-44/), uma iniciativa de jovens cearenses que inspira as pessoas através da arte. O empreendedor do projeto Felipe Rima, que também se intitula poeta, via na juventude o crime como único futuro de sucesso. Isso mudou, e hoje ele leva sua equipe a escolas públicas contando histórias de superação e motivando os jovens.
+Outro caso é o [Batuque do Coração](https://imaginanacopa.com.br/historias/historia-44/), uma iniciativa de jovens cearenses que inspira as pessoas através da arte. O empreendedor do projeto Felipe Rima, que também se intitula poeta, via na juventude o crime como único futuro de sucesso. Isso mudou, e hoje ele leva sua equipe a escolas públicas contando histórias de superação e motivando os jovens.
 
 ## **Aposte em suas ideias, mas antes, estruture-as!**
 
@@ -40,9 +40,9 @@ A hora de empreender é agora. Procure casos de sucesso que mais se assemelham a
 
 Aqui mesmo na Descola, te damos dois grandes caminhos para chegar lá:
 
-1º – Nosso curso **[Do Bar ao Mercado](http://www.descola.org/curso/1/do-bar-ao-mercado)**. É gratuito e abrirá sua cabeça com 3 exemplos de diferentes empreendedores e como levá-los adiante.
+1º – Nosso curso **[Do Bar ao Mercado](https://www.descola.org/curso/1/do-bar-ao-mercado)**. É gratuito e abrirá sua cabeça com 3 exemplos de diferentes empreendedores e como levá-los adiante.
 
-2º – O curso **[Business Model Canvas](http://descola.org/curso/14/business-model-canvas)** que acabamos de lançar. Já se inspirou e tem uma ideia? Que tal testar modelá-la como fazem grandes empresas e startups de sucesso hoje? Nesse curso prático, te ensinamos como dominar o Canvas, a ferramenta que te ajudará a guiar toda a entrega de valor do seu negócio.
+2º – O curso **[Business Model Canvas](https://descola.org/curso/14/business-model-canvas)** que acabamos de lançar. Já se inspirou e tem uma ideia? Que tal testar modelá-la como fazem grandes empresas e startups de sucesso hoje? Nesse curso prático, te ensinamos como dominar o Canvas, a ferramenta que te ajudará a guiar toda a entrega de valor do seu negócio.
 
 Além disso, por mais clichê que pareça, não deixe de acreditar em seus sonhos.
 

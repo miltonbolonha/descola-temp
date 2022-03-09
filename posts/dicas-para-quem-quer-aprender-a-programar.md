@@ -9,7 +9,7 @@ tags:
 featuredImage: ../static/images/code3.jpg
 ---
 
-Hoje em dia existem várias iniciativas para que as pessoas aprendam a programar. Como por exemplo a [Hour of Code](https://hourofcode.com/) que rodou o mundo com [esse vídeo aqui](https://www.youtube.com/watch?v=nKIu9yen5nc), ou a [Codecademy](https://www.codecademy.com/) que oferece cursos gratuitos para quem quiser aprender. É verdade, é uma habilidade muito desejável independente da área que você trabalha, seja para melhor entender o mundo em que vivemos, para poder se comunicar melhor com equipes técnicas ou até porque você gosta do bom e velho DIY (leia mais sobre a revolução do “Do it yourself” [aqui](http://descola.org/drops/diy-a-revolucao-do-faca-voce-mesmo/)).
+Hoje em dia existem várias iniciativas para que as pessoas aprendam a programar. Como por exemplo a [Hour of Code](https://hourofcode.com/) que rodou o mundo com [esse vídeo aqui](https://www.youtube.com/watch?v=nKIu9yen5nc), ou a [Codecademy](https://www.codecademy.com/) que oferece cursos gratuitos para quem quiser aprender. É verdade, é uma habilidade muito desejável independente da área que você trabalha, seja para melhor entender o mundo em que vivemos, para poder se comunicar melhor com equipes técnicas ou até porque você gosta do bom e velho DIY (leia mais sobre a revolução do “Do it yourself” [aqui](https://descola.org/drops/diy-a-revolucao-do-faca-voce-mesmo/)).
 
 > _Aprender a programar exercita sua mente e te ajuda a pensar melhor. Desenvolve um jeito de pensar nas coisas que, na minha opinião, ajuda em qualquer domínio. Bill Gates_
 
@@ -34,7 +34,7 @@ Seja assistindo a um curso, lendo um tutorial ou mesmo criando um novo projeto, 
 As linguagens de programação evoluem tão rápido, que você precisa se acostumar a estar sempre aprendendo. E isso é ótimo.
 
 **Você vai amar o Stack Overflow**
-Você pode não saber o que isso significa hoje, mas em sua primeira dúvida a respeito de programação vai acabar caindo no [Stack Overflow](http://stackoverflow.com/). Ele é o maior companheiro do desenvolvedor.
+Você pode não saber o que isso significa hoje, mas em sua primeira dúvida a respeito de programação vai acabar caindo no [Stack Overflow](https://stackoverflow.com/). Ele é o maior companheiro do desenvolvedor.
 
 **Divirta-se**
 Desde a primeira vez que fiz um computador exibir a mensagem “Hello World!”, sempre me diverti muito. O mundo da programação é fascinante, apesar de desafiador. Se você não estiver se divertindo, talvez não seja para você (o que aliás, tudo bem né? tenho certeza que você é bom em tantas outras coisas).

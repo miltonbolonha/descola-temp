@@ -44,6 +44,6 @@ A possibilidade de fracassar pode, muitas vezes, impedir que a gente comece qual
 
 E então, o que achou das dicas? Acha que consegue adotar algumas dessas estratégias? Escreva pra gente nos comentários, conte-nos quais dos seus hábitos são verdadeiros combustíveis para inovação.
 
-Nós da Descola acreditamos no poder da inovação para impulsionar pessoas e empresas. Conheça **[nossos cursos](http://descola.org/cursos)** sobre negócios e criatividade, feitos para expandir seu horizonte e ajudá-lo a inovar.
+Nós da Descola acreditamos no poder da inovação para impulsionar pessoas e empresas. Conheça **[nossos cursos](https://descola.org/cursos)** sobre negócios e criatividade, feitos para expandir seu horizonte e ajudá-lo a inovar.
 
 Acompanhe nossa página e nos vemos em breve!

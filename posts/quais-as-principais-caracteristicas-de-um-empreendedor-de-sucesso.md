@@ -17,11 +17,11 @@ Mas então que características são essas? Listamos a seguir.
 
 ## Iniciativa
 
-A característica mais comum de um empreendedor é a iniciativa. Ele tem a capacidade de [identificar lacunas](http://descola.org/drops/empreender-e-resolver-problemas/) no mercado que muitos empresários bem-sucedidos não conseguem enxergar porque estão preocupados com seu negócio. A iniciativa é o primeiro passo, mas precisa estar alinhada a outras características. Ela não resolve tudo.
+A característica mais comum de um empreendedor é a iniciativa. Ele tem a capacidade de [identificar lacunas](https://descola.org/drops/empreender-e-resolver-problemas/) no mercado que muitos empresários bem-sucedidos não conseguem enxergar porque estão preocupados com seu negócio. A iniciativa é o primeiro passo, mas precisa estar alinhada a outras características. Ela não resolve tudo.
 
 ## Planejamento
 
-A capacidade de planejamento é uma característica muito forte em um empreendedor de sucesso. Ele vai estabelecer metas e monitorá-las com frequência. É fundamental projetar o seu empreendimento por meio de um [plano de negócios](http://descola.org/drops/aprenda-a-montar-um-plano-de-negocios-e-comece-a-empreender-com-o-pe-direito/) e consultá-lo sempre que o rumo da empresa ameace sair dos trilhos.
+A capacidade de planejamento é uma característica muito forte em um empreendedor de sucesso. Ele vai estabelecer metas e monitorá-las com frequência. É fundamental projetar o seu empreendimento por meio de um [plano de negócios](https://descola.org/drops/aprenda-a-montar-um-plano-de-negocios-e-comece-a-empreender-com-o-pe-direito/) e consultá-lo sempre que o rumo da empresa ameace sair dos trilhos.
 
 ## Paixão
 
@@ -33,7 +33,7 @@ A maré está indo para o outro lado e o futuro empresário ouve todos dizerem q
 
 ## Liderança
 
-Envolver pessoas numa ideia inovadora não é uma missão das mais fáceis. Como convencer alguém a acreditar em algo que nem sequer existe? Um empreendedor tem a liderança capaz de vencer esse desafio. Possui [caraterísticas de líder](http://descola.org/drops/12-atitudes-que-diferenciam-o-bom-lider-do-chefe-mediocre/), é capaz de conquistar a admiração de sua equipe e envolvê-la no projeto.
+Envolver pessoas numa ideia inovadora não é uma missão das mais fáceis. Como convencer alguém a acreditar em algo que nem sequer existe? Um empreendedor tem a liderança capaz de vencer esse desafio. Possui [caraterísticas de líder](https://descola.org/drops/12-atitudes-que-diferenciam-o-bom-lider-do-chefe-mediocre/), é capaz de conquistar a admiração de sua equipe e envolvê-la no projeto.
 
 ## Perseverança
 
@@ -47,4 +47,4 @@ Uma startup geralmente tem menos recursos disponíveis para se manter. Isso não
 
 Um empreendedor raramente se sente esgotado em correr atrás do seu sonho. Ele está sempre investindo em capacitação e mantém uma vasta rede de contatos. Está presente em cursos, palestras, seminários e possui mentores. Se desenvolve, tira dúvidas e se antecipa às novidades.
 
-E você, já tem sua ideia mas não sabe por onde começar a transformá-la em realidade? Leia esse outro [artigo](http://descola.org/drops/saiba-como-transformar-uma-boa-ideia-em-oportunidade/) e saiba como!
+E você, já tem sua ideia mas não sabe por onde começar a transformá-la em realidade? Leia esse outro [artigo](https://descola.org/drops/saiba-como-transformar-uma-boa-ideia-em-oportunidade/) e saiba como!

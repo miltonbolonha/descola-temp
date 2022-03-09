@@ -69,10 +69,10 @@ Quando existe uma data limite ou um objetivo específico a ser alcançado, a ten
 
 O indivíduo criativo vive com neurônios em ebulição e tem ideias o tempo inteiro. Então, para não perder nada, é sempre bom ter ao alcance um bloco de notas e uma caneta. Se você é do tipo que não abre mão da tecnologia e vive apegado ao smartphone, aqui vão alguns apps que podem ajudar você a guardar seus _insights_:
 
-- [Any.Do](http://www.any.do/), que guarda notas e lembretes;
+- [Any.Do](https://www.any.do/), que guarda notas e lembretes;
 - [Evernote](https://evernote.com/), que te permite tirar _prints_, programar lembretes, dentre outras funções desse app multitarefa;
-- e o [SimpleMind](http://www.simpleapps.eu/simplemind/), ótimo para criar _mind mappings_ para facilitar o _brainstorming_.
+- e o [SimpleMind](https://www.simpleapps.eu/simplemind/), ótimo para criar _mind mappings_ para facilitar o _brainstorming_.
 
-Viu só como pequenos gestos podem contribuir para você exercitar a mente? A partir desse momento, você vai deixar de dizer que não é uma pessoa criativa ou sem estímulo. Quer mais? Dá uma olhada nos [**nossos cursos**.](http://www.descola.org/cursos) De design à cinema, passando por moda, tem muita coisa pra estimular sua criatividade.
+Viu só como pequenos gestos podem contribuir para você exercitar a mente? A partir desse momento, você vai deixar de dizer que não é uma pessoa criativa ou sem estímulo. Quer mais? Dá uma olhada nos [**nossos cursos**.](https://www.descola.org/cursos) De design à cinema, passando por moda, tem muita coisa pra estimular sua criatividade.
 
 Se você conhece alguma maneira diferente de estimular a criatividade, deixe um comentário!

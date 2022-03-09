@@ -15,7 +15,7 @@ featuredImage: ../static/images/comece_agora.jpg
 
 Ganhar qualificações, além de trazer um grande diferencial ao currículo, ficou mais fácil do que parece.
 
-Tempo, dinheiro, disponibilidade: nada disso é impedimento para quem quer se especializar. Os [**cursos online**](http://descola.org/cursos) se tornaram ferramentas muito acessíveis para quem quer estudar mais, seja por interesse pessoal ou para alavancar a carreira.
+Tempo, dinheiro, disponibilidade: nada disso é impedimento para quem quer se especializar. Os [**cursos online**](https://descola.org/cursos) se tornaram ferramentas muito acessíveis para quem quer estudar mais, seja por interesse pessoal ou para alavancar a carreira.
 
 Mas, é possível fazer um curso online mesmo tendo uma rotina agitada ou estando há muito tempo longe dos estudos?
 
@@ -54,6 +54,6 @@ Ao contrário do que se costuma pensar, o acesso virtual faz com que a comunica�
 
 Feitos para quem vive na urgência de hoje (ou seja, todos nós) os cursos online são uma alternativa moderna para quem quer aprender de outra maneira.
 
-Gostou? Que tal conhecer alguns dos [**cursos da Descola**](http://http://descola.org/cursos)? De [**empreendedorismo** ](http://http://descola.org/curso/14/business-model-canvas)à **[moda](http://http://descola.org/curso/9/moda-panorama-social)**, certamente falamos sobre temas que podem inspirar seus estudos e carreira.
+Gostou? Que tal conhecer alguns dos [**cursos da Descola**](https://https://descola.org/cursos)? De [**empreendedorismo** ](https://https://descola.org/curso/14/business-model-canvas)à **[moda](https://https://descola.org/curso/9/moda-panorama-social)**, certamente falamos sobre temas que podem inspirar seus estudos e carreira.
 
 Não se esqueça de comentar, compartilhando suas dúvidas e opinião.

@@ -35,7 +35,7 @@ A plataforma já conta com grandes lojas, como a Americanas, Casas Bahia, Saraiv
 
 ### Sense-Lab
 
-O [Sense-Lab](http://www.sense-lab.com/) não só vive a inovação social, bem como apoia iniciativas desse meio. Eles oferecem cursos, programas e também um serviço de consultoria para startups do setor. Segundo Andreas Ufer, um dos fundadores do negócio, um dos objetivos do Sense-Lab é “apoiar iniciativas do terceiro setor com gestão”.
+O [Sense-Lab](https://www.sense-lab.com/) não só vive a inovação social, bem como apoia iniciativas desse meio. Eles oferecem cursos, programas e também um serviço de consultoria para startups do setor. Segundo Andreas Ufer, um dos fundadores do negócio, um dos objetivos do Sense-Lab é “apoiar iniciativas do terceiro setor com gestão”.
 
 ![](https://descola.org/drops/wp-content/uploads/2018/01/sense-lab-1024x609.png)
 

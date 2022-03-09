@@ -1,4 +1,4 @@
-import { React, useState } from '../dependencies'
+import React, { useState } from 'react'
 const defaultState = {
 	pageNameState: 'Home',
 	handlePageName: null,

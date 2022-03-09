@@ -33,7 +33,7 @@ O [Slack](https://slack.com) também tem as mesmas funções do Trello em quest�
 
 # Google Docs
 
-Talvez você conheça o [Google Docs](http://www.google.com/docs/about/) como um substituto online e grátis para os programas do Pacote Office, mas ele brilha mesmo é na hora de trabalhar em conjunto com outras pessoas no mesmo arquivo. As edições são salvas em tempo real e a tela ainda te mostra quem está fazendo o quê, basta compartilhar o documento com quem você quiser e dar poderes de edição para a pessoa.
+Talvez você conheça o [Google Docs](https://www.google.com/docs/about/) como um substituto online e grátis para os programas do Pacote Office, mas ele brilha mesmo é na hora de trabalhar em conjunto com outras pessoas no mesmo arquivo. As edições são salvas em tempo real e a tela ainda te mostra quem está fazendo o quê, basta compartilhar o documento com quem você quiser e dar poderes de edição para a pessoa.
 
 Essa funcionalidade é muito útil para, por exemplo, fazer planilhas com informações de vários setores ao mesmo tempo; escrever um texto em conjunto com um colega; ou até mesmo anotar informações que precisam ser compartilhadas com toda a família, como a lista de compras da casa. Resumindo, é como se fosse uma versão multiplayer do Office!
 
@@ -43,7 +43,7 @@ Os escritórios de hoje estão cada vez mais vazios, já que, atualmente, quase 
 
 Tanto o famoso Skype quanto o Google Hangouts podem fazer videoconferências com uma interface intuitiva e que muda o foco automaticamente de acordo com quem está falando, mas ainda deixando todo mundo à vista na mesma tela. As companhias de calças sociais logo irão precisar começar a investir em webcams.
 
-Nós aqui da Descola temos o costume de nos reunir periodicamente utilizando o [Zoom](http://zoom.us/) (<http://zoom.us/>), da mesma forma que o próprio Skype ou Google Hangouts, ele é um serviço de videoconferência, mas a qualidade da conexão é melhor e funciona super bem pra gente!
+Nós aqui da Descola temos o costume de nos reunir periodicamente utilizando o [Zoom](https://zoom.us/) (<https://zoom.us/>), da mesma forma que o próprio Skype ou Google Hangouts, ele é um serviço de videoconferência, mas a qualidade da conexão é melhor e funciona super bem pra gente!
 
 # Evernote
 

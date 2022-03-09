@@ -55,6 +55,6 @@ E você, o que achou dessas dicas? Conte pra gente a sua opinião nos comentári
 
 ## Descola indica:
 
-[![track](http://descola.org/drops/wp-content/uploads/2016/01/track-300x144.png)](http://descola.org/track/2/empreendedorismo)
+[![track](https://descola.org/drops/wp-content/uploads/2016/01/track-300x144.png)](https://descola.org/track/2/empreendedorismo)
 
-Conheça mais a fundo as práticas do Empreendedorismo em nossa track com 3 cursos sobre o assunto. Clique [aqui](http://descola.org/track/2/empreendedorismo), se inscreva e mergulhe mais fundo!
+Conheça mais a fundo as práticas do Empreendedorismo em nossa track com 3 cursos sobre o assunto. Clique [aqui](https://descola.org/track/2/empreendedorismo), se inscreva e mergulhe mais fundo!

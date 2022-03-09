@@ -28,7 +28,7 @@ Navegadores como o Chrome disponibilizam[ plug-ins](https://chrome.google.com/we
 
 Um plano de estudos com um cronograma bem definido pode ter grande utilidade. Distribua as horas disponíveis e estipule o que você vai fazer em cada momento e quais são as suas prioridades, começando a estudar pelos seus temas favoritos.
 
-Assim, o tema (ou o vídeo) se desenvolve sem que você se canse e você só vai se deparar com o que tem mais dificuldade quando estiver mais próximo do final do seu cronograma. Existem alguns[aplicativos](http://descola.org/drops/5-apps-para-organizar-a-vida-no-trabalho/) que podem ajudar nessa empreitada.
+Assim, o tema (ou o vídeo) se desenvolve sem que você se canse e você só vai se deparar com o que tem mais dificuldade quando estiver mais próximo do final do seu cronograma. Existem alguns[aplicativos](https://descola.org/drops/5-apps-para-organizar-a-vida-no-trabalho/) que podem ajudar nessa empreitada.
 
 ## **3. Faça pausas vantajosas**
 
@@ -36,7 +36,7 @@ Uma das maneiras de não deixar a produtividade cair é fazer pausas de tempos e
 
 ## **4. Estude no melhor horário para você**
 
-Se uma das [vantagens de fazer um curso online](http://descola.org/drops/7-maneiras-como-os-cursos-online-ajudam-na-atualizacao-profissional/) é que você pode montar seus horários, tenha a certeza de utilizar isso a seu favor. Identifique o momento em que você está mais disposto e planeje-se para partir para os estudos nessa hora.
+Se uma das [vantagens de fazer um curso online](https://descola.org/drops/7-maneiras-como-os-cursos-online-ajudam-na-atualizacao-profissional/) é que você pode montar seus horários, tenha a certeza de utilizar isso a seu favor. Identifique o momento em que você está mais disposto e planeje-se para partir para os estudos nessa hora.
 
 Se você é uma pessoa diurna, realize suas atividades mais cedo. Se rende melhor à noite, é esse o horário que você deve fazer suas tarefas. Simples assim.
 
@@ -44,6 +44,6 @@ Se você é uma pessoa diurna, realize suas atividades mais cedo. Se rende melho
 
 Por fim, é necessário estabelecer limites. Você deve saber ao certo quando está próximo do esgotamento ou quando rende mais. Forçar-se a fazer um curso online quando se está completamente fora de condições de absorver algo só o fará ficar mais cansado e sem ânimo.
 
-Essas são algumas dicas para você [aproveitar seu curso online](http://descola.org/drops/aprender-pela-internet-um-relato-pessoal/). Agindo com inteligência e planejamento, é possível aproveitar todas as vantagens que os cursos oferecem, aprendendo muito em pouco tempo e de onde estiver.
+Essas são algumas dicas para você [aproveitar seu curso online](https://descola.org/drops/aprender-pela-internet-um-relato-pessoal/). Agindo com inteligência e planejamento, é possível aproveitar todas as vantagens que os cursos oferecem, aprendendo muito em pouco tempo e de onde estiver.
 
 Conte-nos o que você faz para manter a concentração e produtividade e claro, o que também te atrapalha.

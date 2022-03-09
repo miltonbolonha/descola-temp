@@ -4,10 +4,10 @@ import { graphql } from 'gatsby'
 import DescolaLogo from '../../static/images/descola-logo.svg'
 import DescolaLogoDark from '../../static/images/descola-logo-dark.svg'
 
-import Layout from '../modules/layout'
-import FooterBlock from '../modules/block-builder/FooterBlock'
-import HeaderBlock from '../modules/block-builder/HeaderBlock'
-import PostsBlock from '../modules/block-builder/PostsBlock'
+import Layout from '@Layout'
+import HeaderBlock from '@BlockBuilder/HeaderBlock'
+import FooterBlock from '@BlockBuilder/FooterBlock'
+import PostsBlock from '@BlockBuilder/PostsBlock'
 
 const TagsList = (props) => {
 	const tagList = props.data.allMarkdownRemark.edges

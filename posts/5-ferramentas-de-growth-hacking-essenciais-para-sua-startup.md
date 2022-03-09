@@ -35,7 +35,7 @@ A otimização do seu site – e, principalmente blog -, para ser melhor encontr
 
 O content marketing prevê a criação de blogs corporativos, onde são publicados conteúdos educativos em formato de posts, e-books, white papers, vídeos, infográficos etc. Ao viralizar, a estratégia aumenta a visibilidade da marca e, consequentemente, o tráfego para o site, e transforma visitantes em consumidores.
 
-Um ótimo exemplo é a **[Rock Content](http://rockcontent.com/)** e a **[Contentools](http://contentools.com.br/)**, duas empresas que trabalhando na produção de conteúdo de qualidade para empresas, podendo ser uma excelente oportunidade de gerar conteúdo de qualidade
+Um ótimo exemplo é a **[Rock Content](https://rockcontent.com/)** e a **[Contentools](https://contentools.com.br/)**, duas empresas que trabalhando na produção de conteúdo de qualidade para empresas, podendo ser uma excelente oportunidade de gerar conteúdo de qualidade
 
 3. E-mail marketing
 
@@ -47,7 +47,7 @@ Na aquisição de novos clientes nossa sugestão fica por conta da **[Addthis](h
 
 Acontecem a partir de compartilhamento de determinado conteúdo pelos usuários existentes e, em seguida, para outros novos. É um processo espontâneo – ou orgânico, como também é conhecido na esfera do marketing.
 
-Aplicativos como o [**Sumome**](http://sumome.com/) e o [**Social Locker**](https://wordpress.org/plugins/social-locker/) para WordPress são capazes de exigir compartilhamento nas redes sociais para se ter acesso a um conteúdo exclusivo. Pode ser uma estratégia bastante eficaz.
+Aplicativos como o [**Sumome**](https://sumome.com/) e o [**Social Locker**](https://wordpress.org/plugins/social-locker/) para WordPress são capazes de exigir compartilhamento nas redes sociais para se ter acesso a um conteúdo exclusivo. Pode ser uma estratégia bastante eficaz.
 
 5. Aquisições pagas
 

@@ -9,7 +9,7 @@ tags:
   - criativo nos negócios
 ---
 
-Com a explosão das startups mundo afora — fato que se soma à multiplicidade cada vez maior de tecnologias disponíveis — um dos termos que mais vem sendo utilizado atualmente no mundo dos negócios é a [inovação](http://descola.org/drops/como-o-design-ajuda-a-trazer-inovacoes-para-as-empresas/). Todo empreendedor busca esse diferencial para garantir sua fatia de mercado e se sobressair perante à concorrência. Acontece que a inovação não é um fim, que deve ser perseguido através da criatividade, mas sim um meio. Em outras palavras, ela é o resultado do processo constante de criar.
+Com a explosão das startups mundo afora — fato que se soma à multiplicidade cada vez maior de tecnologias disponíveis — um dos termos que mais vem sendo utilizado atualmente no mundo dos negócios é a [inovação](https://descola.org/drops/como-o-design-ajuda-a-trazer-inovacoes-para-as-empresas/). Todo empreendedor busca esse diferencial para garantir sua fatia de mercado e se sobressair perante à concorrência. Acontece que a inovação não é um fim, que deve ser perseguido através da criatividade, mas sim um meio. Em outras palavras, ela é o resultado do processo constante de criar.
 
 Como ser criativo? Muitos acreditam que a criatividade é uma característica inata de um indivíduo, ou que as ideias surgem ao acaso. Para essas pessoas, o ideal é esperar que as coisas fluam naturalmente.
 
@@ -41,4 +41,4 @@ Por fim, é interessante que a empresa estimule atividades culturais sempre que 
 
 Uma pessoa consegue trabalhar utlizando-se apenas do conteúdo e bagagem que angariou de suas vivências. Portanto, alguém que costume viajar bastante e ter contato com outras realidades estará mais propício a pensar “fora da caixa” e conceber soluções e ideias mais criativas.
 
-Pronto para aplicar essas dicas na sua empresa? Confira também nosso post sobre [a importância da criatividade no empreendedorismo](http://descola.org/drops/a-importancia-da-criatividade-no-empreendedorismo/) e conte para a gente, nos comentários, como você faz para ficar se tornar uma pessoa mais criativa!
+Pronto para aplicar essas dicas na sua empresa? Confira também nosso post sobre [a importância da criatividade no empreendedorismo](https://descola.org/drops/a-importancia-da-criatividade-no-empreendedorismo/) e conte para a gente, nos comentários, como você faz para ficar se tornar uma pessoa mais criativa!

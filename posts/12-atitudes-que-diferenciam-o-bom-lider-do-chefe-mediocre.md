@@ -15,7 +15,7 @@ Uma boa gestão é essencial para assegurar o crescimento e o sucesso de qualque
 
 Porém, dentro das organizações existem tradicionalmente dois perfis de gestores: os **líderes** e os **chefes**. Vários aspectos particularizam o comportamento e as ações destes profissionais. Listamos abaixo as principais características que diferenciam o bom líder do chefe medíocre, mas mais do que isso, também montamos um curso super mão na massa pra quem quer se tornar um líder nos dias de hoje.
 
-Saiba mais sobre o [Curso online: Fundamentos da boa liderança](http://descola.org/curso/16/lead-fundamentos-da-boa-lideranca)
+Saiba mais sobre o [Curso online: Fundamentos da boa liderança](https://descola.org/curso/16/lead-fundamentos-da-boa-lideranca)
 
 ## \#1 Desenvolver a inteligência emocional
 
@@ -67,6 +67,6 @@ Um líder compreende a importância do aprimoramento contínuo, trabalha aspecto
 
 Se quiser saber mais sobre liderança e como ser um líder nos dias de hoje, veja nosso curso sobre liderança com a Vania Ferrari:
 
-[![cover_liderança1](http://s3-sa-east-1.amazonaws.com/drops-cdn/drops-new/wp-content/uploads/2015/11/03215105/cover_lideranc%CC%A7a1-1024x576.png)](http://descola.org/curso/16/lead-fundamentos-da-boa-lideranca)
+[![cover_liderança1](https://s3-sa-east-1.amazonaws.com/drops-cdn/drops-new/wp-content/uploads/2015/11/03215105/cover_lideranc%CC%A7a1-1024x576.png)](https://descola.org/curso/16/lead-fundamentos-da-boa-lideranca)
 
 Na sua opinião, quais são as atitudes mais importantes para um líder? Compartilhe conosco outras dicas!

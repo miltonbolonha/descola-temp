@@ -27,7 +27,7 @@ As crianças que estudam em escolas com o método Construtivista, por exemplo, s
 
 ## Aprenda
 
-Investir em aprendizado nunca é demais, porém, não fique preso a cursos dentro da sua área de conhecimento. O mercado pede pessoas com habilidade para transitar em universos diferentes, por isso, escolha uma [escola com um leque de cursos variado](http://descola.org/cursos). Hoje, inclusive, é possível encontrar ótimas escolas com ofertas de cursos a distância, possibilitando que você aprenda do seu jeito e no seu ritmo.
+Investir em aprendizado nunca é demais, porém, não fique preso a cursos dentro da sua área de conhecimento. O mercado pede pessoas com habilidade para transitar em universos diferentes, por isso, escolha uma [escola com um leque de cursos variado](https://descola.org/cursos). Hoje, inclusive, é possível encontrar ótimas escolas com ofertas de cursos a distância, possibilitando que você aprenda do seu jeito e no seu ritmo.
 
 Nada melhor que apenas falar como e onde aprender, deixar um incentivo ainda maior. Um cupom de desconto para que você comece agora mesmo esse novo aprendizado. Abaixo um cupom de R$ 10,00 para utilizar no primeiro curso da Descola.
 

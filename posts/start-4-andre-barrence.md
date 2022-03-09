@@ -20,6 +20,6 @@ featuredImage: ../static/images/andre_barrence.jpg
 
 **Empreender ou como solucionar problemas**
 
-Diretor do escritório de prioridades estratégicas de MG, foi o idealizador e criador do **[SEED](http://seed.mg.gov.br/)** – Startups and Entrepreneurship Ecosystem Development, projeto que fomentou o empreendedorismo no estado e que ajudou, em menos de um ano, ao desenvolvimento de mais de 80 startups.
+Diretor do escritório de prioridades estratégicas de MG, foi o idealizador e criador do **[SEED](https://seed.mg.gov.br/)** – Startups and Entrepreneurship Ecosystem Development, projeto que fomentou o empreendedorismo no estado e que ajudou, em menos de um ano, ao desenvolvimento de mais de 80 startups.
 
 Empreender é uma forma de resolver problemas da sociedade. Nesse vídeo André explora os caminhos para criar soluções nos campos públicos ou privados.

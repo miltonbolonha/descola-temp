@@ -49,7 +49,7 @@ Por isso, tente ser o mais objetivo possível e não deixe de testar com as pess
 
 ### Introdução e Boas Práticas em UX Design
 
-Esse é o título do livro do Fabrício Teixeira, que traz de forma leve uma porção de conteúdo. Você terá um panorama sobre o que é UX, os métodos e processos envolvidos nessa técnica, além de vários exemplos. Vale a pena a leitura, mesmo que você não trabalhe na área. Você pode comprá-lo [aqui](http://www.martinsfontespaulista.com.br/introducao-e-boas-praticas-em-ux-design-508633.aspx/p?&utm_source=Buscape&utm_medium=ComparadordePrecos&utm_campaign=buscape).
+Esse é o título do livro do Fabrício Teixeira, que traz de forma leve uma porção de conteúdo. Você terá um panorama sobre o que é UX, os métodos e processos envolvidos nessa técnica, além de vários exemplos. Vale a pena a leitura, mesmo que você não trabalhe na área. Você pode comprá-lo [aqui](https://www.martinsfontespaulista.com.br/introducao-e-boas-praticas-em-ux-design-508633.aspx/p?&utm_source=Buscape&utm_medium=ComparadordePrecos&utm_campaign=buscape).
 
 Você pode assistir a um resumo rápido de tudo que a gente falou aqui nesse vídeo rapidinho de 2 minutos:
 

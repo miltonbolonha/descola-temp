@@ -35,7 +35,7 @@ Feito isso, é hora de pensar no planejamento do dia: é preciso dividir as ativ
 
 A mesma tecnologia que oferece mil possibilidades de distração e pode levar sua produtividade a um nível não satisfatório também trabalha a seu favor. Tudo é uma questão de foco, mais uma vez.
 
-Existem muitas ferramentas tecnológicas acessíveis gratuitamente. O [Klok](http://download.cnet.com/Klok/3000-2064_4-10827375.html) é um deles – o software ajuda a manter a organização para quem trabalha com vários projetos ao mesmo tempo.
+Existem muitas ferramentas tecnológicas acessíveis gratuitamente. O [Klok](https://download.cnet.com/Klok/3000-2064_4-10827375.html) é um deles – o software ajuda a manter a organização para quem trabalha com vários projetos ao mesmo tempo.
 
 Outra opção é o Harvest, que além de ajudar na gestão do tempo, auxilia no gerenciamento das finanças.
 
@@ -53,6 +53,6 @@ Gostou? Damos uma dica final (e de ouro) para ser mais produtivo nesses tempos t
 
 Exemplos: está sem tempo de ler? Baixe um audiobook e “escute” seu livro no caminho de casa ao trabalho.
 
-Sem tempo de fazer um curso depois do trabalho? Ora, basta entrar no [**nosso site**](http://descola.org/cursos) e começar a aprender agora mesmo, de onde você estiver. Simples, não?
+Sem tempo de fazer um curso depois do trabalho? Ora, basta entrar no [**nosso site**](https://descola.org/cursos) e começar a aprender agora mesmo, de onde você estiver. Simples, não?
 
 Esperamos que essas dicas ajudem tua rotina. Comente conosco se ficou com alguma dúvida ou queira acrescentar algo.

@@ -51,6 +51,6 @@ No empreendedorismo, quando o profissional trabalha com o que gosta e sabe que e
 
 Tudo que dissemos não é uma receita de bolo, mas dá uma boa ideia do que ter em mente quando começar seu próprio empreendimento.
 
-Procure também ferramentas que tornem possível alcançar o estado de fluxo e dê uma olhada em nossos **[cursos](http://www.descola.org/cursos)** – que podem te ajudar a encontrar esse caminho!
+Procure também ferramentas que tornem possível alcançar o estado de fluxo e dê uma olhada em nossos **[cursos](https://www.descola.org/cursos)** – que podem te ajudar a encontrar esse caminho!
 
 Caso tenha alguma dúvida deixe um comentário abaixo.

@@ -33,18 +33,18 @@ Sim! Demais! Se você der um google, vai achar muita coisa legal. Desde startups
 
 Você pode conhecer algum dos labs criados para makers, como o ABC Markerspace e o Garagem Fab Lab, para entrar em contato e compartilhar conhecimentos e ideias com outros fazedores.
 
-[![](http://i.giphy.com/4dYKLFwloAxOw.gif)](http://www.descola.org)E também pode fazer os cursos da Descola! 🙂 Temos opções muitos legais para você desenvolver suas habilidades de maker, como o de **Ideação** \[<http://bit.ly/1VvJy8R>\], **Prototipagem** \[<http://bit.ly/1TdZqtm>\], e **Design Thinking** \[<http://bit.ly/1SUdDZN>\].
+[![](https://i.giphy.com/4dYKLFwloAxOw.gif)](https://www.descola.org)E também pode fazer os cursos da Descola! 🙂 Temos opções muitos legais para você desenvolver suas habilidades de maker, como o de **Ideação** \[<https://bit.ly/1VvJy8R>\], **Prototipagem** \[<https://bit.ly/1TdZqtm>\], e **Design Thinking** \[<https://bit.ly/1SUdDZN>\].
 
 Hora de por a mão na massa e desenvolver as ideias e produtos do futuro!
 
 Continue lendo sobre este tema em:
 
-Make Magazine: <http://makezine.com/>
+Make Magazine: <https://makezine.com/>
 
-Blog Fazedores: <http://bit.ly/1VvJGWa>
+Blog Fazedores: <https://bit.ly/1VvJGWa>
 
-Projeto Draft: <http://bit.ly/1Te0uxo>
+Projeto Draft: <https://bit.ly/1Te0uxo>
 
-Wired: <http://bit.ly/1OI1Uky>
+Wired: <https://bit.ly/1OI1Uky>
 
-Motherborad: <http://bit.ly/1SUdENk>
+Motherborad: <https://bit.ly/1SUdENk>

@@ -11,7 +11,7 @@ featuredImage: ../static/images/future-jobs.jpg
 
 Um robô poderia fazer o seu trabalho? Milhões de pessoas que não se prepararam para o futuro da automação em breve se verão em momentos difíceis, pois a resposta para a pergunta é sim.
 
-O estudo do Fórum Econômico Mundial, [The Future of Jobs](http://www3.weforum.org/docs/WEF_Future_of_Jobs.pdf), prevê que 5 milhões de postos de trabalho serão perdidos antes de 2020, uma vez que a inteligência artificial, a robótica, a nanotecnologia e outros fatores socioeconômicos substituíram a necessidade de trabalhadores humanos.
+O estudo do Fórum Econômico Mundial, [The Future of Jobs](https://www3.weforum.org/docs/WEF_Future_of_Jobs.pdf), prevê que 5 milhões de postos de trabalho serão perdidos antes de 2020, uma vez que a inteligência artificial, a robótica, a nanotecnologia e outros fatores socioeconômicos substituíram a necessidade de trabalhadores humanos.
 
 A boa notícia é que esses mesmos avanços tecnológicos também criarão 2,1 milhões de novos empregos. Mas os trabalhadores manuais que estão fora do mercado provavelmente não terão as habilidades necessárias para obter esses novos papéis. A maioria dos novos empregos será em áreas mais especializadas, como computação, matemática, arquitetura e engenharia.
 

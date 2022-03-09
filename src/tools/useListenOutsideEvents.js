@@ -1,4 +1,4 @@
-import { useEffect, useState } from './dependencies'
+import { useEffect, useState } from 'react'
 
 const useListenOutsideEvents = ({
 	handleRefState,

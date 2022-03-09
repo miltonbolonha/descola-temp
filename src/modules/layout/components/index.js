@@ -1,5 +1,6 @@
 // eslint-disable-next-line
-import { React, style, fontNeuzeit, PropTypes } from '../dependencies.js'
+import React from 'react'
+import PropTypes from 'prop-types'
 
 import GlobalContext from '../services/context'
 

@@ -19,4 +19,4 @@ Assista um trecho do curso que lançamos sobre como montar apresentações melho
 
 Para assistir ao curso inteiro entre na página do curso 🙂
 
-[http://descola.org/curso/8/cozinhando-seu-conteudo](http://descola.org/curso/8/cozinhando-seu-conteudo 'http://descola.org/curso/8/cozinhando-seu-conteudo')
+[https://descola.org/curso/8/cozinhando-seu-conteudo](https://descola.org/curso/8/cozinhando-seu-conteudo 'https://descola.org/curso/8/cozinhando-seu-conteudo')
