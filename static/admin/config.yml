@@ -1,31 +1,34 @@
 backend:
   name: github
   repo: grpaiva/descola-blog
-  branch: master
 
-site_url: https://descola-blog.netlify.app/
+site_url: https://descola-blog.netlify.app
 
 # local_backend: true
-media_folder: static/images
+media_folder: public/static/images
+public_folder: /static/images
+
+publish_mode: editorial_workflow
+
+slug:
+  encoding: 'ascii'
+  clean_accents: true
 
 collections:
-  - name: "post"
-    label: "Posts"
-    label_singular: 'Post'
+  - name: post
+    label: Posts
+    folder: posts
+    label_singular: Post
     description: >
       Posts em MD do blog Descola.
-    folder: "posts"
     create: true
     slug: "{{slug}}"
-    summary: '{{title}} -- {{year}}/{{month}}/{{day}}'
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime",
-          date_format: 'DD [de] MMMM [de] YYYY',
-          time_format: 'HH:mm',
-          format: 'DD [de] MMMM [de] YYYY HH:mm', }
+          format: 'DD [de] MMMM [de] YYYY HH:mm' }
       - { label: "Author", name: "author", widget: "string" }
+      - { label: "Tags", name: "tags", widget: "list" }
       - { label: "Featured Post", name: "featuredPost", widget: "boolean" }
       - { label: "Featured Image", name: "featuredImage", widget: image }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Tags", name: "tags", widget: "list" }
