@@ -28,9 +28,9 @@
 	"appLogic": "Blog",
 	"dateCreated": "05 de março de 2022",
 	"siteUrl": "https://blog.descola.org",
+	"searchBaseUrl": "https://descola.org/cursos?search=",
 	"clientOrg": "Descola",
 	"clientShortName": "Descola",
-	"clientSite": "https://descola-blog.netlify.app/",
 	"clientSocial": {
 		"instagram": "https://www.instagram.com/descolagram/",
 		"facebook": "https://www.facebook.com/descolasp/",

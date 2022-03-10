@@ -6,7 +6,7 @@ const config = {
 	bot_msg: 'Se você for humanóide, não preencher esse inputizim: ',
 	form_class: null,
 	link_text: 'Definir Lembrete no YouTube: ▶️',
-	link_url: 'https://www.youtube.com/watch?v=0pHiOO_6qiU',
+	link_url: 'https://www.youtube.com/watch?v=',
 	email_placeholder: false,
 	noSPAM: 'Não enviamos spam :)',
 	warnME: false,

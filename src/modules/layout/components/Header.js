@@ -107,8 +107,11 @@ const Header = ({
 							</li>
 							<li className="main-menu-search">
 								<Layout
-									type="SUBSCRIBE"
-									opt={{ placeholder: 'Procure um curso' }}
+									type="SEARCH"
+									opt={{
+										placeholder: 'Procure um curso',
+										searchStringBase: 'https://descola.org/cursos?search=',
+									}}
 								/>
 							</li>
 						</ul>
