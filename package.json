@@ -48,16 +48,21 @@
 	"postsPerPage": 9,
 	"scripts": {
 		"develop": "gatsby develop",
-		"build": "gatsby build"
+		"build": "gatsby build",
+		"start": "netlify dev"
 	},
 	"dependencies": {
+		"axios": "^0.26.1",
 		"dotenv": "^16.0.0",
 		"gatsby": "^4.9.2",
 		"gatsby-plugin-alias-imports": "^1.0.5",
 		"gatsby-plugin-catch-links": "^4.9.0",
+		"gatsby-plugin-feed": "^4.9.0",
 		"gatsby-plugin-google-fonts": "^1.0.1",
 		"gatsby-plugin-google-tagmanager": "^4.9.0",
 		"gatsby-plugin-image": "^2.9.0",
+		"gatsby-plugin-json-output": "^1.2.0",
+		"gatsby-plugin-json-output-multi-feed": "^1.1.5",
 		"gatsby-plugin-manifest": "^4.9.0",
 		"gatsby-plugin-mdx": "^3.9.0",
 		"gatsby-plugin-netlify": "^4.1.0",
@@ -86,6 +91,7 @@
 		"svg-react-loader": "^0.4.6"
 	},
 	"devDependencies": {
+		"@netlify/plugin-gatsby": "^2.1.2",
 		"prettier": "^2.5.1"
 	}
 }

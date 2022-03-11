@@ -19,7 +19,7 @@ function SeoContainer({
 	blogListing,
 	articleBody,
 }) {
-	const { site } = useStaticQuery(
+	const { site, apiPosts } = useStaticQuery(
 		graphql`
 			query {
 				site {
@@ -46,12 +46,40 @@ function SeoContainer({
 						}
 					}
 				}
+
+				apiPosts: allMarkdownRemark(
+					sort: { fields: frontmatter___date, order: DESC }
+					filter: { frontmatter: { featuredPost: { eq: true } } }
+				) {
+					edges {
+						node {
+							fields {
+								slug
+							}
+							frontmatter {
+								date(formatString: "DD [de] MMMM [de] YYYY", locale: "pt-br")
+								title
+								tags
+								footerFeaturedImage: featuredImage {
+									childrenImageSharp {
+										gatsbyImageData(
+											width: 76
+											height: 76
+											placeholder: DOMINANT_COLOR
+											quality: 70
+										)
+									}
+								}
+							}
+							excerpt(pruneLength: 200)
+						}
+					}
+				}
 			}
 		`
 	)
 
 	const metaDescription = description || site.siteMetadata.description
-
 	return (
 		<Seo
 			lang={lang}
@@ -73,6 +101,7 @@ function SeoContainer({
 			blogListing={blogListing}
 			articleBody={articleBody}
 			keywords={site.siteMetadata.keywords}
+			apiPosts={apiPosts}
 		/>
 	)
 }
