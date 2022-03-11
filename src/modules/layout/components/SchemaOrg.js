@@ -174,6 +174,10 @@ export default React.memo(
 			<Helmet>
 				{/* Schema.org tags */}
 				<script type="application/ld+json">{JSON.stringify(schema)}</script>
+				{/* <meta
+					name="posts"
+					content={JSON.stringify([{ obj: true, native: false }])}
+				/> */}
 			</Helmet>
 		)
 	}

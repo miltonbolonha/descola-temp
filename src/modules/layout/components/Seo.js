@@ -35,7 +35,6 @@ const Seo = ({
 			<meta name="image" content={image} />
 			<meta name="keywords" content={keywords.map((e) => e)} />
 			<link rel="canonical" href={siteUrl} />
-
 			{/* OpenGraph tags */}
 			<meta property="og:url" content={siteUrl} />
 			{schemaType === 'article' ? (

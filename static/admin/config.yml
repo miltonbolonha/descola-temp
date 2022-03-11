@@ -2,7 +2,7 @@ backend:
   name: github
   repo: grpaiva/descola-blog
   branch: staging # Branch to update (optional; defaults to master)
-  site_domain: https://staging--descola-blog.netlify.app/
+  site_domain: https://descola-blog.netlify.app/
 
 # local_backend: true
 publish_mode: editorial_workflow

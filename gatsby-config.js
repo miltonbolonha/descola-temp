@@ -11,6 +11,7 @@ module.exports = {
 		description: businessInfos.description,
 		author: businessInfos.author,
 		siteUrl: businessInfos.siteUrl,
+		searchBaseUrl: businessInfos.searchBaseUrl,
 		keywords: businessInfos.keywords,
 		image: `${__dirname}/static/images/descola-logo.svg`,
 		dateCreated: businessInfos.dateCreated,

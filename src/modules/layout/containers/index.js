@@ -4,6 +4,7 @@ import HeaderContainer from './HeaderContainer'
 import FooterContainer from './FooterContainer'
 import RowContainer from './RowContainer'
 import BlockImageContainer from './BlockImageContainer'
+import FormContainer from './FormContainer'
 
 const LayoutResolver = ({
 	children,
@@ -21,6 +22,8 @@ const LayoutResolver = ({
 				return <FooterContainer children={children} opt={opt} />
 			case 'BLOCK_IMAGE':
 				return <BlockImageContainer opt={opt} />
+			case 'SEARCH':
+				return <FormContainer opt={opt} />
 			// case 'BLOCK_SHARE':
 			// return <BlockShareContainer opt={opt} />
 			case 'HEADER':
