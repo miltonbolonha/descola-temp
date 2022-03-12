@@ -104,9 +104,73 @@ exports.createPages = ({ graphql, actions }) => {
 					fieldValue
 				}
 			}
+			featuredPosts: allMarkdownRemark(
+				sort: { fields: frontmatter___date, order: DESC }
+				filter: { frontmatter: { featuredPost: { eq: true } } }
+			) {
+				edges {
+					node {
+						fields {
+							slug
+						}
+						frontmatter {
+							date(formatString: "DD [de] MMMM [de] YYYY", locale: "pt-br")
+							title
+							tags
+							footerFeaturedImage: featuredImage {
+								childrenImageSharp {
+									gatsbyImageData(
+										width: 76
+										height: 76
+										placeholder: DOMINANT_COLOR
+										quality: 70
+									)
+								}
+							}
+						}
+						excerpt(pruneLength: 200)
+					}
+				}
+			}
+
+			footerThreeMarkdowRemark: allMarkdownRemark(
+				sort: { fields: frontmatter___date, order: DESC }
+				filter: { frontmatter: { featuredPost: { eq: true } } }
+			) {
+				edges {
+					node {
+						fields {
+							slug
+						}
+						frontmatter {
+							date(formatString: "DD [de] MMMM [de] YYYY", locale: "pt-br")
+							title
+							tags
+							footerFeaturedImage: featuredImage {
+								childrenImageSharp {
+									gatsbyImageData(
+										width: 76
+										height: 76
+										placeholder: DOMINANT_COLOR
+										quality: 70
+									)
+								}
+							}
+						}
+						excerpt(pruneLength: 200)
+					}
+				}
+			}
+			postsPerPage: site {
+				siteMetadata {
+					postsPerPage
+				}
+			}
 		}
 	`).then((result) => {
 		const posts = result.data.allMarkdownRemark.edges
+		const featuredPosts = result.data.featuredPosts.edges
+
 		posts.forEach(({ node }) => {
 			createPage({
 				path: node.fields.slug,
@@ -142,6 +206,9 @@ exports.createPages = ({ graphql, actions }) => {
 				component: path.resolve(`./src/templates/tax-posts-list.js`),
 				context: {
 					tag: tag.fieldValue,
+					siteMetadata: result.data.siteMetadata,
+					footerThreeMarkdowRemark: result.data.footerThreeMarkdowRemark,
+					postsPerPage: result.data.postsPerPage,
 				},
 			})
 		})
@@ -159,6 +226,24 @@ exports.createPages = ({ graphql, actions }) => {
 		// 	})
 		// })
 	})
+}
+
+exports.onCreatePage = async ({ page, actions }) => {
+	const { createPage, deletePage } = actions
+
+	// Look for /404/ path
+	if (page.path === '/') {
+		const oldPage = { ...page }
+
+		// Add page context
+		page.context = {
+			foo: 'bar',
+		}
+
+		// Recreate the modified page
+		deletePage(oldPage)
+		createPage(page)
+	}
 }
 
 exports.onPostBuild = ({ graphql }) => {

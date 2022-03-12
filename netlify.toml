@@ -1,7 +1,6 @@
 [build]
     command = "gatsby build"
     publish = "public"
-		functions = "netlify/functions"
 
 [build.environment]
   NODE_VERSION = "16.14.0"
@@ -11,11 +10,3 @@
 
 [[plugins]]
 	package = "@netlify/plugin-local-install-core"
-
-[[plugins]]
-package = "netlify-plugin-is-website-vulnerable"
-
-[[redirects]]
-  from = "/api/*"
-  to = "/.netlify/functions/:splat"
-  status = 200
