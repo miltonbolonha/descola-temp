@@ -1,6 +1,50 @@
+const fs = require('fs')
 const path = require('path')
 const _ = require('lodash')
 const { createFilePath } = require(`gatsby-source-filesystem`)
+
+// const path = require('path')
+// const fs = require('fs').promises
+
+// exports.onPostBuild = async ({ graphql }) => {
+// 	const { data } = await graphql(`
+// 		{
+// 			apiPosts: allMarkdownRemark(
+// 				sort: { fields: frontmatter___date, order: DESC }
+// 				filter: { frontmatter: { featuredPost: { eq: true } } }
+// 			) {
+// 				edges {
+// 					node {
+// 						fields {
+// 							slug
+// 						}
+// 						frontmatter {
+// 							date(formatString: "DD [de] MMMM [de] YYYY", locale: "pt-br")
+// 							title
+// 							tags
+// 							footerFeaturedImage: featuredImage {
+// 								childrenImageSharp {
+// 									gatsbyImageData(
+// 										width: 76
+// 										height: 76
+// 										placeholder: DOMINANT_COLOR
+// 										quality: 70
+// 									)
+// 								}
+// 							}
+// 						}
+// 						excerpt(pruneLength: 200)
+// 					}
+// 				}
+// 			}
+// 		}
+// 	`)
+
+// 	return fs.writeFile(
+// 		path.resolve(__dirname, 'feed.json'),
+// 		data.apiPosts.join()
+// 	)
+// }
 
 // Adding slug field to each post
 exports.onCreateNode = ({ node, getNode, actions }) => {
@@ -114,5 +158,43 @@ exports.createPages = ({ graphql, actions }) => {
 		// 		},
 		// 	})
 		// })
+	})
+}
+
+exports.onPostBuild = ({ graphql }) => {
+	return graphql(`
+		{
+			apiPosts: allMarkdownRemark(
+				sort: { fields: frontmatter___date, order: DESC }
+				filter: { frontmatter: { featuredPost: { eq: true } } }
+			) {
+				edges {
+					node {
+						fields {
+							slug
+						}
+						frontmatter {
+							date(formatString: "DD [de] MMMM [de] YYYY", locale: "pt-br")
+							title
+							tags
+							footerFeaturedImage: featuredImage {
+								childrenImageSharp {
+									gatsbyImageData(
+										width: 76
+										height: 76
+										placeholder: DOMINANT_COLOR
+										quality: 70
+									)
+								}
+							}
+						}
+						excerpt(pruneLength: 200)
+					}
+				}
+			}
+		}
+	`).then((result) => {
+		// processAndWriteJSONFiles(result)
+		fs.writeFileSync(`./public/feed.json`, JSON.stringify(result))
 	})
 }
