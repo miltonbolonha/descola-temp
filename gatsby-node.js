@@ -169,7 +169,7 @@ exports.createPages = ({ graphql, actions }) => {
 		}
 	`).then((result) => {
 		const posts = result.data.allMarkdownRemark.edges
-		const featuredPosts = result.data.featuredPosts.edges
+		// const featuredPosts = result.data.featuredPosts.edges
 
 		posts.forEach(({ node }) => {
 			createPage({
@@ -228,23 +228,23 @@ exports.createPages = ({ graphql, actions }) => {
 	})
 }
 
-exports.onCreatePage = async ({ page, actions }) => {
-	const { createPage, deletePage } = actions
+// exports.onCreatePage = async ({ page, actions }) => {
+// 	const { createPage, deletePage } = actions
 
-	// Look for /404/ path
-	if (page.path === '/') {
-		const oldPage = { ...page }
+// 	// Look for /404/ path
+// 	if (page.path === '/') {
+// 		const oldPage = { ...page }
 
-		// Add page context
-		page.context = {
-			foo: 'bar',
-		}
+// 		// Add page context
+// 		page.context = {
+// 			foo: 'bar',
+// 		}
 
-		// Recreate the modified page
-		deletePage(oldPage)
-		createPage(page)
-	}
-}
+// 		// Recreate the modified page
+// 		deletePage(oldPage)
+// 		createPage(page)
+// 	}
+// }
 
 exports.onPostBuild = ({ graphql }) => {
 	return graphql(`
