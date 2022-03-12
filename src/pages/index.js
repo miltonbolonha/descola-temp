@@ -13,7 +13,7 @@ const IndexPage = ({ data, location, serverData, pageContext }) => {
 	const posts = data.allMarkdownRemark.edges
 
 	// console.log('location >>>>')
-	console.log(pageContext)
+	// console.log(pageContext)
 
 	// console.log('serverData >>>>')
 	// console.log(serverData)
