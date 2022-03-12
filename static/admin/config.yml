@@ -1,8 +1,8 @@
 backend:
   name: github
-  repo: grpaiva/descola-blog
-  branch: staging # Branch to update (optional; defaults to master)
-  site_domain: https://descola-blog.netlify.app/
+  repo: miltonbolonha/descola-temp
+  branch: master # Branch to update (optional; defaults to master)
+  site_domain: https://temp-descola.netlify.app/
 
 # local_backend: true
 publish_mode: editorial_workflow

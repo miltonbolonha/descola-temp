@@ -1,5 +1,5 @@
 [build]
-    command = "gatsby build --verbose"
+    command = "gatsby build"
     publish = "public"
 		functions = "/.netlify/functions/"
 
