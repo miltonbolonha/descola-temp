@@ -16,6 +16,6 @@
 package = "netlify-plugin-is-website-vulnerable"
 
 [[redirects]]
-  from = "/api/*"
+  from = "/src/api/*"
   to = "/netlify/functions/:splat"
   status = 200
