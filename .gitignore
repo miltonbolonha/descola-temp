@@ -17,8 +17,4 @@ public
 !*.code-workspace
 
 # Local Netlify folder
-.netlify/state.json
-.netlify/cache
-.netlify/cache/functions-internal
-.netlify/cache/plugins
-!.netlify/functions/posts.js
+.netlify
