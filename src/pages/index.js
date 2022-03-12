@@ -9,10 +9,11 @@ import HeaderBlock from '@BlockBuilder/HeaderBlock'
 import FooterBlock from '@BlockBuilder/FooterBlock'
 import PostsBlock from '@BlockBuilder/PostsBlock'
 
-const IndexPage = ({ data, location, serverData }) => {
+const IndexPage = ({ data, location, serverData, pageContext }) => {
 	const posts = data.allMarkdownRemark.edges
+
 	// console.log('location >>>>')
-	// console.log(location)
+	console.log(pageContext)
 
 	// console.log('serverData >>>>')
 	// console.log(serverData)
