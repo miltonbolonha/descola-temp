@@ -9,13 +9,14 @@ import HeaderBlock from '@BlockBuilder/HeaderBlock'
 import FooterBlock from '@BlockBuilder/FooterBlock'
 import PostsBlock from '@BlockBuilder/PostsBlock'
 
-const IndexPage = ({ data, location, serverData }) => {
+const IndexPage = ({ data, location, serverData, pageContext }) => {
 	const posts = data.allMarkdownRemark.edges
-	console.log('location >>>>')
-	console.log(location)
 
-	console.log('serverData >>>>')
-	console.log(serverData)
+	// console.log('location >>>>')
+	// console.log(pageContext)
+
+	// console.log('serverData >>>>')
+	// console.log(serverData)
 
 	return (
 		<Layout
@@ -119,12 +120,3 @@ export const queryAtividade = graphql`
 		}
 	}
 `
-
-export async function getServerData(context) {
-	return {
-		headers: {
-			opt: 'zin',
-		}, // HTTP response headers for this page
-		method: 'GET',
-	}
-}
