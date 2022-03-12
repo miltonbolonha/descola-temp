@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: miltonbolonha/descola-temp
-  branch: master # Branch to update (optional; defaults to master)
+  branch: master
   site_domain: https://temp-descola.netlify.app/
 
 # local_backend: true
