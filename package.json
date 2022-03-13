@@ -49,11 +49,12 @@
 	"scripts": {
 		"develop": "gatsby develop",
 		"build": "gatsby build",
-		"start": "netlify dev"
+		"start": "node server/index.js"
 	},
 	"dependencies": {
 		"axios": "^0.26.1",
 		"dotenv": "^16.0.0",
+		"express": "^4.17.3",
 		"gatsby": "^4.9.2",
 		"gatsby-plugin-alias-imports": "^1.0.5",
 		"gatsby-plugin-catch-links": "^4.9.0",
@@ -67,6 +68,7 @@
 		"gatsby-plugin-mdx": "^3.9.0",
 		"gatsby-plugin-netlify": "^4.1.0",
 		"gatsby-plugin-netlify-cms": "^6.9.0",
+		"gatsby-plugin-nodejs": "^0.7.0",
 		"gatsby-plugin-offline": "^5.9.0",
 		"gatsby-plugin-react-helmet": "^5.9.0",
 		"gatsby-plugin-react-svg": "^3.1.0",

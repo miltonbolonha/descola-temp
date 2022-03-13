@@ -35,6 +35,7 @@ module.exports = {
 		'gatsby-plugin-sharp',
 		`gatsby-transformer-sharp`,
 		`gatsby-plugin-offline`,
+		`gatsby-plugin-nodejs`,
 		`gatsby-plugin-react-helmet`,
 		{
 			resolve: 'gatsby-plugin-page-creator',
