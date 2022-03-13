@@ -68,8 +68,17 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 }
 
 exports.createPages = ({ graphql, actions }) => {
-	const { createPage } = actions
+	const { createPage, createRedirect } = actions
+	const from = '/darkness'
+	const to = 'http://localhost:1337/darkness'
 
+	createRedirect({
+		fromPath: from,
+		toPath: to,
+		redirectInBrowser: true,
+		isPermanent: true,
+		statusCode: 200,
+	})
 	return graphql(`
 		{
 			allMarkdownRemark(sort: { fields: frontmatter___date, order: DESC }) {
