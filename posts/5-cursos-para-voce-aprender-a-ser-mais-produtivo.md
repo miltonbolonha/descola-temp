@@ -1,21 +1,20 @@
 ---
-title: '5 CURSOS PARA VOCÊ APRENDER A SER MAIS PRODUTIVO'
-date: '2021-09-13T09:34:00+00:00'
-author: 'Equipe Descola'
+title: 5 CURSOS PARA VOCÊ APRENDER A SER MAIS PRODUTIVO
+date: 13 de September de 2021 00:00
+author: Equipe Descola
 featuredPost: false
 templatekey: blog-post
 tags:
-  - 'cursos online'
-  - 'cursos produtividade'
-  - 'cursos saude mental'
+  - cursos online
+  - cursos produtividade
+  - cursos saude mental
   - emoções
   - gestão
   - produtividade
-  - 'times remotos'
-  - 'top 5 cursos online'
+  - times remotos
+  - top 5 cursos online
 featuredImage: ../static/images/massive-open-online-courses.jpg
 ---
-
 Durante o período de isolamento alguns assuntos foram abordados em diversas conversas de trabalho. Será que dá pra ser produtivo trabalhando a distância?
 
 Essa dúvida não poderia ser testada, validada e depois implementada. Aconteceu. A partir desse novo contexto precisamos tornar o trabalho remoto algo mais produtivo para cada pessoa e saber como lidar com adversidades não antes esperadas como reformas no apartamento vizinho, cachorros e gatos protagonizando lives, carro da pamonha passando na rua entre tantos outros cases de sucesso 😉
@@ -26,6 +25,8 @@ Separamos abaixo uma lista de 5 cursos online que trabalham esses temas e que n�
 
 # **1 – Produtividade no trabalho remoto**
 
+<iframe src="https://player.vimeo.com/video/519032717?h=147b17f8c9&color=fc4303&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 Tá na cara que esse seria um dos temas mais buscados. Aprenda a priorizar tarefas, a ter mais foco e a cuidar melhor do seu tempo enquanto trabalha de qualquer lugar.
 
 Ficar horas e horas em chamadas de vídeo, não poder trocar ideias com a pessoa da mesa ao lado e não poder almoçar ou tomar um café com os colegas. Essas são apenas algumas das coisas que simplesmente não são possíveis num cenário remoto e fazem falta, podendo afetar a entrega de resultados e até a saúde mental dos colaboradores.
@@ -35,40 +36,33 @@ A realidade do trabalho remoto exige adaptação. Para alguns a produtividade po
 
 **Ficha do curso**
 
-- Nome: _Produtividade no Trabalho Remoto – Como ser mais produtivo usando autogestão, priorização de tarefas e foco_
-
-- Professora: Renata Bicov
-
-- Vídeos: 20 capítulos
-
-- Tempo: 2h de vídeo aulas + 2h leitura de ebook
-
-- Tags: trabalho remoto, produtividade, comportamento, gestão pessoal, foco
-
-- Link: <https://descola.org/produtividade-no-trabalho-remoto>
+* Nome: *Produtividade no Trabalho Remoto – Como ser mais produtivo usando autogestão, priorização de tarefas e foco*
+* Professora: Renata Bicov
+* Vídeos: 20 capítulos
+* Tempo: 2h de vídeo aulas + 2h leitura de ebook
+* Tags: trabalho remoto, produtividade, comportamento, gestão pessoal, foco
+* Link: <https://descola.org/produtividade-no-trabalho-remoto>
 
 # **2- Gestão de times remotos**
 
-Tá na cara que esse seria um dos temas mais buscados. Aprenda a priorizar tarefas, a ter mais foco e a cuidar melhor do seu tempo enquanto trabalha de qualquer lugar.
+<iframe src="https://player.vimeo.com/video/486128743?h=ec113512dd&color=fc4303&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-**Gestão de times remotosé um convite a aprimorar processos, conhecer técnicas e métodos e implantar ferramentas que viabilizem o escritório virtual.** Assim, você terá instrumentos suficientes para criar caminhos que proporcionem o engajamento do time, fomentem a autonomia, transparência, confiança. Assim, o time funciona bem, de maneira autônoma, sem perder em produtividade.
+**Gestão de times remotos é um convite a aprimorar processos, conhecer técnicas e métodos e implantar ferramentas que viabilizem o escritório virtual.** Assim, você terá instrumentos suficientes para criar caminhos que proporcionem o engajamento do time, fomentem a autonomia, transparência, confiança. Assim, o time funciona bem, de maneira autônoma, sem perder em produtividade.
 
 O curso está dividido em três pilares principais. A partir do contexto atual de mundo versus as demandas do mercado corporativo, ele mostra como manter a cultura organizacional fortalecida, ainda que remotamente, desapegando do controle e caminhando para uma cultura de confiança. Em seguida, te ajuda a estruturar o escritório virtual, com plataformas imprescindíveis para estabelecer a comunicação efetiva entre os pares, gerir arquivos e fluxos de trabalho e acompanhar resultados. Isso tudo em consonância com rituais e processos para reuniões bem alinhadas e eficientes.
 
 **Ficha do curso**
 
-- Nome: _Gestão de times remotos – Como fortalecer a cultura, manter a colaboração e aumentar a produtividade em trabalhos à distância_
-- Professor: Pedro Nascimento
-
-- Vídeos: 21 capítulos
-
-- Tempo: 2h05 de vídeo aulas + 2h leitura de ebook
-
-- Tags: métricas, resultado, produtividade, gestão, comportamento, foco
-
-- Link: <https://descola.org/gestao-de-times-remotos>
+* Nome: *Gestão de times remotos – Como fortalecer a cultura, manter a colaboração e aumentar a produtividade em trabalhos à distância*
+* Professor: Pedro Nascimento
+* Vídeos: 21 capítulos
+* Tempo: 2h05 de vídeo aulas + 2h leitura de ebook
+* Tags: métricas, resultado, produtividade, gestão, comportamento, foco
+* Link: <https://descola.org/gestao-de-times-remotos>
 
 # **3- Inteligência Emocional**
+
+<iframe src="https://player.vimeo.com/video/395451046?h=71d9740126&color=fc4303&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 As habilidades socioemocionais, cada vez mais, têm ganhado espaço, protagonismo e importância para o resultado do desempenho profissional.
 
@@ -80,19 +74,16 @@ Neste curso, você vai aprender o que é e como usar a Inteligência Emocional n
 
 **Ficha do curso**
 
-- Nome: _Inteligência Emocional – Aprimore a gestão das suas emoções para tomar decisões mais equilibradas_
-
-- Professora: Cinthia Cruz
-
-- Vídeos: 18 capítulos
-
-- Tempo: 2h de vídeo aulas + 2h leitura de ebook
-
-- Tags: autoconhecimento, gestão emocional, comportamento, tomada de decicão
-
-- Link: <https://descola.org/inteligencia-emocional>
+* Nome: *Inteligência Emocional – Aprimore a gestão das suas emoções para tomar decisões mais equilibradas*
+* Professora: Cinthia Cruz
+* Vídeos: 18 capítulos
+* Tempo: 2h de vídeo aulas + 2h leitura de ebook
+* Tags: autoconhecimento, gestão emocional, comportamento, tomada de decicão
+* Link: <https://descola.org/inteligencia-emocional>
 
 # **4- Liderança Compassiva**
+
+<iframe src="https://player.vimeo.com/video/454872486?h=b450e847ea&color=fc4303&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 O papel da liderança ganhou novos significados. Ela precisa olhar de forma mais ampla para sua organização, ter atenção com todos os seus liderados e pensar em como pode potencializar cada um ao seu redor para que o resultado coletivo seja o melhor possível.
 
@@ -105,19 +96,16 @@ Neste curso, você vai aprender a aplicar técnicas simples para se conectar con
 
 **Ficha do curso**
 
-- Nome: _Liderança Compassiva – Um modelo de gestão e liderança que fomenta a segurança psicológica e a colaboração_
-
-- Professora: Lígia Costa
-
-- Vídeos: 16 capítulos
-
-- Tempo: 2h25 de vídeo aulas + 2h leitura de ebook
-
-- Tags: Colaboração, escuta, autoconhecimento, gestão emocional, comportamento, compassividade
-
-- Link: <https://descola.org/lideranca-compassiva>
+* Nome: *Liderança Compassiva – Um modelo de gestão e liderança que fomenta a segurança psicológica e a colaboração*
+* Professora: Lígia Costa
+* Vídeos: 16 capítulos
+* Tempo: 2h25 de vídeo aulas + 2h leitura de ebook
+* Tags: Colaboração, escuta, autoconhecimento, gestão emocional, comportamento, compassividade
+* Link: <https://descola.org/lideranca-compassiva>
 
 # 5 – Felicidade no Trabalho
+
+<iframe src="https://player.vimeo.com/video/547997838?h=425152b22d&color=fc4303&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 É possível ser feliz no trabalho ou tenho que esperar a sexta-feira chegar? Este curso explica o que é a ciência da felicidade a partir da Psicologia Positiva, quais são os desafios enfrentados por quem quer ser feliz atualmente e como assumir a autorresponsabilidade para buscar a felicidade no trabalho.
 
@@ -127,14 +115,9 @@ Neste curso, você irá acompanhar o passo a passo para ser mais feliz no trabal
 
 **Ficha do curso**
 
-- Nome: _Felicidade no Trabalho – Como trilhar o seu caminho de felicidade a partir da Psicologia Positiva_
-
-- Professora: Renata Rivetti
-
-- Vídeos: 18 capítulos
-
-- Tempo: 1h05 de vídeo aulas + 2h leitura de ebook
-
-- Tags: felicidade, empatia, psicologia positiva, PERMA
-
-- Link: <https://descola.org/felicidade-no-trabalho>
+* Nome: *Felicidade no Trabalho – Como trilhar o seu caminho de felicidade a partir da Psicologia Positiva*
+* Professora: Renata Rivetti
+* Vídeos: 18 capítulos
+* Tempo: 1h05 de vídeo aulas + 2h leitura de ebook
+* Tags: felicidade, empatia, psicologia positiva, PERMA
+* Link: <https://descola.org/felicidade-no-trabalho>
