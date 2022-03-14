@@ -1,6 +1,6 @@
 ---
 title: 06 maneiras de manter a criatividade dentro de nós
-date: 2016-10-11T13:29:00+00:00
+date: 2022-03-14T11:20:00+00:00
 author: Daniel Pasqualucci
 featuredPost: false
 templatekey: blog-post
