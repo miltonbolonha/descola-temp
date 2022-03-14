@@ -1,12 +1,12 @@
 ---
-title: '12 atitudes que diferenciam o bom líder do chefe medíocre'
-date: '2015-11-03T21:51:05+00:00'
-author: 'Equipe Descola'
-featuredPost: false
+title: 12 atitudes que diferenciam o bom líder do chefe medíocre
+date: 2022-03-14T11:35:00+00:00
+author: Milton Bolonha
+featuredPost: true
 templatekey: blog-post
 tags:
-  - 'como liderar'
-  - 'diferença de líder e chefe'
+  - como liderar
+  - diferença de líder e chefe
   - liderança
 featuredImage: ../static/images/liderXchefe.jpg
 ---
