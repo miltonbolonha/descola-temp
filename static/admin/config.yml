@@ -25,7 +25,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime",
-          format: 'DD [de] MMMM [de] YYYY HH:mm' }
+          format: 'YYYY-MM-DDTHH:mm:00+00:00' }
       - { label: "Author", name: "author", widget: "string" }
       - { label: "Tags", name: "tags", widget: "list" }
       - { label: "Featured Post", name: "featuredPost", widget: "boolean" }
