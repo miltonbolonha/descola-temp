@@ -1,6 +1,6 @@
 ---
 title: 5 CURSOS PARA VOCÊ APRENDER A SER MAIS PRODUTIVO
-date: 13 de September de 2021 00:00
+date: 2021-09-13T00:00:00+00:00
 author: Equipe Descola
 featuredPost: false
 templatekey: blog-post
