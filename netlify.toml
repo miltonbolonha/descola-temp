@@ -10,12 +10,3 @@
 
 [[plugins]]
 	package = "@netlify/plugin-local-install-core"
-
-[[plugins]]
-package = 'netlify-plugin-env'
-  [plugins.inputs]
-  mode = 'prefix'
-
-[template.environment]
-  NETLIFY_OAUTH_CLIENT_ID = "GITHUB_OAUTH_ID"
-  NETLIFY_OAUTH_CLIENT_SECRET= "GITHUB_OAUTH_SECRET"
