@@ -22,12 +22,12 @@ const MenuContainer = (props) => {
 		},
 	}
 	// useListenOutsideEvents(toggleConfig)
-	// const isVisibleClass = toggleConfig.refState ? 'visible' : 'not-visible'
+	const isVisibleClass = toggleConfig.refState ? 'visible' : 'not-visible'
 	// const ariaVisible = toggleConfig.refState ? 'true' : 'false'
 	return (
 		<Menu
 			wrapperRef={toggleConfig.wrapperRef}
-			// isVisibleClass={isVisibleClass}
+			isVisibleClass={isVisibleClass}
 		/>
 	)
 }
