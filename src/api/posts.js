@@ -1,6 +1,6 @@
-const feedJson = require('../../public/feed.json')
+// const feedJson = require('../../public/feed.json')
 
-export default async function ContactFormHandler(req, res) {
-	res.json(feedJson)
-	// "req.body" contains the data from a contact form
-}
+// export default async function ContactFormHandler(req, res) {
+// 	res.json(feedJson)
+// 	// "req.body" contains the data from a contact form
+// }

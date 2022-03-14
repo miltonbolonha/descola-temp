@@ -1,4 +1,4 @@
-// const { graphql, getIntrospectionQuery } = require('graphql/utilities	')
+const { graphql, getIntrospectionQuery } = require('gatsby/graphql')
 const path = require('path')
 const fs = require('fs')
 
@@ -41,24 +41,24 @@ module.exports = {
 		`gatsby-plugin-react-helmet`,
 		`gatsby-plugin-nodejs`,
 		`gatsby-plugin-graphql-config`,
-		// {
-		// 	resolve: 'gatsby-plugin-extract-schema',
-		// 	options: {
-		// 		dest: path.resolve(process.cwd(), 'src', 'schema.json'),
-		// 		getSchema: async (obj) => {
-		// 			const res = await graphql(obj, getIntrospectionQuery())
-		// 			return JSON.stringify(res.data)
-		// 		},
-		// 		adjustSchema: async (schema) => {
-		// 			// adjust the schema
-		// 			return schema
-		// 		},
-		// 		writeSchema: async (location, schema) => {
-		// 			// custom implementation to write the schema-string
-		// 			fs.writeFileSync(location, schema)
-		// 		},
-		// 	},
-		// },
+		{
+			resolve: 'gatsby-plugin-extract-schema',
+			options: {
+				dest: path.resolve(process.cwd(), 'src', 'schema.json'),
+				getSchema: async (obj) => {
+					const res = await graphql(obj, getIntrospectionQuery())
+					return JSON.stringify(res.data)
+				},
+				adjustSchema: async (schema) => {
+					// adjust the schema
+					return schema
+				},
+				writeSchema: async (location, schema) => {
+					// custom implementation to write the schema-string
+					fs.writeFileSync(location, schema)
+				},
+			},
+		},
 		{
 			resolve: 'gatsby-plugin-page-creator',
 			options: {

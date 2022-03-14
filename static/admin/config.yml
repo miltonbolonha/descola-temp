@@ -2,7 +2,7 @@ backend:
   name: github
   repo: miltonbolonha/descola-temp
   branch: master
-  site_domain: https://temp-descola.netlify.app
+  site_domain: temp-descola.netlify.app
 
 # local_backend: true
 publish_mode: editorial_workflow
