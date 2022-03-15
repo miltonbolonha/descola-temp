@@ -1,14 +1,13 @@
 ---
-title: 'Como driblar o inconsciente nas relações interpessoais.'
-date: '2019-08-01T20:35:36+00:00'
-author: 'Equipe Descola'
+title: Como driblar o inconsciente nas relações interpessoais.
+date: 2019-08-01T20:35:36+00:00
+author: Equipe Descola
 featuredPost: false
 templatekey: blog-post
 tags:
   - geral
 featuredImage: ../static/images/Vieses-incoscientes_Descoladrops.jpg
 ---
-
 Você já parou pra pensar quantas vezes você tomou uma decisão baseada em crenças e/ou suposições pré-estabelecidas?
 
 Te convidamos a fazer um teste. Imagine a seguinte pessoa: Um artista plástico que produz todo tipo de obras. Pinturas, esculturas, projeções em instalações e que já participou de grandes atos de ativismo. Seu trabalho traz referências do surrealismo, pop art, expressionismo abstrato, além de apresentar conceitos minimalistas e psicodélicos. Em sua estante, esta pessoa pode exibir prêmios pelos livros que já escreveu e até o filme que produziu e protagonizou.
@@ -43,23 +42,23 @@ Somos indivíduos distintos e que carregamos diferentes experiências e bagagem 
 
 Dentre os diversos [tipos de vieses](https://descola.org/curso/vieses-inconscientes) identificados, escolhemos os 5 mais recorrentes para te mostrar:
 
-- **Viés de Afinidade:** é a tendência de avaliar melhor quem se parece conosco, como por exemplo em questões de gênero, raça, idade, histórias de vida, entre outros.
+* **Viés de Afinidade:** é a tendência de avaliar melhor quem se parece conosco, como por exemplo em questões de gênero, raça, idade, histórias de vida, entre outros.
 
 Porque será que os cargos de liderança são na grande maioria compostos por homens brancos?
 
-- **Viés de Percepção:** quando reforçamos estereótipos que são definidos por influência da sociedade ou cultura na qual estamos inseridos.
+* **Viés de Percepção:** quando reforçamos estereótipos que são definidos por influência da sociedade ou cultura na qual estamos inseridos.
 
 Dizem que mulheres dirigem mal. Mas, quando vamos avaliar a tabela de preços de uma seguradora de carros, o valor para mulheres é sempre mais em conta do que para os homens, uma vez que estas são mais cuidadosas e apresentam uma tendência menor em cometer acidentes.
 
-- **Viés Confirmatório:** procuramos informações que confirmem as nossas hipóteses iniciais e rejeitamos as que são contrárias.
+* **Viés Confirmatório:** procuramos informações que confirmem as nossas hipóteses iniciais e rejeitamos as que são contrárias.
 
 Só enxergamos aquilo que queremos ver, não é porque um dia você teve uma má experiência assistindo um filme de ação que todos são ruins, né?
 
-- **Efeito de halo/auréola:** exibimos uma preferência inconsciente com apenas uma informação positiva ou agradável da pessoa, o que nos leva a avaliar positivamente todo o restante das informações.
+* **Efeito de halo/auréola:** exibimos uma preferência inconsciente com apenas uma informação positiva ou agradável da pessoa, o que nos leva a avaliar positivamente todo o restante das informações.
 
 As aparências enganam, na vida, na carreira e nos negócios. Você sabia que pessoas mais altas costumam ter salários maiores?
 
-- **Efeito de grupo**: seguimos o padrão de um grupo. A pressão que é colocada pelo grupo pode fazer com que todos busquem convergir com a mesma ideia.
+* **Efeito de grupo**: seguimos o padrão de um grupo. A pressão que é colocada pelo grupo pode fazer com que todos busquem convergir com a mesma ideia.
 
 Algumas pessoas começam a se vestir de uma forma diferente na empresa, e de repente todas adotam essa forma diferente de se vestir, para se sentirem parte do grupo.
 
@@ -79,12 +78,12 @@ Uma coisa é fato: não temos como acabar com os nossos vieses, afinal eles são
 
 Os vieses se manifestam em diversas etapas do nosso dia a dia. Aqui alguns exemplos de momentos em que somos afetados por eles:
 
-- **Percepção**: como vemos e reagimos às pessoas.
-- **Atitude**: como reagimos com certas pessoas.
-- **Comportamento**: quão receptivos e amigáveis somos com as pessoas.
-- **Atenção**: qual aspecto escolhemos prestar mais atenção nas pessoas.
-- **Escuta**: quanto realmente ouvimos do que o outro diz.
-- **Micro** **afirmações**: quanto ou quão pouco confrontamos certas pessoas em determinadas situações.
+* **Percepção**: como vemos e reagimos às pessoas.
+* **Atitude**: como reagimos com certas pessoas.
+* **Comportamento**: quão receptivos e amigáveis somos com as pessoas.
+* **Atenção**: qual aspecto escolhemos prestar mais atenção nas pessoas.
+* **Escuta**: quanto realmente ouvimos do que o outro diz.
+* **Micro** **afirmações**: quanto ou quão pouco confrontamos certas pessoas em determinadas situações.
 
 Oras, se são inconscientes e muitas vezes de difícil percepção, como é possível se livrar desse tipo de atitude?
 O primeiro passo é saber reconhecer os diferentes tipos de preconceitos inconscientes para tomarmos consciência de nossos atos e assim evitá-los.
@@ -99,23 +98,23 @@ Mas só de ler esse texto você já está tomando consciência, não só da exis
 
 O primeiro passo é fácil – torne o inconsciente, consciente.
 
-- **Reconhecer** que você tem vieses inconscientes.
+* **Reconhecer** que você tem vieses inconscientes.
 
 Entenda que não tem problema algum ter viés, todos nós temos. E isso não nos torna uma pessoa ruim, isso é natural do ser humano, mas ainda bem que temos a capacidade de refletir.
 
-- **Identificar** quais são os seus vieses inconscientes.
+* **Identificar** quais são os seus vieses inconscientes.
 
 Este [teste](https://implicit.harvard.edu/implicit/brazil/) te auxilia a identificar seus vieses.
 
-- **Saia da sua zona de conforto.**
+* **Saia da sua zona de conforto.**
 
 Se desafie, saia do lugar e faça acontecer. Desafie os seus vieses, navegue em mares desconhecidos.
 
-- A **diversidade** é a maior aliada do combate ao viés. Busque interagir com pessoas diferentes do seu perfil.
+* A **diversidade** é a maior aliada do combate ao viés. Busque interagir com pessoas diferentes do seu perfil.
 
 Deixe de lado a zona de conforto. Encontre novidades. Conecte-se com outras pessoas diferentes de você.
 
-- Pedir que outros nos apontem no momento em que temos um pensamento ou ação que possa estar sendo influenciado por um viés inconsciente.
+* Pedir que outros nos apontem no momento em que temos um pensamento ou ação que possa estar sendo influenciado por um viés inconsciente.
 
 Aprendendo sobre os vieses você estará auxiliando o mundo a conviver na diversidade, a criar ambientes mais diversos, inclusivos e, claro, inovadores. A jornada da desconstrução dos vieses não é fácil contudo é um exercício de sinceridade consigo mesmo.
 
@@ -147,6 +146,6 @@ Saiba que…
 
 Para inspirar mais ainda a reconhecer e se tornar consciente dos seus vieses, apresentamos Yassmin Abdel-Magied. A mulher que pode te fazer repensar sobre o que você sabe sobre uma muçulmana.
 
-<iframe allowfullscreen="" frameborder="0" height="282" loading="lazy" mozallowfullscreen="" scrolling="no" src="https://embed.ted.com/talks/yassmin_abdel_magied_what_does_my_headscarf_mean_to_you" title="Yassmin Abdel-Magied: What does my headscarf mean to you?" webkitallowfullscreen="" width="500">
+<iframe allowfullscreen="" frameborder="0" height="363" loading="lazy" mozallowfullscreen="" scrolling="no" src="https://embed.ted.com/talks/yassmin_abdel_magied_what_does_my_headscarf_mean_to_you" title="Yassmin Abdel-Magied: What does my headscarf mean to you?" webkitallowfullscreen="" width="700">
 
 Se você ficou interessado no conteúdo e deseja se aprofundar ajudando a criar ambientes mais diversos, inclusivos e, claro, inovadores indicamos o [curso de vieses inconscientes](https://descola.org/curso/vieses-inconscientes) para expandir seu conhecimento.
