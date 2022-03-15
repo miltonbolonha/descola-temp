@@ -1,5 +1,5 @@
 ---
-title: Como driblar o inconsciente nas relações interpessoais.
+title: Como driblar o inconsciente nas relações interpessoais
 date: 2019-08-01T20:35:36+00:00
 author: Equipe Descola
 featuredPost: false
@@ -62,7 +62,7 @@ As aparências enganam, na vida, na carreira e nos negócios. Você sabia que pe
 
 Algumas pessoas começam a se vestir de uma forma diferente na empresa, e de repente todas adotam essa forma diferente de se vestir, para se sentirem parte do grupo.
 
-UMA DICA**:** Quer olhar com maior atenção para condutas enviesadas? Então olhe com muito cuidado e atenção para as generalizações.
+**UMA DICA:** Quer olhar com maior atenção para condutas enviesadas? Então olhe com muito cuidado e atenção para as generalizações.
 
 As generalizações limitam nossas possibilidades e pensamentos – uma vez que não observamos com plena atenção às perspectivas e oportunidades que são apresentadas.
 
@@ -86,6 +86,7 @@ Os vieses se manifestam em diversas etapas do nosso dia a dia. Aqui alguns exemp
 * **Micro** **afirmações**: quanto ou quão pouco confrontamos certas pessoas em determinadas situações.
 
 Oras, se são inconscientes e muitas vezes de difícil percepção, como é possível se livrar desse tipo de atitude?
+
 O primeiro passo é saber reconhecer os diferentes tipos de preconceitos inconscientes para tomarmos consciência de nossos atos e assim evitá-los.
 
 ## **Mas será que isso me afeta?**
