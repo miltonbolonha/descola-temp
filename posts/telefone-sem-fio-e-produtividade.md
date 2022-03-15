@@ -1,16 +1,15 @@
 ---
-title: 'TELEFONE SEM FIO? E PRODUTIVIDADE..'
-date: '2021-05-17T20:35:00+00:00'
-author: 'Equipe Descola'
+title: TELEFONE SEM FIO? E PRODUTIVIDADE..
+date: 2021-05-17T20:35:00+00:00
+author: Equipe Descola
 featuredPost: false
 templatekey: blog-post
 tags:
   - comunicação
   - gestão
-  - 'times remotos'
+  - times remotos
 featuredImage: ../static/images/Captura-de-Tela-2021-05-13-a%CC%80s-17.png
 ---
-
 A comunicação organizacional não pode ser interrompida, nem chegar truncada aos seus pares. Conheça os recursos para manter seus times engajados e por dentro de tudo.
 
 Desde meados da década de 2010, os dados estatísticos do trabalho remoto já vinham sendo demonstrados em curva ascendentes para, em 2020, dar um verdadeiro salto nos gráficos de pesquisas: 46% das empresas adotaram a prática. Na mesma ocasião, a Fundação Getúlio Vargas apontou que a tendência é que a adesão ao trabalho remoto cresça 30% mais.
@@ -19,7 +18,7 @@ A moda pegou de um jeito que o [trabalho remoto](https://descola.org/gestao-de-t
 
 No entanto, há casos em que a empresa proporciona todas as condições sociais e tecnológicas para que seus colaboradores assumam o poder de decisão sobre suas próprias rotinas de trabalho. Assim, de acordo com suas preferências e necessidades do dia, eles podem escolher de onde vão trabalhar.
 
-Quer seja _at home_ ou anywhere, não importa: estabelecer um canal de comunicação consistente, efetivo e fluido é um dos principais desafios do trabalho remoto.
+Quer seja *at home* ou anywhere, não importa: estabelecer um canal de comunicação consistente, efetivo e fluido é um dos principais desafios do trabalho remoto.
 
 Catia Cintra atua no segmento bancário e, desde março de 2020, passou a trabalhar integralmente em home office. A empresa foi pega de surpresa pelas restrições impostas pela pandemia, e não dispunha de recursos tecnológicos suficientes para implantar a estrutura adequada de escritório virtual para atender as demandas de bate-pronto. Resultado: sem aplicativos como o Slack, a administradora de empresas tinha que acompanhar as mensagens corporativas em mais de um grupo no WhatsApp, pois, seu trabalho atendia a mais de uma equipe.
 
@@ -33,11 +32,11 @@ Por outro lado, há situações em que o tête à tête ainda é muito mais efic
 
 Isso acontece também com frequência com Maitê Nogueira em sua rotina de trabalho como líder de abastecimento sênior em uma multinacional do segmento varejista. A incompatibilidade dos sistemas entre o escritório e a fábrica dificulta a comunicação no momento em que o estoque precisa ser conferido.
 
-“Eles usam o GE enquanto nós usamos o SAP. Então, quando a fábrica recebe um pedido pode faltar alguma peça que consta no SAP e vice e versa. Aí temos que abrir um chamado para que a TI atualize o fluxo de operações. O processo em home office demora cerca de três dias, quando pessoalmente seria mais ágil. Outros processos que envolvem atualizações do fluxo operacional, como cadastramento de clientes, também ficaram mais lentos.”
+> “Eles usam o GE enquanto nós usamos o SAP. Então, quando a fábrica recebe um pedido pode faltar alguma peça que consta no SAP e vice e versa. Aí temos que abrir um chamado para que a TI atualize o fluxo de operações. O processo em home office demora cerca de três dias, quando pessoalmente seria mais ágil. Outros processos que envolvem atualizações do fluxo operacional, como cadastramento de clientes, também ficaram mais lentos.”
 
 Mesmo diante dessa observação em relação à demora de determinados fluxos, Maitê elogia a tomada de decisão da empresa em relação à providência de ferramentas que otimizaram inúmeros processos diante da demanda por trabalho remoto mais frequente, após a pandemia de 2020.
 
-“Eles agiram muito rápido na implantação de aplicativos e sistemas para viabilizar acessos aos sistemas internos de uso comum, sobretudo, no que compreende as atividades de Recursos Humanos e gestão. As novas ferramentas tornaram possível a transparência ao acesso a documentos relacionados ao planejamento estratégico, como o compilado de métricas e resultados de vendas – que é visível a todos remotamente”, diz a estilista, que não tem perspectiva nem intenção de voltar a trabalhar presencialmente.
+> “Eles agiram muito rápido na implantação de aplicativos e sistemas para viabilizar acessos aos sistemas internos de uso comum, sobretudo, no que compreende as atividades de Recursos Humanos e gestão. As novas ferramentas tornaram possível a transparência ao acesso a documentos relacionados ao planejamento estratégico, como o compilado de métricas e resultados de vendas – que é visível a todos remotamente”, diz a estilista, que não tem perspectiva nem intenção de voltar a trabalhar presencialmente.
 
 ### **E a comunicação interna, como fica?**
 
