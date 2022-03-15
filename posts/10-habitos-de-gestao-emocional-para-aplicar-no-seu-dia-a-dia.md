@@ -23,9 +23,9 @@ Mas para que possamos treinar nossa Inteligência Emocional, é necessário olha
 
 Os **3 indicadores** que ajudam a determinar o nível de Inteligência Emocional de uma pessoa são:
 
-* → Quanto tempo você demora para perder o controle?*
-* → O quão fundo você vai na crise?*
-* → Quanto tempo você demora para se reorganizar emocionalmente?*
+* Quanto tempo você demora para perder o controle?
+* O quão fundo você vai na crise?
+* Quanto tempo você demora para se reorganizar emocionalmente?
 
 Tente refletir sobre as últimas experiências que você teve em que você saiu do seu estado emocional equilibrado. Agora se faça as mesmas perguntas. Em quanto tempo você perdeu o controle? O quão intensa foi sua crise?
 
