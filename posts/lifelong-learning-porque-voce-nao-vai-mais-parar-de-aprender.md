@@ -1,14 +1,13 @@
 ---
-title: 'Lifelong Learning: Porquê você não vai mais parar de aprender'
-date: '2020-01-28T21:59:34+00:00'
-author: 'André Tanesi'
+title: "Lifelong Learning: Porquê você não vai mais parar de aprender"
+date: 2020-01-28T21:59:34+00:00
+author: André Tanesi
 featuredPost: false
 templatekey: blog-post
 tags:
   - geral
 featuredImage: ../static/images/lifelonglearning_descola.jpg
 ---
-
 **O que você vai ser quando crescer?** Em algum momento da sua infância você teve que responder a essa pergunta.
 
 A regra da vida era simples. Você escolhia uma carreira, estudava ela por 4 anos e ia pro mercado de trabalho. No trabalho você ia crescer, talvez fazer uma pós-graduação em algum campo complementar aos seus estudos, e ia seguir trabalhando e crescendo no seu cargo ou na sua empresa.
@@ -19,7 +18,7 @@ Só que esse jogo ficou desatualizado. Hoje vemos um fenômeno de pessoas terem 
 
 O engenheiro que foi trabalhar com marketing e depois virou empreendedor. O cara de comunicação que virou programador. A pessoa que nem fez faculdade, mas trabalhou com vídeo, fotografia, redação e eventos.
 
-Aquela pergunta sobre _“o que você vai ser quando crescer?”_ perdeu o sentido. Agora, não mais somos uma coisa por toda a vida, apenas estamos nelas por um tempo indeterminado.
+Aquela pergunta sobre *“o que você vai ser quando crescer?”* perdeu o sentido. Agora, não mais somos uma coisa por toda a vida, apenas estamos nelas por um tempo indeterminado.
 
 Você “está como programador” ou “está como veterinária”. Amanhã pode estar como designer de interfaces ou como atendimento de uma agência de marketing. Nesse novo mundo, você pode escolher ser quem quiser ser, quando e onde quiser.
 
@@ -39,9 +38,9 @@ Reaprender sobre tudo. Rever os erros, se atualizar, mudar de rota, incrementar 
 
 É nesse contexto que toda a perspectiva de trabalho muda. Se a gente pode – e deve – aprender, desaprender e reaprender constantemente, então qual o motivo de seguirmos fazendo as mesmas coisas ao longo de toda a vida?
 
-(_spoiler_: nenhum sentido!)
+(*spoiler*: nenhum sentido!)
 
-### O Aprendizado Constante
+## O Aprendizado Constante
 
 O aprendizado contínuo, ou [Lifelong Learning](https://descola.org/curso/lifelong-learning), tem ganhado cada vez mais força como um modelo de educação consistente para o século XXI. Não por coincidência, diversos estudos, conferências e relatórios sobre educação apontam para esse modelo de educação.
 
@@ -51,7 +50,7 @@ No final de 2019, o WISE – World Innovation Summit for Education – um dos ma
 
 Quer dizer que uma das grandes preocupações em educação é sobre manter o mercado de trabalho constantemente atualizado. Que as pessoas possam aprender o tempo todo novas habilidades e novos caminhos profissionais que permitam que elas sejam – ou estejam – onde quiserem profissionalmente.
 
-### Como aprender coisas novas?
+## Como aprender coisas novas?
 
 O primeiro passo é entender que você nunca mais vai parar de aprender. Estar fechado e achar que sabe tudo, ou que seu “caminho está trilhado” é uma ótima forma de ficar ultrapassado.
 
