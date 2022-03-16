@@ -21,6 +21,7 @@ const BodyContainer = ({ children, opt }) => {
 						blogListing={opt.blogListing}
 						articleBody={opt.articleBody}
 						mainLogo={opt.mainLogo}
+						description={opt.description || null}
 					/>
 
 					<Body opt={opt} bgImage={opt.bgImage} customClasses={opt.classes}>

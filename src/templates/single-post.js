@@ -21,9 +21,13 @@ const SinglePost = ({ data }) => {
 				classes: 'single-post',
 				datePublished: post.frontmatter.date,
 				schemaType: 'article',
-				featuredImage: post.frontmatter.featuredImage,
+				featuredImage:
+					data.site.siteMetadata.siteUrl +
+					post.frontmatter.featuredImage.childrenImageSharp[0].gatsbyImageData
+						.images.fallback.src,
 				articleBody: post.html,
 				mainLogo: data.imgHolder,
+				description: post.excerpt,
 			}}
 		>
 			<HeaderBlock logotipoSvg={<DescolaLogo />} />
@@ -48,6 +52,7 @@ export const query = graphql`
 		site {
 			siteMetadata {
 				postsPerPage
+				siteUrl
 			}
 		}
 
@@ -69,6 +74,7 @@ export const query = graphql`
 					}
 				}
 			}
+			excerpt(pruneLength: 200)
 			html
 			fields {
 				slug

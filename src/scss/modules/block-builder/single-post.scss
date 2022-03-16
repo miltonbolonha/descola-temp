@@ -148,14 +148,12 @@
 				font-family: $second__font;
 			&:nth-of-type(odd){
 				border-right: 3px solid $cta__color;
-				float: left;
 				margin-left: auto;
 				text-align: right;
 				margin-right: 15px;
 			}
 			&:nth-of-type(even){
 				border-left: 3px solid $cta__color;
-				float: right;
 				text-align: left;
 				margin-left: 15px;
 			}

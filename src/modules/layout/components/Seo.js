@@ -23,6 +23,7 @@ const Seo = ({
 	keywords,
 	dateCreated,
 	ogranizationLogo,
+	featuredImage,
 }) => (
 	<>
 		<Helmet
@@ -33,8 +34,8 @@ const Seo = ({
 		>
 			<title>{title}</title>
 			<meta name="description" content={metaDescription} />
-			<meta name="image" content={image} />
-			<meta name="keywords" content={keywords.map((e) => e)} />
+			<meta name="image" content={image || featuredImage} />
+			<meta name="keywords" content={keywords.map((e) => e + ' ')} />
 			<link rel="canonical" href={siteUrl} />
 			{/* OpenGraph tags */}
 			<meta property="og:url" content={siteUrl} />
@@ -45,7 +46,7 @@ const Seo = ({
 			)}
 			<meta property="og:title" content={title} />
 			<meta property="og:description" content={description} />
-			<meta property="og:image" content={image} />
+			<meta property="og:image" content={image || featuredImage} />
 			{social.fbAppID ? (
 				<meta property="fb:app_id" content={social.fbAppID} />
 			) : null}
@@ -56,13 +57,13 @@ const Seo = ({
 			) : null}
 			<meta name="twitter:title" content={title} />
 			<meta name="twitter:description" content={description} />
-			<meta name="twitter:image" content={image} />
+			<meta name="twitter:image" content={image || featuredImage} />
 		</Helmet>
 		<SchemaOrg
 			schemaType={schemaType}
 			url={siteUrl}
 			title={title}
-			image={image}
+			image={image || featuredImage}
 			description={description}
 			datePublished={datePublished}
 			siteUrl={siteUrl}
