@@ -46,22 +46,7 @@ module.exports = {
 		{
 			resolve: `gatsby-transformer-remark`,
 			options: {
-				plugins: [
-					{
-						resolve: `gatsby-remark-relative-images`,
-						options: {
-							name: `uploads`,
-							staticFolderName: 'static',
-						},
-					},
-					{
-						resolve: `gatsby-remark-images`,
-						options: {
-							maxWidth: 1024,
-						},
-					},
-					`gatsby-remark-lazy-load`,
-				],
+				plugins: [`gatsby-remark-lazy-load`],
 			},
 		},
 		{
@@ -87,6 +72,7 @@ module.exports = {
 						options: {
 							maxWidth: 1035,
 							sizeByPixelDensity: true,
+							quality: 90,
 						},
 					},
 				],

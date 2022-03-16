@@ -9,13 +9,14 @@ tags:
 featuredPost: true
 featuredImage: ../static/images/descola_ideias.jpg
 ---
+
 **Biblioteca de estilos :)**
 
-* **[link](https://google.com)** - Este é um texto do qual você se arrependerá por ter lido até o fim com bastante atenção.
+- **[link](https://google.com)** - Este é um texto do qual você se arrependerá por ter lido até o fim com bastante atenção.
 
 Você vai gostar desses elementos!
 
-- - -
+---
 
 # h1 Cabeçalho 8-)
 
@@ -31,11 +32,11 @@ Você vai gostar desses elementos!
 
 ## Linhas Horizontais
 
-- - -
+---
 
-- - -
+---
 
-- - -
+---
 
 ## Ênfases
 
@@ -43,9 +44,9 @@ Você vai gostar desses elementos!
 
 **Isso é negrito**
 
-*Isso é itálico*
+_Isso é itálico_
 
-*Isso é itálico*
+_Isso é itálico_
 
 ~~Riscado~~
 
@@ -65,31 +66,26 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut rhoncus nulla. A
 
 Não ordenado
 
-* Crie uma lista iniciando uma linha com `+`, `-` ou `*`
-* As sublistas são feitas com recuo de 2 espaços:
+- Crie uma lista iniciando uma linha com `+`, `-` ou `*`
+- As sublistas são feitas com recuo de 2 espaços:
 
-  * A alteração do caractere marcador força o início de uma nova lista:
+  - A alteração do caractere marcador força o início de uma nova lista:
 
-    * Ac tristique libero volutpat em
-    * Facilisis em pretium nisl aliquet
-    * Nulla volutpat aliquam velit
-* Muito fácil!
+    - Ac tristique libero volutpat em
+    - Facilisis em pretium nisl aliquet
+    - Nulla volutpat aliquam velit
 
+- Muito fácil!
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam semper sem eget orci blandit, et ornare mauris luctus. Cras euismod urna non justo pretium fermentum. In hac habitasse platea dictumst. Nam vehicula velit at augue scelerisque venenatis. Integer iaculis lacinia neque ac dictum.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam semper sem eget orci blandit, et ornare mauris luctus. Cras euismod urna non justo pretium fermentum. In hac habitasse platea dictumst. Nam vehicula velit at augue scelerisque venenatis. Integer iaculis lacinia neque ac dictum. 
+![](/images/screenshot-from-2020-10-23-18-08-20.png)
 
-![](images/screenshot-from-2020-10-23-18-08-20.png)
+Nulla dui libero, porttitor et dapibus ut, efficitur sit amet sem. Sed bibendum fermentum ante, vitae laoreet purus elementum at. Fusce lacinia leo erat, sit amet vehicula orci luctus quis. Suspendisse potenti. Etiam est orci, porttitor vel tempus non, posuere nec odio. Donec consequat posuere elit et laoreet.
 
-Nulla dui libero, porttitor et dapibus ut, efficitur sit amet sem. Sed bibendum fermentum ante, vitae laoreet purus elementum at. Fusce lacinia leo erat, sit amet vehicula orci luctus quis. Suspendisse potenti. Etiam est orci, porttitor vel tempus non, posuere nec odio. Donec consequat posuere elit et laoreet. 
-
-> Curabitur sodales tortor vitae dolor pulvinar, eu varius est lobortis. 
+> Curabitur sodales tortor vitae dolor pulvinar, eu varius est lobortis.
 
 Cras ac dapibus nulla. Etiam bibendum pellentesque turpis, non volutpat diam hendrerit in. Pellentesque sodales risus eu lacus fermentum, nec egestas magna molestie.
-
-
-
-
 
 Lista Numérica
 
@@ -123,7 +119,7 @@ Colunas alinhadas à direita
 
 [link text](https://dev.nodeca.com)
 
-[link with title](https://nodeca.github.io/pica/demo/ "title text!")
+[link with title](https://nodeca.github.io/pica/demo/ 'title text!')
 
 Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 
@@ -149,6 +145,6 @@ e vários parágrafos.
 
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg 'O Stormtroopocat')
 
-![Alt texto](https://octodex.github.com/images/dojocat.jpg "O Dojocat")
+![Alt texto](https://octodex.github.com/images/dojocat.jpg 'O Dojocat')
 
 Com uma referência posterior no documento definindo o local do URL:
