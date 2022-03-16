@@ -20,6 +20,8 @@ featuredImage: ../static/images/descola_sala.jpg
 
 > **“O futuro do trabalho é sobre habilidades, e não somente diplomas”** 
 
+
+
 A frase é Jamie Dimon – CEO e Chairman do JP Morgan Chase, um dos maiores bancos do mundo – publicada na revista Fortune em Janeiro de 2020.
 
 Ele não está sozinho. Grandes estudos e relatórios como o do Fórum Econômico Mundial – de 2018 e o de 2020 – elencam uma série de habilidades comportamentais que serão cada vez mais fundamentais para a força de trabalho.
