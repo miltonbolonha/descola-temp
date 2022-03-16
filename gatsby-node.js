@@ -56,9 +56,24 @@ exports.createPages = ({ graphql, actions }) => {
 					}
 				}
 			}
-			tagsGroup: allMarkdownRemark(limit: 2000) {
+			tagsGroup: allMarkdownRemark(limit: 800) {
 				group(field: frontmatter___tags) {
 					fieldValue
+					nodes {
+						headings {
+							value
+						}
+						fields {
+							slug
+						}
+						frontmatter {
+							featuredImage {
+								childrenImageSharp {
+									gatsbyImageData
+								}
+							}
+						}
+					}
 				}
 			}
 			featuredPosts: allMarkdownRemark(
