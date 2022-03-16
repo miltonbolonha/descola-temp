@@ -52,11 +52,15 @@ _Isso é itálico_
 
 ## Citações
 
-> Citações ordenadas...
->
-> > ...usando sinais adicionais de maior que um ao lado do outro...
-> >
-> > > ...ou com espaços entre as setas.
+> Citações ordenadas
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut rhoncus nulla. Aliquam ac erat mi. Phasellus eleifend mauris eu volutpat accumsan. Nam dolor justo, facilisis in semper nec, elementum non urna. Nulla sodales in libero sed vulputate. Morbi in ex at massa ultrices tempor et id ligula. Aenean congue nec lacus sit amet facilisis. Donec quis luctus ligula. Nunc vel nisi vitae tortor bibendum convallis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Maecenas odio elit, viverra ac leo at, laoreet bibendum velit.
+
+> ...usando sinais adicionais de maior que um ao lado do outro...
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut rhoncus nulla. Aliquam ac erat mi. Phasellus eleifend mauris eu volutpat accumsan. Nam dolor justo, facilisis in semper nec, elementum non urna. Nulla sodales in libero sed vulputate. Morbi in ex at massa ultrices tempor et id ligula. Aenean congue nec lacus sit amet facilisis. Donec quis luctus ligula. Nunc vel nisi vitae tortor bibendum convallis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Maecenas odio elit, viverra ac leo at, laoreet bibendum velit.
+
+> Ou com espaços entre as setas.
 
 ## Lists
 

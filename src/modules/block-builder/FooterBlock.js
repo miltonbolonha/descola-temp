@@ -126,7 +126,7 @@ const FooterBlock = ({ footerLogo, featurePosts }) => {
 										type="BLOCK_IMAGE"
 										opt={{
 											queryCard: eachPost.node.frontmatter.footerFeaturedImage,
-											alt: 'Descola Holder',
+											alt: eachPost.node.frontmatter.title,
 										}}
 									/>
 								) : null}

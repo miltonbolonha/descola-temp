@@ -79,6 +79,11 @@ export const query = graphql`
 				}
 			}
 		}
+		imgHolder: file(relativePath: { eq: "descola-image.png" }) {
+			childrenImageSharp {
+				gatsbyImageData(width: 76, height: 76, placeholder: NONE, quality: 100)
+			}
+		}
 	}
 `
 

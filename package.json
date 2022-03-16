@@ -10,8 +10,9 @@
 	},
 	"organization": {
 		"name": "Descola",
-		"url": "https://descola-blog.netlify.app/",
-		"email": "descola@descola.com.br"
+		"url": "https://descola-blog.netlify.app",
+		"email": "descola@descola.com.br",
+		"logo": "descola-logo.svg"
 	},
 	"repository": "https://github.com/grpaiva/descola-blog",
 	"urlPrefix": "/",

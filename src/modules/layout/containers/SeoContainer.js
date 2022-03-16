@@ -18,6 +18,7 @@ function SeoContainer({
 	featuredImage,
 	blogListing,
 	articleBody,
+	mainLogo,
 }) {
 	const { site, apiPosts } = useStaticQuery(
 		graphql`
@@ -37,6 +38,7 @@ function SeoContainer({
 							name
 							url
 							email
+							logo
 						}
 						social {
 							youtube
@@ -78,7 +80,6 @@ function SeoContainer({
 			}
 		`
 	)
-
 	const metaDescription = description || site.siteMetadata.description
 	return (
 		<Seo
@@ -91,6 +92,7 @@ function SeoContainer({
 			meta={meta}
 			siteUrl={site.siteMetadata.siteUrl}
 			image={featuredImage || site.siteMetadata.image}
+			ogranizationLogo={mainLogo}
 			author={authorSeo || site.siteMetadata.organization.name}
 			organization={site.siteMetadata.organization}
 			social={site.siteMetadata.social}

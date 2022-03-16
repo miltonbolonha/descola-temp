@@ -23,6 +23,7 @@ const SinglePost = ({ data }) => {
 				schemaType: 'article',
 				featuredImage: post.frontmatter.featuredImage,
 				articleBody: post.html,
+				mainLogo: data.imgHolder,
 			}}
 		>
 			<HeaderBlock logotipoSvg={<DescolaLogo />} />

@@ -18,14 +18,17 @@ export default React.memo(
 		articleBody,
 		keywords,
 		dateCreated,
+		ogranizationLogo,
 	}) => {
 		const imageSrc = image.childrenImageSharp
-			? image.childrenImageSharp[0].gatsbyImageData.images.fallback.src
+			? organization.url.slice(0, -1) +
+			  image.childrenImageSharp[0].gatsbyImageData.images.fallback.src
 			: image
+
 		const dateNow = Date.now()
 		const baseSchema = {
 			'@context': 'http://schema.org',
-			'@type': ['WebPage', 'CollectionPage'],
+			'@type': ['WebPage', 'Organization', 'School'],
 			'@id': siteUrl,
 			headline: title,
 			description: description,
@@ -141,8 +144,7 @@ export default React.memo(
 							headline: title,
 							image: {
 								'@type': 'ImageObject',
-								url: image.childrenImageSharp[0].gatsbyImageData.images.fallback
-									.src,
+								url: imageSrc,
 							},
 							description: description,
 							articleBody: articleBody,
@@ -157,8 +159,7 @@ export default React.memo(
 								name: organization.name,
 								logo: {
 									'@type': 'ImageObject',
-									url: image.childrenImageSharp[0].gatsbyImageData.images
-										.fallback.src,
+									url: ogranizationLogo,
 								},
 							},
 							mainEntityOfPage: {

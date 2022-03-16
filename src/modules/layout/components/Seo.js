@@ -22,6 +22,7 @@ const Seo = ({
 	articleBody,
 	keywords,
 	dateCreated,
+	ogranizationLogo,
 }) => (
 	<>
 		<Helmet
@@ -73,6 +74,7 @@ const Seo = ({
 			articleBody={articleBody}
 			keywords={keywords}
 			dateCreated={dateCreated}
+			ogranizationLogo={ogranizationLogo}
 		/>
 	</>
 	// title={title}

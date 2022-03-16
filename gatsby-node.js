@@ -124,6 +124,7 @@ exports.createPages = ({ graphql, actions }) => {
 										height: 76
 										placeholder: DOMINANT_COLOR
 										quality: 70
+										outputPixelDensities: [1, 2]
 									)
 								}
 							}
@@ -249,6 +250,13 @@ exports.createPages = ({ graphql, actions }) => {
 exports.onPostBuild = ({ graphql }) => {
 	return graphql(`
 		{
+			site {
+				siteMetadata {
+					organization {
+						url
+					}
+				}
+			}
 			apiPosts: allMarkdownRemark(
 				sort: { fields: frontmatter___date, order: DESC }
 				filter: { frontmatter: { featuredPost: { eq: true } } }
@@ -280,6 +288,23 @@ exports.onPostBuild = ({ graphql }) => {
 		}
 	`).then((result) => {
 		// processAndWriteJSONFiles(result)
-		fs.writeFileSync(`./public/feed.json`, JSON.stringify(result))
+		let feed = []
+		result.data.apiPosts.edges.forEach(({ node }) => {
+			const slug = node.fields.slug
+			const frontmatter = node.frontmatter
+			const { date, title } = frontmatter
+			const imageSrc =
+				result.data.site.siteMetadata.organization.url +
+				node.frontmatter.footerFeaturedImage.childrenImageSharp[0]
+					.gatsbyImageData.images.fallback.src
+
+			feed.push({
+				slug: slug,
+				date: date,
+				title: title,
+				imageSrc: imageSrc,
+			})
+		})
+		fs.writeFileSync(`./public/feed.json`, JSON.stringify(feed))
 	})
 }

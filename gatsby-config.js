@@ -20,7 +20,7 @@ module.exports = {
 			name: businessInfos.organization.name,
 			email: businessInfos.organization.email,
 			url: businessInfos.organization.url,
-			logo: `${__dirname}/static/images/descola-logo.svg`,
+			logo: `${__dirname}/static/images/descola-image.png`,
 		},
 		social: {
 			instagram: businessInfos.clientSocial.instagram,
@@ -51,13 +51,13 @@ module.exports = {
 						resolve: `gatsby-remark-relative-images`,
 						options: {
 							name: `uploads`,
+							staticFolderName: 'static',
 						},
 					},
 					{
 						resolve: `gatsby-remark-images`,
 						options: {
-							maxWidth: 695,
-							linkImagesToOriginal: false,
+							maxWidth: 1024,
 						},
 					},
 					`gatsby-remark-lazy-load`,
