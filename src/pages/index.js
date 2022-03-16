@@ -107,10 +107,10 @@ export const queryAtividade = graphql`
 						footerFeaturedImage: featuredImage {
 							childrenImageSharp {
 								gatsbyImageData(
-									width: 76
-									height: 76
+									width: 152
+									height: 152
 									placeholder: DOMINANT_COLOR
-									quality: 70
+									quality: 80
 								)
 							}
 						}
