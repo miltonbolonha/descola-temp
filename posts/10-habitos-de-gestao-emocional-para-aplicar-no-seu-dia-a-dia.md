@@ -2,7 +2,7 @@
 title: 10 hábitos de Gestão Emocional para aplicar no seu dia a dia
 date: 2020-06-05T17:16:56+00:00
 author: Equipe Descola
-featuredPost: false
+featuredPost: true
 templatekey: blog-post
 tags:
   - cnv
