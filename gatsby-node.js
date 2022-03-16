@@ -3,49 +3,6 @@ const path = require('path')
 const _ = require('lodash')
 const { createFilePath } = require(`gatsby-source-filesystem`)
 
-// const path = require('path')
-// const fs = require('fs').promises
-
-// exports.onPostBuild = async ({ graphql }) => {
-// 	const { data } = await graphql(`
-// 		{
-// 			apiPosts: allMarkdownRemark(
-// 				sort: { fields: frontmatter___date, order: DESC }
-// 				filter: { frontmatter: { featuredPost: { eq: true } } }
-// 			) {
-// 				edges {
-// 					node {
-// 						fields {
-// 							slug
-// 						}
-// 						frontmatter {
-// 							date(formatString: "DD [de] MMMM [de] YYYY", locale: "pt-br")
-// 							title
-// 							tags
-// 							footerFeaturedImage: featuredImage {
-// 								childrenImageSharp {
-// 									gatsbyImageData(
-// 										width: 76
-// 										height: 76
-// 										placeholder: DOMINANT_COLOR
-// 										quality: 70
-// 									)
-// 								}
-// 							}
-// 						}
-// 						excerpt(pruneLength: 200)
-// 					}
-// 				}
-// 			}
-// 		}
-// 	`)
-
-// 	return fs.writeFile(
-// 		path.resolve(__dirname, 'feed.json'),
-// 		data.apiPosts.join()
-// 	)
-// }
-
 // Adding slug field to each post
 exports.onCreateNode = ({ node, getNode, actions }) => {
 	const { createNodeField } = actions
@@ -214,39 +171,8 @@ exports.createPages = ({ graphql, actions }) => {
 				},
 			})
 		})
-
-		// Array.from({ length: numPages }).forEach((_, index) => {
-		// 	createPage({
-		// 		path: index === 0 ? `/tags` : `/tags/page/${index + 1}`,
-		// 		component: path.resolve(`./src/templates/tags-list.js`),
-		// 		context: {
-		// 			limit: postsPerPage,
-		// 			skip: index * postsPerPage,
-		// 			numPages,
-		// 			currentPage: index + 1,
-		// 		},
-		// 	})
-		// })
 	})
 }
-
-// exports.onCreatePage = async ({ page, actions }) => {
-// 	const { createPage, deletePage } = actions
-
-// 	// Look for /404/ path
-// 	if (page.path === '/') {
-// 		const oldPage = { ...page }
-
-// 		// Add page context
-// 		page.context = {
-// 			foo: 'bar',
-// 		}
-
-// 		// Recreate the modified page
-// 		deletePage(oldPage)
-// 		createPage(page)
-// 	}
-// }
 
 exports.onPostBuild = ({ graphql }) => {
 	return graphql(`
