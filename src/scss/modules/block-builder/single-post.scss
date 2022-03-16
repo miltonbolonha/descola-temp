@@ -146,14 +146,14 @@
 			width: 40%;
 			font-size: 28px;
 			font-weight: 900;
-			&:nth-child(odd){
+			&:nth-of-type(odd){
 				border-right: 3px solid $cta__color;
 				float: left;
 				margin-left: auto;
 				text-align: right;
 				margin-right: 15px;
 			}
-			&:nth-child(even){
+			&:nth-of-type(even){
 				border-left: 3px solid $cta__color;
 				float: right;
 				text-align: left;
@@ -162,6 +162,9 @@
 			> blockquote{
 				border: 0;
 			}
+		}
+		blockquote ~ h1, blockquote ~ h2, blockquote ~ h3, blockquote ~ h4, blockquote ~ h5, blockquote ~ h6, blockquote ~ ul, blockquote ~ div {
+			clear: both
 		}
 }
 	.post-author-date{
