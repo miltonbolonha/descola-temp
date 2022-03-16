@@ -101,4 +101,4 @@ A ideia do ritual para dormir pode ajudar nesse ponto. Tente não levar seus pro
 
 Gostou da lista dos hábitos? Todos eles foram retirados do nosso curso sobre [Inteligência Emocional](https://descola.org/curso/inteligencia-emocional) e você pode aprender muito mais com nosso curso! fique a vontade para navegar e conhecer um pouco mais sobre sentimentos e suas emoções.
 
-![Text](/static/images/descola-image.png "text")
+![text](/images/descola-image.png "text")
