@@ -13,7 +13,7 @@ const IndexPage = ({ data, location, serverData, pageContext }) => {
 	const posts = data.allMarkdownRemark.edges
 
 	// console.log('location >>>>')
-	console.log(pageContext)
+	// console.log(pageContext)
 
 	// console.log('serverData >>>>')
 	// console.log(serverData)
@@ -26,6 +26,7 @@ const IndexPage = ({ data, location, serverData, pageContext }) => {
 				classes: 'blog-list',
 				schemaType: 'blog',
 				blogListing: posts.slice(0, 9),
+				mainLogo: data.imgHolder,
 			}}
 		>
 			<HeaderBlock logotipoSvg={<DescolaLogo />} />
@@ -116,6 +117,11 @@ export const queryAtividade = graphql`
 					}
 					excerpt(pruneLength: 200)
 				}
+			}
+		}
+		imgHolder: file(relativePath: { eq: "descola-image.png" }) {
+			childrenImageSharp {
+				gatsbyImageData(width: 76, height: 76, placeholder: NONE, quality: 100)
 			}
 		}
 	}
