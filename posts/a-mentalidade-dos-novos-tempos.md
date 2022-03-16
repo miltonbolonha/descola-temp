@@ -8,6 +8,7 @@ tags:
   - geral
 featuredImage: ../static/images/mentalidade.jpg
 ---
+
 A gente gosta de repetir que, hoje em dia, as coisas acontecem com muito mais velocidade. E é verdade: a sociedade está mesmo se transformando cada vez mais rápido. Os anos passam voando, as coisas se tornam ultrapassadas com facilidade e o mundo como o conhecemos muda a cada minuto.
 
 As pessoas e as organizações estão atentas a esse fato, e por isso estão olhando para tudo o que está acontecendo a fim de entender os novos cenários e “entrar no ritmo”. Mas o que muitas delas não percebem é que a resposta não está na **velocidade** com que fazemos as coisas, e sim na **agilidade** com que nos adaptamos às necessidades de transformação do mundo.
@@ -38,12 +39,12 @@ Mentalidade, mindset ou modelo mental – chame do que quiser. É ela que dita n
 
 Por isso é tão importante pensar em **mentalidade** quando queremos entender o os movimentos, práticas, modelos e metodologias que estão surgindo no mercado. Especialmente aqueles que chamamos de “ágeis”. O entendimento da nossa mentalidade também pode nos dizer muito sobre em que pé estamos como indivíduos e como empresas.
 
-> *Será que estamos focados na velocidade ou na agilidade? De que maneira isso tem impactado nossa trajetória? E como isso tem influenciado a forma como nos relacionamos com a transformação?*
+> _Será que estamos focados na velocidade ou na agilidade? De que maneira isso tem impactado nossa trajetória? E como isso tem influenciado a forma como nos relacionamos com a transformação?_
 
 Falar de mentalidade é falar de como interagimos com a mudança e usufruímos dos novos tempos para criar oportunidades de crescimento.
 
 Especialmente agora, com as coisas correndo contra o tempo, precisamos de um modelo mental capaz de sustentar a mudança e toda evolução individual e coletiva que ela requer. Somente assim nos manteremos relevantes como profissionais e conseguiremos causar impacto com nossos negócios.
 
-![Curso Mentalidade Agil](images/captura-de-tela-2020-02-20-a-s-10.59.22.png "Curso Mentalidade Agil")
+![Curso Mentalidade Agil](/images/captura-de-tela-2020-02-20-a-s-10.59.22.png 'Curso Mentalidade Agil')
 
 Veja muito mais no nosso Curso Online: <https://descola.org/curso/mentalidade-agil>

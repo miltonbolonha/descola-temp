@@ -8,6 +8,7 @@ tags:
   - geral
 featuredImage: ../static/images/rubber-ducks-in-leadership-concept-356HSM8.jpg
 ---
+
 No início da carreira profissional, nos sentimos um peixe fora d’água. É comum sermos inseridos em um ambiente que não faz sentido algum para nós, cercados por regras, burocracias e processos incoerentes com o mundo lá fora.
 
 **Sentimos como se nunca fossemos nos encaixar e somos tomados por uma inquietude de que algo precisa ser mudado, ou melhor, tudo precisa ser mudado.**
@@ -38,16 +39,16 @@ Seus colaboradores não querem se sentir estagnados dentro da empresa. Eles dese
 
 Então, para atrair e reter as pessoas certas para a sua empresa, você vai precisar considerar alguns princípios básicos. Eles atendem às necessidades do novo mercado e estão alinhados com o que as pessoas procuram hoje em dia em suas vidas profissionais, por isso, são primordiais para o avanço do seu time e do seu negócio.
 
-* Liberdade
-* Autonomia
-* Flexibilidade
-* Contato com outras culturas
-* Inovação
-* Diálogo
-* Plano de carreira
-* Ambiente confortável
-* Treinamento
-* Novas tecnologias
+- Liberdade
+- Autonomia
+- Flexibilidade
+- Contato com outras culturas
+- Inovação
+- Diálogo
+- Plano de carreira
+- Ambiente confortável
+- Treinamento
+- Novas tecnologias
 
 As pessoas desejam um ambiente de trabalho que ofereça liberdade para serem quem elas são e visão de carreira para descobrirem quem elas ainda gostariam de se tornar. Elas querem flexibilidade, autonomia e contato com novas experiências. E elas procuram por uma liderança que, além de possibilitar isso tudo, também representa o que elas acreditam.
 
@@ -55,4 +56,4 @@ Mas e aí, o que você acredita? Chegou a hora de repensar **o que é ser líder
 
 O que falta para que sua liderança comece a inspirar o crescimento de outras pessoas? E o que falta para que estas pessoas também se sintam motivadas a usar a liberdade, autonomia, talento e potencial delas para estimular o crescimento do seu negócio ao seu lado?
 
-![Curso Liderança Dinamica](images/banner_ld_blog.png "Curso Liderança Dinamica")
+![Curso Liderança Dinamica](/images/banner_ld_blog.png 'Curso Liderança Dinamica')

@@ -8,15 +8,16 @@ tags:
   - geral
 featuredImage: ../static/images/capa_LINKEDIN.jpg
 ---
+
 Os Estados Unidos se encontra em uma crise no mercado de trabalho, com um estimado de 7 milhões de vagas não preenchidas por falta de pessoas qualificadas. Os preços de faculdades no país nunca estiveram tão altos, o que leva muitos jovens a optarem por cursos profissionalizantes em detrimento à grandes Ivy Leagues.
 
 Esse novo cenário levou várias empresas, até gigantes como Apple, Google e IBM a flexibilizarem seus processos seletivos, buscando escolher pessoas com base nas suas habilidades ao invés de títulos e experiências.
 
-Então, observando essa tendência, o Linkedin, maior plataforma de relacionamentos profissionais do mundo, reuniu e analisou as várias ofertas de vagas postadas em seu site e elencou as 10 habilidades mais requisitadas no mercado, 5 “*soft skills*” – habilidades comportamentais, também conhecidas como *people skills* e 5 “*hard skills*” – efetivamente habilidades técnicas, que podem ser mensuradas.
+Então, observando essa tendência, o Linkedin, maior plataforma de relacionamentos profissionais do mundo, reuniu e analisou as várias ofertas de vagas postadas em seu site e elencou as 10 habilidades mais requisitadas no mercado, 5 “_soft skills_” – habilidades comportamentais, também conhecidas como _people skills_ e 5 “_hard skills_” – efetivamente habilidades técnicas, que podem ser mensuradas.
 
 Reunimos aqui as 10 habilidades que as empresas mais procuram em 2019, as organizamos em ordem crescente e selecionamos um curso para cada uma delas, para você conseguir se desenvolver cada vez mais.
 
-![Soft Skills](images/soft.png "Soft Skills")
+![Soft Skills](/images/soft.png 'Soft Skills')
 
 ## 5a. **Gerenciamento de tempo**
 
@@ -58,7 +59,7 @@ Ser um bom criativo facilita processos e entrega resultados mais interessantes f
 
 Curso indicado: [Desbloqueio Criativo – Ferramentas para despertar sua criatividade e ter mais ideias](https://descola.org/curso/desbloqueio-criativo?utm_source=drops&utm_medium=post&utm_campaign=linkedin)
 
-![Hard Skills](images/hard.png "Hard Skills")
+![Hard Skills](/images/hard.png 'Hard Skills')
 
 ## 5a. **Design de UX**
 
