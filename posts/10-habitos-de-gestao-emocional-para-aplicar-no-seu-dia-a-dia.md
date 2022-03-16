@@ -33,7 +33,7 @@ Quanto tempo ela durou até que você conseguisse se reequilibrar?
 
 Trabalhar a [Inteligência Emocional](https://descola.org/curso/inteligencia-emocional) é essencial para o autodesenvolvimento. **Mas como podemos exercitar a Inteligência Emocional?** Como fazemos dela um hábito que faz parte das nossas vida?Fizemos uma lista de 10 hábitos de Gestão Emocional para você colocar em prática no exercício constante das suas competências de ter e agir com Inteligência Emocional.
 
-![Evite olhar no celular quando você levanta](images/image-5-.png "Evite olhar no celular quando você levanta")
+![Evite olhar no celular quando você levanta](/static/images/image-5-.png "Evite olhar no celular quando você levanta")
 
 1. **Evite olhar no celular quando você levanta**
 
@@ -100,3 +100,5 @@ Tenha um ritual só seu para criar o estado emocional com o qual você gostaria 
 A ideia do ritual para dormir pode ajudar nesse ponto. Tente não levar seus problemas com você para a cama. Descarregue no seu diário, use sua âncora ou crie um ritual simples. Evite deitar agitado, nervoso ou triste, pois isso pode afetar sua saúde mental e física, já que impacta diretamente no aproveitamento do seu sono.
 
 Gostou da lista dos hábitos? Todos eles foram retirados do nosso curso sobre [Inteligência Emocional](https://descola.org/curso/inteligencia-emocional) e você pode aprender muito mais com nosso curso! fique a vontade para navegar e conhecer um pouco mais sobre sentimentos e suas emoções.
+
+![Text](/static/images/descola-image.png "text")
