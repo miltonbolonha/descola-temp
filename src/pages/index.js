@@ -11,11 +11,10 @@ import FooterBlock from '@BlockBuilder/FooterBlock'
 import PostsBlock from '@BlockBuilder/PostsBlock'
 import { useSiteMetaDatas } from '../tools/useSiteMetaDatas'
 
-const IndexPage = ({ data, location, serverData, pageContext }) => {
+const IndexPage = ({ data }) => {
 	const posts = data.allMarkdownRemark.edges
 	const { cardImage, footerThreeMarkdowRemark, imgHolder, site } =
 		useSiteMetaDatas()
-	console.log(cardImage)
 	return (
 		<Layout
 			type="BODY"

@@ -123,13 +123,6 @@ module.exports = {
 		},
 		`gatsby-plugin-netlify`,
 		`gatsby-plugin-netlify-cms`,
-		`gatsby-plugin-perf-budgets`,
-		{
-			resolve: 'gatsby-plugin-webpack-bundle-analyser-v2',
-			options: {
-				devMode: true,
-			},
-		},
 		{
 			resolve: 'gatsby-plugin-google-tagmanager',
 			options: {
