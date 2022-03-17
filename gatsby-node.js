@@ -245,6 +245,7 @@ exports.onPostBuild = ({ graphql }) => {
 				date: date,
 				title: title,
 				imageSrc: imageSrc,
+				excerpt: node.excerpt,
 			})
 		})
 		fs.writeFileSync(`./public/feed.json`, JSON.stringify({ data: feed }))
