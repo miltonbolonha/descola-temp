@@ -67,7 +67,9 @@ const Header = ({
 						alignTo: 'right',
 					}}
 				>
-					<p>Login / Registre-se</p>
+					<p>
+						<a href="https://descola.org/#login">Login / Registre-se</a>
+					</p>
 				</Layout>
 			</Layout>
 			<Layout
