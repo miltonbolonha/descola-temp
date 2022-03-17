@@ -3,11 +3,11 @@ title: 3 formas de se inspirar para o seu negócio
 date: 2014-12-17T12:33:38+00:00
 author: Equipe Descola
 templatekey: blog-post
-featuredPost: true
-featuredImage: ../static/images/descola_ideias.jpg
 tags:
   - filmes inspiradores
   - livros inspiradores
+featuredPost: false
+featuredImage: ../static/images/descola_ideias.jpg
 ---
 
 Iniciar um negócio não é uma tarefa fácil. Requer planejamento, investimento, persistência e inspiração. Isso mesmo! Inspiração é fundamental para todo novo negócio. Além de fazer surgir novas ideias, ela também serve de motivação para que dê certo. Pensando em ajudar novos empreendedoras a encontrar inspiração, separamos algumas dicas. Confira!

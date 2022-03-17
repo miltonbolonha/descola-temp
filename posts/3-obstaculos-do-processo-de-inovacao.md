@@ -3,8 +3,6 @@ title: 3 obstáculos do processo de inovação
 date: 2015-07-20T12:56:43+00:00
 author: Equipe Descola
 templatekey: blog-post
-featuredPost: true
-featuredImage: ../static/images/inovacao_descola_obstaculos.jpg
 tags:
   - Bloqueio de criatividade
   - Falta de apoio da liderança
@@ -12,6 +10,8 @@ tags:
   - inovação
   - Medo de errar
   - obstáculos do processo de inovação
+featuredPost: false
+featuredImage: ../static/images/inovacao_descola_obstaculos.jpg
 ---
 
 A inovação de um produto ou serviço é alcançada depois de muito planejamento e trabalho. Parece simples, mas inovar exige a superação de muitos desafios. O problema é que muitas empresas, quando pensam em inovação, estão focadas apenas no resultado, enquanto a inovação na verdade está relacionada com todo o processo até chegar ao produto/serviço final. Selecionamos 3 obstáculos do processo de inovação mais frequentes dentro das organizações.
