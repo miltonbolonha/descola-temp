@@ -9,9 +9,13 @@ import Layout from '@Layout'
 import HeaderBlock from '@BlockBuilder/HeaderBlock'
 import FooterBlock from '@BlockBuilder/FooterBlock'
 import PostsBlock from '@BlockBuilder/PostsBlock'
+import { useSiteMetaDatas } from '../tools/useSiteMetaDatas'
 
 const IndexPage = ({ data, location, serverData, pageContext }) => {
 	const posts = data.allMarkdownRemark.edges
+	const { cardImage, footerThreeMarkdowRemark, imgHolder, site } =
+		useSiteMetaDatas()
+	console.log(cardImage)
 	return (
 		<Layout
 			type="BODY"
@@ -20,8 +24,8 @@ const IndexPage = ({ data, location, serverData, pageContext }) => {
 				classes: 'blog-list',
 				schemaType: 'blog',
 				blogListing: posts.slice(0, 9),
-				mainLogo: data.imgHolder,
-				cardImage: getSrc(data.cardImage.childrenImageSharp[0]),
+				mainLogo: imgHolder,
+				cardImage: getSrc(cardImage.childrenImageSharp[0]),
 			}}
 		>
 			<HeaderBlock logotipoSvg={<DescolaLogo />} />
@@ -32,7 +36,7 @@ const IndexPage = ({ data, location, serverData, pageContext }) => {
 				<main className="main-container">
 					<h1>Posts</h1>
 					<PostsBlock
-						postsPerPage={data.site.siteMetadata.postsPerPage}
+						postsPerPage={site.siteMetadata.postsPerPage}
 						postList={posts}
 						typeLoad={'push'} // or false
 						readMoreText="Ler Mais"
@@ -45,7 +49,7 @@ const IndexPage = ({ data, location, serverData, pageContext }) => {
 			</Layout>
 			<FooterBlock
 				footerLogo={<DescolaLogoDark />}
-				featurePosts={data.footerThreeMarkdowRemark.edges}
+				featurePosts={footerThreeMarkdowRemark.edges}
 			/>
 		</Layout>
 	)
@@ -54,12 +58,6 @@ export default IndexPage
 
 export const queryAtividade = graphql`
 	query {
-		site {
-			siteMetadata {
-				postsPerPage
-			}
-		}
-
 		allMarkdownRemark(sort: { fields: frontmatter___date, order: DESC }) {
 			edges {
 				node {
@@ -83,50 +81,6 @@ export const queryAtividade = graphql`
 					}
 					excerpt(pruneLength: 200)
 				}
-			}
-		}
-
-		footerThreeMarkdowRemark: allMarkdownRemark(
-			sort: { fields: frontmatter___date, order: DESC }
-			filter: { frontmatter: { featuredPost: { eq: true } } }
-		) {
-			edges {
-				node {
-					fields {
-						slug
-					}
-					frontmatter {
-						date(formatString: "DD [de] MMMM [de] YYYY", locale: "pt-br")
-						title
-						tags
-						footerFeaturedImage: featuredImage {
-							childrenImageSharp {
-								gatsbyImageData(
-									width: 152
-									height: 152
-									placeholder: DOMINANT_COLOR
-									quality: 80
-								)
-							}
-						}
-					}
-					excerpt(pruneLength: 200)
-				}
-			}
-		}
-		imgHolder: file(relativePath: { eq: "descola-image.png" }) {
-			childrenImageSharp {
-				gatsbyImageData(width: 76, height: 76, placeholder: NONE, quality: 100)
-			}
-		}
-		cardImage: file(relativePath: { eq: "descola-image.png" }) {
-			childrenImageSharp {
-				gatsbyImageData(
-					width: 560
-					height: 292
-					placeholder: NONE
-					quality: 100
-				)
 			}
 		}
 	}
