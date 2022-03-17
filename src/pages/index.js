@@ -12,13 +12,6 @@ import PostsBlock from '@BlockBuilder/PostsBlock'
 
 const IndexPage = ({ data, location, serverData, pageContext }) => {
 	const posts = data.allMarkdownRemark.edges
-
-	// console.log('location >>>>')
-	// console.log(pageContext)
-
-	// console.log('serverData >>>>')
-	// console.log(serverData)
-
 	return (
 		<Layout
 			type="BODY"
