@@ -17,8 +17,6 @@ const IndexPage = ({ data, location, serverData, pageContext }) => {
 	// console.log(pageContext)
 
 	// console.log('serverData >>>>')
-	// console.log(serverData)
-
 	return (
 		<Layout
 			type="BODY"

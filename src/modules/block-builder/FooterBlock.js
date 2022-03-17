@@ -8,6 +8,8 @@ import { BsHeadset, BsInstagram } from 'react-icons/bs'
 import { FaLinkedinIn, FaFacebookF } from 'react-icons/fa'
 
 const FooterBlock = ({ footerLogo, featurePosts }) => {
+	console.log('jae')
+	console.log(featurePosts.length === 0)
 	return (
 		<Layout type="ROW" opt={{ bgColor: '#222', classes: 'footer' }}>
 			<Layout
@@ -112,33 +114,36 @@ const FooterBlock = ({ footerLogo, featurePosts }) => {
 						</a>
 					</div>
 				</div>
-				<div className="footer-column-blog">
-					<h3>Blog da escola</h3>
-					{featurePosts.slice(0, 3).map((eachPost, i) => {
-						return (
-							<Link
-								to={`${eachPost.node.fields.slug}`}
-								className="footer__card"
-								key={i}
-							>
-								{eachPost.node.frontmatter.footerFeaturedImage ? (
-									<Layout
-										type="BLOCK_IMAGE"
-										opt={{
-											queryCard: eachPost.node.frontmatter.footerFeaturedImage,
-											alt: eachPost.node.frontmatter.title,
-										}}
-									/>
-								) : null}
+				{featurePosts.length > 0 ? (
+					<div className="footer-column-blog">
+						<h3>Blog da escola</h3>
+						{featurePosts.slice(0, 3).map((eachPost, i) => {
+							return (
+								<Link
+									to={`${eachPost.node.fields.slug}`}
+									className="footer__card"
+									key={i}
+								>
+									{eachPost.node.frontmatter.footerFeaturedImage ? (
+										<Layout
+											type="BLOCK_IMAGE"
+											opt={{
+												queryCard:
+													eachPost.node.frontmatter.footerFeaturedImage,
+												alt: eachPost.node.frontmatter.title,
+											}}
+										/>
+									) : null}
+									<div>
+										<h4>{eachPost.node.frontmatter.title}</h4>
+										<p>{excerpt(eachPost.node.excerpt, 50, '...')}</p>
+									</div>
+								</Link>
+							)
+						})}
+					</div>
+				) : null}
 
-								<div>
-									<h4>{eachPost.node.frontmatter.title}</h4>
-									<p>{excerpt(eachPost.node.excerpt, 50, '...')}</p>
-								</div>
-							</Link>
-						)
-					})}
-				</div>
 				<div className="footer-column-nav">
 					<h3>Navegue</h3>
 					<nav>

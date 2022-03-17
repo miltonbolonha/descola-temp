@@ -22,6 +22,9 @@
 			max-width: 350px;
     	margin: 0 auto;
 			background-color: #f6f7fa;
+			@media (max-width:375px) {
+				max-width: 100%;
+			}
 			.post-card-content{
 				margin: 20px ;
 				h2{
@@ -33,10 +36,12 @@
 					}
 				}
 				p{
-					a{font-family: $main__font;
-					font-size: 18px;
-					font-weight: 300;
-					color: #8c9199;
+					a{
+						font-family: $main__font;
+						font-size: 18px;
+						font-weight: 300;
+						color: #8c9199;
+						overflow-wrap: break-word;
 				}
 				margin-bottom: 16px;
 				}
