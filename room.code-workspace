@@ -13,12 +13,12 @@
 			"path": "src/templates"
 		},
 		{
-			"name": "Blocos",
-			"path": "src/modules/block-builder"
-		},
-		{
 			"name": "Páginas",
 			"path": "src/pages"
+		},
+		{
+			"name": "Blocos",
+			"path": "src/modules/block-builder"
 		},
 		{
 			"name": "Estilo",

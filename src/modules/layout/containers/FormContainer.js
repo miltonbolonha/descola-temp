@@ -1,25 +1,15 @@
 import React, { useState } from 'react'
-import { useStaticQuery, graphql } from 'gatsby'
+// import { useStaticQuery, graphql } from 'gatsby'
 import Form from '../components/Form'
 // import addToMailchimp from 'gatsby-plugin-mailchimp'
 // import submitHandler from '../../PoupaLuz/containers/submit-handler'
 import config from '../config/'
 import slugify from '../../../tools/slugify'
-
+import { useSiteMetaDatas } from '../../../tools/useSiteMetaDatas'
 export default function FormContainer({ opt }) {
 	const [search, setSearch] = useState('')
 	const [honey, setHoney] = useState('')
-	const { site } = useStaticQuery(
-		graphql`
-			query {
-				site {
-					siteMetadata {
-						searchBaseUrl
-					}
-				}
-			}
-		`
-	)
+	const { site } = useSiteMetaDatas()
 
 	// const [mcRes, setMcRes] = useState('')
 	// console.log(mcRes)
