@@ -201,7 +201,7 @@ exports.onPostBuild = ({ graphql }) => {
 			}
 			apiPosts: allMarkdownRemark(
 				sort: { fields: frontmatter___date, order: DESC }
-				filter: { frontmatter: { featuredPost: { eq: true } } }
+				limit: 4
 			) {
 				edges {
 					node {
