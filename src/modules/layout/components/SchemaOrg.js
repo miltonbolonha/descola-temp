@@ -1,5 +1,6 @@
 import React from 'react'
 import { Helmet } from 'react-helmet'
+import { getSrc } from 'gatsby-plugin-image'
 
 export default React.memo(
 	({
@@ -21,10 +22,8 @@ export default React.memo(
 		ogranizationLogo,
 	}) => {
 		const imageSrc = image.childrenImageSharp
-			? organization.url.slice(0, -1) +
-			  image.childrenImageSharp[0].gatsbyImageData.images.fallback.src
+			? organization.url.slice(0, -1) + getSrc(image.childrenImageSharp[0])
 			: image
-
 		const dateNow = Date.now()
 		const baseSchema = {
 			'@context': 'http://schema.org',
