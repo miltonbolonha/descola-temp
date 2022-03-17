@@ -9,10 +9,12 @@ import Layout from '@Layout'
 import HeaderBlock from '@BlockBuilder/HeaderBlock'
 import FooterBlock from '@BlockBuilder/FooterBlock'
 import PostsBlock from '@BlockBuilder/PostsBlock'
+import { useSiteMetaDatas } from '../tools/useSiteMetaDatas'
 
 const TagsList = (props) => {
 	const tagList = props.data.allMarkdownRemark.edges
 	// const postFrontmatter = props.pageContext.markdownRemark.frontmatter
+	const { cardImage, footerThreeMarkdowRemark, site } = useSiteMetaDatas()
 	return (
 		<Layout
 			type="BODY"
@@ -20,7 +22,7 @@ const TagsList = (props) => {
 				titleSeo: `Descola - Tags`,
 				classes: 'blog-list',
 				schemaType: 'blog',
-				cardImage: getSrc(props.data.cardImage.childrenImageSharp[0]),
+				cardImage: getSrc(cardImage.childrenImageSharp[0]),
 				blogListing: tagList.slice(0, 9),
 			}}
 		>
@@ -33,9 +35,7 @@ const TagsList = (props) => {
 					<h1>Posts da Tag: {props.pageContext.tag}</h1>
 					<PostsBlock
 						postList={tagList}
-						postsPerPage={
-							props.pageContext.postsPerPage.siteMetadata.postsPerPage
-						}
+						postsPerPage={site.siteMetadata.postsPerPage}
 						readMoreText="Ler Mais"
 						pagination={{
 							loadMoreBtn: true,
@@ -46,7 +46,7 @@ const TagsList = (props) => {
 			</Layout>
 			<FooterBlock
 				footerLogo={<DescolaLogoDark />}
-				featurePosts={props.pageContext.footerThreeMarkdowRemark.edges}
+				featurePosts={footerThreeMarkdowRemark.edges}
 			/>
 		</Layout>
 	)
@@ -79,21 +79,6 @@ export const query = graphql`
 					}
 					excerpt(pruneLength: 200)
 				}
-			}
-		}
-		imgHolder: file(relativePath: { eq: "descola-image.png" }) {
-			childrenImageSharp {
-				gatsbyImageData(width: 76, height: 76, placeholder: NONE, quality: 100)
-			}
-		}
-		cardImage: file(relativePath: { eq: "descola-image.png" }) {
-			childrenImageSharp {
-				gatsbyImageData(
-					width: 560
-					height: 292
-					placeholder: NONE
-					quality: 100
-				)
 			}
 		}
 	}

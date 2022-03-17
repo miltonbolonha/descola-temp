@@ -1,5 +1,4 @@
 import React from 'react'
-import { graphql } from 'gatsby'
 import { getSrc } from 'gatsby-plugin-image'
 
 import DescolaLogo from '../../static/images/descola-logo.svg'
@@ -8,8 +7,10 @@ import DescolaLogoDark from '../../static/images/descola-logo-dark.svg'
 import Layout from '@Layout'
 import HeaderBlock from '@BlockBuilder/HeaderBlock'
 import FooterBlock from '@BlockBuilder/FooterBlock'
+import { useSiteMetaDatas } from '../tools/useSiteMetaDatas'
 
 const ErrorPage = ({ data }) => {
+	const { cardImage, footerThreeMarkdowRemark } = useSiteMetaDatas()
 	return (
 		<Layout
 			type="BODY"
@@ -17,7 +18,7 @@ const ErrorPage = ({ data }) => {
 				titleSeo: `Descola`,
 				classes: 'blog-list',
 				schemaType: 'blog',
-				cardImage: getSrc(data.cardImage.childrenImageSharp[0]),
+				cardImage: getSrc(cardImage.childrenImageSharp[0]),
 			}}
 		>
 			<HeaderBlock logotipoSvg={<DescolaLogo />} />
@@ -33,63 +34,9 @@ const ErrorPage = ({ data }) => {
 			</Layout>
 			<FooterBlock
 				footerLogo={<DescolaLogoDark />}
-				featurePosts={data.footerThreeMarkdowRemark.edges}
+				featurePosts={footerThreeMarkdowRemark.edges}
 			/>
 		</Layout>
 	)
 }
 export default ErrorPage
-
-export const queryAtividade = graphql`
-	query {
-		site {
-			siteMetadata {
-				postsPerPage
-			}
-		}
-
-		footerThreeMarkdowRemark: allMarkdownRemark(
-			sort: { fields: frontmatter___date, order: DESC }
-			filter: { frontmatter: { featuredPost: { eq: true } } }
-		) {
-			edges {
-				node {
-					fields {
-						slug
-					}
-					frontmatter {
-						date(formatString: "DD [de] MMMM [de] YYYY", locale: "pt-br")
-						title
-						tags
-						footerFeaturedImage: featuredImage {
-							childrenImageSharp {
-								gatsbyImageData(
-									width: 76
-									height: 76
-									placeholder: DOMINANT_COLOR
-									quality: 70
-								)
-							}
-						}
-					}
-					excerpt(pruneLength: 200)
-				}
-			}
-		}
-		imgHolder: file(relativePath: { eq: "descola-image.png" }) {
-			childrenImageSharp {
-				gatsbyImageData(width: 76, height: 76, placeholder: NONE, quality: 100)
-			}
-		}
-		cardImage: file(relativePath: { eq: "descola-image.png" }) {
-			childrenImageSharp {
-				gatsbyImageData(
-					width: 560
-					height: 292
-					placeholder: NONE
-					quality: 100
-				)
-			}
-		}
-	}
-`

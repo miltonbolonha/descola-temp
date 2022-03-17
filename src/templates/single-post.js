@@ -9,8 +9,11 @@ import HeaderBlock from '@BlockBuilder/HeaderBlock'
 import FooterBlock from '@BlockBuilder/FooterBlock'
 
 import SinglePostBlock from '@BlockBuilder/SinglePostBlock'
+import { useSiteMetaDatas } from '../tools/useSiteMetaDatas'
 
 const SinglePost = ({ data }) => {
+	const { footerThreeMarkdowRemark, imgHolder, site } = useSiteMetaDatas()
+
 	const post = data.markdownRemark
 	return (
 		<Layout
@@ -22,20 +25,20 @@ const SinglePost = ({ data }) => {
 				datePublished: post.frontmatter.date,
 				schemaType: 'article',
 				featuredImage:
-					data.site.siteMetadata.siteUrl +
+					site.siteMetadata.siteUrl +
 					post.frontmatter.featuredImage.childrenImageSharp[0].gatsbyImageData
 						.images.fallback.src,
 				cardImage:
 					post.frontmatter.featuredImage.childrenImageSharp[0].gatsbyImageData
 						.images.fallback.src,
 				articleBody: post.html,
-				mainLogo: data.imgHolder,
+				mainLogo: imgHolder,
 				description: post.excerpt,
 			}}
 		>
 			<HeaderBlock logotipoSvg={<DescolaLogo />} />
 			<SinglePostBlock
-				imgHolder={data.imgHolder}
+				imgHolder={imgHolder}
 				date={post.frontmatter.date}
 				author={post.frontmatter.author}
 				html={post.html}
@@ -44,7 +47,7 @@ const SinglePost = ({ data }) => {
 			/>
 			<FooterBlock
 				footerLogo={<DescolaLogoDark />}
-				featurePosts={data.allMarkdownRemark.edges}
+				featurePosts={footerThreeMarkdowRemark.edges}
 			/>
 		</Layout>
 	)
@@ -52,13 +55,6 @@ const SinglePost = ({ data }) => {
 
 export const query = graphql`
 	query SinglePost($slug: String!) {
-		site {
-			siteMetadata {
-				postsPerPage
-				siteUrl
-			}
-		}
-
 		markdownRemark(fields: { slug: { eq: $slug } }) {
 			frontmatter {
 				title
@@ -81,39 +77,6 @@ export const query = graphql`
 			html
 			fields {
 				slug
-			}
-		}
-		allMarkdownRemark(
-			sort: { fields: frontmatter___date, order: DESC }
-			filter: { frontmatter: { featuredPost: { eq: true } } }
-		) {
-			edges {
-				node {
-					fields {
-						slug
-					}
-					frontmatter {
-						date(formatString: "DD [de] MMMM [de] YYYY", locale: "pt-br")
-						title
-						tags
-						footerFeaturedImage: featuredImage {
-							childrenImageSharp {
-								gatsbyImageData(
-									width: 76
-									height: 76
-									placeholder: DOMINANT_COLOR
-									quality: 90
-								)
-							}
-						}
-					}
-					excerpt(pruneLength: 200)
-				}
-			}
-		}
-		imgHolder: file(relativePath: { eq: "descola-image.png" }) {
-			childrenImageSharp {
-				gatsbyImageData(width: 76, height: 76, placeholder: NONE, quality: 100)
 			}
 		}
 	}
