@@ -20,7 +20,8 @@ module.exports = {
 			name: businessInfos.organization.name,
 			email: businessInfos.organization.email,
 			url: businessInfos.organization.url,
-			logo: `${__dirname}/static/images/descola-image.png`,
+			logo: businessInfos.organization.logo,
+			cardImage: businessInfos.organization.cardImage,
 		},
 		social: {
 			instagram: businessInfos.clientSocial.instagram,
@@ -122,6 +123,13 @@ module.exports = {
 		},
 		`gatsby-plugin-netlify`,
 		`gatsby-plugin-netlify-cms`,
+		`gatsby-plugin-perf-budgets`,
+		{
+			resolve: 'gatsby-plugin-webpack-bundle-analyser-v2',
+			options: {
+				devMode: true,
+			},
+		},
 		{
 			resolve: 'gatsby-plugin-google-tagmanager',
 			options: {

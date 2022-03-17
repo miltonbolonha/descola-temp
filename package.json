@@ -12,7 +12,8 @@
 		"name": "Descola",
 		"url": "https://descola-blog.netlify.app",
 		"email": "descola@descola.com.br",
-		"logo": "descola-logo.svg"
+		"logo": "descola-image.png",
+		"cardImage": "descola-image.png"
 	},
 	"repository": "https://github.com/grpaiva/descola-blog",
 	"urlPrefix": "/",
@@ -93,6 +94,8 @@
 	},
 	"devDependencies": {
 		"@netlify/plugin-gatsby": "^2.1.2",
+		"gatsby-plugin-perf-budgets": "^0.0.18",
+		"gatsby-plugin-webpack-bundle-analyser-v2": "^1.1.26",
 		"prettier": "^2.5.1"
 	}
 }

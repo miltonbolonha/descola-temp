@@ -25,6 +25,9 @@ const SinglePost = ({ data }) => {
 					data.site.siteMetadata.siteUrl +
 					post.frontmatter.featuredImage.childrenImageSharp[0].gatsbyImageData
 						.images.fallback.src,
+				cardImage:
+					post.frontmatter.featuredImage.childrenImageSharp[0].gatsbyImageData
+						.images.fallback.src,
 				articleBody: post.html,
 				mainLogo: data.imgHolder,
 				description: post.excerpt,

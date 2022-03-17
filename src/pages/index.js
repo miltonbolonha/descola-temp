@@ -1,5 +1,6 @@
 import React from 'react'
 import { graphql } from 'gatsby'
+import { getSrc } from 'gatsby-plugin-image'
 
 import DescolaLogo from '../../static/images/descola-logo.svg'
 import DescolaLogoDark from '../../static/images/descola-logo-dark.svg'
@@ -27,6 +28,7 @@ const IndexPage = ({ data, location, serverData, pageContext }) => {
 				schemaType: 'blog',
 				blogListing: posts.slice(0, 9),
 				mainLogo: data.imgHolder,
+				cardImage: getSrc(data.cardImage.childrenImageSharp[0]),
 			}}
 		>
 			<HeaderBlock logotipoSvg={<DescolaLogo />} />
@@ -122,6 +124,16 @@ export const queryAtividade = graphql`
 		imgHolder: file(relativePath: { eq: "descola-image.png" }) {
 			childrenImageSharp {
 				gatsbyImageData(width: 76, height: 76, placeholder: NONE, quality: 100)
+			}
+		}
+		cardImage: file(relativePath: { eq: "descola-image.png" }) {
+			childrenImageSharp {
+				gatsbyImageData(
+					width: 560
+					height: 292
+					placeholder: NONE
+					quality: 100
+				)
 			}
 		}
 	}
