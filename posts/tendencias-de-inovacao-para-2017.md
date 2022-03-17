@@ -1,8 +1,8 @@
 ---
-title: 'Tendências de inovação para 2017'
-date: '2016-12-22T20:10:24+00:00'
-author: 'Equipe Descola'
-featuredPost: true
+title: Tendências de inovação para 2017
+date: 2016-12-22T20:10:24+00:00
+author: Equipe Descola
+featuredPost: false
 templatekey: blog-post
 tags:
   - empreendedorismo
