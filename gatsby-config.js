@@ -108,7 +108,7 @@ module.exports = {
 				background_color: businessInfos.backgroundColor,
 				theme_color: businessInfos.theme_color,
 				display: businessInfos.displayManifest,
-				icon: `${__dirname}/static/images/${businessInfos.iconManifest}`, // This path is relative to the root of the site.
+				icon: `static/images/${businessInfos.iconManifest}`, // This path is relative to the root of the site.
 			},
 		},
 		{
