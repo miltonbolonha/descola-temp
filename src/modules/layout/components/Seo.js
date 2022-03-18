@@ -26,59 +26,7 @@ const Seo = ({
 	featuredImage,
 	cardImage,
 }) => (
-	<>
-		<Helmet
-			htmlAttributes={{
-				lang,
-			}}
-			titleTemplate={`%s | ${siteTitle}`}
-		>
-			<title>{title}</title>
-			<meta name="description" content={metaDescription} />
-			<meta name="image" content={cardImage || featuredImage} />
-			<meta name="keywords" content={keywords.map((e) => e + ' ')} />
-			<link rel="canonical" href={siteUrl} />
-			{/* OpenGraph tags */}
-			<meta property="og:url" content={siteUrl} />
-			{schemaType === 'article' ? (
-				<meta property="og:type" content="article" />
-			) : (
-				<meta property="og:type" content="blog" />
-			)}
-			<meta property="og:title" content={title} />
-			<meta property="og:description" content={description} />
-			<meta property="og:image" content={cardImage || featuredImage} />
-			{social.fbAppID ? (
-				<meta property="fb:app_id" content={social.fbAppID} />
-			) : null}
-			{/* Twitter Card tags */}
-			<meta name="twitter:card" content="summary_large_image" />
-			{social.twitter ? (
-				<meta name="twitter:creator" content={social.twitter} />
-			) : null}
-			<meta name="twitter:title" content={title} />
-			<meta name="twitter:description" content={description} />
-			<meta name="twitter:image" content={cardImage || featuredImage} />
-		</Helmet>
-		<SchemaOrg
-			schemaType={schemaType}
-			url={siteUrl}
-			title={title}
-			image={image || featuredImage}
-			description={description}
-			datePublished={datePublished}
-			siteUrl={siteUrl}
-			author={author}
-			organization={organization}
-			defaultTitle={title}
-			socialSameAs={socialSameAs}
-			blogListing={blogListing}
-			articleBody={articleBody}
-			keywords={keywords}
-			dateCreated={dateCreated}
-			ogranizationLogo={ogranizationLogo}
-		/>
-	</>
+	<></>
 	// title={title}
 	//   meta={[
 	//     {
