@@ -121,7 +121,6 @@ module.exports = {
 				display: 'swap',
 			},
 		},
-		`gatsby-plugin-netlify`,
 		`gatsby-plugin-netlify-cms`,
 		{
 			resolve: 'gatsby-plugin-google-tagmanager',
