@@ -1,0 +1,32 @@
+header:
+  main_menu: true
+  search_widget: true
+  search_label: Procure um curso
+main:
+  index_h1: Posts
+  read_more_post_btn: Ler Mais
+  load_more_posts_btn: Ler Mais
+footer:
+  col1:
+    status: true
+    heading: Sobre a escola
+    p:
+      - p: A Descola é uma escola de cursos online que cria grandes experiências de aprendizagem para transformar as pessoas ao longo de suas vidas. Selecionamos temas e professores e construímos conteúdos para que você desenvolva Power Skills.
+      - p: Descola Cursos Inovadores LTDA EPP 17.996.625/0001-58
+    phone: (11) 3042-0043
+    phone_prefix: "+55 "
+  col2:
+    status: true
+    heading: Habilidades em Destaque
+    social_media: true
+    footer_tags_heading: Redes Sociais
+    footer_tags_widget: true
+  col3:
+    status: true
+    heading: Blog da escola
+    featured_posts_widget: true
+    num_posts: 3
+  col4:
+    status: true
+    heading: Navegue
+    footer_menu_widget: true

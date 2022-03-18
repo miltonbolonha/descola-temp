@@ -60,6 +60,19 @@ module.exports = {
 		{
 			resolve: `gatsby-source-filesystem`,
 			options: {
+				name: `content`,
+				path: `${__dirname}/content/`,
+			},
+		},
+		{
+			resolve: `gatsby-transformer-yaml`,
+			options: {
+				typeName: `Yaml`, // a fixed string
+			},
+		},
+		{
+			resolve: `gatsby-source-filesystem`,
+			options: {
 				name: `posts`,
 				path: `${__dirname}/posts`,
 			},
