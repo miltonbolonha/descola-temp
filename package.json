@@ -50,8 +50,7 @@
 	"postsPerPage": 9,
 	"scripts": {
 		"develop": "gatsby develop",
-		"build": "gatsby build",
-		"start": "netlify dev"
+		"build": "GATSBY_CONCURRENT_DOWNLOAD=15 gatsby build"
 	},
 	"dependencies": {
 		"axios": "^0.26.1",
