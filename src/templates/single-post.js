@@ -37,14 +37,16 @@ const SinglePost = ({ data }) => {
 			}}
 		>
 			<HeaderBlock logotipoSvg={<DescolaLogo />} />
-			<SinglePostBlock
-				imgHolder={imgHolder}
-				date={post.frontmatter.date}
-				author={post.frontmatter.author}
-				html={post.html}
-				title={post.frontmatter.title}
-				tags={post.frontmatter.tags}
-			/>
+			<main>
+				<SinglePostBlock
+					imgHolder={imgHolder}
+					date={post.frontmatter.date}
+					author={post.frontmatter.author}
+					html={post.html}
+					title={post.frontmatter.title}
+					tags={post.frontmatter.tags}
+				/>
+			</main>
 			<FooterBlock
 				footerLogo={<DescolaLogoDark />}
 				featurePosts={footerThreeMarkdowRemark.edges}

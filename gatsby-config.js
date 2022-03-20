@@ -36,6 +36,9 @@ module.exports = {
 		'gatsby-plugin-sharp',
 		`gatsby-transformer-sharp`,
 		`gatsby-plugin-offline`,
+		`gatsby-plugin-nprogress`,
+		`gatsby-plugin-sitemap`,
+		`gatsby-plugin-remove-fingerprints`,
 		`gatsby-plugin-react-helmet`,
 		{
 			resolve: 'gatsby-plugin-page-creator',
@@ -47,7 +50,16 @@ module.exports = {
 		{
 			resolve: `gatsby-transformer-remark`,
 			options: {
-				plugins: [`gatsby-remark-lazy-load`],
+				plugins: [
+					`gatsby-remark-lazy-load`,
+					{
+						resolve: `gatsby-remark-copy-linked-files`,
+						options: {
+							destinationDir: `static/images`,
+							ignoreFileExtensions: [`png`, `jpg`, `jpeg`, `gif`],
+						},
+					},
+				],
 			},
 		},
 		{
@@ -106,6 +118,8 @@ module.exports = {
 				alias: {
 					'@BlockBuilder': path.resolve(__dirname, 'src/modules/block-builder'),
 					'@Layout': path.resolve(__dirname, 'src/modules/layout'),
+					'@Content': path.resolve(__dirname, 'content'),
+					'@Images': path.resolve(__dirname, 'static/images'),
 					'@tools': path.resolve(__dirname, 'src/tools'),
 					'@styles': path.resolve(__dirname, 'src/styles'),
 				},
@@ -134,7 +148,6 @@ module.exports = {
 				display: 'swap',
 			},
 		},
-		`gatsby-plugin-netlify`,
 		`gatsby-plugin-netlify-cms`,
 		{
 			resolve: 'gatsby-plugin-google-tagmanager',

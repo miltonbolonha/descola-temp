@@ -16,7 +16,7 @@ const BlockImage = ({ opt }) => {
 		<>
 			{opt.hasLink ? (
 				<>
-					<Link to={opt.link}>
+					<Link to={opt.link} tabIndex="0">
 						<GatsbyImage
 							image={image}
 							alt={opt.alt}

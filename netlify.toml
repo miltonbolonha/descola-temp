@@ -1,9 +1,9 @@
 [build]
-    command = "gatsby build"
+    command = "GATSBY_CONCURRENT_DOWNLOAD=15 gatsby build"
     publish = "public"
 
 [build.environment]
-  NODE_VERSION = "16.14.0"
+  NODE_VERSION = "16.14.2"
 
 [[plugins]]
   package = "@netlify/plugin-gatsby"

@@ -1,0 +1,3 @@
+schema:
+  - card:
+    type: [Organization,Website,School]

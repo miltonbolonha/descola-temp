@@ -2,23 +2,23 @@ import React from 'react'
 import { graphql } from 'gatsby'
 import { getSrc } from 'gatsby-plugin-image'
 
-import DescolaLogo from '../../static/images/descola-logo.svg'
-import DescolaLogoDark from '../../static/images/descola-logo-dark.svg'
+import DescolaLogo from '@Images/descola-logo.svg'
+import DescolaLogoDark from '@Images/descola-logo-dark.svg'
 
 import Layout from '@Layout'
 import HeaderBlock from '@BlockBuilder/HeaderBlock'
 import FooterBlock from '@BlockBuilder/FooterBlock'
 import PostsBlock from '@BlockBuilder/PostsBlock'
-import { useSiteMetaDatas } from '../tools/useSiteMetaDatas'
-import main from '../../content/main.yaml'
-import footerTags from '../../content/footer-tags.yaml'
-import { useContentConfigs } from '../tools/useContentConfigs'
+import { useSiteMetaDatas } from '@tools/useSiteMetaDatas'
+// import main from '../../content/main.yaml'
+// import footerTags from '../../content/footer-tags.yaml'
+// import { useContentConfigs } from '@tools/useContentConfigs'
 const IndexPage = ({ data }) => {
 	const posts = data.allMarkdownRemark.edges
 	const { cardImage, footerThreeMarkdowRemark, imgHolder, site } =
 		useSiteMetaDatas()
-	console.log(useContentConfigs())
-	const { footer } = useContentConfigs()
+	// console.log(useContentConfigs())
+
 	return (
 		<Layout
 			type="BODY"
@@ -36,7 +36,7 @@ const IndexPage = ({ data }) => {
 				type="ROW"
 				opt={{ isBoxed: true, classes: 'main-container-wrapper' }}
 			>
-				<main className="main-container">
+				<main className="main-container" id="site-content" role="list">
 					<h1>Posts</h1>
 					<PostsBlock
 						postsPerPage={site.siteMetadata.postsPerPage}

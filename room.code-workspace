@@ -1,10 +1,6 @@
 {
 	"folders": [
 		{
-			"name": "Posts",
-			"path": "posts"
-		},
-		{
 			"name": "Módulos",
 			"path": "src/modules"
 		},
@@ -23,6 +19,14 @@
 		{
 			"name": "Estilo",
 			"path": "src/scss"
+		},
+		{
+			"name": "Posts",
+			"path": "posts"
+		},
+		{
+			"name": "Conteúdo",
+			"path": "content"
 		},
 		{
 			"name": "Root",

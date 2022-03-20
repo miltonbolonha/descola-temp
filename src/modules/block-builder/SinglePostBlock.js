@@ -35,28 +35,26 @@ const SinglePostBlock = ({ imgHolder, date, author, html, tags, title }) => {
 				</div>
 			</Layout>
 			<Layout type="ROW" opt={{ isBoxed: true, classes: 'main-post' }}>
-				<main>
-					<div className="container">
-						<div className="post-author">
-							<Layout
-								type="BLOCK_IMAGE"
-								opt={{
-									queryCard: imgHolder,
-									alt: 'Descola Holder',
-									classes: 'author-img',
-								}}
-							/>
-							<div className="post-author-infos">
-								<p className="post-author-date">{date}</p>
-								<p className="post-author-name">{author}</p>
-							</div>
+				<div className="container">
+					<div className="post-author">
+						<Layout
+							type="BLOCK_IMAGE"
+							opt={{
+								queryCard: imgHolder,
+								alt: 'Descola Holder',
+								classes: 'author-img',
+							}}
+						/>
+						<div className="post-author-infos">
+							<p className="post-author-date">{date}</p>
+							<p className="post-author-name">{author}</p>
 						</div>
-						<div
-							className="post-article-content"
-							dangerouslySetInnerHTML={{ __html: html }}
-						></div>
 					</div>
-				</main>
+					<div
+						className="post-article-content"
+						dangerouslySetInnerHTML={{ __html: html }}
+					></div>
+				</div>
 			</Layout>
 		</article>
 	)

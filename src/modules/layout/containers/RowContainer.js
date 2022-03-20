@@ -74,6 +74,7 @@ const RowContainer = ({
 		widthColumns: opt.widthColumns || '1fr',
 		alignTo: opt.alignTo || 'left',
 		title: opt.title || opt.classes,
+		role: opt.role || null,
 	}
 
 	const bgOpt = {
