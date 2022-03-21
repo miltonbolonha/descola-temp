@@ -69,11 +69,22 @@ export const useSiteMetaDatas = () => {
 						)
 					}
 				}
-				cardImage: file(relativePath: { eq: "descola-image.png" }) {
+				cardImage: file(relativePath: { eq: "descola-banner.png" }) {
 					childrenImageSharp {
 						gatsbyImageData(
 							width: 560
 							height: 292
+							placeholder: NONE
+							quality: 100
+						)
+					}
+				}
+
+				darkLogo: file(relativePath: { eq: "descola-logo-dark.png" }) {
+					childrenImageSharp {
+						gatsbyImageData(
+							width: 112
+							height: 84
 							placeholder: NONE
 							quality: 100
 						)

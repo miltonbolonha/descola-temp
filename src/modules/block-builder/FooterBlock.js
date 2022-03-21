@@ -7,6 +7,9 @@ import excerpt from '../../tools/excerpt'
 import { BsHeadset, BsInstagram } from 'react-icons/bs'
 import { FaLinkedinIn, FaFacebookF } from 'react-icons/fa'
 import layoutYAML from '@Content/main.yaml'
+import footerMenuYAML from '@Content/footer-menu.yaml'
+import footerTagsYAML from '@Content/footer-tags.yaml'
+import footerSocialYAML from '@Content/social-media.yaml'
 // const { logo_url, link_01 } = layoutYAML.layout02
 
 // import { useContentConfigs } from '../../tools/useContentConfigs'
@@ -14,7 +17,7 @@ import layoutYAML from '@Content/main.yaml'
 const FooterBlock = ({ footerLogo, featurePosts }) => {
 	// const { footer } = useContentConfigs().footer_content
 	// const tags = useTagsWidgets()
-	// console.log(tags)
+
 	const { footer } = layoutYAML
 	const { col1, col2, col3 } = footer
 	const about_phone = col1.about_phone
@@ -55,100 +58,54 @@ const FooterBlock = ({ footerLogo, featurePosts }) => {
 							{col2.footer_tags_heading && col2.footer_tags_widget ? (
 								<h3>{col2.footer_tags_heading}</h3>
 							) : null}
-							<a href="https://descola.org/cursos?tag=gestao" className="tag">
-								Gestão
-							</a>
-							<a
-								href="https://descola.org/cursos?tag=empregabilidade"
-								className="tag"
-							>
-								Empregabilidade
-							</a>
-							<a
-								href="https://descola.org/cursos?tag=colaboracao"
-								className="tag"
-							>
-								Colaboração
-							</a>
-							<a
-								href="https://descola.org/cursos?tag=relacionamentos"
-								className="tag"
-							>
-								Relacionamentos
-							</a>
-							<a href="https://descola.org/cursos?tag=inovacao" className="tag">
-								Inovação
-							</a>
-							<a
-								href="https://descola.org/cursos?tag=comunicacao-interpessoal"
-								className="tag"
-							>
-								Comunicacao Interpessoal
-							</a>
-							<a
-								href="https://descola.org/cursos?tag=design-thinking"
-								className="tag"
-							>
-								Design Thinking
-							</a>
-							<a
-								href="https://descola.org/cursos?tag=engajamento"
-								className="tag"
-							>
-								Engajamento
-							</a>
-							<a
-								href="https://descola.org/cursos?tag=produtividade"
-								className="tag"
-							>
-								Produtividade
-							</a>
-							<a href="https://descola.org/cursos?tag=rh" className="tag">
-								RH
-							</a>
-							<a
-								href="https://descola.org/cursos?tag=lideranca"
-								className="tag"
-							>
-								Liderança
-							</a>
-							<a href="https://descola.org/cursos?tag=trabalho" className="tag">
-								Trabalho
-							</a>
-							{/* </div> */}
+
+							{footerTagsYAML?.tags
+								? footerTagsYAML.tags.map((elem, indx) => (
+										<>
+											<a href={elem.tag.href} className="tag" key={indx}>
+												{elem.tag.label}
+											</a>
+										</>
+								  ))
+								: null}
 
 							{col2.social_media_widget ? (
 								<div className="footer-social-icons">
 									{col2.social_media_heading && col2.social_media_widget ? (
 										<h3>{col2.social_media_heading}</h3>
 									) : null}
-									<a
-										href="https://br.linkedin.com/school/descola"
-										rel="noopener noreferrer"
-										target="_blank"
-										aria-label="Linkedin profile (opens in a new window)"
-										className="btn btn-primary btn-icon"
-									>
-										<FaLinkedinIn />
-									</a>
-									<a
-										href="https://www.instagram.com/descolagram"
-										rel="noopener noreferrer"
-										target="_blank"
-										aria-label="Instagram profile (opens in a new window)"
-										className="btn btn-primary btn-icon"
-									>
-										<BsInstagram />
-									</a>
-									<a
-										href="https://www.facebook.com/descolasp"
-										rel="noopener noreferrer"
-										target="_blank"
-										aria-label="Facebook profile (opens in a new window)"
-										className="btn btn-primary btn-icon"
-									>
-										<FaFacebookF />
-									</a>
+									{footerSocialYAML.social_media.map((elemn, indxs) => {
+										let icon = null
+										icon =
+											elemn?.item?.icon && elemn?.item?.icon === 'LinkedIn' ? (
+												<FaLinkedinIn />
+											) : (
+												icon
+											)
+										icon =
+											elemn?.item?.icon && elemn?.item?.icon === 'Instagram' ? (
+												<BsInstagram />
+											) : (
+												icon
+											)
+										icon =
+											elemn?.item?.icon && elemn?.item?.icon === 'Facebook' ? (
+												<FaFacebookF />
+											) : (
+												icon
+											)
+										return (
+											<a
+												href={elemn.item.href}
+												rel="noopener noreferrer"
+												target="_blank"
+												aria-label={`${elemn?.item?.icon} perfil (abrir em nova página)`}
+												className="btn btn-primary btn-icon"
+											>
+												{icon}
+											</a>
+										)
+									})}
 								</div>
 							) : null}
 						</div>
@@ -193,83 +150,23 @@ const FooterBlock = ({ footerLogo, featurePosts }) => {
 							itemType="http://schema.org/SiteNavigationElement"
 						>
 							<ul className="footer-menu" role="menu">
-								<li>
-									<a
-										href="https://descola.org/cursos"
-										role="menuitem"
-										itemProp="url"
-										title="Cursos da Descola"
-										aria-label="Acesso a página: Cursos, no websítio da Descola"
-									>
-										Cursos
-									</a>
-								</li>
-								<li>
-									<Link
-										to="/"
-										role="menuitem"
-										itemProp="url"
-										title="Blog da Descola"
-										aria-label="Acesso a página: Blog, no websítio da Descola"
-									>
-										Blog
-									</Link>
-								</li>
-								<li>
-									<a
-										href="https://descola.org/empresas"
-										role="menuitem"
-										itemProp="url"
-										title="Para Empresas"
-										aria-label="Acesso a página: Para empresas, no websítio da Descola"
-									>
-										Para empresas
-									</a>
-								</li>
-								<li>
-									<a
-										href="https://descola.org/contato"
-										role="menuitem"
-										itemProp="url"
-										title="Contato da Descola"
-										aria-label="Acesso a página: Contato, no websítio da Descola"
-									>
-										Contato
-									</a>
-								</li>
-								<li>
-									<a
-										href="https://descola.org/faq"
-										role="menuitem"
-										itemProp="url"
-										title="FAQ da Descola"
-										aria-label="Acesso a página: FAQ, no websítio da Descola"
-									>
-										FAQ
-									</a>
-								</li>
-								<li>
-									<a
-										href="https://descola.org/imprensa"
-										role="menuitem"
-										itemProp="url"
-										title="Para a Imprensa"
-										aria-label="Acesso a página: Imprensa, no websítio da Descola"
-									>
-										Imprensa
-									</a>
-								</li>
-								<li>
-									<a
-										href="https://descola.org/termos-de-uso"
-										role="menuitem"
-										itemProp="url"
-										title="Termos de Uso da Descola"
-										aria-label="Acesso a página: Termos de Uso, no websítio da Descola"
-									>
-										Termos de Uso
-									</a>
-								</li>
+								{footerMenuYAML?.footer_menu
+									? footerMenuYAML?.footer_menu.map((el, ind) => (
+											<>
+												<li key={ind}>
+													<a
+														href={el.item.href}
+														role="menuitem"
+														itemProp="url"
+														title="Cursos da Descola"
+														aria-label={`Acesso a página: ${el.item.label}, no websítio da Descola`}
+													>
+														{el.item.label}
+													</a>
+												</li>
+											</>
+									  ))
+									: null}
 							</ul>
 						</nav>
 					</div>
