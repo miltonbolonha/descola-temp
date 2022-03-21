@@ -17,7 +17,6 @@ const IndexPage = (props) => {
 	const posts = data.allMarkdownRemark.edges
 	const { cardImage, footerThreeMarkdowRemark, imgHolder, site, darkLogo } =
 		useSiteMetaDatas()
-	console.log(props)
 	return (
 		<Layout
 			type="BODY"

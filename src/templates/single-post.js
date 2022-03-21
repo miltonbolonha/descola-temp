@@ -15,7 +15,6 @@ const SinglePost = ({ data, location }) => {
 	const { footerThreeMarkdowRemark, imgHolder, site } = useSiteMetaDatas()
 
 	const post = data.markdownRemark
-	console.log(location)
 	return (
 		<Layout
 			type="BODY"

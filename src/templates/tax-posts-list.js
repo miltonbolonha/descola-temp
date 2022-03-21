@@ -15,8 +15,6 @@ const TagsList = (props) => {
 	const tagList = props.data.allMarkdownRemark.edges
 	// const postFrontmatter = props.pageContext.markdownRemark.frontmatter
 	const { cardImage, footerThreeMarkdowRemark, site } = useSiteMetaDatas()
-	console.log(props)
-
 	return (
 		<Layout
 			type="BODY"
