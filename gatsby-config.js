@@ -20,7 +20,8 @@ module.exports = {
 			name: businessInfos.organization.name,
 			email: businessInfos.organization.email,
 			url: businessInfos.organization.url,
-			logo: `${__dirname}/static/images/descola-logo.svg`,
+			logo: businessInfos.organization.logo,
+			cardImage: businessInfos.organization.cardImage,
 		},
 		social: {
 			instagram: businessInfos.clientSocial.instagram,
@@ -35,6 +36,9 @@ module.exports = {
 		'gatsby-plugin-sharp',
 		`gatsby-transformer-sharp`,
 		`gatsby-plugin-offline`,
+		`gatsby-plugin-nprogress`,
+		`gatsby-plugin-sitemap`,
+		`gatsby-plugin-remove-fingerprints`,
 		`gatsby-plugin-react-helmet`,
 		{
 			resolve: 'gatsby-plugin-page-creator',
@@ -47,20 +51,14 @@ module.exports = {
 			resolve: `gatsby-transformer-remark`,
 			options: {
 				plugins: [
-					{
-						resolve: `gatsby-remark-relative-images`,
-						options: {
-							name: `uploads`,
-						},
-					},
-					{
-						resolve: `gatsby-remark-images`,
-						options: {
-							maxWidth: 695,
-							linkImagesToOriginal: false,
-						},
-					},
 					`gatsby-remark-lazy-load`,
+					{
+						resolve: `gatsby-remark-copy-linked-files`,
+						options: {
+							destinationDir: `static/images`,
+							ignoreFileExtensions: [`png`, `jpg`, `jpeg`, `gif`],
+						},
+					},
 				],
 			},
 		},
@@ -69,6 +67,19 @@ module.exports = {
 			options: {
 				name: `images`,
 				path: `${__dirname}/static/images/`,
+			},
+		},
+		{
+			resolve: `gatsby-source-filesystem`,
+			options: {
+				name: `content`,
+				path: `${__dirname}/content/`,
+			},
+		},
+		{
+			resolve: `gatsby-transformer-yaml`,
+			options: {
+				typeName: `Yaml`, // a fixed string
 			},
 		},
 		{
@@ -87,6 +98,7 @@ module.exports = {
 						options: {
 							maxWidth: 1035,
 							sizeByPixelDensity: true,
+							quality: 90,
 						},
 					},
 				],
@@ -106,6 +118,8 @@ module.exports = {
 				alias: {
 					'@BlockBuilder': path.resolve(__dirname, 'src/modules/block-builder'),
 					'@Layout': path.resolve(__dirname, 'src/modules/layout'),
+					'@Content': path.resolve(__dirname, 'content'),
+					'@Images': path.resolve(__dirname, 'static/images'),
 					'@tools': path.resolve(__dirname, 'src/tools'),
 					'@styles': path.resolve(__dirname, 'src/styles'),
 				},
@@ -121,7 +135,7 @@ module.exports = {
 				background_color: businessInfos.backgroundColor,
 				theme_color: businessInfos.theme_color,
 				display: businessInfos.displayManifest,
-				icon: `${__dirname}/static/images/${businessInfos.iconManifest}`, // This path is relative to the root of the site.
+				icon: `static/images/${businessInfos.iconManifest}`, // This path is relative to the root of the site.
 			},
 		},
 		{
@@ -134,7 +148,6 @@ module.exports = {
 				display: 'swap',
 			},
 		},
-		`gatsby-plugin-netlify`,
 		`gatsby-plugin-netlify-cms`,
 		{
 			resolve: 'gatsby-plugin-google-tagmanager',

@@ -1,17 +1,17 @@
 ---
-title: 'Porque brincar no trabalho pode resultar no seu sucesso'
-date: '2019-02-15T20:10:59+00:00'
-author: 'Stella Seixas'
+title: Porque brincar no trabalho pode resultar no seu sucesso
+date: 2019-02-15T20:10:59+00:00
+author: Stella Seixas
 featuredPost: false
 templatekey: blog-post
 tags:
   - geral
+  - criatividade
 featuredImage: ../static/images/capa_brincar.jpg
 ---
-
 Quando falamos em brincar, você pensa no que? Crianças desordenadas correndo pra lá e pra cá, pular corda, pega-pega, gravetos virando espadas e varinhas de condão. Coisas de criança. Mas por que você não pensa em executivos jogando aviões de papel? Seu gerente brincando de arminha com o moço do almoxarifado, da secretaria desenhando com canetinhas coloridas, o estagiário em um balanço?
 
-“Eles são adultos ué, não devem mais brincar”
+> “Eles são adultos ué, não devem mais brincar”
 
 Mas se te disséssemos que, se essas cenas fossem mais comuns, a empresa seria muuuuuito mais produtiva?
 

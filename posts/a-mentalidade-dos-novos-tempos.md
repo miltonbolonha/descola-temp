@@ -1,7 +1,7 @@
 ---
-title: 'A mentalidade dos novos tempos'
-date: '2020-03-09T08:49:37+00:00'
-author: 'Equipe Descola'
+title: A mentalidade dos novos tempos
+date: 2020-03-09T08:49:37+00:00
+author: Equipe Descola
 featuredPost: false
 templatekey: blog-post
 tags:
@@ -18,6 +18,7 @@ Entrar no ritmo não é fazer mais do mesmo, mas aprender a se adaptar para não
 Entrar no ritmo não é fazer mais do mesmo, mas aprender a se adaptar para não se tornar irrelevante. Não é ser um redator capaz de digitar quatro páginas por hora, mas estar atento às novas conversas que estão emergindo por aí. Não é ter um negócio que produz mais em menos tempo, mas ser capaz de entender do que as pessoas realmente precisam.
 
 **Velocidade tem muito a ver com o quanto mais podemos fazer, enquanto a agilidade diz respeito ao quão longe podemos chegar.**
+
 Para alcançar um real entendimento do que significa ser ágil, precisamos olhar para as coisas de um jeito diferente, com uma nova mentalidade.
 
 > “Se eu perguntasse aos meus compradores o que eles queriam, eles teriam dito que era um cavalo mais rápido”
@@ -38,9 +39,12 @@ Mentalidade, mindset ou modelo mental – chame do que quiser. É ela que dita n
 
 Por isso é tão importante pensar em **mentalidade** quando queremos entender o os movimentos, práticas, modelos e metodologias que estão surgindo no mercado. Especialmente aqueles que chamamos de “ágeis”. O entendimento da nossa mentalidade também pode nos dizer muito sobre em que pé estamos como indivíduos e como empresas.
 
-_Será que estamos focados na velocidade ou na agilidade? De que maneira isso tem impactado nossa trajetória? E como isso tem influenciado a forma como nos relacionamos com a transformação?_
+> _Será que estamos focados na velocidade ou na agilidade? De que maneira isso tem impactado nossa trajetória? E como isso tem influenciado a forma como nos relacionamos com a transformação?_
 
 Falar de mentalidade é falar de como interagimos com a mudança e usufruímos dos novos tempos para criar oportunidades de crescimento.
+
 Especialmente agora, com as coisas correndo contra o tempo, precisamos de um modelo mental capaz de sustentar a mudança e toda evolução individual e coletiva que ela requer. Somente assim nos manteremos relevantes como profissionais e conseguiremos causar impacto com nossos negócios.
 
-[![](https://descola.org/drops/wp-content/uploads/2020/02/Captura-de-Tela-2020-02-20-a%CC%80s-10.59.22-1024x217.png)](https://descola.org/curso/mentalidade-agil)Veja muito mais no nosso Curso Online: <https://descola.org/curso/mentalidade-agil>
+![Curso Mentalidade Agil](/images/captura-de-tela-2020-02-20-a-s-10.59.22.png 'Curso Mentalidade Agil')
+
+Veja muito mais no nosso Curso Online: <https://descola.org/curso/mentalidade-agil>

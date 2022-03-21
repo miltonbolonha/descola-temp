@@ -1,6 +1,6 @@
 import React from 'react'
 import Helmet from 'react-helmet'
-import SchemaOrg from './SchemaOrg'
+import SchemaOrgContainer from '../containers/SchemaOrgContainer'
 
 const Seo = ({
 	lang,
@@ -22,6 +22,9 @@ const Seo = ({
 	articleBody,
 	keywords,
 	dateCreated,
+	ogranizationLogo,
+	featuredImage,
+	cardImage,
 }) => (
 	<>
 		<Helmet
@@ -32,8 +35,8 @@ const Seo = ({
 		>
 			<title>{title}</title>
 			<meta name="description" content={metaDescription} />
-			<meta name="image" content={image} />
-			<meta name="keywords" content={keywords.map((e) => e)} />
+			<meta name="image" content={cardImage || featuredImage} />
+			<meta name="keywords" content={keywords.map((e) => e + ' ')} />
 			<link rel="canonical" href={siteUrl} />
 			{/* OpenGraph tags */}
 			<meta property="og:url" content={siteUrl} />
@@ -44,7 +47,7 @@ const Seo = ({
 			)}
 			<meta property="og:title" content={title} />
 			<meta property="og:description" content={description} />
-			<meta property="og:image" content={image} />
+			<meta property="og:image" content={cardImage || featuredImage} />
 			{social.fbAppID ? (
 				<meta property="fb:app_id" content={social.fbAppID} />
 			) : null}
@@ -55,13 +58,13 @@ const Seo = ({
 			) : null}
 			<meta name="twitter:title" content={title} />
 			<meta name="twitter:description" content={description} />
-			<meta name="twitter:image" content={image} />
+			<meta name="twitter:image" content={cardImage || featuredImage} />
 		</Helmet>
-		<SchemaOrg
+		<SchemaOrgContainer
 			schemaType={schemaType}
 			url={siteUrl}
 			title={title}
-			image={image}
+			image={image || featuredImage}
 			description={description}
 			datePublished={datePublished}
 			siteUrl={siteUrl}
@@ -73,6 +76,7 @@ const Seo = ({
 			articleBody={articleBody}
 			keywords={keywords}
 			dateCreated={dateCreated}
+			ogranizationLogo={ogranizationLogo}
 		/>
 	</>
 	// title={title}

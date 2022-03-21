@@ -12,7 +12,7 @@ const PostCard = ({
 	readMoreText,
 }) => {
 	return (
-		<div className="post-card">
+		<div className="post-card" role="listitem" aria-label="Cartão de Postagem">
 			<Layout
 				type="BLOCK_IMAGE"
 				opt={{
@@ -21,22 +21,20 @@ const PostCard = ({
 					link: linkUrl,
 					staticImage: true,
 					publicImageUrl: postImage,
-					alt: tags[0],
+					alt: title,
 					placeholder: 'DOMINANT_COLOR',
 				}}
 			/>
 			<div className="post-card-content">
-				<h2>
-					<Link to={linkUrl}>{title}</Link>
-				</h2>
-				<p>
-					<Link to={linkUrl}>{excerpt}</Link>
-				</p>
-				<p>
-					<Link to={linkUrl} className="card-posts-link">
-						{readMoreText}
-					</Link>
-				</p>
+				<Link to={linkUrl}>
+					<h2>{title}</h2>
+				</Link>
+				<Link to={linkUrl}>
+					<p>{excerpt}</p>
+				</Link>
+				<Link to={linkUrl} className="card-posts-link">
+					<p>{readMoreText}</p>
+				</Link>
 			</div>
 		</div>
 	)

@@ -1,9 +1,8 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
-import { useStaticQuery, graphql } from 'gatsby'
-
 import Seo from '../components/Seo'
+import { useSiteMetaDatas } from '../../../tools/useSiteMetaDatas'
 
 function SeoContainer({
 	frontmatter = {},
@@ -18,67 +17,10 @@ function SeoContainer({
 	featuredImage,
 	blogListing,
 	articleBody,
+	mainLogo,
+	cardImage,
 }) {
-	const { site, apiPosts } = useStaticQuery(
-		graphql`
-			query {
-				site {
-					siteMetadata {
-						title
-						description
-						siteUrl
-						image
-						keywords
-						dateCreated
-						author {
-							name
-						}
-						organization {
-							name
-							url
-							email
-						}
-						social {
-							youtube
-							instagram
-							facebook
-							linkedIn
-						}
-					}
-				}
-
-				apiPosts: allMarkdownRemark(
-					sort: { fields: frontmatter___date, order: DESC }
-					filter: { frontmatter: { featuredPost: { eq: true } } }
-				) {
-					edges {
-						node {
-							fields {
-								slug
-							}
-							frontmatter {
-								date(formatString: "DD [de] MMMM [de] YYYY", locale: "pt-br")
-								title
-								tags
-								footerFeaturedImage: featuredImage {
-									childrenImageSharp {
-										gatsbyImageData(
-											width: 76
-											height: 76
-											placeholder: DOMINANT_COLOR
-											quality: 70
-										)
-									}
-								}
-							}
-							excerpt(pruneLength: 200)
-						}
-					}
-				}
-			}
-		`
-	)
-
+	const { site } = useSiteMetaDatas()
 	const metaDescription = description || site.siteMetadata.description
 	return (
 		<Seo
@@ -91,6 +33,7 @@ function SeoContainer({
 			meta={meta}
 			siteUrl={site.siteMetadata.siteUrl}
 			image={featuredImage || site.siteMetadata.image}
+			ogranizationLogo={mainLogo}
 			author={authorSeo || site.siteMetadata.organization.name}
 			organization={site.siteMetadata.organization}
 			social={site.siteMetadata.social}
@@ -101,13 +44,13 @@ function SeoContainer({
 			blogListing={blogListing}
 			articleBody={articleBody}
 			keywords={site.siteMetadata.keywords}
-			apiPosts={apiPosts}
+			cardImage={cardImage || null}
 		/>
 	)
 }
 
 SeoContainer.defaultProps = {
-	lang: `en`,
+	lang: `pt-br`,
 	meta: [],
 	description: ``,
 }

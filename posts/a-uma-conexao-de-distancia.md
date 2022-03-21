@@ -1,23 +1,24 @@
 ---
-title: 'A uma conexão de distância'
-date: '2021-05-13T20:19:33+00:00'
-author: 'Equipe Descola'
+title: A uma conexão de distância
+date: 2021-05-13T20:19:33+00:00
+author: Equipe Descola
 featuredPost: false
 templatekey: blog-post
 tags:
-  - 'curso produtividade'
-  - 'descola produtividade'
+  - curso produtividade
+  - descola produtividade
   - produtividade
-  - 'ser mais produtivo em casa'
-  - 'trabalho remoto'
+  - ser mais produtivo em casa
+  - trabalho remoto
 featuredImage: ../static/images/Captura-de-Tela-2021-05-13-a%CC%80s-171314.jpg
 ---
-
 Poderíamos dizer uma infinidade de coisas sobre o trabalho remoto. Por exemplo, como começou há mais tempo do que imaginamos. Que foi ganhando força com a chegada do capitalismo e mais ainda com a introdução de novos meios de comunicação como o telégrafo no final do século 18, o telefone (fixo ou móvel) e a internet, ambos no século 20.
 
 Já era possível trabalhar de qualquer lugar do mundo e muitas vezes fazíamos isso sem perceber!
 
-![](https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/05/13195226/Captura-de-Tela-2021-05-13-a%CC%80s-16.51.41.png)Com o avanço da tecnologia acontecendo de forma exponencial, trabalhar fora das paredes do escritório foi ficando mais comum e era uma das grandes tendências do mercado de trabalho para os próximos anos.
+![](https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/05/13195226/Captura-de-Tela-2021-05-13-a%CC%80s-16.51.41.png)
+
+Com o avanço da tecnologia acontecendo de forma exponencial, trabalhar fora das paredes do escritório foi ficando mais comum e era uma das grandes tendências do mercado de trabalho para os próximos anos.
 
 É certo que empresas já experimentavam o formato híbrido. Fosse de forma a liberar o home office em alguns dias da semana. Ou com um modelo baseado em ter algumas pessoas direto no escritório, enquanto outras ficavam 100% remotas.
 
@@ -41,27 +42,41 @@ Estamos conhecendo uma nova maneira de viver em sociedade.
 
 Ok, ok, mas o que realmente estamos conhecendo?
 
+
+
 ## Afinal, o que é trabalho remoto?
 
-De forma rápida e simples: `<span class="has-inline-color has-luminous-vivid-amber-color">é trabalhar em <strong>qualquer</strong> outro lugar que não o escritório e de <strong>qualquer</strong> forma. `Portanto, a partir disso temos algumas classificações que são importantes para entender melhor qual a nossa realidade.
+De forma rápida e simples: **é trabalhar em qualquer outro lugar que não o escritório e de qualquer forma.**  Portanto, a partir disso temos algumas classificações que são importantes para entender melhor qual a nossa realidade.
+
+
 
 ### ANYWHERE OFFICE
 
-![](https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/05/13195422/Captura-de-Tela-2021-05-13-a%CC%80s-16.53.00.png)</div></div> Essa forma de trabalho acontece quando é possível **trabalhar de qualquer lugar do mundo** que quiser. Seja um resort em Bangladesh, um café em Nova Iorque ou em um hotel fazenda enquanto as crianças andam à cavalo.
+![](https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/05/13195422/Captura-de-Tela-2021-05-13-a%CC%80s-16.53.00.png)
+
+Essa forma de trabalho acontece quando é possível **trabalhar de qualquer lugar do mundo** que quiser. Seja um resort em Bangladesh, um café em Nova Iorque ou em um hotel fazenda enquanto as crianças andam à cavalo.
 
 A questão aqui é que você pode ficar se mudando ou em um lugar só, não importa nem o que você faz. O que importa é que tem a liberdade de trabalhar de qualquer lugar do mundo e tudo bem desde que tenha uma conexão com a internet.
 
+
+
 ### HOME OFFICE
 
-<div class="wp-block-columns"><div class="wp-block-column" style="flex-basis:50%"><figure class="wp-block-image size-large is-resized">
+![](https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/05/13195807/Captura-de-Tela-2021-05-13-a%CC%80s-16.53.15.png)
 
-![](https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/05/13195807/Captura-de-Tela-2021-05-13-a%CC%80s-16.53.15.png)</div></div>Esse trabalho remoto, por sua vez, tem um lugar bem conhecido para acontecer: **a sua casa**. Nessa modalidade, não importa o que você faça, desde que seja entre as paredes da sua casa. É uma das modalidades mais comuns de trabalho remoto.
+Esse trabalho remoto, por sua vez, tem um lugar bem conhecido para acontecer: **a sua casa**. Nessa modalidade, não importa o que você faça, desde que seja entre as paredes da sua casa. É uma das modalidades mais comuns de trabalho remoto.
 
 Roupas sujas de um lado, crianças correndo de outro, mas o conforto de estar no próprio ambiente, perto das pessoas que ama.
 
+
+
 ### TELETRABALHO
 
-![](https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/05/13195855/Captura-de-Tela-2021-05-13-a%CC%80s-16.53.22.png)Esse nome é um pouco mais raro de ouvir, mas também está muito presente. É quando o trabalho consiste **primariamente** em ligações. Seja por telefone ou plataforma virtual. Seja por áudio ou por vídeo. **A palavra da vez aqui é chamada**. Do jeito que for, quando for, mas sempre chamadas.
+![](https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/05/13195855/Captura-de-Tela-2021-05-13-a%CC%80s-16.53.22.png)
+
+Esse nome é um pouco mais raro de ouvir, mas também está muito presente. É quando o trabalho consiste **primariamente** em ligações. Seja por telefone ou plataforma virtual. Seja por áudio ou por vídeo. **A palavra da vez aqui é chamada**. Do jeito que for, quando for, mas sempre chamadas.
+
+
 
 ### MODELOS HÍBRIDOS
 

@@ -51,8 +51,8 @@
 		font-weight: 600;
 		padding: 3px 12px;
 		// min-width: 60px;
-		border: 2px solid #222222;
-		background-color: $cta__color;
+		border: 2px solid $cta__color;
+		background-color: #222222;
 		color: white;
 		margin: 0 3px;
 		font-family: $main__font;
@@ -86,7 +86,7 @@
 }
 .footer h4{
 	font-size: 12px;
-	color: $cta__color;
+	// color: $cta__color;
 	font-family: $second__font;
 	font-weight: 600;
 }

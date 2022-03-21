@@ -3,49 +3,6 @@ const path = require('path')
 const _ = require('lodash')
 const { createFilePath } = require(`gatsby-source-filesystem`)
 
-// const path = require('path')
-// const fs = require('fs').promises
-
-// exports.onPostBuild = async ({ graphql }) => {
-// 	const { data } = await graphql(`
-// 		{
-// 			apiPosts: allMarkdownRemark(
-// 				sort: { fields: frontmatter___date, order: DESC }
-// 				filter: { frontmatter: { featuredPost: { eq: true } } }
-// 			) {
-// 				edges {
-// 					node {
-// 						fields {
-// 							slug
-// 						}
-// 						frontmatter {
-// 							date(formatString: "DD [de] MMMM [de] YYYY", locale: "pt-br")
-// 							title
-// 							tags
-// 							footerFeaturedImage: featuredImage {
-// 								childrenImageSharp {
-// 									gatsbyImageData(
-// 										width: 76
-// 										height: 76
-// 										placeholder: DOMINANT_COLOR
-// 										quality: 70
-// 									)
-// 								}
-// 							}
-// 						}
-// 						excerpt(pruneLength: 200)
-// 					}
-// 				}
-// 			}
-// 		}
-// 	`)
-
-// 	return fs.writeFile(
-// 		path.resolve(__dirname, 'feed.json'),
-// 		data.apiPosts.join()
-// 	)
-// }
-
 // Adding slug field to each post
 exports.onCreateNode = ({ node, getNode, actions }) => {
 	const { createNodeField } = actions
@@ -99,71 +56,24 @@ exports.createPages = ({ graphql, actions }) => {
 					}
 				}
 			}
-			tagsGroup: allMarkdownRemark(limit: 2000) {
+			tagsGroup: allMarkdownRemark(limit: 800) {
 				group(field: frontmatter___tags) {
 					fieldValue
-				}
-			}
-			featuredPosts: allMarkdownRemark(
-				sort: { fields: frontmatter___date, order: DESC }
-				filter: { frontmatter: { featuredPost: { eq: true } } }
-			) {
-				edges {
-					node {
+					nodes {
+						headings {
+							value
+						}
 						fields {
 							slug
 						}
 						frontmatter {
-							date(formatString: "DD [de] MMMM [de] YYYY", locale: "pt-br")
-							title
-							tags
-							footerFeaturedImage: featuredImage {
+							featuredImage {
 								childrenImageSharp {
-									gatsbyImageData(
-										width: 76
-										height: 76
-										placeholder: DOMINANT_COLOR
-										quality: 70
-									)
+									gatsbyImageData
 								}
 							}
 						}
-						excerpt(pruneLength: 200)
 					}
-				}
-			}
-
-			footerThreeMarkdowRemark: allMarkdownRemark(
-				sort: { fields: frontmatter___date, order: DESC }
-				filter: { frontmatter: { featuredPost: { eq: true } } }
-			) {
-				edges {
-					node {
-						fields {
-							slug
-						}
-						frontmatter {
-							date(formatString: "DD [de] MMMM [de] YYYY", locale: "pt-br")
-							title
-							tags
-							footerFeaturedImage: featuredImage {
-								childrenImageSharp {
-									gatsbyImageData(
-										width: 76
-										height: 76
-										placeholder: DOMINANT_COLOR
-										quality: 70
-									)
-								}
-							}
-						}
-						excerpt(pruneLength: 200)
-					}
-				}
-			}
-			postsPerPage: site {
-				siteMetadata {
-					postsPerPage
 				}
 			}
 		}
@@ -212,46 +122,22 @@ exports.createPages = ({ graphql, actions }) => {
 				},
 			})
 		})
-
-		// Array.from({ length: numPages }).forEach((_, index) => {
-		// 	createPage({
-		// 		path: index === 0 ? `/tags` : `/tags/page/${index + 1}`,
-		// 		component: path.resolve(`./src/templates/tags-list.js`),
-		// 		context: {
-		// 			limit: postsPerPage,
-		// 			skip: index * postsPerPage,
-		// 			numPages,
-		// 			currentPage: index + 1,
-		// 		},
-		// 	})
-		// })
 	})
 }
-
-// exports.onCreatePage = async ({ page, actions }) => {
-// 	const { createPage, deletePage } = actions
-
-// 	// Look for /404/ path
-// 	if (page.path === '/') {
-// 		const oldPage = { ...page }
-
-// 		// Add page context
-// 		page.context = {
-// 			foo: 'bar',
-// 		}
-
-// 		// Recreate the modified page
-// 		deletePage(oldPage)
-// 		createPage(page)
-// 	}
-// }
 
 exports.onPostBuild = ({ graphql }) => {
 	return graphql(`
 		{
+			site {
+				siteMetadata {
+					organization {
+						url
+					}
+				}
+			}
 			apiPosts: allMarkdownRemark(
 				sort: { fields: frontmatter___date, order: DESC }
-				filter: { frontmatter: { featuredPost: { eq: true } } }
+				limit: 4
 			) {
 				edges {
 					node {
@@ -265,10 +151,10 @@ exports.onPostBuild = ({ graphql }) => {
 							footerFeaturedImage: featuredImage {
 								childrenImageSharp {
 									gatsbyImageData(
-										width: 76
-										height: 76
+										width: 152
+										height: 152
 										placeholder: DOMINANT_COLOR
-										quality: 70
+										quality: 80
 									)
 								}
 							}
@@ -280,6 +166,24 @@ exports.onPostBuild = ({ graphql }) => {
 		}
 	`).then((result) => {
 		// processAndWriteJSONFiles(result)
-		fs.writeFileSync(`./public/feed.json`, JSON.stringify(result))
+		let feed = []
+		result.data.apiPosts.edges.forEach(({ node }) => {
+			const slug = node.fields.slug
+			const frontmatter = node.frontmatter
+			const { date, title } = frontmatter
+			const imageSrc =
+				result.data.site.siteMetadata.organization.url +
+				node.frontmatter.footerFeaturedImage.childrenImageSharp[0]
+					.gatsbyImageData.images.fallback.src
+
+			feed.push({
+				slug: slug,
+				date: date,
+				title: title,
+				imageSrc: imageSrc,
+				excerpt: node.excerpt,
+			})
+		})
+		fs.writeFileSync(`./public/feed.json`, JSON.stringify({ data: feed }))
 	})
 }

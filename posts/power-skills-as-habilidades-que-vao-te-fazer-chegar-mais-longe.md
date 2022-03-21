@@ -1,31 +1,34 @@
 ---
-title: 'POWER SKILLS &#8211; As habilidades que vão te fazer chegar mais longe'
-date: '2020-05-14T13:25:44+00:00'
-author: 'Equipe Descola'
+title: "POWER SKILLS: As habilidades que vão te fazer chegar mais longe"
+date: 2020-05-14T13:25:44+00:00
+author: Equipe Descola
 featuredPost: false
 templatekey: blog-post
 tags:
-  - 'aprender online'
+  - aprender online
   - cursosonline
   - descola
   - evoluir
   - habilidadades
   - hardskill
   - powerskill
-  - 'profissional do futuro'
+  - profissional do futuro
   - softskill
 featuredImage: ../static/images/descola_sala.jpg
 ---
-
 #### É hora de dar o real significado ao que chamamos de Soft Skills
 
-**“O futuro do trabalho é sobre habilidades, e não somente diplomas”** A frase é Jamie Dimon – CEO e Chairman do JP Morgan Chase, um dos maiores bancos do mundo – publicada na revista Fortune em Janeiro de 2020.
+> **“O futuro do trabalho é sobre habilidades, e não somente diplomas”** 
+
+
+
+A frase é Jamie Dimon – CEO e Chairman do JP Morgan Chase, um dos maiores bancos do mundo – publicada na revista Fortune em Janeiro de 2020.
 
 Ele não está sozinho. Grandes estudos e relatórios como o do Fórum Econômico Mundial – de 2018 e o de 2020 – elencam uma série de habilidades comportamentais que serão cada vez mais fundamentais para a força de trabalho.
 
 Pensamento Crítico e Analítico, Criatividade, Liderança, Tomada de Decisão, Inteligência Emocional ou Comunicação são alguns dos grandes temas que são vistos como fundamentais para qualquer profissional, em qualquer mercado.
 
-Essas habilidades, ou _Skills,_ são conhecidas como Soft Skills. Habilidades comportamentais ou competências interpessoais que são difíceis de serem mensuradas e avaliadas.
+Essas habilidades, ou *Skills,* são conhecidas como Soft Skills. Habilidades comportamentais ou competências interpessoais que são difíceis de serem mensuradas e avaliadas.
 
 Habilidades que não são nada fáceis de aprender – e que pouco desenvolvemos ao longo de nossas vidas. São competências que, quando somadas aos nossos conhecimentos técnicos e teóricos vão nos levar muito mais longe na carreira, potencializando nossa capacidade profissional.
 
