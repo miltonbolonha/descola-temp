@@ -10,12 +10,12 @@
 	},
 	"organization": {
 		"name": "Descola",
-		"url": "https://escola-blog.netlify.app",
+		"url": "https://temp-descola.netlify.app",
 		"email": "descola@descola.com.br",
 		"logo": "descola-banner.png",
 		"cardImage": "descola-banner.png"
 	},
-	"repository": "https://github.com/grpaiva/descola-blog",
+	"repository": "https://github.com/miltonbolonha/descola-temp",
 	"urlPrefix": "/",
 	"keywords": [
 		"descola",
@@ -29,7 +29,7 @@
 	"appName": "Blog - Descola",
 	"appLogic": "Blog",
 	"dateCreated": "05 de março de 2022",
-	"siteUrl": "https://escola-blog.netlify.app",
+	"siteUrl": "https://temp-descola.netlify.app",
 	"searchBaseUrl": "https://descola.org/cursos?search=",
 	"clientOrg": "Descola",
 	"clientShortName": "Descola",
@@ -50,7 +50,7 @@
 	"postsPerPage": 9,
 	"scripts": {
 		"develop": "gatsby develop",
-		"build": "GATSBY_CONCURRENT_DOWNLOAD=15 gatsby build"
+		"build": "GATSBY_CONCURRENT_DOWNLOAD=25 gatsby build"
 	},
 	"dependencies": {
 		"axios": "^0.26.1",
