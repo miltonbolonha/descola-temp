@@ -12,8 +12,8 @@
 		"name": "Descola",
 		"url": "https://staging--descola-blog.netlify.app",
 		"email": "descola@descola.com.br",
-		"logo": "descola-image.png",
-		"cardImage": "descola-image.png"
+		"logo": "descola-banner.png",
+		"cardImage": "descola-banner.png"
 	},
 	"repository": "https://github.com/grpaiva/descola-blog",
 	"urlPrefix": "/",

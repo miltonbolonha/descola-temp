@@ -9,7 +9,7 @@ import HeaderBlock from '@BlockBuilder/HeaderBlock'
 import FooterBlock from '@BlockBuilder/FooterBlock'
 import { useSiteMetaDatas } from '../tools/useSiteMetaDatas'
 
-const ErrorPage = ({ data }) => {
+const ErrorPage = ({ data, location }) => {
 	const { cardImage, footerThreeMarkdowRemark } = useSiteMetaDatas()
 	return (
 		<Layout
@@ -19,6 +19,7 @@ const ErrorPage = ({ data }) => {
 				classes: 'blog-list',
 				schemaType: 'blog',
 				cardImage: getSrc(cardImage.childrenImageSharp[0]),
+				serverUrl: location.origin,
 			}}
 		>
 			<HeaderBlock logotipoSvg={<DescolaLogo />} />

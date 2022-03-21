@@ -79,17 +79,6 @@ export const useSiteMetaDatas = () => {
 						)
 					}
 				}
-
-				darkLogo: file(relativePath: { eq: "descola-logo-dark.png" }) {
-					childrenImageSharp {
-						gatsbyImageData(
-							width: 112
-							height: 84
-							placeholder: NONE
-							quality: 100
-						)
-					}
-				}
 			}
 		`
 	)

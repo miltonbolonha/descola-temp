@@ -23,6 +23,7 @@ const BodyContainer = ({ children, opt }) => {
 						mainLogo={opt.mainLogo}
 						description={opt.description || null}
 						cardImage={opt.cardImage || null}
+						serverUrl={opt.serverUrl || null}
 					/>
 
 					<Body opt={opt} bgImage={opt.bgImage} customClasses={opt.classes}>

@@ -61,11 +61,9 @@ const FooterBlock = ({ footerLogo, featurePosts }) => {
 
 							{footerTagsYAML?.tags
 								? footerTagsYAML.tags.map((elem, indx) => (
-										<>
-											<a href={elem.tag.href} className="tag" key={indx}>
-												{elem.tag.label}
-											</a>
-										</>
+										<a href={elem.tag.href} className="tag" key={indx}>
+											{elem.tag.label}
+										</a>
 								  ))
 								: null}
 
@@ -101,6 +99,7 @@ const FooterBlock = ({ footerLogo, featurePosts }) => {
 												target="_blank"
 												aria-label={`${elemn?.item?.icon} perfil (abrir em nova página)`}
 												className="btn btn-primary btn-icon"
+												key={indxs}
 											>
 												{icon}
 											</a>
@@ -152,19 +151,17 @@ const FooterBlock = ({ footerLogo, featurePosts }) => {
 							<ul className="footer-menu" role="menu">
 								{footerMenuYAML?.footer_menu
 									? footerMenuYAML?.footer_menu.map((el, ind) => (
-											<>
-												<li key={ind}>
-													<a
-														href={el.item.href}
-														role="menuitem"
-														itemProp="url"
-														title="Cursos da Descola"
-														aria-label={`Acesso a página: ${el.item.label}, no websítio da Descola`}
-													>
-														{el.item.label}
-													</a>
-												</li>
-											</>
+											<li key={ind}>
+												<a
+													href={el.item.href}
+													role="menuitem"
+													itemProp="url"
+													title="Cursos da Descola"
+													aria-label={`Acesso a página: ${el.item.label}, no websítio da Descola`}
+												>
+													{el.item.label}
+												</a>
+											</li>
 									  ))
 									: null}
 							</ul>

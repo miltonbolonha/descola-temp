@@ -15,6 +15,8 @@ const TagsList = (props) => {
 	const tagList = props.data.allMarkdownRemark.edges
 	// const postFrontmatter = props.pageContext.markdownRemark.frontmatter
 	const { cardImage, footerThreeMarkdowRemark, site } = useSiteMetaDatas()
+	console.log(props)
+
 	return (
 		<Layout
 			type="BODY"
@@ -24,6 +26,7 @@ const TagsList = (props) => {
 				schemaType: 'blog',
 				cardImage: getSrc(cardImage.childrenImageSharp[0]),
 				blogListing: tagList.slice(0, 9),
+				serverUrl: props.location.href,
 			}}
 		>
 			<HeaderBlock logotipoSvg={<DescolaLogo />} />

@@ -1,5 +1,5 @@
 import React from 'react'
-// import mainMenuYAML from '@Content/configs/schema-org.yaml'
+import schemaYAML from '@Content/configs/schema-org.yaml'
 import SchemaOrg from '../components/SchemaOrg'
 import { getSrc } from 'gatsby-plugin-image'
 
@@ -19,16 +19,42 @@ const SchemaOrgContainer = ({
 	keywords,
 	dateCreated,
 	ogranizationLogo,
+	serverUrl,
 }) => {
-	const serverUrl = window.location.origin
-	const ogranizationLogoVar =
-		serverUrl + getSrc(ogranizationLogo.childrenImageSharp[0])
+	const orgImageSrc = getSrc(ogranizationLogo?.childrenImageSharp[0])
+	const ogranizationLogoVar = organization.url + orgImageSrc
+	const {
+		alternateName,
+		appName,
+		brandDescription,
+		brandName,
+		brandUrl,
+		contactType,
+		datePublishedSchema,
+		email,
+		inLanguage,
+		keywordsSchema,
+		potentialAction,
+		sameAs,
+		telephone,
+		version,
+	} = schemaYAML.schema[0].card
+
 	return (
 		<SchemaOrg
+			telephone={telephone}
+			sameAs={sameAs}
+			email={email}
+			brandName={brandName}
+			brandDescription={brandDescription}
+			brandUrl={brandUrl}
+			inLanguage={inLanguage}
 			schemaType={schemaType}
+			keywordsSchema={keywordsSchema}
 			url={siteUrl}
 			title={title}
-			image={image || featuredImage}
+			image={image}
+			featuredImage={featuredImage}
 			description={description}
 			datePublished={datePublished}
 			siteUrl={siteUrl}
