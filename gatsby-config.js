@@ -127,18 +127,6 @@ module.exports = {
 			},
 		},
 		{
-			resolve: `gatsby-plugin-manifest`,
-			options: {
-				name: businessInfos.clientOrg,
-				short_name: businessInfos.clientShortName,
-				start_url: businessInfos.urlPrefix,
-				background_color: businessInfos.backgroundColor,
-				theme_color: businessInfos.theme_color,
-				display: businessInfos.displayManifest,
-				icon: `static/images/${businessInfos.iconManifest}`, // This path is relative to the root of the site.
-			},
-		},
-		{
 			resolve: `gatsby-plugin-google-fonts`,
 			options: {
 				fonts: [
