@@ -1,5 +1,5 @@
 [build]
-    command = "GATSBY_CONCURRENT_DOWNLOAD=15 gatsby build --verbose"
+    command = "GATSBY_CONCURRENT_DOWNLOAD=15 gatsby build"
     publish = "public"
 
 [build.environment]
