@@ -1,8 +1,8 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 
-import DescolaLogo from '../../static/images/descola-logo.svg'
-import DescolaLogoDark from '../../static/images/descola-logo-dark.svg'
+import DescolaLogo from '@Images/descola-logo.svg'
+import DescolaLogoDark from '@Images/descola-logo-dark.svg'
 
 import Layout from '@Layout'
 import HeaderBlock from '@BlockBuilder/HeaderBlock'

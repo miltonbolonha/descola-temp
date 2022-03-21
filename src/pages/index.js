@@ -10,7 +10,6 @@ import HeaderBlock from '@BlockBuilder/HeaderBlock'
 import FooterBlock from '@BlockBuilder/FooterBlock'
 import PostsBlock from '@BlockBuilder/PostsBlock'
 import { useSiteMetaDatas } from '@tools/useSiteMetaDatas'
-// import main from '../../content/main.yaml'
 
 const IndexPage = (props) => {
 	const { data } = props
@@ -60,7 +59,10 @@ export default IndexPage
 
 export const queryAtividade = graphql`
 	query {
-		allMarkdownRemark(sort: { fields: frontmatter___date, order: DESC }) {
+		allMarkdownRemark(
+			sort: { fields: frontmatter___date, order: DESC }
+			limit: 900
+		) {
 			edges {
 				node {
 					fields {
