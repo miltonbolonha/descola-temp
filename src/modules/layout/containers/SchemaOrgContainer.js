@@ -1,6 +1,7 @@
 import React from 'react'
-import mainMenuYAML from '@Content/configs/schema-org.yaml'
+// import mainMenuYAML from '@Content/configs/schema-org.yaml'
 import SchemaOrg from '../components/SchemaOrg'
+import { getSrc } from 'gatsby-plugin-image'
 
 const SchemaOrgContainer = ({
 	schemaType,
@@ -19,7 +20,9 @@ const SchemaOrgContainer = ({
 	dateCreated,
 	ogranizationLogo,
 }) => {
-	console.log(mainMenuYAML)
+	const serverUrl = window.location.origin
+	const ogranizationLogoVar =
+		serverUrl + getSrc(ogranizationLogo.childrenImageSharp[0])
 	return (
 		<SchemaOrg
 			schemaType={schemaType}
@@ -37,7 +40,7 @@ const SchemaOrgContainer = ({
 			articleBody={articleBody}
 			keywords={keywords}
 			dateCreated={dateCreated}
-			ogranizationLogo={ogranizationLogo}
+			ogranizationLogo={ogranizationLogoVar}
 		/>
 	)
 }

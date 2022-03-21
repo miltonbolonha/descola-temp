@@ -1,6 +1,6 @@
 import React from 'react'
 import { Helmet } from 'react-helmet'
-import { getSrc } from 'gatsby-plugin-image'
+// import { getSrc } from 'gatsby-plugin-image'
 
 export default React.memo(
 	({
@@ -21,18 +21,16 @@ export default React.memo(
 		dateCreated,
 		ogranizationLogo,
 	}) => {
-		const imageSrc = image.childrenImageSharp
-			? organization.url.slice(0, -1) + getSrc(image.childrenImageSharp[0])
-			: image
 		const dateNow = Date.now()
-		// const baseSchema = {
+		const authorType =
+			author === 'Descola' ? { type: 'Organization' } : { type: 'Person' }
 		const orgSchema = [
 			{
 				'@type': ['Organization'],
 				'@context': 'http://schema.org',
-				'@id': siteUrl,
-				name: title, // NAME BRAND
-				url: url, // BRAND URL
+				name: title,
+				url: url,
+				email: organization.email,
 				description: description,
 				sameAs: [
 					socialSameAs.instagram,
@@ -40,14 +38,13 @@ export default React.memo(
 					socialSameAs.linkedIn,
 					socialSameAs.youtube,
 				],
-				// alternateName: ,
 				potentialAction: 'Learning',
-				// logo: {
-				// 		"@type": "ImageObject",
-				// 		"url": "https://conteudo.imguol.com.br/c/home/interacao/facebook/compartilhe.png",
-				// 		"width": "94",
-				// 		"height": "60"
-				// },
+				logo: {
+					'@type': 'ImageObject',
+					url: ogranizationLogo,
+					width: 156,
+					height: 60,
+				},
 				contactPoint: [
 					{
 						'@type': 'ContactPoint',
@@ -62,16 +59,16 @@ export default React.memo(
 			{
 				'@type': 'WebSite',
 				'@context': 'http://schema.org',
-				name: title, // NAME BRAND
+				name: title,
 				description: description,
-				url: url, // BRAND URL
+				url: url,
 				potentialAction: 'Learning',
-				headline: title,
 				keywords: [keywords.map((e) => e)],
 				inLanguage: 'pt-BR',
 				copyrightYear: new Date().getFullYear(),
 				datePublished: dateCreated,
 				dateModified: dateNow,
+				image: image,
 				sameAs: [
 					socialSameAs.instagram,
 					socialSameAs.facebook,
@@ -80,7 +77,6 @@ export default React.memo(
 				],
 			},
 		]
-		// "image": "https://conteudo.imguol.com.br/c/home/interacao/facebook/compartilhe.png",
 
 		// "potentialAction":
 		// {
@@ -93,22 +89,6 @@ export default React.memo(
 		// 	"query-input": "required name=search_term_string"
 		// }
 
-		// email: organization.email,
-
-		// {
-		// 	"@type": "Organization",
-		// 	"@context": "http://schema.org",
-		// 	"name": "UOL",
-		// 	"url": "https://www.uol.com.br/",
-		// 	"logo":
-		// 	{
-		// 		"@type": "ImageObject",
-		// 		"url": "https://conteudo.imguol.com.br/c/home/interacao/facebook/compartilhe.png",
-		// 		"width": "94",
-		// 		"height": "60"
-		// 	}
-		// }
-
 		const articleSchema = [
 			{
 				'@context': 'http://schema.org',
@@ -116,42 +96,30 @@ export default React.memo(
 				name: title,
 				headline: 'excerpt',
 				description: description,
-				// author: {
-				// 	'@type': 'Person',
-				// 	name: author,
-				// 	url: siteUrl,
-				// },
 				author: {
-					'@type': 'Organization',
+					'@type': authorType,
 					name: author,
 					url: siteUrl,
 				},
 				image: {
 					'@type': 'ImageObject',
-					url: imageSrc,
+					url: image,
+					height: 156,
+					width: 60,
 				},
 				articleBody: articleBody,
-
 				publisher: {
 					'@type': 'Organization',
 					name: organization.name,
-					url: organization.url, // BRAND URL
-					// logo: {
-					// 	'@type': 'ImageObject',
-					// 	url: ogranizationLogo,
-					// "width": 156,
-					// "height": 60
-					// },
+					url: organization.url,
+					logo: {
+						'@type': 'ImageObject',
+						url: ogranizationLogo,
+						width: 156,
+						height: 60,
+					},
 				},
-				// mainEntityOfPage: siteUrl, POST / ACTUAL URL
-				// "image":
-				// {
-				// 	"height": 1277,
-				// 	"width": 1920,
-				// 	"url": "http://conteudo.imguol.com.br/c/noticias/6c/2021/11/11/6fev2020---o-ministro-alexandre-de-moraes-durante-sessao-no-stf-supremo-tribunal-federal-1636654755541_v2_1920x1277.jpg",
-				// 	"@type": "ImageObject"
-				// },
-				// "dateModified": "2022-03-20T18:39:31-03:00",
+				dateModified: dateNow,
 				datePublished: datePublished,
 			},
 		]

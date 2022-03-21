@@ -171,7 +171,7 @@ const Header = ({
 						itemScope="itemScope"
 						itemType="http://schema.org/SiteNavigationElement"
 					>
-						<ul className="main-ul" role="menu">
+						<ul className="main-ul">
 							{mainMenuStatus === 'active' ? mainMenuReturn : null}
 						</ul>
 					</nav>
