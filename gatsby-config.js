@@ -137,6 +137,7 @@ module.exports = {
 			},
 		},
 		`gatsby-plugin-netlify-cms`,
+		`gatsby-plugin-netlify`,
 		{
 			resolve: 'gatsby-plugin-google-tagmanager',
 			options: {
