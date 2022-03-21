@@ -19,6 +19,7 @@ function SeoContainer({
 	articleBody,
 	mainLogo,
 	cardImage,
+	serverUrl,
 }) {
 	const { site } = useSiteMetaDatas()
 	const metaDescription = description || site.siteMetadata.description
@@ -45,6 +46,7 @@ function SeoContainer({
 			articleBody={articleBody}
 			keywords={site.siteMetadata.keywords}
 			cardImage={cardImage || null}
+			serverUrl={serverUrl}
 		/>
 	)
 }

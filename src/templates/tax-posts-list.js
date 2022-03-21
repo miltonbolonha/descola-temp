@@ -24,6 +24,7 @@ const TagsList = (props) => {
 				schemaType: 'blog',
 				cardImage: getSrc(cardImage.childrenImageSharp[0]),
 				blogListing: tagList.slice(0, 9),
+				serverUrl: props.location.href,
 			}}
 		>
 			<HeaderBlock logotipoSvg={<DescolaLogo />} />
@@ -31,7 +32,7 @@ const TagsList = (props) => {
 				type="ROW"
 				opt={{ isBoxed: true, classes: 'main-container-wrapper' }}
 			>
-				<main className="main-container">
+				<main className="main-container" role="list">
 					<h1>Posts da Tag: {props.pageContext.tag}</h1>
 					<PostsBlock
 						postList={tagList}

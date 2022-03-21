@@ -31,6 +31,8 @@ export default function Form({
 					target="_blank"
 					onSubmit={(e) => handleSubmit(e, search, honey)}
 					noValidate
+					role="search"
+					aria-label="Busque por cursos da Descola"
 				>
 					<p className="hidden">
 						<label>

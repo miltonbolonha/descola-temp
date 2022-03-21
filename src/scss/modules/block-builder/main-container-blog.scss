@@ -35,8 +35,8 @@
 						color: $cta__color;
 					}
 				}
+				a{
 				p{
-					a{
 						font-family: $main__font;
 						font-size: 18px;
 						font-weight: 300;
@@ -46,6 +46,8 @@
 				margin-bottom: 16px;
 				}
 				a.card-posts-link{
+					P{
+					margin-top: 20px;
 					background-color: #222;
 					font-size: 14px;
 					color: white;
@@ -55,6 +57,7 @@
 					&:hover {
 						background-color: $cta__color;
 					}
+				}
 				}
 			}
 		}

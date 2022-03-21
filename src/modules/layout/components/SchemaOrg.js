@@ -1,6 +1,5 @@
 import React from 'react'
 import { Helmet } from 'react-helmet'
-import { getSrc } from 'gatsby-plugin-image'
 
 export default React.memo(
 	({
@@ -20,164 +19,132 @@ export default React.memo(
 		keywords,
 		dateCreated,
 		ogranizationLogo,
+		telephone,
+		sameAs,
+		email,
+		brandName,
+		brandDescription,
+		brandUrl,
+		inLanguage,
+		keywordsSchema,
+		featuredImage,
 	}) => {
-		const imageSrc = image.childrenImageSharp
-			? organization.url.slice(0, -1) + getSrc(image.childrenImageSharp[0])
-			: image
 		const dateNow = Date.now()
-		const baseSchema = {
-			'@context': 'http://schema.org',
-			'@type': ['WebPage', 'Organization', 'School'],
-			'@id': siteUrl,
-			headline: title,
-			description: description,
-			url: url,
-			name: title,
-			// email: organization.email,
-			// logo: image,
-			keywords: [keywords.map((e) => e)],
-			primaryImageOfPage: imageSrc,
-			inLanguage: 'pt-BR',
-			copyrightYear: new Date().getFullYear(),
-			potentialAction: 'Learning',
-			datePublished: dateCreated,
-			dateModified: dateNow,
-			sameAs: [
-				socialSameAs.instagram,
-				socialSameAs.facebook,
-				socialSameAs.linkedIn,
-				socialSameAs.youtube,
-			],
-		}
+		const authorType =
+			author === 'Descola' ? { type: 'Organization' } : { type: 'Person' }
+		const orgSchema = [
+			{
+				'@type': ['Organization'],
+				'@context': 'http://schema.org',
+				name: title,
+				url: brandUrl,
+				email: email,
+				description: brandDescription,
+				sameAs: [
+					sameAs.instagram,
+					sameAs.facebook,
+					sameAs.linkedIn,
+					sameAs.youtube,
+				],
+				potentialAction: 'Learning',
+				logo: {
+					'@type': 'ImageObject',
+					url: ogranizationLogo,
+					width: 156,
+					height: 60,
+				},
+				contactPoint: [
+					{
+						'@type': 'ContactPoint',
+						telephone: telephone,
+						contactType: 'Serviço Ao Cliente',
+					},
+				],
+			},
+		]
 
-		// const breadSchema = {
-		// 	'@context': 'http://schema.org',
-		// 	'@type': 'BreadcrumbList',
-		// 	'@id': siteUrl,
-		// 	itemListElement: [
-		// 		{ '@type': 'ListItem', position: 1, name: 'Home', item: siteUrl },
-		// 	],
+		const webSiteSchema = [
+			{
+				'@type': 'WebSite',
+				'@context': 'http://schema.org',
+				name: title,
+				description: brandDescription,
+				url: brandUrl,
+				potentialAction: 'Learning',
+				keywords: [keywords.map((e) => e)],
+				inLanguage: inLanguage,
+				copyrightYear: new Date().getFullYear(),
+				datePublished: dateCreated,
+				dateModified: dateNow,
+				image: image || featuredImage,
+				sameAs: [
+					sameAs.instagram,
+					sameAs.facebook,
+					sameAs.linkedIn,
+					sameAs.youtube,
+				],
+			},
+		]
+
+		// "potentialAction":
+		// {
+		// 	"@type": "SearchAction",
+		// 	"target":
+		// 	{
+		// 		"@type": "EntryPoint",
+		// 		"urlTemplate": "https://busca.uol.com.br/result.html?term={search_term_string}#gsc.tab=0&gsc.q={search_term_string}&gsc.page=1"
+		// 	},
+		// 	"query-input": "required name=search_term_string"
 		// }
 
-		// const blogSchema = blogListing
-		// 	? blogListing.map((postBlog, index) => {
-		// 			const thePost = postBlog.node
-		// 			return {
-		// 				'@context': 'http://schema.org',
-		// 				'@type': 'NewsArticle',
-		// 				position: index,
-		// 				item: {
-		// 					'@id': siteUrl + thePost.fields.slug,
-		// 					name: thePost.frontmatter.title,
-		// 					alternateName: defaultTitle,
-		// 					headline: thePost.frontmatter.title,
-		// 					breadcrumb: { '@id': siteUrl + thePost.fields.slug },
-		// 					inLanguage: 'pt-BR',
-		// 					image: {
-		// 						'@type': 'ImageObject',
-		// 						url: thePost.featuredImage
-		// 							? thePost.featuredImage.childrenImageSharp[0].gatsbyImageData
-		// 									.images.fallback.src
-		// 							: null,
-		// 					},
-		// 					potentialAction: [
-		// 						{ '@type': 'ReadAction', target: [siteUrl] },
-		// 						'Learning',
-		// 					],
-		// 					description: description,
-		// 					articleBody: thePost.html,
-		// 					author: {
-		// 						'@type': 'Person',
-		// 						name: thePost.frontmatter.author,
-		// 						url: siteUrl,
-		// 					},
-		// 					publisher: {
-		// 						'@type': 'Organization',
-		// 						url: organization.url,
-		// 						name: organization.name,
-		// 						logo: {
-		// 							'@type': 'ImageObject',
-		// 							url: thePost.featuredImage
-		// 								? thePost.featuredImage.childrenImageSharp[0]
-		// 										.gatsbyImageData.images.fallback.src
-		// 								: null,
-		// 						},
-		// 					},
-		// 					mainEntityOfPage: {
-		// 						'@type': 'WebSite',
-		// 						'@id': siteUrl,
-		// 					},
-		// 					datePublished: datePublished,
-		// 					hasPart: {
-		// 						'@type': 'BreadcrumbList',
-		// 						'@id': siteUrl,
-		// 						itemListElement: [
-		// 							{
-		// 								'@type': 'ListItem',
-		// 								position: index,
-		// 								name: 'Home',
-		// 								item: siteUrl,
-		// 							},
-		// 							{
-		// 								'@type': 'ListItem',
-		// 								position: index,
-		// 								name: thePost.frontmatter.title,
-		// 								item: siteUrl + thePost.fields.slug,
-		// 							},
-		// 						],
-		// 					},
-		// 				},
-		// 			}
-		// 	  })
-		// 	: null
-
-		const schema =
-			schemaType === 'article'
-				? [
-						baseSchema,
-						{
-							'@context': 'http://schema.org',
-							'@type': 'NewsArticle',
-							name: title,
-							alternateName: defaultTitle,
-							headline: title,
-							image: {
-								'@type': 'ImageObject',
-								url: imageSrc,
-							},
-							description: description,
-							articleBody: articleBody,
-							author: {
-								'@type': 'Person',
-								name: author,
-								url: siteUrl,
-							},
-							publisher: {
-								'@type': 'Organization',
-								url: organization.url,
-								name: organization.name,
-								logo: {
-									'@type': 'ImageObject',
-									url: ogranizationLogo,
-								},
-							},
-							mainEntityOfPage: {
-								'@type': 'WebSite',
-								'@id': siteUrl,
-							},
-							datePublished: datePublished,
-						},
-				  ]
-				: [baseSchema]
-
+		const articleSchema = [
+			{
+				'@context': 'http://schema.org',
+				'@type': 'NewsArticle',
+				name: title,
+				headline: 'excerpt',
+				description: description,
+				author: {
+					'@type': authorType,
+					name: author,
+					url: siteUrl,
+				},
+				image: {
+					'@type': 'ImageObject',
+					url: image || featuredImage,
+					height: 156,
+					width: 60,
+				},
+				articleBody: articleBody,
+				publisher: {
+					'@type': 'Organization',
+					name: brandName,
+					url: brandUrl,
+					logo: {
+						'@type': 'ImageObject',
+						url: ogranizationLogo,
+						width: 156,
+						height: 60,
+					},
+				},
+				dateModified: dateNow,
+				datePublished: datePublished,
+			},
+		]
 		return (
 			<Helmet>
 				{/* Schema.org tags */}
-				<script type="application/ld+json">{JSON.stringify(schema)}</script>
-				{/* <meta
-					name="posts"
-					content={JSON.stringify([{ obj: true, native: false }])}
-				/> */}
+				{schemaType === 'article' ? (
+					<script type="application/ld+json" data-schema="Article">
+						{JSON.stringify(articleSchema)}
+					</script>
+				) : null}
+				<script type="application/ld+json" data-schema="WebSite">
+					{JSON.stringify(webSiteSchema)}
+				</script>
+				<script type="application/ld+json" data-schema="Organization">
+					{JSON.stringify(orgSchema)}
+				</script>
 			</Helmet>
 		)
 	}

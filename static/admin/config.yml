@@ -1,8 +1,8 @@
 backend:
   name: github
-  repo: grpaiva/descola-blog
+  repo: miltonbolonha/descola-temp
   branch: master
-  site_domain: descola-blog.netlify.app
+  site_domain: temp-descola.netlify.app
 
 # local_backend: true
 publish_mode: editorial_workflow

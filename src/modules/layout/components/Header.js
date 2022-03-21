@@ -2,6 +2,8 @@ import React from 'react'
 import { Link } from 'gatsby'
 import MenuContainer from '../containers/MenuContainer'
 import Layout from '..'
+import layoutYAML from '@Content/configs/layout.yaml'
+import mainMenuYAML from '@Content/menus/main-menu.yaml'
 import { FiUser } from 'react-icons/fi'
 import { RiShoppingBag3Line } from 'react-icons/ri'
 import { GiHamburgerMenu } from 'react-icons/gi'
@@ -13,9 +15,113 @@ const Header = ({
 	logoSvg,
 	logoUrl,
 }) => {
+	const mainMenuItems = mainMenuYAML.menu.items
+	const mainMenuStatus = mainMenuYAML.menu.status
+	const { logo_url, link_01 } = layoutYAML.layout02
+
+	let mainMenuReturnMobile = null
+	let logoUrlReturn = null
 	const menuActive = refState ? 'visible' : 'not-visible'
+
+	const mainMenuReturn = mainMenuItems.map((list, indx) => {
+		if (list.item.href) {
+			return (
+				<li key={indx} role="none">
+					<a
+						href={list.item.href}
+						role="menuitem"
+						itemProp="url"
+						title={list.item.label}
+						aria-label={`Acesso a página: ${list.item.label}, no websítio da Descola`}
+					>
+						{list.item.label}
+					</a>
+				</li>
+			)
+		}
+		if (list.item.to) {
+			return (
+				<li key={indx} role="none">
+					<Link
+						to={list.item.to}
+						role="menuitem"
+						itemProp="url"
+						title={list.item.label}
+						aria-label={`Acesso a página: ${list.item.label}, no websítio da Descola`}
+					>
+						{list.item.label}
+					</Link>
+				</li>
+			)
+		}
+		if (list.item.icon) {
+			return (
+				<li className="menu-shop-bag" key={indx} role="none">
+					<RiShoppingBag3Line />
+				</li>
+			)
+		}
+		if (list.item.search_widget) {
+			return (
+				<li className="main-menu-search" key={indx}>
+					<Layout
+						type="SEARCH"
+						opt={{
+							placeholder: list.item.search_label,
+							searchStringBase: list.item.search_url_prefix,
+						}}
+					/>
+				</li>
+			)
+		}
+		return null
+	})
+
+	mainMenuReturnMobile = (
+		<div className={'main-header main-header-' + menuActive} role="menubar">
+			<MenuContainer
+				refState={refState}
+				handleRefState={handleRefState}
+				menuItems={mainMenuItems}
+				link_01={link_01}
+			/>
+			<div className="header-columns toggle-menu">
+				<p className="menu-shop-bag-mobile">
+					<FiUser />
+				</p>
+				<p className="menu-shop-bag-mobile" tabIndex="-1">
+					<RiShoppingBag3Line />
+				</p>
+				<button
+					type="button"
+					id="check-toggle-icon"
+					onClick={handleRefState}
+					aria-haspopup="true"
+					aria-controls="mainmenu"
+					aria-expanded={refState}
+					aria-label="Alternar visibilidade do menu"
+					className={`menu-wrapper menu-bar-icon mobile-only ${
+						refState ? 'active' : 'not-active'
+					}`}
+				>
+					<GiHamburgerMenu />
+				</button>
+			</div>
+		</div>
+	)
+
+	logoUrlReturn = logoUrl ? (
+		<a href={logo_url} className="logo-link">
+			{logoSvg}
+		</a>
+	) : (
+		<Link to="/" className="logo-link">
+			{logoSvg}
+		</Link>
+	)
+
 	return (
-		<header role="banner">
+		<header>
 			<Layout
 				type="ROW"
 				opt={{
@@ -24,39 +130,8 @@ const Header = ({
 					classes: 'mobile-header mobile-only',
 				}}
 			>
-				{logoUrl ? (
-					<a href="https://descola.org/" className="logo-link">
-						{logoSvg}
-					</a>
-				) : (
-					<Link to="/" className="logo-link">
-						{logoSvg}
-					</Link>
-				)}
-				<div className={'main-header main-header-' + menuActive} role="menubar">
-					<MenuContainer refState={refState} handleRefState={handleRefState} />
-					<div className="header-columns toggle-menu">
-						<p className="menu-shop-bag-mobile">
-							<FiUser />
-						</p>
-						<p className="menu-shop-bag-mobile">
-							<RiShoppingBag3Line />
-						</p>
-						<button
-							type="button"
-							id="check-toggle-icon"
-							onClick={handleRefState}
-							aria-haspopup="true"
-							aria-controls="mainmenu"
-							aria-expanded={refState}
-							className={`menu-wrapper menu-bar-icon mobile-only ${
-								refState ? 'active' : 'not-active'
-							}`}
-						>
-							<GiHamburgerMenu />
-						</button>
-					</div>
-				</div>
+				{logoUrlReturn}
+				{mainMenuStatus === 'active' ? mainMenuReturnMobile : null}
 			</Layout>
 			<Layout type="ROW" opt={{ bgColor: '#e9e9ed', isBoxed: false }}>
 				<Layout
@@ -68,7 +143,7 @@ const Header = ({
 					}}
 				>
 					<p>
-						<a href="https://descola.org/#login">Login / Registre-se</a>
+						<a href={link_01}>Login / Registre-se</a>
 					</p>
 				</Layout>
 			</Layout>
@@ -82,7 +157,7 @@ const Header = ({
 			>
 				<Layout type="ROW" opt={{ isBoxed: true, classes: 'header-logo' }}>
 					{logoUrl ? (
-						<a href="https://descola.org/" className="logo-link">
+						<a href={logo_url} className="logo-link">
 							{logoSvg}
 						</a>
 					) : (
@@ -90,32 +165,14 @@ const Header = ({
 							{logoSvg}
 						</Link>
 					)}
-					<nav className="main-nav desktop-only">
+					<nav
+						className="main-nav desktop-only"
+						id="site-navigation"
+						itemScope="itemScope"
+						itemType="http://schema.org/SiteNavigationElement"
+					>
 						<ul className="main-ul">
-							<li>
-								<a href="https://descola.org/cursos">Cursos</a>
-							</li>
-							<li>
-								<a href="https://descola.org/sobre">O Que é a Descola?</a>
-							</li>
-							<li>
-								<a href="https://descola.org/empresas">Para empresas</a>
-							</li>
-							<li>
-								<Link to="/">Blog</Link>
-							</li>
-							<li className="menu-shop-bag">
-								<RiShoppingBag3Line />
-							</li>
-							<li className="main-menu-search">
-								<Layout
-									type="SEARCH"
-									opt={{
-										placeholder: 'Procure um curso',
-										searchStringBase: 'https://descola.org/cursos?search=',
-									}}
-								/>
-							</li>
+							{mainMenuStatus === 'active' ? mainMenuReturn : null}
 						</ul>
 					</nav>
 				</Layout>
