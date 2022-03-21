@@ -1,6 +1,6 @@
 import React from 'react'
 import Helmet from 'react-helmet'
-import SchemaOrg from './SchemaOrg'
+import SchemaOrgContainer from '../containers/SchemaOrgContainer'
 
 const Seo = ({
 	lang,
@@ -60,7 +60,7 @@ const Seo = ({
 			<meta name="twitter:description" content={description} />
 			<meta name="twitter:image" content={cardImage || featuredImage} />
 		</Helmet>
-		<SchemaOrg
+		<SchemaOrgContainer
 			schemaType={schemaType}
 			url={siteUrl}
 			title={title}

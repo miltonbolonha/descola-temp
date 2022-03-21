@@ -26,21 +26,37 @@ const Header = ({
 	const mainMenuReturn = mainMenuItems.map((list, indx) => {
 		if (list.item.href) {
 			return (
-				<li key={indx}>
-					<a href={list.item.href}>{list.item.label}</a>
+				<li key={indx} role="none">
+					<a
+						href={list.item.href}
+						role="menuitem"
+						itemProp="url"
+						title={list.item.label}
+						aria-label={`Acesso a página: ${list.item.label}, no websítio da Descola`}
+					>
+						{list.item.label}
+					</a>
 				</li>
 			)
 		}
 		if (list.item.to) {
 			return (
-				<li key={indx}>
-					<Link to={list.item.to}>{list.item.label}</Link>
+				<li key={indx} role="none">
+					<Link
+						to={list.item.to}
+						role="menuitem"
+						itemProp="url"
+						title={list.item.label}
+						aria-label={`Acesso a página: ${list.item.label}, no websítio da Descola`}
+					>
+						{list.item.label}
+					</Link>
 				</li>
 			)
 		}
 		if (list.item.icon) {
 			return (
-				<li className="menu-shop-bag" key={indx}>
+				<li className="menu-shop-bag" key={indx} role="none">
 					<RiShoppingBag3Line />
 				</li>
 			)
@@ -149,8 +165,13 @@ const Header = ({
 							{logoSvg}
 						</Link>
 					)}
-					<nav className="main-nav desktop-only" id="site-navigation">
-						<ul className="main-ul">
+					<nav
+						className="main-nav desktop-only"
+						id="site-navigation"
+						itemScope="itemScope"
+						itemType="http://schema.org/SiteNavigationElement"
+					>
+						<ul className="main-ul" role="menu">
 							{mainMenuStatus === 'active' ? mainMenuReturn : null}
 						</ul>
 					</nav>

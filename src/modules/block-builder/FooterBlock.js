@@ -188,35 +188,87 @@ const FooterBlock = ({ footerLogo, featurePosts }) => {
 
 					<div className="footer-column-nav">
 						<h3>Navegue</h3>
-						<nav>
-							<ul className="footer-menu">
-								<li>
-									<a href="https://descola.org/cursos">Cursos</a>
-								</li>
+						<nav
+							itemScope="itemScope"
+							itemType="http://schema.org/SiteNavigationElement"
+						>
+							<ul className="footer-menu" role="menu">
 								<li>
 									<a
-										href="https://blog.descola.org/"
-										rel="noopener noreferrer"
-										target="_blank"
-										aria-label="(opens in a new window)"
+										href="https://descola.org/cursos"
+										role="menuitem"
+										itemProp="url"
+										title="Cursos da Descola"
+										aria-label="Acesso a página: Cursos, no websítio da Descola"
 									>
-										Blog
+										Cursos
 									</a>
 								</li>
 								<li>
-									<a href="https://descola.org/empresas">Para empresas</a>
+									<Link
+										to="/"
+										role="menuitem"
+										itemProp="url"
+										title="Blog da Descola"
+										aria-label="Acesso a página: Blog, no websítio da Descola"
+									>
+										Blog
+									</Link>
 								</li>
 								<li>
-									<a href="https://descola.org/contato">Contato</a>
+									<a
+										href="https://descola.org/empresas"
+										role="menuitem"
+										itemProp="url"
+										title="Para Empresas"
+										aria-label="Acesso a página: Para empresas, no websítio da Descola"
+									>
+										Para empresas
+									</a>
 								</li>
 								<li>
-									<a href="https://descola.org/faq">FAQ</a>
+									<a
+										href="https://descola.org/contato"
+										role="menuitem"
+										itemProp="url"
+										title="Contato da Descola"
+										aria-label="Acesso a página: Contato, no websítio da Descola"
+									>
+										Contato
+									</a>
 								</li>
 								<li>
-									<a href="https://descola.org/imprensa">Imprensa</a>
+									<a
+										href="https://descola.org/faq"
+										role="menuitem"
+										itemProp="url"
+										title="FAQ da Descola"
+										aria-label="Acesso a página: FAQ, no websítio da Descola"
+									>
+										FAQ
+									</a>
 								</li>
 								<li>
-									<a href="https://descola.org/termos-de-uso">Termos de Uso</a>
+									<a
+										href="https://descola.org/imprensa"
+										role="menuitem"
+										itemProp="url"
+										title="Para a Imprensa"
+										aria-label="Acesso a página: Imprensa, no websítio da Descola"
+									>
+										Imprensa
+									</a>
+								</li>
+								<li>
+									<a
+										href="https://descola.org/termos-de-uso"
+										role="menuitem"
+										itemProp="url"
+										title="Termos de Uso da Descola"
+										aria-label="Acesso a página: Termos de Uso, no websítio da Descola"
+									>
+										Termos de Uso
+									</a>
 								</li>
 							</ul>
 						</nav>
