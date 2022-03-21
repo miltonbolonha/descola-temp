@@ -12,7 +12,8 @@ import PostsBlock from '@BlockBuilder/PostsBlock'
 import { useSiteMetaDatas } from '@tools/useSiteMetaDatas'
 // import main from '../../content/main.yaml'
 
-const IndexPage = ({ data }) => {
+const IndexPage = (props) => {
+	const { data } = props
 	const posts = data.allMarkdownRemark.edges
 	const { cardImage, footerThreeMarkdowRemark, imgHolder, site, darkLogo } =
 		useSiteMetaDatas()
@@ -25,7 +26,8 @@ const IndexPage = ({ data }) => {
 				schemaType: 'blog',
 				blogListing: posts.slice(0, 9),
 				mainLogo: imgHolder,
-				cardImage: getSrc(cardImage.childrenImageSharp[0]),
+				cardImage: cardImage ? getSrc(cardImage.childrenImageSharp[0]) : null,
+				serverUrl: props.location.href,
 			}}
 		>
 			<HeaderBlock logotipoSvg={<DescolaLogo />} />

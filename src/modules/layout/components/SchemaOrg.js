@@ -1,6 +1,5 @@
 import React from 'react'
 import { Helmet } from 'react-helmet'
-// import { getSrc } from 'gatsby-plugin-image'
 
 export default React.memo(
 	({
@@ -20,6 +19,15 @@ export default React.memo(
 		keywords,
 		dateCreated,
 		ogranizationLogo,
+		telephone,
+		sameAs,
+		email,
+		brandName,
+		brandDescription,
+		brandUrl,
+		inLanguage,
+		keywordsSchema,
+		featuredImage,
 	}) => {
 		const dateNow = Date.now()
 		const authorType =
@@ -29,14 +37,14 @@ export default React.memo(
 				'@type': ['Organization'],
 				'@context': 'http://schema.org',
 				name: title,
-				url: url,
-				email: organization.email,
-				description: description,
+				url: brandUrl,
+				email: email,
+				description: brandDescription,
 				sameAs: [
-					socialSameAs.instagram,
-					socialSameAs.facebook,
-					socialSameAs.linkedIn,
-					socialSameAs.youtube,
+					sameAs.instagram,
+					sameAs.facebook,
+					sameAs.linkedIn,
+					sameAs.youtube,
 				],
 				potentialAction: 'Learning',
 				logo: {
@@ -48,7 +56,7 @@ export default React.memo(
 				contactPoint: [
 					{
 						'@type': 'ContactPoint',
-						telephone: '+551130420043 ',
+						telephone: telephone,
 						contactType: 'Serviço Ao Cliente',
 					},
 				],
@@ -60,20 +68,20 @@ export default React.memo(
 				'@type': 'WebSite',
 				'@context': 'http://schema.org',
 				name: title,
-				description: description,
-				url: url,
+				description: brandDescription,
+				url: brandUrl,
 				potentialAction: 'Learning',
 				keywords: [keywords.map((e) => e)],
-				inLanguage: 'pt-BR',
+				inLanguage: inLanguage,
 				copyrightYear: new Date().getFullYear(),
 				datePublished: dateCreated,
 				dateModified: dateNow,
-				image: image,
+				image: image || featuredImage,
 				sameAs: [
-					socialSameAs.instagram,
-					socialSameAs.facebook,
-					socialSameAs.linkedIn,
-					socialSameAs.youtube,
+					sameAs.instagram,
+					sameAs.facebook,
+					sameAs.linkedIn,
+					sameAs.youtube,
 				],
 			},
 		]
@@ -103,15 +111,15 @@ export default React.memo(
 				},
 				image: {
 					'@type': 'ImageObject',
-					url: image,
+					url: image || featuredImage,
 					height: 156,
 					width: 60,
 				},
 				articleBody: articleBody,
 				publisher: {
 					'@type': 'Organization',
-					name: organization.name,
-					url: organization.url,
+					name: brandName,
+					url: brandUrl,
 					logo: {
 						'@type': 'ImageObject',
 						url: ogranizationLogo,

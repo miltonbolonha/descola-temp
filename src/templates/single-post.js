@@ -11,7 +11,7 @@ import FooterBlock from '@BlockBuilder/FooterBlock'
 import SinglePostBlock from '@BlockBuilder/SinglePostBlock'
 import { useSiteMetaDatas } from '../tools/useSiteMetaDatas'
 
-const SinglePost = ({ data }) => {
+const SinglePost = ({ data, location }) => {
 	const { footerThreeMarkdowRemark, imgHolder, site } = useSiteMetaDatas()
 
 	const post = data.markdownRemark
@@ -34,6 +34,7 @@ const SinglePost = ({ data }) => {
 				articleBody: post.html,
 				mainLogo: imgHolder,
 				description: post.excerpt,
+				serverUrl: location.origin,
 			}}
 		>
 			<HeaderBlock logotipoSvg={<DescolaLogo />} />

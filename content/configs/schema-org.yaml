@@ -2,7 +2,7 @@ schema:
   - card:
       appName: Blog - Descola
       version: "1.0.0"
-      brandDescription: a
+      brandDescription: A Descola é uma escola de cursos online que cria grandes experiências de aprendizagem para transformar as pessoas ao longo de suas vidas. Selecionamos temas e professores e construímos conteúdos para que você desenvolva Power Skills.
       brandurl: https://descola.org/
       brandName: Descola
       keywords:

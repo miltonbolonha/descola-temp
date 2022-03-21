@@ -103,5 +103,3 @@ Tenha um ritual só seu para criar o estado emocional com o qual você gostaria 
 A ideia do ritual para dormir pode ajudar nesse ponto. Tente não levar seus problemas com você para a cama. Descarregue no seu diário, use sua âncora ou crie um ritual simples. Evite deitar agitado, nervoso ou triste, pois isso pode afetar sua saúde mental e física, já que impacta diretamente no aproveitamento do seu sono.
 
 Gostou da lista dos hábitos? Todos eles foram retirados do nosso curso sobre [Inteligência Emocional](https://descola.org/curso/inteligencia-emocional) e você pode aprender muito mais com nosso curso! fique a vontade para navegar e conhecer um pouco mais sobre sentimentos e suas emoções.
-
-![](/images/descola-image.png)
