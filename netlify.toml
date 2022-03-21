@@ -1,5 +1,5 @@
 [build]
-    command = "GATSBY_CONCURRENT_DOWNLOAD=15 gatsby build --verbose"
+    command = "GATSBY_CONCURRENT_DOWNLOAD=15 gatsby build"
     publish = "public"
 
 [build.environment]
@@ -9,4 +9,4 @@
   package = "@netlify/plugin-gatsby"
 
 [[plugins]]
-	package = "@netlify/plugin-local-install-core"
+  package = "@netlify/plugin-local-install-core"
