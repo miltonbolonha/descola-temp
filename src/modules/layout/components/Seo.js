@@ -27,7 +27,7 @@ const Seo = ({
 	cardImage,
 	serverUrl,
 }) => {
-	const cardImagesrc = serverUrl + cardImage
+	const cardImagesrc = serverUrl.slice(0, -1) + cardImage
 	return (
 		<>
 			<Helmet

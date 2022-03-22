@@ -10,8 +10,9 @@ tags:
   - produtividade
   - ser mais produtivo em casa
   - trabalho remoto
-featuredImage: ../static/images/Captura-de-Tela-2021-05-13-a%CC%80s-171314.jpg
+featuredImage: ../static/images/Captura-de-Tela-2021-09-0980s-15.jpg
 ---
+
 Poderíamos dizer uma infinidade de coisas sobre o trabalho remoto. Por exemplo, como começou há mais tempo do que imaginamos. Que foi ganhando força com a chegada do capitalismo e mais ainda com a introdução de novos meios de comunicação como o telégrafo no final do século 18, o telefone (fixo ou móvel) e a internet, ambos no século 20.
 
 Já era possível trabalhar de qualquer lugar do mundo e muitas vezes fazíamos isso sem perceber!
@@ -42,13 +43,9 @@ Estamos conhecendo uma nova maneira de viver em sociedade.
 
 Ok, ok, mas o que realmente estamos conhecendo?
 
-
-
 ## Afinal, o que é trabalho remoto?
 
-De forma rápida e simples: **é trabalhar em qualquer outro lugar que não o escritório e de qualquer forma.**  Portanto, a partir disso temos algumas classificações que são importantes para entender melhor qual a nossa realidade.
-
-
+De forma rápida e simples: **é trabalhar em qualquer outro lugar que não o escritório e de qualquer forma.** Portanto, a partir disso temos algumas classificações que são importantes para entender melhor qual a nossa realidade.
 
 ### ANYWHERE OFFICE
 
@@ -58,8 +55,6 @@ Essa forma de trabalho acontece quando é possível **trabalhar de qualquer luga
 
 A questão aqui é que você pode ficar se mudando ou em um lugar só, não importa nem o que você faz. O que importa é que tem a liberdade de trabalhar de qualquer lugar do mundo e tudo bem desde que tenha uma conexão com a internet.
 
-
-
 ### HOME OFFICE
 
 ![](https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/05/13195807/Captura-de-Tela-2021-05-13-a%CC%80s-16.53.15.png)
@@ -68,15 +63,11 @@ Esse trabalho remoto, por sua vez, tem um lugar bem conhecido para acontecer: **
 
 Roupas sujas de um lado, crianças correndo de outro, mas o conforto de estar no próprio ambiente, perto das pessoas que ama.
 
-
-
 ### TELETRABALHO
 
 ![](https://drops-cdn.s3.sa-east-1.amazonaws.com/drops-new/wp-content/uploads/2021/05/13195855/Captura-de-Tela-2021-05-13-a%CC%80s-16.53.22.png)
 
 Esse nome é um pouco mais raro de ouvir, mas também está muito presente. É quando o trabalho consiste **primariamente** em ligações. Seja por telefone ou plataforma virtual. Seja por áudio ou por vídeo. **A palavra da vez aqui é chamada**. Do jeito que for, quando for, mas sempre chamadas.
-
-
 
 ### MODELOS HÍBRIDOS
 

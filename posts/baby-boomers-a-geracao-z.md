@@ -6,7 +6,7 @@ featuredPost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/gerac%CC%A7oes.jpg
+featuredImage: ../static/images/geracoes.jpg
 ---
 
 Você certamente já deve ter notado que somos diferentes dos nossos pais, e eles dos nossos avós. Com o passar do tempo, muitos eventos históricos marcam as pessoas, costumes são criados e comportamentos são moldados, seja por construção social ou por repetição. Os assuntos dos nossos avós com os amigos deles é completamente diferente das coisas que conversamos com nossos amigos. É por isso e por muitas razões semelhantes que dividimos grupos de pessoas nascidas em determinado período de tempo em **gerações**.

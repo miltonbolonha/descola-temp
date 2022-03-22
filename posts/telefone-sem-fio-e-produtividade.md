@@ -8,8 +8,9 @@ tags:
   - comunicação
   - gestão
   - times remotos
-featuredImage: ../static/images/Captura-de-Tela-2021-05-13-a%CC%80s-17.png
+featuredImage: ../static/images/Captura-de-Tela-2021-05-13-as-17.jpg
 ---
+
 A comunicação organizacional não pode ser interrompida, nem chegar truncada aos seus pares. Conheça os recursos para manter seus times engajados e por dentro de tudo.
 
 Desde meados da década de 2010, os dados estatísticos do trabalho remoto já vinham sendo demonstrados em curva ascendentes para, em 2020, dar um verdadeiro salto nos gráficos de pesquisas: 46% das empresas adotaram a prática. Na mesma ocasião, a Fundação Getúlio Vargas apontou que a tendência é que a adesão ao trabalho remoto cresça 30% mais.
@@ -18,7 +19,7 @@ A moda pegou de um jeito que o [trabalho remoto](https://descola.org/gestao-de-t
 
 No entanto, há casos em que a empresa proporciona todas as condições sociais e tecnológicas para que seus colaboradores assumam o poder de decisão sobre suas próprias rotinas de trabalho. Assim, de acordo com suas preferências e necessidades do dia, eles podem escolher de onde vão trabalhar.
 
-Quer seja *at home* ou anywhere, não importa: estabelecer um canal de comunicação consistente, efetivo e fluido é um dos principais desafios do trabalho remoto.
+Quer seja _at home_ ou anywhere, não importa: estabelecer um canal de comunicação consistente, efetivo e fluido é um dos principais desafios do trabalho remoto.
 
 Catia Cintra atua no segmento bancário e, desde março de 2020, passou a trabalhar integralmente em home office. A empresa foi pega de surpresa pelas restrições impostas pela pandemia, e não dispunha de recursos tecnológicos suficientes para implantar a estrutura adequada de escritório virtual para atender as demandas de bate-pronto. Resultado: sem aplicativos como o Slack, a administradora de empresas tinha que acompanhar as mensagens corporativas em mais de um grupo no WhatsApp, pois, seu trabalho atendia a mais de uma equipe.
 

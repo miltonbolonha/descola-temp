@@ -9,7 +9,7 @@ tags:
   - 'design de serviços'
   - 'service design'
   - 'tudo é serviço'
-featuredImage: ../static/images/Isto-e%CC%81-Design-Thinking-de-Servic%CC%A7os.jpg
+featuredImage: ../static/images/Isto-eCC1-Design-Thinking-de-Servicos.jpg
 ---
 
 Existem cinco pilares fundamentais para caracterizar o design de serviço segundo o livro **“Isto é Design Thinking de Serviços: Fundamentos, Ferramentas, Casos”,** 2010, escrito por Marc Stickdorn e Jakob Schneider.

@@ -23,7 +23,7 @@ Estamos aqui para falar de uma forma diferente de encarar o mundo, que pode tran
 
 A Mentalidade Ágil é fruto de uma metodologia que nasceu do **“[Manifesto Ágil](https://descola.org/curso/metodos-ageis)“**, escrito em 2001 por programadores que buscavam formas mais eficientes de tocar seus projetos. É um novo jeito de enfrentar problemas ou criar soluções, por meio de práticas e ferramentas que têm como princípio a _agilidade_.
 
-![Valores do Manifesto Agil](/images/captura-de-tela-2020-02-20-a-s-11.14.44.png 'Valores do Manifesto Agil')
+![Valores do Manifesto Agil](/images/captura-de-tela-2020-02-20-a-s-11.14.44.jpg 'Valores do Manifesto Agil')
 
 Este modelo mental pode te ajudar a entender seus objetivos e metas, priorizando melhor seu tempo, esforço e recursos, tendo como base o **autodesenvolvimento** e o **crescimento**. E sempre (sempre mesmo!) considerando um cenário volátil em meio a um contexto de constante mudanças.
 

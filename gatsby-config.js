@@ -33,7 +33,17 @@ module.exports = {
 	plugins: [
 		'gatsby-plugin-sass',
 		'gatsby-plugin-image',
-		'gatsby-plugin-sharp',
+		{
+			resolve: `gatsby-plugin-sharp`,
+			options: {
+				defaults: {
+					formats: [`jpg`],
+					placeholder: `dominantColor`,
+					quality: 80,
+					breakpoints: [750, 1080, 1366],
+				},
+			},
+		},
 		`gatsby-transformer-sharp`,
 		`gatsby-plugin-sitemap`,
 		`gatsby-plugin-react-helmet`,
@@ -125,11 +135,11 @@ module.exports = {
 		},
 		`gatsby-plugin-netlify-cms`,
 		`gatsby-plugin-netlify`,
-		{
-			resolve: 'gatsby-plugin-google-tagmanager',
-			options: {
-				id: 'GTM-W37N9T5',
-			},
-		},
+		// {
+		// 	resolve: 'gatsby-plugin-google-tagmanager',
+		// 	options: {
+		// 		id: 'GTM-W37N9T5',
+		// 	},
+		// },
 	],
 }

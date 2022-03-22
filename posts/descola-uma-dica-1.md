@@ -13,7 +13,9 @@ Agora aqui no Descola Drops, toda semana você vai encontrar uma dica cultural: 
 
 Para começar, escolhemos o livro **“Por quê? – Como motivar pessoas e equipes a agir”**, do **Simon Sinek**, que aparece nas nossas recomendações de leitura para os cursos Habilidades do Futuro e Discurse.
 
-![](https://descola.org/drops/wp-content/uploads/2017/04/por-que.jpg)O Simon é palestrante motivacional e autor de livros que auxiliam pessoas e grupos em processos de liderança. Ele tem uma das apresentações mais populares da história do TED, na qual fala justamente sobre as teorias de seu livro, com o título em inglês “Start with Why”.
+![](https://descola.org/drops/wp-content/uploads/2017/04/por-que.jpg)
+
+O Simon é palestrante motivacional e autor de livros que auxiliam pessoas e grupos em processos de liderança. Ele tem uma das apresentações mais populares da história do TED, na qual fala justamente sobre as teorias de seu livro, com o título em inglês “Start with Why”.
 
 “Start with Why” fala sobre a importância de ter uma razão para fazer o que você faz. Antes de saber o que você vende e como você vende, é essencial saber porque você vende. Após anos de observação, Simon acredita que esse é o segredo dos grandes líderes e das grandes empresas: eles têm um propósito para fazer o que fazem e não abrem mão disso.
 

@@ -19,7 +19,9 @@ Quando você pensa num dispositivo e está na dúvida se ele se trata de realida
 
 Se o aparelho trouxer diante de seus olhos uma experiência imersiva completa, na qual você mergulha em outra realidade, estamos falando da realidade virtual (um ambiente 100% virtual). Pense naquelas atrações de parques de diversões, em que você coloca um óculos e se senta num carrinho de montanha russa, que fica parado durante toda exibição. Você entra num mundo completamente diferente e acaba até levando os sustos como se aquela experiência fosse real.
 
-![](https://descola.org/drops/wp-content/uploads/2017/03/pokemon-go.jpg)Agora, se o dispositivo faz com que apareçam interferências que se sobrepõem ao mundo real, então estamos falando de realidade aumentada. Para tentar exemplificar de forma mais simples a realidade aumentada, lembre-se do app **Pokémon GO**, que fez bastante sucesso no ano passado. E não foram só os fãs da saga que entraram nessa: era difícil encontrar alguém com um smartphone que não tinha instalado o aplicativo.
+![](https://descola.org/drops/wp-content/uploads/2017/03/pokemon-go.jpg)
+
+Agora, se o dispositivo faz com que apareçam interferências que se sobrepõem ao mundo real, então estamos falando de realidade aumentada. Para tentar exemplificar de forma mais simples a realidade aumentada, lembre-se do app **Pokémon GO**, que fez bastante sucesso no ano passado. E não foram só os fãs da saga que entraram nessa: era difícil encontrar alguém com um smartphone que não tinha instalado o aplicativo.
 
 As pessoas se encantavam com o fato de misturar vida real e digital: você andava pelo mapa da sua cidade, via as ruas do seu bairro, viajava com o celular na mão e, no meio do caminho, encontrava pokémons para colecionar. Essa ideia de realidade aumentada já existia há algum tempo, mas essa foi uma das formas mais expressivas do alcance dessa tecnologia emergente.
 
