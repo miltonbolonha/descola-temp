@@ -34,7 +34,7 @@ const SinglePost = ({ data, location }) => {
 				articleBody: post.html,
 				mainLogo: imgHolder,
 				description: post.excerpt,
-				serverUrl: location.origin,
+				serverUrl: location.origin || site.siteMetadata.siteUrl || '/',
 			}}
 		>
 			<HeaderBlock logotipoSvg={<DescolaLogo />} />
