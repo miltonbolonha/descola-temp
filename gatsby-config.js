@@ -35,10 +35,7 @@ module.exports = {
 		'gatsby-plugin-image',
 		'gatsby-plugin-sharp',
 		`gatsby-transformer-sharp`,
-		`gatsby-plugin-offline`,
-		`gatsby-plugin-nprogress`,
 		`gatsby-plugin-sitemap`,
-		`gatsby-plugin-remove-fingerprints`,
 		`gatsby-plugin-react-helmet`,
 		{
 			resolve: 'gatsby-plugin-page-creator',
@@ -50,16 +47,7 @@ module.exports = {
 		{
 			resolve: `gatsby-transformer-remark`,
 			options: {
-				plugins: [
-					`gatsby-remark-lazy-load`,
-					{
-						resolve: `gatsby-remark-copy-linked-files`,
-						options: {
-							destinationDir: `static/images`,
-							ignoreFileExtensions: [`png`, `jpg`, `jpeg`, `gif`],
-						},
-					},
-				],
+				plugins: [`gatsby-remark-lazy-load`],
 			},
 		},
 		{
@@ -97,7 +85,6 @@ module.exports = {
 						resolve: `gatsby-remark-images`,
 						options: {
 							maxWidth: 1035,
-							sizeByPixelDensity: true,
 							quality: 90,
 						},
 					},
