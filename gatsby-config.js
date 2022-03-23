@@ -33,17 +33,7 @@ module.exports = {
 	plugins: [
 		'gatsby-plugin-sass',
 		'gatsby-plugin-image',
-		{
-			resolve: `gatsby-plugin-sharp`,
-			options: {
-				defaults: {
-					formats: [`jpg`],
-					placeholder: `dominantColor`,
-					quality: 80,
-					breakpoints: [750, 1080, 1366],
-				},
-			},
-		},
+		`gatsby-plugin-sharp`,
 		`gatsby-transformer-sharp`,
 		`gatsby-plugin-sitemap`,
 		`gatsby-plugin-react-helmet`,
@@ -54,10 +44,11 @@ module.exports = {
 			},
 		},
 		`gatsby-plugin-catch-links`,
+		`gatsby-remark-relative-images`,
 		{
 			resolve: `gatsby-transformer-remark`,
 			options: {
-				plugins: [`gatsby-remark-lazy-load`],
+				plugins: [`gatsby-remark-lazy-load`, `gatsby-remark-images`],
 			},
 		},
 		{
@@ -87,20 +78,7 @@ module.exports = {
 				path: `${__dirname}/posts`,
 			},
 		},
-		{
-			resolve: `gatsby-plugin-mdx`,
-			options: {
-				gatsbyRemarkPlugins: [
-					{
-						resolve: `gatsby-remark-images`,
-						options: {
-							maxWidth: 1035,
-							quality: 90,
-						},
-					},
-				],
-			},
-		},
+		`gatsby-plugin-mdx`,
 		{
 			resolve: 'gatsby-plugin-react-svg',
 			options: {
@@ -133,8 +111,17 @@ module.exports = {
 				display: 'swap',
 			},
 		},
+		{
+			resolve: `gatsby-plugin-netlify`,
+			options: {
+				mergeSecurityHeaders: true, // boolean to turn off the default security headers
+				mergeLinkHeaders: true, // boolean to turn off the default gatsby js headers
+				mergeCachingHeaders: true, // boolean to turn off the default caching headers
+				transformHeaders: (headers, path) => headers, // optional transform for manipulating headers under each path (e.g.sorting), etc.
+				generateMatchPathRewrites: true, // boolean to turn off automatic creation of redirect rules for client only paths
+			},
+		},
 		`gatsby-plugin-netlify-cms`,
-		`gatsby-plugin-netlify`,
 		// {
 		// 	resolve: 'gatsby-plugin-google-tagmanager',
 		// 	options: {
