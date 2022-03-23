@@ -25,7 +25,7 @@ Separamos abaixo uma lista de 5 cursos online que trabalham esses temas e que n�
 
 # **1 – Produtividade no trabalho remoto**
 
-<iframe src="https://player.vimeo.com/video/519032717?h=147b17f8c9&color=fc4303&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/519032717?h=147b17f8c9&color=fc4303&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen referrerpolicy="strict-origin"></iframe>
 
 Tá na cara que esse seria um dos temas mais buscados. Aprenda a priorizar tarefas, a ter mais foco e a cuidar melhor do seu tempo enquanto trabalha de qualquer lugar.
 
@@ -45,7 +45,7 @@ A realidade do trabalho remoto exige adaptação. Para alguns a produtividade po
 
 # **2- Gestão de times remotos**
 
-<iframe src="https://player.vimeo.com/video/486128743?h=ec113512dd&color=fc4303&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/486128743?h=ec113512dd&color=fc4303&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen referrerpolicy="strict-origin"></iframe>
 
 **Gestão de times remotos é um convite a aprimorar processos, conhecer técnicas e métodos e implantar ferramentas que viabilizem o escritório virtual.** Assim, você terá instrumentos suficientes para criar caminhos que proporcionem o engajamento do time, fomentem a autonomia, transparência, confiança. Assim, o time funciona bem, de maneira autônoma, sem perder em produtividade.
 
@@ -62,7 +62,7 @@ O curso está dividido em três pilares principais. A partir do contexto atual d
 
 # **3- Inteligência Emocional**
 
-<iframe src="https://player.vimeo.com/video/395451046?h=71d9740126&color=fc4303&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/395451046?h=71d9740126&color=fc4303&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen referrerpolicy="strict-origin"></iframe>
 
 As habilidades socioemocionais, cada vez mais, têm ganhado espaço, protagonismo e importância para o resultado do desempenho profissional.
 
@@ -83,7 +83,7 @@ Neste curso, você vai aprender o que é e como usar a Inteligência Emocional n
 
 # **4- Liderança Compassiva**
 
-<iframe src="https://player.vimeo.com/video/454872486?h=b450e847ea&color=fc4303&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/454872486?h=b450e847ea&color=fc4303&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen referrerpolicy="strict-origin"></iframe>
 
 O papel da liderança ganhou novos significados. Ela precisa olhar de forma mais ampla para sua organização, ter atenção com todos os seus liderados e pensar em como pode potencializar cada um ao seu redor para que o resultado coletivo seja o melhor possível.
 
@@ -105,7 +105,7 @@ Neste curso, você vai aprender a aplicar técnicas simples para se conectar con
 
 # 5 – Felicidade no Trabalho
 
-<iframe src="https://player.vimeo.com/video/547997838?h=425152b22d&color=fc4303&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/547997838?h=425152b22d&color=fc4303&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen referrerpolicy="strict-origin"></iframe>
 
 É possível ser feliz no trabalho ou tenho que esperar a sexta-feira chegar? Este curso explica o que é a ciência da felicidade a partir da Psicologia Positiva, quais são os desafios enfrentados por quem quer ser feliz atualmente e como assumir a autorresponsabilidade para buscar a felicidade no trabalho.
 
