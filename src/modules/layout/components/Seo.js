@@ -66,6 +66,7 @@ const Seo = ({
 				<meta name="twitter:description" content={description} />
 				<meta name="twitter:image:src" content={cardImagesrc || featuredImage} />
 				<meta name="theme-color" content={themeColor || "#FF0081"} />
+				<meta name="twitter:site" content={`@` + social.twitter}/>
 			</Helmet>
 			<SchemaOrgContainer
 				schemaType={schemaType}
