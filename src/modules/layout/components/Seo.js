@@ -30,7 +30,7 @@ const Seo = ({
 }) => {
 	const hasBar = serverUrl?.charAt(serverUrl.length - 1)
 	const servBar = hasBar === '/' ? serverUrl?.slice(0, -1) : serverUrl
-	const cardImagesrc = servBar + cardImage || cardImage || null
+	const cardImagesrc = servBar + cardImage || cardImage || servBar
 	return (
 		<>
 			<Helmet
