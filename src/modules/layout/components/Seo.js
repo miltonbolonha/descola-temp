@@ -28,9 +28,11 @@ const Seo = ({
 	serverUrl,
 	themeColor
 }) => {
-	const hasBar = serverUrl.charAt(serverUrl.length - 1);
-	const servBar = hasBar === '/' ? serverUrl?.slice(0,-1):serverUrl
+	const hasBar = serverUrl?.charAt(serverUrl.length - 1);
+	const servBar = hasBar === '/' ? serverUrl?.slice(0,-1) : serverUrl
 	const cardImagesrc = servBar + cardImage || cardImage || null
+	console.log('hasBar')
+	console.log(hasBar)
 	return (
 		<>
 			<Helmet
