@@ -30,8 +30,7 @@ export default React.memo(
 		featuredImage,
 	}) => {
 		const dateNow = Date.now()
-		const authorType =
-			author === 'Descola' ? { type: 'Organization' } : { type: 'Person' }
+		const authorType = author === 'Descola' ? 'Organization' : 'Person'
 		const orgSchema = [
 			{
 				'@type': ['Organization'],

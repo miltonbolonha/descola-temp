@@ -10,7 +10,7 @@
 	},
 	"organization": {
 		"name": "Descola",
-		"url": "https://descola-blog.netlify.app",
+		"url": "https://descola.org/",
 		"email": "descola@descola.com.br",
 		"logo": "descola-banner.png",
 		"cardImage": "descola-banner.png"
@@ -29,7 +29,7 @@
 	"appName": "Blog - Descola",
 	"appLogic": "Blog",
 	"dateCreated": "05 de março de 2022",
-	"siteUrl": "https://descola-blog.netlify.app",
+	"siteUrl": "https://blog.descola.org/",
 	"searchBaseUrl": "https://descola.org/cursos?search=",
 	"clientOrg": "Descola",
 	"clientShortName": "Descola",
