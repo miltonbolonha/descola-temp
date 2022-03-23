@@ -1,14 +1,13 @@
 ---
-title: 'Desenhe sua carreira para o futuro'
-date: '2018-12-19T15:54:47+00:00'
-author: 'Stella Seixas'
+title: Desenhe sua carreira para o futuro
+date: 2018-12-19T15:54:47+00:00
+author: Stella Seixas
 featuredPost: false
 templatekey: blog-post
 tags:
   - geral
 featuredImage: ../static/images/capa_carreira1.jpg
 ---
-
 O futuro pode dar medo.
 
 Em vários aspectos, por vários motivos, em vários âmbitos. Medo pode ser uma palavra muito pesada, mas “insegurança” parece a certa.
@@ -93,4 +92,10 @@ Para um pouco mais de inspiração, olha esse TEDx da Ashley Stahl, que ia ser e
 
 Não existe uma fórmula mágica para você encontrar o emprego dos sonhos, e mesmo os melhores empregos do mundo tem seus dias ruins. Mas podemos traçar nossas carreiras para que ao menos sejamos bons no que fazemos e consigamos nos manter ao longo dos anos. Nunca é tarde para encontrar o seu melhor caminho.
 
-[![](https://descola.org/drops/wp-content/uploads/2018/12/banner_carreira_din-1024x171.png)](https://descola.org/curso/carreira-dinamica?utm_source=drops&utm_medium=post&utm_campaign=carreia_futuro)
+
+
+<a href="https://descola.org/carreira-dinamica?utm_source=drops&utm_medium=post&utm_campaign=carreia_futuro">
+
+![](/images/banner_carreira_din-1024x171.png)
+
+</a>
