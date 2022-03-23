@@ -44,7 +44,8 @@ const FooterBlock = ({ footerLogo, featurePosts }) => {
 									href={`tel:${about_phone_country_prefix}${about_phone_state_prefix}${about_phone}`}
 								>
 									{about_phone_country_prefix}
-									{` `}${about_phone_state_prefix}
+									{` `}
+									{about_phone_state_prefix}
 									{` `}
 									{about_phone}
 								</a>
