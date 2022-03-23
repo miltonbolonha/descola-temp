@@ -30,7 +30,7 @@ const Seo = ({
 }) => {
 	const hasBar = serverUrl?.charAt(serverUrl.length - 1)
 	const servBar = hasBar === '/' ? serverUrl?.slice(0, -1) : serverUrl
-	const cardImagesrc = servBar + cardImage || cardImage || servBar
+	const cardImagesrc = servBar + cardImage || servBar || cardImage
 	return (
 		<>
 			<Helmet
@@ -42,10 +42,10 @@ const Seo = ({
 				<title>{title}</title>
 				<meta name="description" content={metaDescription} />
 				<meta name="image" content={cardImagesrc || featuredImage} />
-				<meta name="keywords" content={keywords.map((e) => e + ' ')} />
-				<link rel="canonical" href={siteUrl} />
+				<meta name="keywords" content={keywords.map((e) => e)} />
+				<link rel="canonical" href={serverUrl} />
 				{/* OpenGraph tags */}
-				<meta property="og:url" content={siteUrl} />
+				<meta property="og:url" content={serverUrl} />
 				{schemaType === 'article' ? (
 					<meta property="og:type" content="article" />
 				) : (
@@ -70,6 +70,7 @@ const Seo = ({
 				/>
 				<meta name="theme-color" content={themeColor || '#FF0081'} />
 				<meta name="twitter:site" content={`@` + social.twitter} />
+				<meta name="author" content={author} />
 			</Helmet>
 			<SchemaOrgContainer
 				schemaType={schemaType}

@@ -37,7 +37,6 @@ module.exports = {
 		'gatsby-plugin-image',
 		`gatsby-plugin-sharp`,
 		`gatsby-transformer-sharp`,
-		`gatsby-plugin-sitemap`,
 		`gatsby-plugin-react-helmet`,
 		{
 			resolve: 'gatsby-plugin-page-creator',
@@ -124,11 +123,11 @@ module.exports = {
 			},
 		},
 		`gatsby-plugin-netlify-cms`,
-		// {
-		// 	resolve: 'gatsby-plugin-google-tagmanager',
-		// 	options: {
-		// 		id: 'GTM-W37N9T5',
-		// 	},
-		// },
+		{
+			resolve: 'gatsby-plugin-google-tagmanager',
+			options: {
+				id: 'GTM-W37N9T5',
+			},
+		},
 	],
 }
