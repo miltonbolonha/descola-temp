@@ -14,14 +14,14 @@ export default function HTML(props) {
 				{props.headComponents}
 			</head>
 			<body {...props.bodyAttributes}>
-				<Link
+				{/* <Link
 					data-trackable="a11y-skip-to-help"
 					className="non-layout"
 					to="/accessibility"
 					tabIndex="0"
 				>
 					Accessibility helps
-				</Link>
+				</Link> */}
 				<Link
 					data-trackable="a11y-skip-to-navigation"
 					className="non-layout"
