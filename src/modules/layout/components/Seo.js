@@ -26,13 +26,11 @@ const Seo = ({
 	featuredImage,
 	cardImage,
 	serverUrl,
-	themeColor
+	themeColor,
 }) => {
-	const hasBar = serverUrl?.charAt(serverUrl.length - 1);
-	const servBar = hasBar === '/' ? serverUrl?.slice(0,-1) : serverUrl
+	const hasBar = serverUrl?.charAt(serverUrl.length - 1)
+	const servBar = hasBar === '/' ? serverUrl?.slice(0, -1) : serverUrl
 	const cardImagesrc = servBar + cardImage || cardImage || null
-	console.log('hasBar')
-	console.log(hasBar)
 	return (
 		<>
 			<Helmet
@@ -66,9 +64,12 @@ const Seo = ({
 				) : null}
 				<meta name="twitter:title" content={title} />
 				<meta name="twitter:description" content={description} />
-				<meta name="twitter:image:src" content={cardImagesrc || featuredImage} />
-				<meta name="theme-color" content={themeColor || "#FF0081"} />
-				<meta name="twitter:site" content={`@` + social.twitter}/>
+				<meta
+					name="twitter:image:src"
+					content={cardImagesrc || featuredImage}
+				/>
+				<meta name="theme-color" content={themeColor || '#FF0081'} />
+				<meta name="twitter:site" content={`@` + social.twitter} />
 			</Helmet>
 			<SchemaOrgContainer
 				schemaType={schemaType}

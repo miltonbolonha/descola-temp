@@ -23,7 +23,7 @@ const TagsList = (props) => {
 				schemaType: 'blog',
 				cardImage: getSrc(cardImage.childrenImageSharp[0]),
 				blogListing: tagList.slice(0, 9),
-				serverUrl: props.location.href,
+				serverUrl: props.location.origin || site.siteMetadata.siteUrl || '/',
 			}}
 		>
 			<HeaderBlock logotipoSvg={<DescolaLogo />} />
