@@ -37,9 +37,10 @@
 		"instagram": "https://www.instagram.com/descolagram/",
 		"facebook": "https://www.facebook.com/descolasp/",
 		"linkedIn": "https://br.linkedin.com/school/descola",
-		"youtube": "https://www.youtube.com/c/DescolaOrg"
+		"youtube": "https://www.youtube.com/c/DescolaOrg",
+		"twitter": "https://twitter.com/Descola_"
 	},
-	"themeColor": "#d64325",
+	"themeColor": "#fc4303",
 	"backgroundColor": "#fff",
 	"displayManifest": "fullscreen",
 	"iconManifest": "favicon-96px.png",

@@ -26,6 +26,7 @@ const Seo = ({
 	featuredImage,
 	cardImage,
 	serverUrl,
+	themeColor
 }) => {
 	const cardImagesrc = serverUrl?.slice(0, -1) + cardImage || cardImage || null
 	return (
@@ -61,7 +62,8 @@ const Seo = ({
 				) : null}
 				<meta name="twitter:title" content={title} />
 				<meta name="twitter:description" content={description} />
-				<meta name="twitter:image" content={cardImagesrc || featuredImage} />
+				<meta name="twitter:image:src" content={cardImagesrc || featuredImage} />
+				<meta name="theme-color" content={themeColor || "#FF0081"} />
 			</Helmet>
 			<SchemaOrgContainer
 				schemaType={schemaType}

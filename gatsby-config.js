@@ -16,6 +16,7 @@ module.exports = {
 		image: `${__dirname}/static/images/descola-logo.svg`,
 		dateCreated: businessInfos.dateCreated,
 		postsPerPage: businessInfos.postsPerPage,
+		themeColor: businessInfos.themeColor,
 		organization: {
 			name: businessInfos.organization.name,
 			email: businessInfos.organization.email,
@@ -28,6 +29,7 @@ module.exports = {
 			facebook: businessInfos.clientSocial.facebook,
 			linkedIn: businessInfos.clientSocial.linkedIn,
 			youtube: businessInfos.clientSocial.youtube,
+			twitter: businessInfos.clientSocial.twitter,
 		},
 	},
 	plugins: [

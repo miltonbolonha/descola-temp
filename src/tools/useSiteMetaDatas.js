@@ -11,6 +11,7 @@ export const useSiteMetaDatas = () => {
 						siteUrl
 						image
 						keywords
+						themeColor
 						dateCreated
 						postsPerPage
 						searchBaseUrl
