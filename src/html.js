@@ -28,7 +28,7 @@ export default function HTML(props) {
 					to="/#site-navigation"
 					tabIndex="0"
 				>
-					Skip to navigation
+					Ir para o menu de navegação
 				</Link>
 				<Link
 					data-trackable="a11y-skip-to-content"
@@ -36,7 +36,7 @@ export default function HTML(props) {
 					to="#site-content"
 					tabIndex="0"
 				>
-					Skip to content
+					Ir para o conteúdo
 				</Link>
 				<Link
 					data-trackable="a11y-skip-to-footer"
@@ -44,7 +44,7 @@ export default function HTML(props) {
 					to="#site-footer"
 					tabIndex="0"
 				>
-					Skip to footer
+					Ir para informações de rodapé
 				</Link>
 				{props.preBodyComponents}
 				<noscript key="noscript" id="gatsby-noscript">
