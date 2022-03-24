@@ -126,7 +126,6 @@ export default React.memo(
 						height: 60,
 					},
 				},
-				dateModified: dateNow,
 				datePublished: datePublished,
 			},
 		]
