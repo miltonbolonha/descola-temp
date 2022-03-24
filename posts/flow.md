@@ -1,7 +1,7 @@
 ---
-title: 'Encontre o melhor equilíbrio com o Flow'
-date: '2018-11-29T20:38:54+00:00'
-author: 'Stella Seixas'
+title: Encontre o melhor equilíbrio com o Flow
+date: 2018-11-29T20:38:54+00:00
+author: Stella Seixas
 featuredPost: false
 templatekey: blog-post
 tags:
@@ -26,7 +26,9 @@ Quando é você quem recebe a função, realmente é difícil de aplicar essa t�
 **Testes** de personalidade e aptidão poderão ser seu ponta pé inicial para as inferências. Aqui vão alguns que podem te ajudar:
 
 [16personalities](https://www.16personalities.com/br/teste-de-personalidade)
+
 [Guia da Carreira](https://www.guiadacarreira.com.br/testes/teste-de-personalidade/)
+
 [Disc Personality](https://www.123test.com/disc-personality-test/)
 
 Vai levar tempo e um pouco de dedicação, mas com um certo empenho, e olhar afiado, você estará gerindo uma equipe incrível e tirando de todos o seu **absoluto melhor**.
