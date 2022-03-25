@@ -36,23 +36,19 @@ Tornando-se um agente da mudança, você pode direcionar a visão do seu negóci
 
 ## Onde a Gestão da Mudança pode te ajudar?
 
-### **1. Performance**
-
+### 1. Performance
 
 Cercadas por novas tecnologias, as empresas serão pressionadas pelo mercado a ampliarem seus conhecimentos sobre inovação, tecnologias e segurança. Além de suas funções normais, os funcionários também vão precisar ter uma noção do funcionamento dos processos por trás da IoT e de como complementar essas tecnologias com suas habilidades.
 
 ### 2. Maior flexibilidade
 
-
 Com dispositivos e sensores inteligentes capazes de monitorar à distância o desempenho dos funcionários de uma empresa, o trabalho remoto se tornará ainda mais frequente. O resultado destes novos modelos será uma maior produtividade e uma queda significativa nos custos das organizações. Por outro lado, será necessário capacitar as pessoas a fim de tornarem elas aptas a gerenciar seu próprio tempo e manter a disciplina de trabalho mesmo longe de contextos tradicionais.
 
 ### 3. Novo mercado
 
-
 As transformações fora das empresas também terão grande impacto nos processos internos que mencionamos até aqui. Os diferentes hábitos de consumo – tanto de produtos quanto de conteúdo – dos usuários e clientes de um serviço vão mudar a maneira como eles se relacionam com as empresas. Por causa disso, as organizações vão precisar estar cada vez mais conectadas para atender às necessidades desse novo perfil de público.
 
-### **4. Cultura corporativa**
-
+### 4. Cultura corporativa
 
 Para que os novos recursos e otimizações sejam bem aproveitados, seus funcionários não podem estar presos ao antigo mindset a que foram expostos até o surgimento dessas novas tecnologias. Aqui é onde o papel da gestão da mudança se torna mais importante, ao despertar nas pessoas um novo olhar para o contexto e suas possibilidades.
 
