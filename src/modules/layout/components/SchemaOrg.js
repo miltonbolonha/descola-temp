@@ -18,7 +18,7 @@ export default React.memo(
 		articleBody,
 		keywords,
 		dateCreated,
-		ogranizationLogo,
+		organizationLogo,
 		telephone,
 		sameAs,
 		email,
@@ -29,6 +29,7 @@ export default React.memo(
 		keywordsSchema,
 		featuredImage,
 	}) => {
+		console.log(organizationLogo)
 		const dateNow = Date.now()
 		const authorType = author === 'Descola' ? 'Organization' : 'Person'
 		const orgSchema = [
@@ -46,12 +47,7 @@ export default React.memo(
 					sameAs.youtube,
 				],
 				potentialAction: 'Learning',
-				logo: {
-					'@type': 'ImageObject',
-					url: ogranizationLogo,
-					width: 156,
-					height: 60,
-				},
+				logo: organizationLogo,
 				contactPoint: [
 					{
 						'@type': 'ContactPoint',
@@ -121,7 +117,7 @@ export default React.memo(
 					url: brandUrl,
 					logo: {
 						'@type': 'ImageObject',
-						url: ogranizationLogo,
+						url: organizationLogo,
 						width: 156,
 						height: 60,
 					},
