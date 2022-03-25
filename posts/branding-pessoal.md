@@ -1,19 +1,18 @@
 ---
-title: 'Precisamos falar sobre branding pessoal'
-date: '2018-08-23T20:47:51+00:00'
-author: 'Equipe Descola'
+title: Precisamos falar sobre branding pessoal
+date: 2018-08-23T20:47:51+00:00
+author: Equipe Descola
 featuredPost: false
 templatekey: blog-post
 tags:
   - geral
 featuredImage: ../static/images/branding.jpg
 ---
-
 Com quantas marcas você já teve contato hoje? Quando acordou, foi ao banheiro, tomou café… Foi impactado por quantos nomes diferentes?
 
 Seja na sua casa, no trânsito, no trabalho: são tantas marcas ao mesmo tempo que a gente nem percebe. Dentre elas, inclusive, há uma marca muito mais importante e, muitas vezes, mais esquecida: **você**. Sim, você também é uma marca!
 
-É assim que compreendemos o [branding](https://descola.org/curso/branding) pessoal: entendendo que você, como pessoa, também é uma marca, com características distintas, qualidades próprias, comportamentos únicos, oferecendo “serviços” diferenciados. Igualzinho a qualquer grande nome no mercado.
+> É assim que compreendemos o [branding](https://descola.org/curso/branding) pessoal: entendendo que você, como pessoa, também é uma marca, com características distintas, qualidades próprias, comportamentos únicos, oferecendo “serviços” diferenciados. Igualzinho a qualquer grande nome no mercado.
 
 Aperfeiçoar o branding pessoal ainda parece ser algo dos executivos de alto escalão ou de famosos que literalmente trabalham com sua imagem. Mas vai muito além: ter uma marca bem desenvolvida, como pessoa, traz destaque à sua figura – seja para conseguir uma vaga, para ser reconhecido por suas atitudes ou até mesmo na hora de arrumar um namorado(a).
 
