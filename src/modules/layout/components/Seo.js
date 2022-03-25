@@ -22,7 +22,7 @@ const Seo = ({
 	articleBody,
 	keywords,
 	dateCreated,
-	ogranizationLogo,
+	organizationLogo,
 	featuredImage,
 	cardImage,
 	serverUrl,
@@ -88,7 +88,7 @@ const Seo = ({
 				articleBody={articleBody}
 				keywords={keywords}
 				dateCreated={dateCreated}
-				ogranizationLogo={ogranizationLogo}
+				organizationLogo={organizationLogo}
 				serverUrl={serverUrl}
 			/>
 		</>

@@ -18,11 +18,11 @@ const SchemaOrgContainer = ({
 	articleBody,
 	keywords,
 	dateCreated,
-	ogranizationLogo,
+	organizationLogo,
 	serverUrl,
 }) => {
-	const orgImageSrc = getSrc(ogranizationLogo?.childrenImageSharp[0])
-	const ogranizationLogoVar = organization.url + orgImageSrc
+	const orgImageSrc = getSrc(organizationLogo?.childrenImageSharp[0])
+	const organizationLogoVar = siteUrl + orgImageSrc
 	const {
 		alternateName,
 		appName,
@@ -66,7 +66,7 @@ const SchemaOrgContainer = ({
 			articleBody={articleBody}
 			keywords={keywords}
 			dateCreated={dateCreated}
-			ogranizationLogo={ogranizationLogoVar}
+			organizationLogo={organizationLogoVar}
 		/>
 	)
 }
