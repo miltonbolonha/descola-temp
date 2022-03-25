@@ -1,14 +1,13 @@
 ---
-title: 'Multipotencial: o que você quer ser quando crescer?'
-date: '2018-05-03T21:29:13+00:00'
-author: 'Equipe Descola'
+title: "Multipotencial: o que você quer ser quando crescer?"
+date: 2018-05-03T21:29:13+00:00
+author: Equipe Descola
 featuredPost: false
 templatekey: blog-post
 tags:
   - geral
 featuredImage: ../static/images/multipotencial.jpg
 ---
-
 Você certamente já ouviu essa pergunta quando era criança. Também já deve ter ouvido agora, depois de adulto. O que você quer ser quando crescer?
 
 As respostas variam pouco quando somos crianças. Queremos ser astronautas, bailarinas, piratas. Quando adultos, as respostas têm muito a ver com a profissão que já temos: queremos ser gerentes, diretores ou ter algum cargo superior. Existe um longo caminho entre os sonhos de crianças e o almejar de adulto. A verdade é que nem sempre deixamos de querer ser astronautas para sermos analistas de sistemas, mas fomos influenciados pela cultura da nossa sociedade.
@@ -27,7 +26,7 @@ Uma das habilidades mais valiosas que as pessoas multipotenciais têm é o seu p
 
 Ser multipotencial não é só gostar de várias coisas ao mesmo tempo e querer aprender sobre todas elas. É saber se adaptar às diferentes necessidades individuais ou das pessoas ao seu redor. Se você cursou medicina e resolveu, depois, fazer cinema, você pode ser o diretor ideal para uma série como Dr. House, não?
 
-Como você se enxerga no mundo profissional e de satisfação pessoal hoje? Você tem unido todas as suas habilidades, suas paixões, suas curiosidades? Se ainda não, o que impede você? Emilie Wapnick, em seu TED _“Por que alguns não têm uma vocação específica”_, afirma:
+Como você se enxerga no mundo profissional e de satisfação pessoal hoje? Você tem unido todas as suas habilidades, suas paixões, suas curiosidades? Se ainda não, o que impede você? Emilie Wapnick, em seu TED *“Por que alguns não têm uma vocação específica”*, afirma:
 
 > Abrace suas múltiplas paixões. Siga sua curiosidade dentro daquela toca do coelho. Explore suas interseções.
 
@@ -37,4 +36,8 @@ Se você ficou curioso, confira a seguir a palestra completa de Emilie:
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" height="480" loading="lazy" scrolling="no" src="https://embed.ted.com/talks/lang/pt-br/emilie_wapnick_why_some_of_us_don_t_have_one_true_calling"  width="854"></iframe>
 
-[![](https://descola.org/drops/wp-content/uploads/2018/05/proposito1-1024x281.png)](https://descola.org/curso/proposito)
+<a href="https://descola.org/proposito">
+
+![](/images/proposito1-1024x281.png)
+
+</a>
