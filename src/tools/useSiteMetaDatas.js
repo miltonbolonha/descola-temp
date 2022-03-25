@@ -63,8 +63,8 @@ export const useSiteMetaDatas = () => {
 				imgHolder: file(relativePath: { eq: "descola-image.png" }) {
 					childrenImageSharp {
 						gatsbyImageData(
-							width: 76
-							height: 76
+							width: 152
+							height: 152
 							placeholder: NONE
 							quality: 100
 						)
