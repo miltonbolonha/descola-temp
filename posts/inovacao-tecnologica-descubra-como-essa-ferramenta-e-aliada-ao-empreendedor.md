@@ -6,9 +6,9 @@ featuredPost: false
 templatekey: blog-post
 tags:
   - 'como a inovação tecnológica pode ajudar o empreendedor'
-  - inovação
+  - 'inovação'
   - 'inovação tecnológica'
-  - tecnologia
+  - 'tecnologia'
 featuredImage: ../static/images/inovacao_tecnologica.jpg
 ---
 
