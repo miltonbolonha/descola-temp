@@ -130,9 +130,7 @@ exports.onPostBuild = ({ graphql }) => {
 		{
 			site {
 				siteMetadata {
-					organization {
-						url
-					}
+					siteUrl
 				}
 			}
 			apiPosts: allMarkdownRemark(
