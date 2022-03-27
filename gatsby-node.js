@@ -172,7 +172,7 @@ exports.onPostBuild = ({ graphql }) => {
 			const frontmatter = node.frontmatter
 			const { date, title } = frontmatter
 			const imageSrc =
-				result.data.site.siteMetadata.organization.url +
+				result.data.site.siteMetadata.siteUrl +
 				node.frontmatter.footerFeaturedImage.childrenImageSharp[0]
 					.gatsbyImageData.images.fallback.src
 
