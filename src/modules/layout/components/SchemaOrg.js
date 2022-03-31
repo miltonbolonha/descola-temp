@@ -29,15 +29,14 @@ export default React.memo(
 		keywordsSchema,
 		featuredImage,
 	}) => {
-		console.log(organizationLogo)
 		const dateNow = Date.now()
-		const authorType = author === 'Descola' ? 'Organization' : 'Person'
+		const authorType = author === 'Equipe Descola' ? 'Organization' : 'Person'
 		const orgSchema = [
 			{
 				'@type': ['Organization'],
 				'@context': 'http://schema.org',
 				name: title,
-				url: brandUrl,
+				url: siteUrl,
 				email: email,
 				description: brandDescription,
 				sameAs: [
@@ -64,7 +63,7 @@ export default React.memo(
 				'@context': 'http://schema.org',
 				name: title,
 				description: brandDescription,
-				url: brandUrl,
+				url: siteUrl,
 				potentialAction: 'Learning',
 				keywords: [keywords.map((e) => e)],
 				inLanguage: inLanguage,
@@ -114,7 +113,7 @@ export default React.memo(
 				publisher: {
 					'@type': 'Organization',
 					name: brandName,
-					url: brandUrl,
+					url: siteUrl,
 					logo: {
 						'@type': 'ImageObject',
 						url: organizationLogo,
