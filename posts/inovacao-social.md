@@ -1,14 +1,13 @@
 ---
-title: 'Inovação social: mudando a vida das pessoas'
-date: '2018-01-24T21:14:31+00:00'
-author: 'Equipe Descola'
+title: "Inovação social: mudando a vida das pessoas"
+date: 2018-01-24T21:14:31+00:00
+author: Equipe Descola
 featuredPost: false
 templatekey: blog-post
 tags:
   - geral
 featuredImage: ../static/images/inovacao-social.jpg
 ---
-
 Quando pensamos em Inovação, provavelmente o primeiro pensamento que vem à nossa cabeça é alguma coisa nova, diferente. Mas nem sempre precisa funcionar dessa forma.
 
 Inovar também está ligado a fazer diferente aquelas coisas que a gente está acostumado a ter como rotina. É mudar a forma de enxergar algo, sob uma diferente perspectiva. É sair da mesmice e dar a cara para bater num mundo que se renova a cada minuto.
@@ -31,12 +30,12 @@ A startup recebe entre 1% a 7,5% de comissão dos e-commerces cadastrados, e met
 
 A plataforma já conta com grandes lojas, como a Americanas, Casas Bahia, Saraiva, Amazon, Submarino e mais uma lista com 300 nomes.
 
-![](https://descola.org/drops/wp-content/uploads/2018/01/risu-1024x527.png)
+![](/images/risu-1024x527.png)
 
 ### Sense-Lab
 
 O [Sense-Lab](https://www.sense-lab.com/) não só vive a inovação social, bem como apoia iniciativas desse meio. Eles oferecem cursos, programas e também um serviço de consultoria para startups do setor. Segundo Andreas Ufer, um dos fundadores do negócio, um dos objetivos do Sense-Lab é “apoiar iniciativas do terceiro setor com gestão”.
 
-![](https://descola.org/drops/wp-content/uploads/2018/01/sense-lab-1024x609.png)
+![](/images/sense-lab-1024x609.png)
 
 Você trabalha com inovação social ou conhece algum case inspirador? A gente quer saber! Deixa nos comentários a sua startup favorita. 🙂
