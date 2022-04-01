@@ -46,7 +46,7 @@ As florestas possuem um sistema de gestão de conflitos muito parecido, uma vez 
 
 Já podemos concordar que a Internet das Árvores e a Blockchain têm muito em comum. Mas a melhor parte disso tudo é que, por meio de comparações como essa, abrimos nossos olhos para **novas possibilidades** **sobre o futuro**. A natureza pode nos dar muitas, e talvez todas as respostas que precisamos para transformar o futuro das conexões, e isso vai muito além somente da Blockchain.
 
-Se você tem interesse em aprender mais sobre essa tecnologia que ainda mudará o mundo, nosso curso sobre [Blockchain](https://descola.org/curso/fundamentos-da-blockchain) acaba de ser lançado. Vem se preparar para o futuro com a gente.
+Se você tem interesse em aprender mais sobre essa tecnologia que ainda mudará o mundo, nosso curso sobre [Blockchain](https://descola.org/fundamentos-da-blockchain) acaba de ser lançado. Vem se preparar para o futuro com a gente.
 
 <a href="https://descola.org/fundamentos-da-blockchain">
 
