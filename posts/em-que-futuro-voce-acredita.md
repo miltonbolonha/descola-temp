@@ -24,7 +24,7 @@ E uma dessas habilidades volta-se diretamente para a maneira como percebemos o p
 
 Usamos o **passado** como guia para ações que fazemos no **presente**, que acabam influenciando o jeito que imaginamos o **futuro**. Por essa razão, entender nossa concepção de tempo requer olhar para a definição desses três caras aqui:
 
-![](/images/captura-de-tela-2020-02-27-a-s-12.08.19.png)
+![](/images/captura-de-tela-2020-02-27-a-s-12.08.19.jpg)
 
 Nem todo mundo vê a mesma coisa quando olha para o futuro, afinal, existem muitos conceitos do que ele é. Estudar, ver e entender o futuro nunca foi uma questão de adivinhação, e nem uma ciência exata.
 
@@ -94,7 +94,7 @@ Partindo daí, é importante que você saiba que a pesquisa de tendências não 
 
 É possível olhar para o futuro por dois focos:
 
-![Near Future x Far Future](/images/captura-de-tela-2020-02-27-a-s-12.05.48.png 'Near Future x Far Future')
+![Near Future x Far Future](/images/captura-de-tela-2020-02-27-a-s-12.05.48.jpg 'Near Future x Far Future')
 
 Aqui, nosso foco são os _near_ futures, aqueles que podemos mapear e observar suas primeiras manifestações com facilidade.
 

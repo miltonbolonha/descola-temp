@@ -1,17 +1,18 @@
 ---
-title: 'O desafio de falar em público'
-date: '2018-07-16T19:17:41+00:00'
-author: 'Equipe Descola'
+title: O desafio de falar em público
+date: 2018-07-16T19:17:41+00:00
+author: Equipe Descola
 featuredPost: false
 templatekey: blog-post
 tags:
   - geral
 featuredImage: ../static/images/falar_em_publico_descola.jpg
 ---
-
 Falar bem em público é um desafio para todos, e os executivos de grandes empresas não fogem dessa regra. Segundo pesquisa do jornal britânico “Sunday Times”, falar em público é um dos principais medos das pessoas. Isso porque, entre 3 mil entrevistados, esse medo acomete 41% das pessoas, e fica à frente de medos como de conviver com problemas financeiros (22%), e da morte (19%). E o mais preocupante de toda essa questão é: universidades, escolas e instituições de ensino não estão preparando os formando para esse momento que estará presente em toda a vida pessoal e profissional.
 
-De acordo com professor da Descola, Augusto Uchoa, quem não é percebido, não é comprado. “Se você não falar, outras pessoas falarão por você. Além disso, não saber falar significa não ter assertividade, então temos uma série de problemas quando as pessoas não conseguem falar em público. O profissional ministra pelo site o curso [“Discurse – Como falar bem em público”](https://descola.org/curso/discurse), onde são expostas todas as técnicas e dicas para se discursar em público.
+De acordo com professor da Descola, Augusto Uchoa, quem não é percebido, não é comprado: 
+
+> “Se você não falar, outras pessoas falarão por você. Além disso, não saber falar significa não ter assertividade, então temos uma série de problemas quando as pessoas não conseguem falar em público. O profissional ministra pelo site o curso [“Discurse – Como falar bem em público”](https://descola.org/curso/discurse), onde são expostas todas as técnicas e dicas para se discursar em público.
 
 E para ajudar os empreendedores e profissionais de todas as áreas a falar melhor em público, além de otimizar as apresentações, a Descola oferece agora as 3 dicas infalíveis para se sair bem nos discursos.
 

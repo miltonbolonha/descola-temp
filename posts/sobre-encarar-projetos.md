@@ -1,14 +1,13 @@
 ---
-title: 'O que Lucia Laguna pode te ensinar sobre encarar projetos.'
-date: '2019-01-11T13:13:46+00:00'
-author: 'Stella Seixas'
+title: O que Lucia Laguna pode te ensinar sobre encarar projetos.
+date: 2019-01-11T13:13:46+00:00
+author: Stella Seixas
 featuredPost: false
 templatekey: blog-post
 tags:
   - geral
 featuredImage: ../static/images/capa_LUCIA.jpg
 ---
-
 É muito legal quando temos que realizar um projeto novo, aquele ânimo para começar, a confiança, a descarga de adrenalina, você se sente pronto para tomar o mundo.
 
 Mas nosso ânimo muitas vezes não dura o processo todo e é substituído por medo e frustração, nos damos conta que a nossa avidez para começar não deu espaço para o preparo necessário e logo nossa força de vontade já não é o bastante para tocar o trabalho para frente.
@@ -25,17 +24,19 @@ Mas como temas tão simples podem fazer sucesso? Porque o olhar dela sobre eles 
 
 Sua visão torna uma coisa em outra
 
-![Foto do Jardim da pintora](https://descola.org/drops/wp-content/uploads/2019/01/Screen-Shot-2019-01-09-at-11.36.39.png)
+![Foto do Jardim da pintora](/images/screen-shot-2019-01-09-at-11.36.39-601x400.png)
 
-![Paisagem n.99](https://descola.org/drops/wp-content/uploads/2019/01/Paisagem-n.-99-Copy-2-Copia-1024x480-1024x480.jpg)
+![Paisagem n.99](/images/paisagem-n.-99-copy-2-copia-1024x480-636x400.jpg)
 
-![Morro da Mangueira](https://descola.org/drops/wp-content/uploads/2019/01/xMorro-da-MangueiraFoto-de-Custodio-Coimbra.jpg.pagespeed.ic_.X1r_LbupLN.jpg)
+![Morro da Mangueira](/images/xmorro-da-mangueirafoto-de-custodio-coimbra.jpg.pagespeed.ic_.x1r_lbupln-636x375.jpg)
 
-![Paisagem n.100](https://descola.org/drops/wp-content/uploads/2019/01/Paisagem-n.-100-Copy1-1024x823.jpg)
+![Paisagem n.100](/images/paisagem-n.-100-copy-636x400.jpg)
 
-![Acervo do MASP](https://descola.org/drops/wp-content/uploads/2019/01/572801-970x600-1.jpg)
+![Acervo do MASP](/images/572801-970x600-1-636x400.jpeg)
 
-![Paisagem n114Agora, o que a Lucia tem para nos ensinar sobre a realização de projetos?](https://descola.org/drops/wp-content/uploads/2019/01/Paisagem-n%C2%BA-114-Copy.jpg)
+![Paisagem n114](/images/paisagem-n-114-copy-636x400.jpeg)
+
+**Agora, o que a Lucia tem para nos ensinar sobre a realização de projetos?**
 
 #### **Fragmentação**
 
@@ -73,4 +74,6 @@ Enquanto esses fatores são bem literais quando se trata de pinturas, podemos fa
 
 A arte tem muito mais a nos ensinar do que se imagina. E pode ser uma ferramenta de percepção e reflexão a respeito da maneira como você pensa e gerencia seus projetos. Que tal dar uma passadinha no [museu](https://masp.org.br/exposicoes/lucia-laguna) no próximo final de semana?
 
-[![](https://descola.org/drops/wp-content/uploads/2019/01/banner_desbloqueio-1024x171.png)](https://descola.org/curso/desbloqueio-criativo?utm_source=drops&utm_medium=post&utm_campaign=desbloqueio_criativo)
+![Curso Desbloqueio Criativo](/images/banner_desbloqueio-1024x171.png "Curso Desbloqueio Criativo")
+
+[Clique aqui para ver o curso](https://descola.org/curso/desbloqueio-criativo?utm_source=drops&utm_medium=post&utm_campaign=desbloqueio_criativo)

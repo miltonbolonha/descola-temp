@@ -1,21 +1,20 @@
 ---
-title: 'O que mudou na educação?'
-date: '2018-08-20T17:25:23+00:00'
-author: 'André Tanesi'
+title: O que mudou na educação?
+date: 2018-08-20T17:25:23+00:00
+author: André Tanesi
 featuredPost: false
 templatekey: blog-post
 tags:
   - geral
-featuredImage: ../static/images/educac%CC%A7ao.jpg
+featuredImage: ../static/images/educacaao.jpg
 ---
-
 Nesse mundo cada vez mais veloz e de mudanças exponenciais, às vezes a gente muda e nem sabe como, nem sabe o porquê. As coisas acontecem e a gente simplesmente acompanha, sem entender direito quais os movimentos que provocaram essa mudança, nem mesmo o que está por trás de cada coisa que mudou.
 
 Tudo muda muito rápido, tudo muda o tempo todo, mas se você parar pra pensar, vai lembrar de várias coisas que não mudam assim tão depressa.
 
-Você pode ter pensado na piada do pavê, naquele deputado Federal que tá no 15º mandato ou na enchente que acontece todo mês de Fevereiro. Além dessas coisas, me arrisco em uma frase que sempre ouvi: _“A Educação é a mesma faz 200 anos.”_
+Você pode ter pensado na piada do pavê, naquele deputado Federal que tá no 15º mandato ou na enchente que acontece todo mês de Fevereiro. Além dessas coisas, me arrisco em uma frase que sempre ouvi: *“A Educação é a mesma faz 200 anos.”*
 
-Mas por que então, nesse mundo que muda tudo, não conseguimos mudar um dos pilares de uma sociedade?
+> Mas por que então, nesse mundo que muda tudo, não conseguimos mudar um dos pilares de uma sociedade?
 
 Acho que estamos justamente nesse momento de transição. No meio de um processo de desconstrução e reconstrução.
 

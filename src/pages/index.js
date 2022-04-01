@@ -2,20 +2,20 @@ import React from 'react'
 import { graphql } from 'gatsby'
 import { getSrc } from 'gatsby-plugin-image'
 
-import DescolaLogo from '../../static/images/descola-logo.svg'
-import DescolaLogoDark from '../../static/images/descola-logo-dark.svg'
+import DescolaLogo from '@Images/descola-logo.svg'
+import DescolaLogoDark from '@Images/descola-logo-dark.svg'
 
 import Layout from '@Layout'
 import HeaderBlock from '@BlockBuilder/HeaderBlock'
 import FooterBlock from '@BlockBuilder/FooterBlock'
 import PostsBlock from '@BlockBuilder/PostsBlock'
-import { useSiteMetaDatas } from '../tools/useSiteMetaDatas'
+import { useSiteMetaDatas } from '@tools/useSiteMetaDatas'
 
-const IndexPage = ({ data, location, serverData, pageContext }) => {
+const IndexPage = (props) => {
+	const { data } = props
 	const posts = data.allMarkdownRemark.edges
-	const { cardImage, footerThreeMarkdowRemark, imgHolder, site } =
+	const { cardImage, footerThreeMarkdowRemark, imgHolder, site, darkLogo } =
 		useSiteMetaDatas()
-	console.log(cardImage)
 	return (
 		<Layout
 			type="BODY"
@@ -25,7 +25,8 @@ const IndexPage = ({ data, location, serverData, pageContext }) => {
 				schemaType: 'blog',
 				blogListing: posts.slice(0, 9),
 				mainLogo: imgHolder,
-				cardImage: getSrc(cardImage.childrenImageSharp[0]),
+				cardImage: cardImage ? getSrc(cardImage.childrenImageSharp[0]) : null,
+				serverUrl: props.location.href,
 			}}
 		>
 			<HeaderBlock logotipoSvg={<DescolaLogo />} />
@@ -33,7 +34,7 @@ const IndexPage = ({ data, location, serverData, pageContext }) => {
 				type="ROW"
 				opt={{ isBoxed: true, classes: 'main-container-wrapper' }}
 			>
-				<main className="main-container">
+				<main className="main-container" id="site-content" role="list">
 					<h1>Posts</h1>
 					<PostsBlock
 						postsPerPage={site.siteMetadata.postsPerPage}
@@ -58,7 +59,10 @@ export default IndexPage
 
 export const queryAtividade = graphql`
 	query {
-		allMarkdownRemark(sort: { fields: frontmatter___date, order: DESC }) {
+		allMarkdownRemark(
+			sort: { fields: frontmatter___date, order: DESC }
+			limit: 900
+		) {
 			edges {
 				node {
 					fields {

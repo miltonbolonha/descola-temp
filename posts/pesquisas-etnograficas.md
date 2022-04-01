@@ -30,6 +30,7 @@ Através das entrevistas etnográficas, podemos ter uma experiência completa co
 - **Observar** o que elas fazem.
 
 ![](https://descola.org/drops/wp-content/uploads/2017/11/pesquisa-etnografica-1024x575.png)
+
 A primeira parte de uma pesquisa etnográfica é ouvir aquilo que as pessoas dizem que fazem. E sim, a colocação está correta: o que elas dizem que fazem, e não o que elas fazem de verdade. Existe uma distância bem grande entre essas coisas, e você vai notar isso quando estiver realizando as outras etapas.
 
 A segunda parte envolve a observação do comportamento do consumidor. Você escolhe alguns dos entrevistados e passa algum tempo com ele, observando tudo o que ele faz, sem interferir. Como é a relação dele com a cidade, com o transporte público, que lugares ele almoça, como ele consome no dia-a-dia…

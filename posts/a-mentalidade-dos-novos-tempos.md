@@ -45,6 +45,6 @@ Falar de mentalidade é falar de como interagimos com a mudança e usufruímos d
 
 Especialmente agora, com as coisas correndo contra o tempo, precisamos de um modelo mental capaz de sustentar a mudança e toda evolução individual e coletiva que ela requer. Somente assim nos manteremos relevantes como profissionais e conseguiremos causar impacto com nossos negócios.
 
-![Curso Mentalidade Agil](/images/captura-de-tela-2020-02-20-a-s-10.59.22.png 'Curso Mentalidade Agil')
+![Curso Mentalidade Agil](/images/captura-de-tela-2020-02-20-a-s-10.59.jpg 'Curso Mentalidade Agil')
 
 Veja muito mais no nosso Curso Online: <https://descola.org/curso/mentalidade-agil>

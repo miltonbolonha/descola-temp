@@ -1,8 +1,8 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 
-import DescolaLogo from '../../static/images/descola-logo.svg'
-import DescolaLogoDark from '../../static/images/descola-logo-dark.svg'
+import DescolaLogo from '@Images/descola-logo.svg'
+import DescolaLogoDark from '@Images/descola-logo-dark.svg'
 
 import Layout from '@Layout'
 import HeaderBlock from '@BlockBuilder/HeaderBlock'
@@ -11,7 +11,7 @@ import FooterBlock from '@BlockBuilder/FooterBlock'
 import SinglePostBlock from '@BlockBuilder/SinglePostBlock'
 import { useSiteMetaDatas } from '../tools/useSiteMetaDatas'
 
-const SinglePost = ({ data }) => {
+const SinglePost = ({ data, location }) => {
 	const { footerThreeMarkdowRemark, imgHolder, site } = useSiteMetaDatas()
 
 	const post = data.markdownRemark
@@ -34,17 +34,20 @@ const SinglePost = ({ data }) => {
 				articleBody: post.html,
 				mainLogo: imgHolder,
 				description: post.excerpt,
+				serverUrl: location.origin || site.siteMetadata.siteUrl || '/',
 			}}
 		>
 			<HeaderBlock logotipoSvg={<DescolaLogo />} />
-			<SinglePostBlock
-				imgHolder={imgHolder}
-				date={post.frontmatter.date}
-				author={post.frontmatter.author}
-				html={post.html}
-				title={post.frontmatter.title}
-				tags={post.frontmatter.tags}
-			/>
+			<main>
+				<SinglePostBlock
+					imgHolder={imgHolder}
+					date={post.frontmatter.date}
+					author={post.frontmatter.author}
+					html={post.html}
+					title={post.frontmatter.title}
+					tags={post.frontmatter.tags}
+				/>
+			</main>
 			<FooterBlock
 				footerLogo={<DescolaLogoDark />}
 				featurePosts={footerThreeMarkdowRemark.edges}

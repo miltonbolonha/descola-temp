@@ -78,3 +78,12 @@
 }
 
 
+.non-layout{
+	z-index: 100;
+	position: absolute;
+	top: 1em;
+	left: -9999px;
+	padding: 0.5em 1em;
+	background: black;
+	color: #fff;
+}

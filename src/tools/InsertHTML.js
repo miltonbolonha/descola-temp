@@ -68,6 +68,7 @@ const InsertHTML = ({ type, params, opt, children, bgOpt, bgImg }) => {
 						return (
 							<div
 								className={rowWidth + '-child ' + opt.elementClass}
+								role={opt.role || null}
 								style={{
 									backgroundColor:
 										bgOpt.theme_color && opt.boxed === true

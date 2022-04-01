@@ -35,17 +35,27 @@ Se você não sabe como criar essa personalização ao gosto do cliente, ajuste 
 
 Como? Vem cá que a gente te mostra!
 
-![](https://descola.org/drops/wp-content/uploads/2018/10/geleia-de-morango-queensberry-finas-320g_159517217_7896214532504-300x300.jpg) ![](https://descola.org/drops/wp-content/uploads/2018/10/geleia-morango-queensberry-300x300.jpg)
+![](https://descola.org/drops/wp-content/uploads/2018/10/geleia-de-morango-queensberry-finas-320g_159517217_7896214532504-300x300.jpg)
 
-![](https://descola.org/drops/wp-content/uploads/2018/10/9781435146198_p0_v9_s550x406-202x300.jpg) ![](https://descola.org/drops/wp-content/uploads/2018/10/2439-195x300.jpg)
+![](https://descola.org/drops/wp-content/uploads/2018/10/geleia-morango-queensberry-300x300.jpg)
 
-![](https://descola.org/drops/wp-content/uploads/2018/10/1956_Refrigerante_Itubaina_Retro_355_ml-150x300.jpg) ![](https://descola.org/drops/wp-content/uploads/2018/10/2017-09-01-09-58-13-0300-220x300.jpg)
+![](https://descola.org/drops/wp-content/uploads/2018/10/9781435146198_p0_v9_s550x406-202x300.jpg)
+
+![](https://descola.org/drops/wp-content/uploads/2018/10/2439-195x300.jpg)
+
+![](https://descola.org/drops/wp-content/uploads/2018/10/1956_Refrigerante_Itubaina_Retro_355_ml-150x300.jpg)
+
+![](https://descola.org/drops/wp-content/uploads/2018/10/2017-09-01-09-58-13-0300-220x300.jpg)
 
 Qual coluna você está mais inclinado a comprar? A primeira, não é?
 
-![](https://descola.org/drops/wp-content/uploads/2018/10/459488-300x300.jpg) ![](https://descola.org/drops/wp-content/uploads/2018/10/00042218-300x300.jpg)
+![](https://descola.org/drops/wp-content/uploads/2018/10/459488-300x300.jpg)
 
-![](https://descola.org/drops/wp-content/uploads/2018/10/caneca_esmaltada_branca_lisa_150_ml_838_1_20180629155917-300x300.jpg) ![](https://descola.org/drops/wp-content/uploads/2018/10/download.jpg)
+![](https://descola.org/drops/wp-content/uploads/2018/10/00042218-300x300.jpg)
+
+![](https://descola.org/drops/wp-content/uploads/2018/10/caneca_esmaltada_branca_lisa_150_ml_838_1_20180629155917-300x300.jpg)
+
+![](https://descola.org/drops/wp-content/uploads/2018/10/download.jpg)
 
 E os produtos, quando não são exatamente os mesmos, são da mesma marca. Mas adivinha qual coluna é mais cara?
 

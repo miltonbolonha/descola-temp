@@ -1,14 +1,13 @@
 ---
-title: 'Blockchain e a Internet das Árvores'
-date: '2018-03-14T18:25:18+00:00'
-author: 'Tai Lacerda'
+title: Blockchain e a Internet das Árvores
+date: 2018-03-14T18:25:18+00:00
+author: Tai Lacerda
 featuredPost: false
 templatekey: blog-post
 tags:
   - geral
 featuredImage: ../static/images/blockchain_v3.jpg
 ---
-
 Existe um mundo secreto além dos nossos olhos e por entre as raízes das árvores em que esbarramos por aí. Você conseguiria imaginar que as árvores da calçada da sua casa estão conectadas a todas as outras árvores do seu bairro? Pois é, elas estão.
 
 O que parece ser uma grande floresta cheia de árvores diferentes, na verdade, é um único organismo vivo. Todas as árvores fazem parte de uma rede de vida “social” complexa, em que as árvores se comunicam e compartilham recursos entre si. Há uma troca constante de nutrientes e informações entre elas, o que permite que um lado da floresta consiga sentir os mesmos impactos do que acontece do seu lado oposto.
@@ -25,7 +24,7 @@ Entre elas, está a **Blockchain**. Estamos falando da tecnologia que nasceu a p
 
 A grosso modo, cada informação – seja ela qual for (uma transação bancária, o registro do seu nascimento ou a propriedade de um imóvel) – é registrada em um bloco. Toda vez que uma nova informação é registrada, cria-se um **encadeamento entre blocos**, como se eles formassem uma corrente. Isso faz com que os dados registrados estejam todos interligados e impossíveis de serem alterados.
 
-![](https://descola.org/drops/wp-content/uploads/2018/03/2086-network-1280x800-abstract-wallpaper-1024x640.jpg)
+![](/images/2086-network-1280x800-abstract-wallpaper-1024x640.jpeg)
 
 A Blockchain possui um sistema de conexão de dados muito parecido com o ecossistema que dá vida à Internet das Árvores. Vamos entender o que essas duas têm em comum?
 
@@ -47,6 +46,10 @@ As florestas possuem um sistema de gestão de conflitos muito parecido, uma vez 
 
 Já podemos concordar que a Internet das Árvores e a Blockchain têm muito em comum. Mas a melhor parte disso tudo é que, por meio de comparações como essa, abrimos nossos olhos para **novas possibilidades** **sobre o futuro**. A natureza pode nos dar muitas, e talvez todas as respostas que precisamos para transformar o futuro das conexões, e isso vai muito além somente da Blockchain.
 
-Se você tem interesse em aprender mais sobre essa tecnologia que ainda mudará o mundo, nosso curso sobre [Blockchain](https://descola.org/curso/fundamentos-da-blockchain) acaba de ser lançado. Vem se preparar para o futuro com a gente!
+Se você tem interesse em aprender mais sobre essa tecnologia que ainda mudará o mundo, nosso curso sobre [Blockchain](https://descola.org/fundamentos-da-blockchain) acaba de ser lançado. Vem se preparar para o futuro com a gente.
 
-[![](https://descola.org/drops/wp-content/uploads/2018/03/aleixo-1024x576.png)](https://descola.org/curso/fundamentos-da-blockchain)
+<a href="https://descola.org/fundamentos-da-blockchain">
+
+![](/images/aleixo1-1024x576.png)
+
+<a/>

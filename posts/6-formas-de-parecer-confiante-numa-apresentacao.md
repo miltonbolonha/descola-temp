@@ -33,13 +33,17 @@ _Como você pode transmitir os mesmos sinais e gerar o mesmo sucesso? No Centro 
 
 _No início da carreira política de Bill Clinton, o ex-presidente pontuava seus discursos com grandes gestos que o faziam parecer incontestável. Para ajudá-lo a manter sua linguagem corporal sob controle, seus assessores o ensinaram a imaginar uma caixa em frente ao colo e à barriga e a conter os movimentos das mãos dentro dela. Desde então, a “caixa de Clinton” tornou-se um termo popular no campo._
 
-![](https://descola.org/drops/wp-content/uploads/2017/06/caixa.jpg)![](https://descola.org/drops/wp-content/uploads/2017/06/caixa-bill-clinton-2.jpg)
+![](https://descola.org/drops/wp-content/uploads/2017/06/caixa.jpg)
+
+![](https://descola.org/drops/wp-content/uploads/2017/06/caixa-bill-clinton-2.jpg)
 
 ### _2. Segurando uma bola_
 
 _Gesticular como se estivesse segurando uma bola de basquete entre as mãos é um indicador de confiança e controle, como se você quase sempre tivesse os fatos entre os dedos. Steve Jobs frequentemente usava essa posição em seus discursos._
 
-![](https://descola.org/drops/wp-content/uploads/2017/06/segurando-uma-bola.jpg)![](https://descola.org/drops/wp-content/uploads/2017/06/segurando-uma-bola-steve-jobs.jpg)
+![](https://descola.org/drops/wp-content/uploads/2017/06/segurando-uma-bola.jpg)
+
+![](https://descola.org/drops/wp-content/uploads/2017/06/segurando-uma-bola-steve-jobs.jpg)
 
 ### _3. Mãos de pirâmide_
 
@@ -57,13 +61,17 @@ _A forma como as pessoas ficam de pé é um forte indicador de sua mentalidade. 
 
 _Esse gesto indica abertura e honestidade. Oprah Winfrey faz um forte uso desse movimento durante seus discursos. Ela é uma figura poderosa e influente, mas também parece disposta a se conectar de forma sincera com quem está falando, seja uma pessoa ou uma multidão._
 
-![](https://descola.org/drops/wp-content/uploads/2017/06/palmas-para-cima.jpg)![](https://descola.org/drops/wp-content/uploads/2017/06/palmas-para-cima-oprah.jpg)
+![](https://descola.org/drops/wp-content/uploads/2017/06/palmas-para-cima.jpg)
+
+![](https://descola.org/drops/wp-content/uploads/2017/06/palmas-para-cima-oprah.jpg)
 
 ### _6. Palmas para baixo_
 
 _O movimento oposto também pode ser visto de forma positiva – como um sinal de força, autoridade e assertividade. Barack Obama costumava usá-lo para acalmar uma multidão logo após momentos de excitação._
 
-![](https://descola.org/drops/wp-content/uploads/2017/06/palmas-para-baixo.jpg)![](https://descola.org/drops/wp-content/uploads/2017/06/palmas-para-baixo-obama-1024x1024.jpeg)
+![](https://descola.org/drops/wp-content/uploads/2017/06/palmas-para-baixo.jpg)
+
+![](https://descola.org/drops/wp-content/uploads/2017/06/palmas-para-baixo-obama-1024x1024.jpeg)
 
 _Da próxima vez que você se apresentar, tente gravar e depois reveja sem áudio, observando apenas sua linguagem corporal. Como você manteve sua gesticulação? Você utilizou alguma dessas posições? Se não, pense como você pode fazer para usá-las na próxima vez que estiver cara a cara com uma audiência ou até mesmo falando com seu chefe ou um grande cliente. Pratique em frente ao espelho, depois com os amigos, até sentir que os gestos estão naturais._
 
