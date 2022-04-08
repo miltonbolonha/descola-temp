@@ -19,7 +19,7 @@ Aqui na Descola, quando falamos em criar grandes experiências de aprendizagem, 
 
 Em todos os nossos cursos, trazemos referências de filmes e livros que remetem ao tema central. Que tal pensar em “**Game of Thrones**” quando falamos de modelos de gestão? Ou mesmo em “**Black Mirror**” quando falamos sobre o [futuro do trabalho](https://descola.org/futuro-do-trabalho).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M8qG0vS2zWM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="365" src="https://www.youtube.com/embed/M8qG0vS2zWM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Casos opostos também servem muito bem para construirmos um cenário análogo! Claro que, Michael Scott, em “**The office**” é um exemplo poderoso sobre como um [líder/chefe NÃO deve atuar.](https://descola.org/estilos-de-lideranca)
 
@@ -37,14 +37,10 @@ Note como no primeiro filme a relação do “padrinho” é justamente como des
 
 Veja algumas características relacionadas ao modelo de gestão vermelho:
 
-
-
 * Constantes demonstrações de poder do chefe para manter a ordem; 
 * A organização é instável e o chefe usa do medo para controlar as pessoas; 
 * O foco é a curtíssimo prazo; 
 * Capaz de superar situações hostis (como uma guerra, por exemplo)
-
-
 
 Voltando a nossa recomendação, o chefe está nessa posição pelo maior poder e pela maior força. Em troca, oferece proteção e ajudas diversas. Em toda a estrutura hierárquica da máfia, quanto mais perigoso, melhor seu cargo. É uma gestão baseada no medo e em ameaças e suas decisões jamais eram questionadas.
 
