@@ -51,6 +51,13 @@ module.exports = {
         path: path.resolve(__dirname, 'static/images/'),
       },
     },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `posts`,
+        path: path.resolve(rootDir, 'posts/'),
+      },
+    },
     `gatsby-plugin-mdx`,
     {
       resolve: `gatsby-plugin-google-fonts`,
@@ -82,5 +89,16 @@ module.exports = {
         },
       },
     },
+    {
+      resolve: `gatsby-plugin-netlify`,
+      options: {
+        mergeSecurityHeaders: true, // boolean to turn off the default security headers
+        mergeLinkHeaders: true, // boolean to turn off the default gatsby js headers
+        mergeCachingHeaders: true, // boolean to turn off the default caching headers
+        transformHeaders: (headers, path) => headers, // optional transform for manipulating headers under each path (e.g.sorting), etc.
+        generateMatchPathRewrites: true, // boolean to turn off automatic creation of redirect rules for client only paths
+      },
+    },
+    `gatsby-plugin-netlify-cms`,
   ],
 }
