@@ -41,3 +41,5 @@ Veja algumas características relacionadas ao modelo de gestão vermelho:
 * Capaz de superar situações hostis (como uma guerra, por exemplo)
 
 Voltando a nossa recomendação, o chefe está nessa posição pelo maior poder e pela maior força. Em troca, oferece proteção e ajudas diversas. Em toda a estrutura hierárquica da máfia, quanto mais perigoso, melhor seu cargo. É uma gestão baseada no medo e em ameaças e suas decisões jamais eram questionadas.
+
+Semana que vem traremos uma nova recomendação!
