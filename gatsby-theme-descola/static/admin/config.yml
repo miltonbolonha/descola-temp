@@ -1,13 +1,12 @@
 backend:
   name: github
   repo: miltonbolonha/descola-temp
-  branch: master
   site_domain: temp-descola.netlify.app
 
 # local_backend: true
 publish_mode: editorial_workflow
-media_folder: ../posts/images
-public_folder: /posts/images
+media_folder: posts/images
+public_folder: catsby/posts/images
 
 slug:
   encoding: 'ascii'
@@ -16,7 +15,7 @@ slug:
 collections:
   - name: post
     label: Posts
-    folder: ../posts
+    folder: posts
     label_singular: Post
     description: >
       Posts em MD do blog Descola.
