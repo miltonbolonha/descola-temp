@@ -17,6 +17,7 @@ module.exports = {
     themeColor: businessInfos.themeColor,
     organization: {
       name: businessInfos.organization.name,
+      phone: businessInfos.organization.phone,
       email: businessInfos.organization.email,
       url: businessInfos.organization.url,
       logo: businessInfos.organization.logo,
@@ -32,6 +33,7 @@ module.exports = {
   },
   plugins: [
     `gatsby-plugin-sass`,
+    `gatsby-plugin-image`,
     `gatsby-layout-builder`,
     `gatsby-layout-builder-seo`,
     `gatsby-remark-relative-images`,
@@ -41,8 +43,7 @@ module.exports = {
         defaults: {
           formats: [`jpg`],
           quality: 80,
-          backgroundColor: `transparent`,
-          placeholder: `dominantColor`,
+          breakpoints: [450, 750, 1080, 1366, 1920],
         },
       },
     },

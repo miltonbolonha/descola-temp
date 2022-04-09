@@ -22,7 +22,7 @@ const PostCard = ({
           staticImage: true,
           publicImageUrl: postImage,
           alt: title,
-          placeholder: 'DOMINANT_COLOR',
+          placeholder: 'NONE',
         }}
       />
       <div className="post-card-content">

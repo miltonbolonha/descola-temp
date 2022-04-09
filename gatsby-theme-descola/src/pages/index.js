@@ -15,7 +15,20 @@ const IndexPage = props => {
   const { cardImage, footerThreeMarkdowRemark, site } = useSiteMetadatas()
   const { data } = props
   const posts = data.allMarkdownRemark.edges
-
+  const {
+    author,
+    description,
+    keywords,
+    siteUrl,
+    title,
+    dateCreated,
+    postsPerPage,
+    organization,
+    social,
+    themeColor,
+  } = site.siteMetadata
+  console.log('cardImage')
+  console.log(cardImage)
   return (
     <Layout
       type="BODY"
@@ -34,23 +47,23 @@ const IndexPage = props => {
         opt={{
           titleSeo: `Descola`,
           classes: 'blog-list',
-          keywords: ['some', 'keywords'],
+          keywords: keywords,
           social: {
             fbAppID: '0',
           },
           datePublished: '2020-05-01',
           schemaType: 'Blog',
-          description: 'Loren Ipsum',
-          authorSeo: 'Miltão',
-          brandPhone: '+5516981061234',
-          brandEmail: 'miltonbolonha@gmail.com',
-          businessName: 'Meu Negócio',
-          dateCreated: '2020-05-02',
-          themeColor: '#d2dd',
+          description: description,
+          authorSeo: author,
+          brandPhone: organization.phone,
+          brandEmail: organization.email,
+          businessName: organization.name,
+          dateCreated: dateCreated,
+          themeColor: themeColor,
           // blogListing: posts.slice(0, 9),
           // mainLogo: imgHolder,
           // cardImage: cardImage ? getSrc(cardImage.childrenImageSharp[0]) : null,
-          // serverUrl: props.location.href,
+          serverUrl: siteUrl,
         }}
       />
       <Layout

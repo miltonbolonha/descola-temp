@@ -22,7 +22,8 @@
     "url": "https://descola.org/",
     "email": "descola@descola.com.br",
     "logo": "descola-banner.png",
-    "cardImage": "descola-banner.png"
+    "cardImage": "descola-banner.png",
+    "phone": "+5516981061234"
   },
   "repository": "https://github.com/miltonbolonha/descola-temp",
   "urlPrefix": "/",
@@ -69,7 +70,7 @@
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.17.6",
-    "@babel/core": "^7.17.8",
+    "@babel/core": "^7.17.9",
     "@babel/preset-env": "^7.16.11",
     "react-scripts": "^5.0.0",
     "svg-react-loader": "^0.4.6"
@@ -78,10 +79,11 @@
     "@mdx-js/mdx": "^1.6.22",
     "@mdx-js/react": "^1.6.22",
     "gatsby-layout-builder": "^0.7.4",
-    "gatsby-layout-builder-seo": "^0.3.7",
+    "gatsby-layout-builder-seo": "^0.4.1",
     "gatsby-plugin-alias-imports": "^1.0.5",
     "gatsby-plugin-catch-links": "^4.11.0",
     "gatsby-plugin-google-fonts": "^1.0.1",
+    "gatsby-plugin-image": "^2.11.1",
     "gatsby-plugin-mdx": "^3.11.1",
     "gatsby-plugin-netlify": "^4.2.0",
     "gatsby-plugin-netlify-cms": "^6.11.0",
@@ -97,7 +99,7 @@
     "gatsby-transformer-yaml": "^4.11.0",
     "netlify-cms-app": "^2.15.70",
     "react-icons": "^4.3.1",
-    "sass": "^1.49.11"
+    "sass": "^1.50.0"
   },
   "peerDependencies": {
     "gatsby": "^4.11.2",
