@@ -33,7 +33,6 @@ module.exports = {
   },
   plugins: [
     `gatsby-plugin-sass`,
-    `gatsby-plugin-image`,
     `gatsby-layout-builder`,
     `gatsby-layout-builder-seo`,
     `gatsby-remark-relative-images`,
