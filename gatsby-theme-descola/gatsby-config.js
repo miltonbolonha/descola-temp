@@ -39,6 +39,12 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-catch-links`,
     {
+      resolve: `gatsby-transformer-yaml`,
+      options: {
+        typeName: `Yaml`,
+      },
+    },
+    {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [`gatsby-remark-lazy-load`, `gatsby-remark-images`],
@@ -48,14 +54,14 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,
-        path: path.resolve(__dirname, 'static/images/'),
+        path: path.resolve(__dirname, 'static/images'),
       },
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `posts`,
-        path: path.resolve(rootDir, 'posts/'),
+        path: path.resolve(__dirname, '/posts'),
       },
     },
     `gatsby-plugin-mdx`,
@@ -74,7 +80,7 @@ module.exports = {
       options: {
         alias: {
           '@BlockBuilder': path.resolve(__dirname, 'src/modules/block-builder'),
-          '@Posts': path.resolve(rootDir, 'posts'),
+          '@Posts': path.resolve(__dirname, 'posts'),
           '@Content': path.resolve(rootDir, 'content'),
           '@Images': path.resolve(__dirname, 'static/images'),
         },

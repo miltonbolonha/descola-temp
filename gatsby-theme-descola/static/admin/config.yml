@@ -5,8 +5,8 @@ backend:
 
 # local_backend: true
 publish_mode: editorial_workflow
-media_folder: posts/images
-public_folder: catsby/posts/images
+media_folder: static/images
+public_folder: /images
 
 slug:
   encoding: 'ascii'
