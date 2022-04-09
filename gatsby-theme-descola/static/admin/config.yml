@@ -1,11 +1,12 @@
 backend:
   name: github
   repo: miltonbolonha/descola-temp
-  site_domain: temp-descola.netlify.app
+  branch: master
+  site_domain: descola-blog.netlify.app
 
 # local_backend: true
 publish_mode: editorial_workflow
-media_folder: static/images
+media_folder: posts/images
 public_folder: /images
 
 slug:
