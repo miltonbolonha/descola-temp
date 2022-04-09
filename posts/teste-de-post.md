@@ -6,6 +6,7 @@ tags:
   - takOne
   - tagtwo
 featuredPost: true
-featuredImage: /posts/images/01.jpg
+featuredImage: ../posts/images/01.jpg
 ---
+
 Test
