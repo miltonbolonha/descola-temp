@@ -5,7 +5,7 @@ author: Equipe Edu4Dev
 tags:
   - dicas
 featuredPost: true
-featuredImage: /images/01.jpg
+featuredImage: ../posts/images/01.jpg
 ---
 
 Começar do zero é algo humanamente impossível e para alavancar a difusão de informação cibernetizada apresentamos o pré-moldado para industrialização na criação de **websítios**, **webblogs**, **aplicativos** e **e-commerce**, apresenteamos o NÜktpls:Boilerplate.

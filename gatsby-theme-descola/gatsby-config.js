@@ -35,7 +35,17 @@ module.exports = {
     `gatsby-layout-builder`,
     `gatsby-layout-builder-seo`,
     `gatsby-remark-relative-images`,
-    `gatsby-plugin-sharp`,
+    {
+      resolve: `gatsby-plugin-sharp`,
+      options: {
+        defaults: {
+          formats: [`jpg`],
+          quality: 80,
+          backgroundColor: `transparent`,
+          placeholder: `dominantColor`,
+        },
+      },
+    },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-catch-links`,
     {
@@ -48,14 +58,21 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,
-        path: path.resolve(__dirname, 'static/images'),
+        path: path.resolve(__dirname, 'static/images/'),
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `uploads`,
+        path: path.resolve(rootDir, 'posts/images/'),
       },
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `posts`,
-        path: path.resolve(rootDir, 'posts'),
+        path: path.resolve(rootDir, 'posts/'),
       },
     },
     `gatsby-plugin-mdx`,
