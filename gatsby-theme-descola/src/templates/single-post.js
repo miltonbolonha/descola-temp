@@ -1,6 +1,8 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 
+import SeoContainer from 'gatsby-layout-builder-seo'
+
 import DescolaLogo from '@Images/descola-logo.svg'
 import DescolaLogoDark from '@Images/descola-logo-dark.svg'
 
@@ -9,30 +11,52 @@ import HeaderBlock from '@BlockBuilder/HeaderBlock'
 import FooterBlock from '@BlockBuilder/FooterBlock'
 
 import SinglePostBlock from '@BlockBuilder/SinglePostBlock'
-// import { useSiteMetaDatas } from '../tools/useSiteMetaDatas'
+import { useSiteMetadatas } from '../tools/useSiteMetadatas'
 
 const SinglePost = ({ data, location }) => {
-  // const { footerThreeMarkdowRemark, imgHolder, site } = useSiteMetaDatas()
+  const { footerThreeMarkdowRemark, imgHolder, site } = useSiteMetadatas()
 
   const post = data.markdownRemark
   return (
-    <Layout type="BODY">
-      {/* <HeaderBlock logotipoSvg={<DescolaLogo />} /> */}
-      <h1>{post.frontmatter.date}</h1>
+    <Layout type="BODY" opt={{ classes: 'single-post' }}>
+      <SeoContainer
+        opt={{
+          titleSeo: `${post.frontmatter.title} - Descola`,
+          authorSeo: post.frontmatter.author,
+          classes: 'single-post',
+          datePublished: post.frontmatter.date,
+          schemaType: 'article',
+          featuredImage:
+            site.siteMetadata.siteUrl +
+            post.frontmatter.featuredImage.childrenImageSharp[0].gatsbyImageData
+              .images.fallback.src,
+          cardImage:
+            post.frontmatter.featuredImage.childrenImageSharp[0].gatsbyImageData
+              .images.fallback.src,
+          articleBody: post.html,
+          mainLogo: imgHolder,
+          description: post.excerpt,
+          organization: {
+            name: 'Organization',
+          },
+          serverUrl: location.origin || site.siteMetadata.siteUrl || '/',
+        }}
+      />
+      <HeaderBlock logotipoSvg={<DescolaLogo />} />
       <main>
-        {/* <SinglePostBlock
+        <SinglePostBlock
           imgHolder={imgHolder}
           date={post.frontmatter.date}
           author={post.frontmatter.author}
           html={post.html}
           title={post.frontmatter.title}
           tags={post.frontmatter.tags}
-        /> */}
+        />
       </main>
-      {/* <FooterBlock */}
-      {/* footerLogo={<DescolaLogoDark />} */}
-      {/* featurePosts={footerThreeMarkdowRemark.edges} */}
-      {/* /> */}
+      <FooterBlock
+        footerLogo={<DescolaLogoDark />}
+        featurePosts={footerThreeMarkdowRemark.edges}
+      />
     </Layout>
   )
 }

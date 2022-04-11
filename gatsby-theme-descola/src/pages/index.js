@@ -11,8 +11,12 @@ import FooterBlock from '@BlockBuilder/FooterBlock'
 import PostsBlock from '@BlockBuilder/PostsBlock'
 
 const IndexPage = props => {
-  // console.log(useSiteMetadatas())
-  const { cardImage, footerThreeMarkdowRemark, site } = useSiteMetadatas()
+  const {
+    cardImage,
+    footerThreeMarkdowRemark,
+    imgHolder,
+    site,
+  } = useSiteMetadatas()
   const { data } = props
   const posts = data.allMarkdownRemark.edges
   const {
@@ -27,22 +31,10 @@ const IndexPage = props => {
     social,
     themeColor,
   } = site.siteMetadata
-  console.log('cardImage')
-  console.log(cardImage)
+  console.log('site')
+  console.log(site)
   return (
-    <Layout
-      type="BODY"
-      // opt={{
-      // 	titleSeo: `Descola`,
-      // 	classes: 'blog-list',
-      // 	schemaType: 'blog',
-      // 	blogListing: posts.slice(0, 9),
-      // 	mainLogo: imgHolder,
-      // 	cardImage: cardImage ? getSrc(cardImage.childrenImageSharp[0]) : null,
-      // 	serverUrl: props.location.href,
-      // }}
-    >
-      <HeaderBlock logotipoSvg={<DescolaLogo />} />
+    <Layout type="BODY">
       <SeoContainer
         opt={{
           titleSeo: `Descola`,
@@ -51,21 +43,31 @@ const IndexPage = props => {
           social: {
             fbAppID: '0',
           },
-          datePublished: '2020-05-01',
+          datePublished: dateCreated,
           schemaType: 'Blog',
           description: description,
           authorSeo: author,
+          organization: {
+            name: 'Organization',
+          },
           brandPhone: organization.phone,
           brandEmail: organization.email,
           businessName: organization.name,
           dateCreated: dateCreated,
           themeColor: themeColor,
-          // blogListing: posts.slice(0, 9),
-          // mainLogo: imgHolder,
+          blogListing: posts.slice(0, 9),
+          mainLogo: imgHolder,
           // cardImage: cardImage ? getSrc(cardImage.childrenImageSharp[0]) : null,
           serverUrl: siteUrl,
+          sameAs: {
+            instagram: 'https://www.instagram.com/descola_',
+            facebook: 'https://www.facebook.com/descola_',
+            linkedIn: 'https://www.linkedin.com/company/descola_',
+            youtube: 'asd',
+          },
         }}
       />
+      <HeaderBlock logotipoSvg={<DescolaLogo />} />
       <Layout
         type="ROW"
         opt={{ isBoxed: true, classes: 'main-container-wrapper' }}

@@ -113,18 +113,21 @@ exports.createPages = ({ graphql, actions }) => {
     // })
 
     // const tags = result.data.tagsGroup.group
-    // Make tag pages
-    // tags.forEach((tag) => {
-    // 	createPage({
-    // 		path: `/tags/${_.kebabCase(tag.fieldValue)}`,
-    // 		component: path.resolve(`./src/templates/tax-posts-list.js`),
-    // 		context: {
-    // 			tag: tag.fieldValue,
-    // 			siteMetadata: result.data.siteMetadata,
-    // 			footerThreeMarkdowRemark: result.data.footerThreeMarkdowRemark,
-    // 			postsPerPage: result.data.postsPerPage,
-    // 		},
-    // 	})
+    // // Make tag pages
+    // tags.forEach(tag => {
+    //   createPage({
+    //     path: `/tags/${_.kebabCase(tag.fieldValue)}`,
+    //     component: path.resolve(
+    //       rootDir,
+    //       'gatsby-theme-descola/src/templates/tax-posts-list.js'
+    //     ),
+    //     context: {
+    //       tag: tag.fieldValue,
+    //       siteMetadata: result.data.siteMetadata,
+    //       footerThreeMarkdowRemark: result.data.footerThreeMarkdowRemark,
+    //       postsPerPage: result.data.postsPerPage,
+    //     },
+    //   })
     // })
   })
 }
