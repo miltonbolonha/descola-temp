@@ -8249,10 +8249,10 @@ gatsby-graphiql-explorer@^2.11.0:
   dependencies:
     "@babel/runtime" "^7.15.4"
 
-gatsby-layout-builder-seo@^0.4.4:
-  version "0.4.4"
-  resolved "https://registry.yarnpkg.com/gatsby-layout-builder-seo/-/gatsby-layout-builder-seo-0.4.4.tgz#6e7931393215df81e2b121d747ad34deb36f0c00"
-  integrity sha512-OaK+zq/6bVTXYDUoAIVPnBJwL4tTCntp2XzjUcomMnQI6DV3uEQCSCnTQpFqKgRIBIWEVI5seJyXtTZ2Ej6ebg==
+gatsby-layout-builder-seo@^0.4.6:
+  version "0.4.6"
+  resolved "https://registry.yarnpkg.com/gatsby-layout-builder-seo/-/gatsby-layout-builder-seo-0.4.6.tgz#0fa32a9eb12f67f5dbec06ab1f6066ff78743a1b"
+  integrity sha512-DYJ9rNwhD19P84lKo6Uac3GrX/cbWLI/p6PfjkG70jbI4YH23f80da4vOrzMXQjEnhfSejKvzjaI7T+zMaw0sg==
   dependencies:
     gatsby-plugin-image "^2.11.1"
     gatsby-plugin-sharp "4.11.1"

@@ -5,6 +5,7 @@ author: Milton
 tags:
   - takOne
   - tagtwo
+  - tagthree
 featuredPost: true
 featuredImage: ../posts/images/01.jpg
 ---

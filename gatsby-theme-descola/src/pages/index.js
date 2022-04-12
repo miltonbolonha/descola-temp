@@ -1,5 +1,6 @@
 import React from 'react'
-import { graphql } from 'gatsby'
+import { graphql, Link } from 'gatsby'
+import { getSrc } from 'gatsby-plugin-image'
 
 import Layout from 'gatsby-layout-builder'
 import SeoContainer from 'gatsby-layout-builder-seo'
@@ -9,6 +10,7 @@ import DescolaLogoDark from '@Images/descola-logo-dark.svg'
 import HeaderBlock from '@BlockBuilder/HeaderBlock'
 import FooterBlock from '@BlockBuilder/FooterBlock'
 import PostsBlock from '@BlockBuilder/PostsBlock'
+import AcessibilityBlock from '@BlockBuilder/AcessibilityBlock'
 
 const IndexPage = props => {
   const {
@@ -31,42 +33,74 @@ const IndexPage = props => {
     social,
     themeColor,
   } = site.siteMetadata
-  console.log('site')
-  console.log(site)
+  const cardImg = cardImage ? getSrc(cardImage.childrenImageSharp[0]) : null
   return (
-    <Layout type="BODY">
+    <Layout type="BODY" opt={{ classes: 'blog-list' }}>
       <SeoContainer
         opt={{
-          titleSeo: `Descola`,
-          classes: 'blog-list',
-          keywords: keywords,
-          social: {
-            fbAppID: '0',
-          },
-          datePublished: dateCreated,
+          // titleSeo: `Descola`,
+          // classes: 'blog-list',
+          // keywords: keywords,
+          // social: {
+          //   fbAppID: '0',
+          // },
+          // datePublished: dateCreated,
+          // schemaType: 'Blog',
+          // description: description,
+          // authorSeo: author,
+          // organization: {
+          //   name: 'Organization',
+          // },
+          // brandPhone: organization.phone,
+          // brandEmail: organization.email,
+          // businessName: organization.name,
+          // dateCreated: dateCreated,
+          // themeColor: themeColor,
+          // blogListing: posts.slice(0, 9),
+          // mainLogo: imgHolder,
+          // cardImage: cardImage ? getSrc(cardImage.childrenImageSharp[0]) : null,
+          // serverUrl: siteUrl,
+          // sameAs: {
+          //   instagram: 'https://www.instagram.com/descola_',
+          //   facebook: 'https://www.facebook.com/descola_',
+          //   linkedIn: 'https://www.linkedin.com/company/descola_',
+          //   youtube: 'asd',
+          // },
           schemaType: 'Blog',
-          description: description,
-          authorSeo: author,
-          organization: {
-            name: 'Organization',
-          },
+          startedWebsiteDate: dateCreated,
+          // modifiedWebsiteDate: modifiedWebsiteDate,
+          // createdPageDate: createdPageDate,
+          // modifiedPageDate: modifiedPageDate,
+          pageTitle: `Descola`,
+          pageDescription: description,
+          authorWebsiteData: organization.url,
+          authorPostData: organization.name,
+          highlightImage: cardImg,
+          // postsList: postsList,
+          // postBody: postBody,
+          brandMainLogo: imgHolder,
+          brandCardLogo: imgHolder,
           brandPhone: organization.phone,
           brandEmail: organization.email,
-          businessName: organization.name,
-          dateCreated: dateCreated,
-          themeColor: themeColor,
-          blogListing: posts.slice(0, 9),
-          mainLogo: imgHolder,
-          // cardImage: cardImage ? getSrc(cardImage.childrenImageSharp[0]) : null,
-          serverUrl: siteUrl,
-          sameAs: {
+          brandName: organization.name,
+          brandSocialArr: {
             instagram: 'https://www.instagram.com/descola_',
             facebook: 'https://www.facebook.com/descola_',
             linkedIn: 'https://www.linkedin.com/company/descola_',
             youtube: 'asd',
           },
+          buildServerUrl: siteUrl,
+          websiteLanguage: 'pt-BR',
+          brandThemeColor: themeColor,
+          brandKeywords: keywords,
+          brandWebsiteUrl: siteUrl,
+          // alternativeImage: alternativeImage,
+          // websiteDescription: websiteDescription,
+          // pageKeywords: pageKeywords,
+          // postHeadline: postHeadline,
         }}
       />
+      <AcessibilityBlock />
       <HeaderBlock logotipoSvg={<DescolaLogo />} />
       <Layout
         type="ROW"
