@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
+import _ from 'lodash'
 
 import Layout from 'gatsby-layout-builder'
 import slugify from '../../tools/slugify'
@@ -21,7 +22,7 @@ const SinglePostBlock = ({ imgHolder, date, author, html, tags, title }) => {
               {tags.map((e, i) => {
                 return (
                   <Link
-                    to={`/tags/${slugify(e)}/`}
+                    to={`/tags/${_.kebabCase(e)}/`}
                     className="post-tags"
                     key={i}
                   >
