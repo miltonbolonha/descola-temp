@@ -3,7 +3,7 @@ import { Link } from 'gatsby'
 import _ from 'lodash'
 
 import Layout from 'gatsby-layout-builder'
-import slugify from '../../tools/slugify'
+// import slugify from '../../tools/slugify'
 
 const SinglePostBlock = ({ imgHolder, date, author, html, tags, title }) => {
   return (

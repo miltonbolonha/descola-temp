@@ -1,5 +1,6 @@
 import React from 'react'
 import { graphql } from 'gatsby'
+import { getSrc } from 'gatsby-plugin-image'
 
 import SeoContainer from 'gatsby-layout-builder-seo'
 
@@ -28,6 +29,8 @@ const SinglePost = ({ data, location }) => {
     themeColor,
   } = site.siteMetadata
   const post = data.markdownRemark
+  console.log('imgHolder')
+  console.log(getSrc(imgHolder?.childrenImageSharp[0]))
   return (
     <Layout type="BODY" opt={{ classes: 'single-post' }}>
       <SeoContainer

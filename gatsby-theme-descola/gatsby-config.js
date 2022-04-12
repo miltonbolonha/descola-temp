@@ -35,7 +35,7 @@ module.exports = {
     `gatsby-plugin-sass`,
     `gatsby-layout-builder`,
     `gatsby-layout-builder-seo`,
-    `gatsby-remark-relative-images`,
+    // `gatsby-remark-relative-images`,
     {
       resolve: `gatsby-plugin-sharp`,
       options: {
@@ -51,7 +51,22 @@ module.exports = {
     {
       resolve: `gatsby-transformer-remark`,
       options: {
-        plugins: [`gatsby-remark-lazy-load`, `gatsby-remark-images`],
+        plugins: [
+          `gatsby-remark-lazy-load`,
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              maxWidth: 1366,
+              linkImagesToOriginal: false,
+            },
+          },
+          {
+            resolve: `gatsby-remark-relative-images`,
+            options: {
+              name: `images`,
+            },
+          },
+        ],
       },
     },
     {
