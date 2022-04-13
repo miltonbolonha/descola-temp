@@ -33,16 +33,17 @@ module.exports = {
   },
   plugins: [
     `gatsby-plugin-sass`,
+    `gatsby-plugin-anchor-links`,
     `gatsby-layout-builder`,
     `gatsby-layout-builder-seo`,
-    // `gatsby-remark-relative-images`,
+    `gatsby-layout-builder-a11y`,
     {
       resolve: `gatsby-plugin-sharp`,
       options: {
         defaults: {
           formats: [`jpg`],
           quality: 80,
-          breakpoints: [450, 750, 1080, 1366, 1920],
+          breakpoints: [450, 750, 1080, 1200, 1920],
         },
       },
     },
@@ -56,7 +57,7 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 1366,
+              maxWidth: 1200,
               linkImagesToOriginal: false,
             },
           },
@@ -95,8 +96,8 @@ module.exports = {
       resolve: `gatsby-plugin-google-fonts`,
       options: {
         fonts: [
-          'Roboto Slab:100,300,400,500,600,700',
-          'Montserrat:100,300,500,600',
+          businessInfos.importFont.font01,
+          businessInfos.importFont.font02,
         ],
         display: 'swap',
       },

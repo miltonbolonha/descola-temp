@@ -4,6 +4,7 @@ import { getSrc } from 'gatsby-plugin-image'
 
 import Layout from 'gatsby-layout-builder'
 import SeoContainer from 'gatsby-layout-builder-seo'
+import Accessibility from 'gatsby-layout-builder-a11y'
 import { useSiteMetadatas } from '../tools/useSiteMetadatas'
 import DescolaLogo from '@Images/descola-logo.svg'
 import DescolaLogoDark from '@Images/descola-logo-dark.svg'
@@ -100,7 +101,22 @@ const IndexPage = props => {
           // postHeadline: postHeadline,
         }}
       />
-      <AcessibilityBlock />
+      <AcessibilityBlock
+      // opt={{
+      //   accessibility: {
+      //     to: '/accessibility',
+      //     label: 'Acessibilidade Primeiro',
+      //   },
+      //   navigation: {
+      //     to: '/#site-navigation',
+      //     label: 'Ir para o menu de navegação',
+      //   },
+      //   content: {
+      //     to: '/#site-content',
+      //     label: 'Ir para o conteúdo',
+      //   },
+      // }}
+      />
       <HeaderBlock logotipoSvg={<DescolaLogo />} />
       <Layout
         type="ROW"

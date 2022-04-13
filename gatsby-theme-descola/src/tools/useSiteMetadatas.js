@@ -70,13 +70,13 @@ export const useSiteMetadatas = () => {
             )
           }
         }
-        cardImage: file(relativePath: { eq: "descola-banner.png" }) {
+        cardImage: file(relativePath: { eq: "descola-banner.jpg" }) {
           childrenImageSharp {
             gatsbyImageData(
-              width: 560
-              height: 292
+              width: 1200
+              height: 627
               placeholder: NONE
-              quality: 100
+              quality: 90
             )
           }
         }

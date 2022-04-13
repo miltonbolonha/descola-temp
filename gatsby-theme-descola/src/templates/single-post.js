@@ -29,8 +29,8 @@ const SinglePost = ({ data, location }) => {
     themeColor,
   } = site.siteMetadata
   const post = data.markdownRemark
-  console.log('imgHolder')
-  console.log(getSrc(imgHolder?.childrenImageSharp[0]))
+  // console.log('imgHolder')
+  // console.log(getSrc(imgHolder?.childrenImageSharp[0]))
   return (
     <Layout type="BODY" opt={{ classes: 'single-post' }}>
       <SeoContainer
@@ -120,10 +120,10 @@ export const query = graphql`
         featuredImage {
           childrenImageSharp {
             gatsbyImageData(
-              width: 350
-              height: 224
+              width: 1200
+              height: 627
               placeholder: NONE
-              quality: 100
+              quality: 90
             )
           }
         }
