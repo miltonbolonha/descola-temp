@@ -8,7 +8,7 @@ module.exports = {
     title: businessInfos.appName,
     description: businessInfos.description,
     author: businessInfos.author,
-    siteUrl: 'http://localhost:8000',
+    siteUrl: 'https://temp-descola.netlify.app/',
     searchBaseUrl: businessInfos.searchBaseUrl,
     keywords: businessInfos.keywords,
     image: `${__dirname}/static/images/descola-logo.svg`,
