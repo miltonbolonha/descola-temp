@@ -89,6 +89,7 @@ const SinglePost = ({ data, location }) => {
           brandThemeColor: themeColor,
           brandKeywords: keywords,
           brandWebsiteUrl: site.siteMetadata.siteUrl,
+          actualPage: site.siteMetadata.siteUrl + location.pathname || '/',
           // alternativeImage: alternativeImage,
           // websiteDescription: websiteDescription,
           // pageKeywords: pageKeywords,

@@ -47,8 +47,12 @@ const SinglePostBlock = ({ imgHolder, date, author, html, tags, title }) => {
               }}
             />
             <div className="post-author-infos">
-              <p className="post-author-date">{date}</p>
-              <p className="post-author-name">{author}</p>
+              <time className="post-author-date" dateTime={date}>
+                {date}
+              </time>
+              <p className="post-author-name" rel="author">
+                {author}
+              </p>
             </div>
           </div>
           <div
