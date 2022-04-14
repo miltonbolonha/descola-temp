@@ -16,7 +16,12 @@ import SinglePostBlock from '@BlockBuilder/SinglePostBlock'
 import { useSiteMetadatas } from '../tools/useSiteMetadatas'
 
 const SinglePost = ({ data, location }) => {
-  const { footerThreeMarkdowRemark, imgHolder, site } = useSiteMetadatas()
+  const {
+    footerThreeMarkdowRemark,
+    imgHolder,
+    site,
+    cardImage,
+  } = useSiteMetadatas()
   const {
     author,
     description,
@@ -29,8 +34,8 @@ const SinglePost = ({ data, location }) => {
     themeColor,
   } = site.siteMetadata
   const post = data.markdownRemark
-  // console.log('imgHolder')
-  // console.log(getSrc(imgHolder?.childrenImageSharp[0]))
+  console.log('imgHolder')
+  console.log(getSrc(imgHolder?.childrenImageSharp[0]))
   return (
     <Layout type="BODY" opt={{ classes: 'single-post' }}>
       <SeoContainer
@@ -66,8 +71,10 @@ const SinglePost = ({ data, location }) => {
               .gatsbyImageData.images.fallback.src,
           // postsList: postsList,
           postBody: post.html,
-          brandMainLogo: imgHolder,
-          brandCardLogo: imgHolder,
+          brandMainLogo:
+            site.siteMetadata.siteUrl +
+            getSrc(imgHolder?.childrenImageSharp[0]),
+          brandCardLogo: cardImage,
           brandPhone: organization.phone,
           brandEmail: organization.email,
           brandName: organization.name,
@@ -77,7 +84,7 @@ const SinglePost = ({ data, location }) => {
             linkedIn: 'https://www.linkedin.com/company/descola_',
             youtube: 'asd',
           },
-          buildServerUrl: location.origin || site.siteMetadata.siteUrl || '/',
+          buildServerUrl: site.siteMetadata.siteUrl || '/',
           websiteLanguage: 'pt-BR',
           brandThemeColor: themeColor,
           brandKeywords: keywords,
