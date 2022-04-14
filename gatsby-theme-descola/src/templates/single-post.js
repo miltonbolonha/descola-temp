@@ -99,8 +99,11 @@ const SinglePost = ({ data, location }) => {
       <AcessibilityBlock />
       <HeaderBlock logotipoSvg={<DescolaLogo />} />
       <main>
+        {/* post?.frontmatter?.featuredImage?.childrenImageSharp[0] */}
+        {/* .gatsbyImageData.images.fallback.src, */}
         <SinglePostBlock
-          imgHolder={imgHolder}
+          highlightImage={post?.frontmatter?.featuredImage}
+          authorImg={imgHolder}
           date={post.frontmatter.date}
           author={post.frontmatter.author}
           html={post.html}
