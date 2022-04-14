@@ -34,7 +34,7 @@ const SinglePost = ({ data, location }) => {
     themeColor,
   } = site.siteMetadata
   const post = data.markdownRemark
-  console.log('imgHolder')
+  console.log(location)
   console.log(getSrc(imgHolder?.childrenImageSharp[0]))
   return (
     <Layout type="BODY" opt={{ classes: 'single-post' }}>
