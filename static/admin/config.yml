@@ -1,8 +1,8 @@
 backend:
   name: github
-  repo: grpaiva/descola-blog
-  branch: master
-  site_domain: descola-blog.netlify.app
+  repo: miltonbolonha/descola-temp
+  branch: develop
+  site_domain: temp-descola.netlify.app
 
 # local_backend: true
 publish_mode: editorial_workflow
@@ -21,13 +21,17 @@ collections:
     description: >
       Posts em MD do blog Descola.
     create: true
-    slug: "{{slug}}"
+    slug: '{{slug}}'
     fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime",
-          format: 'YYYY-MM-DDTHH:mm:00+00:00' }
-      - { label: "Author", name: "author", widget: "string" }
-      - { label: "Tags", name: "tags", widget: "list" }
-      - { label: "Featured Post", name: "featuredPost", widget: "boolean" }
-      - { label: "Featured Image", name: "featuredImage", widget: image }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - {
+          label: 'Publish Date',
+          name: 'date',
+          widget: 'datetime',
+          format: 'YYYY-MM-DDTHH:mm:00+00:00',
+        }
+      - { label: 'Author', name: 'author', widget: 'string' }
+      - { label: 'Tags', name: 'tags', widget: 'list' }
+      - { label: 'Featured Post', name: 'featuredPost', widget: 'boolean' }
+      - { label: 'Featured Image', name: 'featuredImage', widget: image }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
