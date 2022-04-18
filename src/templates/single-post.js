@@ -47,6 +47,7 @@ const SinglePost = ({ data, location }) => {
 					html={post.html}
 					title={post.frontmatter.title}
 					tags={post.frontmatter.tags}
+					featuredImage={post.frontmatter.featuredImage}
 				/>
 			</main>
 			<FooterBlock
