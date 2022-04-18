@@ -27,6 +27,7 @@ const Seo = ({
 	cardImage,
 	serverUrl,
 	themeColor,
+	articleUrl,
 }) => {
 	const hasBar = serverUrl?.charAt(serverUrl.length - 1)
 	const servBar = hasBar === '/' ? serverUrl?.slice(0, -1) : serverUrl
@@ -43,14 +44,18 @@ const Seo = ({
 				<meta name="description" content={metaDescription} />
 				<meta name="image" content={cardImagesrc || featuredImage} />
 				<meta name="keywords" content={keywords.map((e) => e)} />
-				<link rel="canonical" href={serverUrl} />
+				<link rel="canonical" href={articleUrl || serverUrl} />
 				{/* OpenGraph tags */}
 				<meta property="og:url" content={serverUrl} />
 				{schemaType === 'article' ? (
 					<meta property="og:type" content="article" />
 				) : (
-					<meta property="og:type" content="blog" />
+					<meta property="og:type" content="website" />
 				)}
+				<meta property="article:author" content={siteUrl} />
+				<meta property="article:publisher" content={siteUrl} />
+
+				<meta property="og:site_name" content={title} />
 				<meta property="og:title" content={title} />
 				<meta property="og:description" content={description} />
 				<meta property="og:image" content={cardImagesrc || featuredImage} />
