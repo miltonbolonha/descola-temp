@@ -41,41 +41,41 @@ const Seo = ({
 				titleTemplate={`%s | ${siteTitle}`}
 			>
 				<title>{title}</title>
-				<meta name="description" content={metaDescription} />
-				<meta name="image" content={cardImagesrc || featuredImage} />
-				<meta name="keywords" content={keywords.map((e) => e)} />
-				<link rel="canonical" href={articleUrl || serverUrl} />
+				<meta name='description' content={metaDescription} />
+				<meta name='image' content={cardImagesrc || featuredImage} />
+				<meta name='keywords' content={keywords.map((e) => e)} />
+				<link rel='canonical' href={articleUrl || serverUrl} />
 				{/* OpenGraph tags */}
-				<meta property="og:url" content={serverUrl} />
+				<meta property='og:url' content={serverUrl} />
 				{schemaType === 'article' ? (
-					<meta property="og:type" content="article" />
+					<meta property='og:type' content='article' />
 				) : (
-					<meta property="og:type" content="website" />
+					<meta property='og:type' content='website' />
 				)}
-				<meta property="article:author" content={siteUrl} />
-				<meta property="article:publisher" content={siteUrl} />
+				<meta property='article:author' content={siteUrl} />
+				<meta property='article:publisher' content={siteUrl} />
 
-				<meta property="og:site_name" content={title} />
-				<meta property="og:title" content={title} />
-				<meta property="og:description" content={description} />
-				<meta property="og:image" content={cardImagesrc || featuredImage} />
+				<meta property='og:site_name' content={title} />
+				<meta property='og:title' content={title} />
+				<meta property='og:description' content={description} />
+				<meta property='og:image' content={cardImagesrc || featuredImage} />
 				{social.fbAppID ? (
-					<meta property="fb:app_id" content={social.fbAppID} />
+					<meta property='fb:app_id' content={social.fbAppID} />
 				) : null}
 				{/* Twitter Card tags */}
-				<meta name="twitter:card" content="summary_large_image" />
+				<meta name='twitter:card' content='summary_large_image' />
 				{social.twitter ? (
-					<meta name="twitter:creator" content={social.twitter} />
+					<meta name='twitter:creator' content={social.twitter} />
 				) : null}
-				<meta name="twitter:title" content={title} />
-				<meta name="twitter:description" content={description} />
+				<meta name='twitter:title' content={title} />
+				<meta name='twitter:description' content={description} />
 				<meta
-					name="twitter:image:src"
+					name='twitter:image:src'
 					content={cardImagesrc || featuredImage}
 				/>
-				<meta name="theme-color" content={themeColor || '#FF0081'} />
-				<meta name="twitter:site" content={`@` + social.twitter} />
-				<meta name="author" content={author} />
+				<meta name='theme-color' content={themeColor || '#FF0081'} />
+				<meta name='twitter:site' content={`@` + social.twitter} />
+				<meta name='author' content={author} />
 			</Helmet>
 			<SchemaOrgContainer
 				schemaType={schemaType}
