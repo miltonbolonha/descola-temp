@@ -76,6 +76,7 @@ const Seo = ({
 				<meta name='theme-color' content={themeColor || '#FF0081'} />
 				<meta name='twitter:site' content={`@` + social.twitter} />
 				<meta name='author' content={author} />
+				{datePublished ? <meta name='article:published_time' content={datePublished} /> : ''}
 			</Helmet>
 			<SchemaOrgContainer
 				schemaType={schemaType}
