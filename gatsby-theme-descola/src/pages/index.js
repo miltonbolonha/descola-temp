@@ -1,10 +1,9 @@
 import React from 'react'
-import { graphql, Link } from 'gatsby'
+import { graphql } from 'gatsby'
 import { getSrc } from 'gatsby-plugin-image'
 
 import Layout from 'gatsby-layout-builder'
 import SeoContainer from 'gatsby-layout-builder-seo'
-import Accessibility from 'gatsby-layout-builder-a11y'
 import { useSiteMetadatas } from '../tools/useSiteMetadatas'
 import DescolaLogo from '@Images/descola-logo.svg'
 import DescolaLogoDark from '@Images/descola-logo-dark.svg'
@@ -13,13 +12,9 @@ import FooterBlock from '@BlockBuilder/FooterBlock'
 import PostsBlock from '@BlockBuilder/PostsBlock'
 import AcessibilityBlock from '@BlockBuilder/AcessibilityBlock'
 
-const IndexPage = props => {
-  const {
-    cardImage,
-    footerThreeMarkdowRemark,
-    imgHolder,
-    site,
-  } = useSiteMetadatas()
+const IndexPage = (props) => {
+  const { cardImage, footerThreeMarkdowRemark, imgHolder, site } =
+    useSiteMetadatas()
   const { data } = props
   const posts = data.allMarkdownRemark.edges
   const {
