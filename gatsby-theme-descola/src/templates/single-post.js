@@ -16,12 +16,8 @@ import SinglePostBlock from '@BlockBuilder/SinglePostBlock'
 import { useSiteMetadatas } from '../tools/useSiteMetadatas'
 
 const SinglePost = ({ data, location }) => {
-  const {
-    footerThreeMarkdowRemark,
-    imgHolder,
-    site,
-    cardImage,
-  } = useSiteMetadatas()
+  const { footerThreeMarkdowRemark, imgHolder, site, cardImage } =
+    useSiteMetadatas()
   const {
     author,
     description,
@@ -34,8 +30,6 @@ const SinglePost = ({ data, location }) => {
     themeColor,
   } = site.siteMetadata
   const post = data.markdownRemark
-  console.log(location)
-  console.log(getSrc(imgHolder?.childrenImageSharp[0]))
   return (
     <Layout type="BODY" opt={{ classes: 'single-post' }}>
       <SeoContainer

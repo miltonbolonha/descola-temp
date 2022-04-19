@@ -14,11 +14,6 @@ const SinglePostBlock = ({
   tags,
   title,
 }) => {
-  console.log('authorImg')
-  console.log(authorImg)
-  console.log('highlightImage')
-  console.log(highlightImage)
-
   return (
     <article>
       <section>

@@ -12,8 +12,7 @@ import FooterBlock from '@BlockBuilder/FooterBlock'
 import PostsBlock from '@BlockBuilder/PostsBlock'
 import { useSiteMetadatas } from '../tools/useSiteMetadatas'
 
-const TagListPage = props => {
-  console.log(props.pageContext)
+const TagListPage = (props) => {
   return (
     <StaticQuery
       query={graphql`
@@ -49,17 +48,14 @@ const TagListPage = props => {
           }
         }
       `}
-      render={data => {
-        console.log(data)
+      render={(data) => {
         const tagList = data.allMarkdownRemark.edges
         const { cardImage, footerThreeMarkdowRemark, site } = useSiteMetadatas()
 
         const tagContext = props.pageContext.tag
-        const tagListFiltered = tagList.filter(item => {
+        const tagListFiltered = tagList.filter((item) => {
           return item.node.frontmatter.tags.includes(tagContext)
         })
-        console.log('robozim')
-        console.log(tagListFiltered)
         // const result = tagList.filter(function(tagObj) {
         // 		return tagObj.node.frontmatter.tags.some(function(tag) {
         // 				return tagContext.includes(tag);
