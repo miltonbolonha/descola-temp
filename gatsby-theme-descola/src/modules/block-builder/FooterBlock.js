@@ -10,14 +10,8 @@ import layoutYAML from '@Content/main.yaml'
 import footerMenuYAML from '@Content/footer-menu.yaml'
 import footerTagsYAML from '@Content/footer-tags.yaml'
 import footerSocialYAML from '@Content/social-media.yaml'
-// const { logo_url, link_01 } = layoutYAML.layout02
 
-// import { useContentConfigs } from '../../tools/useContentConfigs'
-// import { useTagsWidgets } from '../../tools/useTagsWidget'
 const FooterBlock = ({ footerLogo, featurePosts }) => {
-  // const { footer } = useContentConfigs().footer_content
-  // const tags = useTagsWidgets()
-
   const { footer } = layoutYAML
   const { col1, col2, col3 } = footer
   const about_phone = col1.about_phone

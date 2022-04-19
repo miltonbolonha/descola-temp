@@ -1,7 +1,7 @@
 import React from 'react'
 import Layout from 'gatsby-layout-builder'
 
-const HeaderBlock = ({ title, debug = false, logotipoImg, logotipoSvg }) => {
+const HeaderBlock = ({ logotipoSvg }) => {
   return (
     <Layout
       type="HEADER"

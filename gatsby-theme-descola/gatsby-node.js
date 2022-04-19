@@ -77,10 +77,8 @@ exports.createPages = ({ graphql, actions }) => {
         }
       }
     }
-  `).then(result => {
+  `).then((result) => {
     const posts = result.data.allMarkdownRemark.edges
-    // const featuredPosts = result.data.featuredPosts.edges
-
     posts.forEach(({ node }) => {
       createPage({
         path: node.fields.slug,
@@ -93,28 +91,10 @@ exports.createPages = ({ graphql, actions }) => {
         },
       })
     })
-    // '@Posts': path.resolve(rootDir, 'posts'),
-
-    // const postsPerPage = 5
-    // const numPages = Math.ceil(posts.length / postsPerPage)
-
-    // www./blog post list template
-    // Array.from({ length: numPages }).forEach((_, index) => {
-    // 	createPage({
-    // 		path: index === 0 ? `/blog` : `/page/${index + 1}`,
-    // 		component: path.resolve(`./src/templates/posts-list.js`),
-    // 		context: {
-    // 			limit: postsPerPage,
-    // 			skip: index * postsPerPage,
-    // 			numPages,
-    // 			currentPage: index + 1,
-    // 		},
-    // 	})
-    // })
 
     const tags = result.data.tagsGroup.group
     // Make tag pages
-    tags.forEach(tag => {
+    tags.forEach((tag) => {
       createPage({
         path: `/tags/${_.kebabCase(tag.fieldValue)}`,
         component: path.resolve(
@@ -131,66 +111,3 @@ exports.createPages = ({ graphql, actions }) => {
     })
   })
 }
-
-// exports.onPostBuild = ({ graphql }) => {
-// 	return graphql(`
-// 		{
-// 			site {
-// 				siteMetadata {
-// 					organization {
-// 						url
-// 					}
-// 				}
-// 			}
-// 			apiPosts: allMarkdownRemark(
-// 				sort: { fields: frontmatter___date, order: DESC }
-// 				limit: 4
-// 			) {
-// 				edges {
-// 					node {
-// 						fields {
-// 							slug
-// 						}
-// 						frontmatter {
-// 							date(formatString: "DD [de] MMMM [de] YYYY", locale: "pt-br")
-// 							title
-// 							tags
-// 							footerFeaturedImage: featuredImage {
-// 								childrenImageSharp {
-// 									gatsbyImageData(
-// 										width: 152
-// 										height: 152
-// 										placeholder: DOMINANT_COLOR
-// 										quality: 80
-// 									)
-// 								}
-// 							}
-// 						}
-// 						excerpt(pruneLength: 200)
-// 					}
-// 				}
-// 			}
-// 		}
-// 	`).then((result) => {
-// 		// processAndWriteJSONFiles(result)
-// 		let feed = []
-// 		result.data.apiPosts.edges.forEach(({ node }) => {
-// 			const slug = node.fields.slug
-// 			const frontmatter = node.frontmatter
-// 			const { date, title } = frontmatter
-// 			const imageSrc =
-// 				result.data.site.siteMetadata.organization.url +
-// 				node.frontmatter.footerFeaturedImage.childrenImageSharp[0]
-// 					.gatsbyImageData.images.fallback.src
-
-// 			feed.push({
-// 				slug: slug,
-// 				date: date,
-// 				title: title,
-// 				imageSrc: imageSrc,
-// 				excerpt: node.excerpt,
-// 			})
-// 		})
-// 		fs.writeFileSync(`./public/feed.json`, JSON.stringify({ data: feed }))
-// 	})
-// }

@@ -7,7 +7,6 @@ import PostCard from './PostCard'
 const PostsBlock = ({
   postList,
   currentPage,
-  numPages,
   typeLoad,
   isFirst,
   prevPage,
@@ -21,14 +20,10 @@ const PostsBlock = ({
   function handleCurrentFirstItem(current) {
     setCurrentFirstItem(current)
   }
-  const handleBtnLoadMore = e => {
+  const handleBtnLoadMore = (e) => {
     e.preventDefault()
     handleCurrentFirstItem(currentFirstItem + postsPerPage)
   }
-  // let currentPage = 1
-  // const isFirst = currentPage === 1
-  // const prevPage = currentPage - 1 === 1 ? (currentPage = 1) : currentPage - 1
-  // const nextPage = currentPage + 1
   const numCollections = Math.ceil(postList.length / postsPerPage)
   const nextCollection = currentFirstItem + postsPerPage
   const isLastClick = nextCollection >= postList.length
@@ -80,7 +75,7 @@ const PostsBlock = ({
                 ' '
               ) : (
                 <button
-                  onClick={e => handleBtnLoadMore(e)}
+                  onClick={(e) => handleBtnLoadMore(e)}
                   value={currentFirstItem}
                 >
                   {pagination.loadMore}

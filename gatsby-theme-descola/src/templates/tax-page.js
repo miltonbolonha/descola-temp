@@ -1,8 +1,6 @@
 import React from 'react'
 import { StaticQuery, graphql } from 'gatsby'
 
-import { getSrc } from 'gatsby-plugin-image'
-
 import DescolaLogo from '@Images/descola-logo.svg'
 import DescolaLogoDark from '@Images/descola-logo-dark.svg'
 
@@ -19,7 +17,6 @@ const TagListPage = (props) => {
         query TagsList {
           allMarkdownRemark(
             sort: { fields: frontmatter___date, order: DESC }
-            # filter: { frontmatter: { tags: { in: [$tag] } } }
             limit: 900
           ) {
             edges {
@@ -56,23 +53,12 @@ const TagListPage = (props) => {
         const tagListFiltered = tagList.filter((item) => {
           return item.node.frontmatter.tags.includes(tagContext)
         })
-        // const result = tagList.filter(function(tagObj) {
-        // 		return tagObj.node.frontmatter.tags.some(function(tag) {
-        // 				return tagContext.includes(tag);
-        // 		});
-        // });
-
         return (
           <>
             <Layout
               type="BODY"
               opt={{
-                // titleSeo: `Descola - Tags`,
                 classes: 'blog-list',
-                // schemaType: 'blog',
-                // cardImage: getSrc(cardImage.childrenImageSharp[0]),
-                // blogListing: tagList.slice(0, 9),
-                // serverUrl: props.location.origin || site.siteMetadata.siteUrl || '/',
               }}
             >
               <HeaderBlock logotipoSvg={<DescolaLogo />} />

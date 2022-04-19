@@ -3,14 +3,7 @@ import { Link } from 'gatsby'
 
 import Layout from 'gatsby-layout-builder'
 
-const PostCard = ({
-  postImage,
-  linkUrl,
-  title,
-  excerpt,
-  tags,
-  readMoreText,
-}) => {
+const PostCard = ({ postImage, linkUrl, title, excerpt, readMoreText }) => {
   return (
     <div className="post-card" role="listitem" aria-label="Cartão de Postagem">
       <Layout
