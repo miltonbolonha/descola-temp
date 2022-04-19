@@ -8,7 +8,7 @@ import DescolaLogo from '@Images/descola-logo.svg'
 import DescolaLogoDark from '@Images/descola-logo-dark.svg'
 
 import Layout from 'gatsby-layout-builder'
-import AcessibilityBlock from '@BlockBuilder/AcessibilityBlock'
+import AccessibilityBlock from '@BlockBuilder/AccessibilityBlock'
 import HeaderBlock from '@BlockBuilder/HeaderBlock'
 import FooterBlock from '@BlockBuilder/FooterBlock'
 
@@ -16,8 +16,12 @@ import SinglePostBlock from '@BlockBuilder/SinglePostBlock'
 import { useSiteMetadatas } from '../tools/useSiteMetadatas'
 
 const SinglePost = ({ data, location }) => {
-  const { footerThreeMarkdowRemark, imgHolder, site, cardImage } =
-    useSiteMetadatas()
+  const {
+    footerThreeMarkdowRemark,
+    imgHolder,
+    site,
+    cardImage,
+  } = useSiteMetadatas()
   const {
     author,
     description,
@@ -90,7 +94,7 @@ const SinglePost = ({ data, location }) => {
           // postHeadline: postHeadline,
         }}
       />
-      <AcessibilityBlock />
+      <AccessibilityBlock />
       <HeaderBlock logotipoSvg={<DescolaLogo />} />
       <main>
         {/* post?.frontmatter?.featuredImage?.childrenImageSharp[0] */}

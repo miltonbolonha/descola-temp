@@ -10,11 +10,15 @@ import DescolaLogoDark from '@Images/descola-logo-dark.svg'
 import HeaderBlock from '@BlockBuilder/HeaderBlock'
 import FooterBlock from '@BlockBuilder/FooterBlock'
 import PostsBlock from '@BlockBuilder/PostsBlock'
-import AcessibilityBlock from '@BlockBuilder/AcessibilityBlock'
+import AccessibilityBlock from '@BlockBuilder/AccessibilityBlock'
 
-const IndexPage = (props) => {
-  const { cardImage, footerThreeMarkdowRemark, imgHolder, site } =
-    useSiteMetadatas()
+const IndexPage = props => {
+  const {
+    cardImage,
+    footerThreeMarkdowRemark,
+    imgHolder,
+    site,
+  } = useSiteMetadatas()
   const { data } = props
   const posts = data.allMarkdownRemark.edges
   const {
@@ -96,7 +100,7 @@ const IndexPage = (props) => {
           // postHeadline: postHeadline,
         }}
       />
-      <AcessibilityBlock
+      <AccessibilityBlock
       // opt={{
       //   accessibility: {
       //     to: '/accessibility',
