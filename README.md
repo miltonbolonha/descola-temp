@@ -1,7 +1,9 @@
 - **`[v.0.6.x:next]`**: More Layout types.
 - **`[v.0.x.0:warning]`**: The first grand finale release will be publish at v1.0.0.
 
-![example workflow](https://github.com/miltonbolonha/descola-temp/actions/workflows/master.yaml/badge.svg)
+![Theme workflow](https://github.com/miltonbolonha/descola-temp/actions/workflows/master.yaml/badge.svg)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8f72a87b-d317-4307-96ec-093fb0263d95/deploy-status)](https://app.netlify.com/sites/temp-descola/deploys)
 
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=miltonbolonha_descola-temp&metric=bugs)](https://sonarcloud.io/summary/new_code?id=miltonbolonha_descola-temp)
 
