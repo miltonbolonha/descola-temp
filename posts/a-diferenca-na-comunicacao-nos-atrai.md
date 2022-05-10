@@ -2,6 +2,10 @@
 title: A diferença na comunicação nos atrai
 date: 2022-05-10T17:52:00+00:00
 author: Equipe Descola
+tags:
+  - comunicação
+  - diversidade
+  - relacionamentos
 featuredPost: true
 featuredImage: /images/speaking-2021-09-01-15-17-50-utc.jpg
 ---
