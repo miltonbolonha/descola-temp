@@ -10,12 +10,12 @@
 	},
 	"organization": {
 		"name": "Descola",
-		"url": "https://temp-descola.netlify.app/",
+		"url": "https://blog.descola.org/",
 		"email": "descola@descola.com.br",
 		"logo": "descola-banner.png",
 		"cardImage": "descola-banner.png"
 	},
-	"repository": "https://github.com/miltonbolonha/descola-temp",
+	"repository": "https://github.com/grpaiva/descola-blog",
 	"urlPrefix": "/",
 	"keywords": [
 		"descola",
