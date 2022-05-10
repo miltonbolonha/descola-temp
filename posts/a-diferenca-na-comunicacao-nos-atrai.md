@@ -2,6 +2,10 @@
 title: A diferença na comunicação nos atrai
 date: 2022-05-10T17:52:00+00:00
 author: Equipe Descola
+tags:
+  - comunicação
+  - diversidade
+  - relacionamentos
 featuredPost: true
 featuredImage: /images/speaking-2021-09-01-15-17-50-utc.jpg
 ---
@@ -59,3 +63,11 @@ Seja no amor ou no ódio, **as pessoas se conectam com iguais**. O segredo é vo
 O mais importante é que você não tente fugir. Porque toda conexão é valiosa, independente de quem for a pessoa ou de que posição ela tenha dentro da sua empresa. 
 
 A comunicação dentro e fora do ambiente de trabalho é uma via de mão dupla, que pode trazer muitos benefícios e resultados, tanto para o negócio da sua empresa quanto para a sua relação pessoal com o trabalho.
+
+
+
+A [comunicação executiva](https://descola.org/comunicacao-executiva) é um instrumento de conexão poderoso e potencializador, que pode ajudar no despertar de outras habilidades de relacionamento interpessoal extremamente úteis para o progresso dos colaboradores de uma empresa como indivíduos e como um time. Ela pode gerar maior produtividade, engajamento e eficácia no trabalho de uma empresa, alavancando os resultados de um negócio. 
+
+
+
+Uma comunicação mais assertiva nos capacita a utilizar a empatia e a escuta como ferramentas de desenvolvimento de uma organização. Mas, acima de tudo, comunicar é uma habilidade muito mais humana do que técnica, que requer autoconhecimento, vulnerabilidade e até criatividade. Ela trabalha nossa capacidade de aceitar a nós mesmos e aceitar nossos próprios erros.
