@@ -13,7 +13,6 @@ import { useSiteMetaDatas } from '../tools/useSiteMetaDatas'
 
 const SinglePost = ({ data, location }) => {
 	const { footerThreeMarkdowRemark, imgHolder, site } = useSiteMetaDatas()
-
 	const post = data.markdownRemark
 	return (
 		<Layout
@@ -35,6 +34,8 @@ const SinglePost = ({ data, location }) => {
 				mainLogo: imgHolder,
 				description: post.excerpt,
 				serverUrl: location.origin || site.siteMetadata.siteUrl || '/',
+				articleUrl: location.href,
+				social: site.siteMetadata.social.twitter,
 			}}
 		>
 			<HeaderBlock logotipoSvg={<DescolaLogo />} />
@@ -46,6 +47,7 @@ const SinglePost = ({ data, location }) => {
 					html={post.html}
 					title={post.frontmatter.title}
 					tags={post.frontmatter.tags}
+					featuredImage={post.frontmatter.featuredImage}
 				/>
 			</main>
 			<FooterBlock

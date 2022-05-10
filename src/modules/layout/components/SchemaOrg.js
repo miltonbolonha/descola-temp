@@ -96,7 +96,7 @@ export default React.memo(
 				'@context': 'http://schema.org',
 				'@type': 'NewsArticle',
 				name: title,
-				headline: 'excerpt',
+				headline: description.substring(0, 130),
 				description: description,
 				author: {
 					'@type': authorType,

@@ -4,7 +4,15 @@ import { Link } from 'gatsby'
 import Layout from '../layout'
 import slugify from '../../tools/slugify'
 
-const SinglePostBlock = ({ imgHolder, date, author, html, tags, title }) => {
+const SinglePostBlock = ({
+	imgHolder,
+	date,
+	author,
+	html,
+	tags,
+	title,
+	featuredImage,
+}) => {
 	return (
 		<article>
 			<Layout
@@ -15,6 +23,15 @@ const SinglePostBlock = ({ imgHolder, date, author, html, tags, title }) => {
 					bgColor: '#111e24',
 				}}
 			>
+				{/* featuredImage */}
+				<Layout
+					type="BLOCK_IMAGE"
+					opt={{
+						queryCard: featuredImage,
+						alt: title,
+						classes: 'post-header-image',
+					}}
+				/>
 				<div className="header-post">
 					<Layout type="ROW" opt={{ isBoxed: true, classes: 'post' }}>
 						<div className="post-tags-wrapper">
