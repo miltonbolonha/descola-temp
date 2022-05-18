@@ -44,11 +44,7 @@ const Seo = ({
 				<meta name="description" content={metaDescription} />
 				<meta name="image" content={cardImagesrc || featuredImage} />
 				<meta name="keywords" content={keywords.map((e) => e)} />
-				<link
-					rel="canonical"
-					href={articleUrl || serverUrl}
-					key={articleUrl || serverUrl}
-				/>
+				
 				{/* OpenGraph tags */}
 				<meta property="og:url" content={articleUrl || serverUrl} />
 				{schemaType === 'article' ? (
