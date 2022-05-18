@@ -20,7 +20,7 @@ const IndexPage = (props) => {
 		<Layout
 			type="BODY"
 			opt={{
-				titleSeo: `Descola`,
+				titleSeo: `Blog | Descola - Aprenda Power Skills com cursos 100% online`,
 				classes: 'blog-list',
 				schemaType: 'blog',
 				blogListing: posts.slice(0, 9),

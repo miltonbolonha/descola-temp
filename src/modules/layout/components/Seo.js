@@ -57,8 +57,8 @@ const Seo = ({
 
 				<meta property='og:site_name' content={title} />
 				<meta property='og:title' content={title} />
-				<meta property='og:description' content={description} />
-				<meta property='og:image' content={cardImagesrc || featuredImage} />
+				<meta property='og:description' name="description" content={description} />
+				<meta property='og:image' name='image' content={cardImagesrc || featuredImage} />
 				{social.fbAppID ? (
 					<meta property='fb:app_id' content={social.fbAppID} />
 				) : null}
@@ -70,8 +70,12 @@ const Seo = ({
 				<meta name='twitter:title' content={title} />
 				<meta name='twitter:description' content={description} />
 				<meta
-					name='twitter:image:src'
+					name='twitter:image'
 					content={cardImagesrc || featuredImage}
+				/>
+				<meta
+					name='twitter:image:alt'
+					content={metaDescription}
 				/>
 				<meta name='theme-color' content={themeColor || '#FF0081'} />
 				<meta name='twitter:site' content={`@` + social.twitter} />

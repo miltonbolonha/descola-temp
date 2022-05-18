@@ -18,7 +18,7 @@ const SinglePost = ({ data, location }) => {
 		<Layout
 			type="BODY"
 			opt={{
-				titleSeo: `${post.frontmatter.title} - Descola`,
+				titleSeo: `${post.frontmatter.title} | Descola - Aprenda Power Skills com cursos 100% online`,
 				authorSeo: post.frontmatter.author,
 				classes: 'single-post',
 				datePublished: post.frontmatter.date,
@@ -70,8 +70,8 @@ export const query = graphql`
 				featuredImage {
 					childrenImageSharp {
 						gatsbyImageData(
-							width: 350
-							height: 224
+							width: 1200
+							height: 630
 							placeholder: NONE
 							quality: 100
 						)
