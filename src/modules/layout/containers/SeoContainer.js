@@ -47,7 +47,7 @@ function SeoContainer({
 			articleBody={articleBody}
 			keywords={site.siteMetadata.keywords}
 			cardImage={cardImage || null}
-			serverUrl={site.siteMetadata.siteUrl || serverUrl}
+			serverUrl={serverUrl || site.siteMetadata.siteUrl}
 			themeColor={site.siteMetadata.themeColor}
 			articleUrl={articleUrl}
 		/>
