@@ -47,12 +47,6 @@ module.exports = {
 		`gatsby-plugin-catch-links`,
 		`gatsby-remark-relative-images`,
 		{
-			resolve: `gatsby-plugin-canonical-urls`,
-			options: {
-				siteUrl: businessInfos.siteUrl,
-			},
-		},
-		{
 			resolve: `gatsby-transformer-remark`,
 			options: {
 				plugins: [`gatsby-remark-lazy-load`, `gatsby-remark-images`],
