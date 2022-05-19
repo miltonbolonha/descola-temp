@@ -49,7 +49,6 @@ const Seo = ({
 					href={articleUrl || serverUrl}
 					key={articleUrl || serverUrl}
 				/>
-				<meta property="og:url" content={articleUrl || serverUrl} />
 				{/* OpenGraph tags */}
 				{schemaType === 'article' ? (
 					<meta property="og:type" content="article" />
