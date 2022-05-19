@@ -1,5 +1,5 @@
 import React from 'react'
-import Helmet from 'react-helmet'
+import { Helmet, HelmetProvider } from 'react-helmet-async'
 import SchemaOrgContainer from '../containers/SchemaOrgContainer'
 
 const Seo = ({
@@ -33,7 +33,7 @@ const Seo = ({
 	const servBar = hasBar === '/' ? serverUrl?.slice(0, -1) : serverUrl
 	const cardImagesrc = servBar + cardImage || servBar || cardImage
 	return (
-		<>
+		<HelmetProvider>
 			<Helmet
 				htmlAttributes={{
 					lang,
@@ -49,8 +49,8 @@ const Seo = ({
 					href={articleUrl || serverUrl}
 					key={articleUrl || serverUrl}
 				/>
-				{/* OpenGraph tags */}
 				<meta property="og:url" content={articleUrl || serverUrl} />
+				{/* OpenGraph tags */}
 				{schemaType === 'article' ? (
 					<meta property="og:type" content="article" />
 				) : (
@@ -111,7 +111,7 @@ const Seo = ({
 				organizationLogo={organizationLogo}
 				serverUrl={serverUrl}
 			/>
-		</>
+		</HelmetProvider>
 	)
 }
 
